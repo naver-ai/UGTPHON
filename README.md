@@ -37,7 +37,7 @@ The schema is identical across all three languages.
 |--------------|---------|-----------------|-------------|
 | `id`         | sample  | string          | `{source}_{external_id_or_index}` |
 | `lang`       | sample  | string          | `en` / `vi` / `ko` |
-| `source`     | sample  | string          | Source dataset (`lexnorm2015`, `vilexnorm`, `multilexnorm2026`) |
+| `source`     | sample  | string          | Source dataset (`lexnorm2015`, `vilexnorm`, `multilexnorm2026`, `augmented`) |
 | `split`      | sample  | string          | `train` / `dev` / `test` |
 | `text`       | sample  | string          | Raw sentence (possibly noisy / user-generated) |
 | `canonical`  | sample  | string          | Gold normalized sentence |
@@ -48,6 +48,8 @@ The schema is identical across all three languages.
 | `phoneme`    | token   | string          | IPA phoneme for the canonical form. Empty for mentions / punctuation / unphonemizable tokens. Multiple pronunciations joined by `,` |
 | `is_nc`      | token   | bool            | Whether this token is non-canonical (UGT — requires normalization) |
 | `nc_type`    | token   | string \| null  | UGT category when `is_nc=true`; `null` otherwise |
+
+`augmented` denotes human-curated augmented UGT samples generated from existing UGT patterns (en only; 175 samples).
 
 ### `nc_type` values
 

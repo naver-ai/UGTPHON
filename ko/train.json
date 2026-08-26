@@ -491,7 +491,7 @@
     "split": "train",
     "text": "브이로그 찍고 있으니 구조조정 1순위 ㅋㅋㅋ",
     "canonical": "브이로그 찍고 있으니 구조조정 1순위 크크크",
-    "phonemes": "pɯiɾo̞ɡɯ t͡ɕ͈ik̚k͈o̞ is͈ɯni kud͡ʑo̞d͡ʑo̞d͡ʑʌ̹ŋ iɭ s͈unɥi kxɯkxɯkxɯ",
+    "phonemes": "pɯiɾo̞ɡɯ t͡ɕ͈ik̚k͈o̞ is͈ɯni kud͡ʑo̞d͡ʑo̞d͡ʑʌ̹ŋ iɭ sʰunɥi kxɯkxɯkxɯ",
     "tokens": [
       {
         "text": "브이로그",
@@ -524,7 +524,7 @@
       {
         "text": "1순위",
         "canonical": "1순위",
-        "phoneme": "iɭ s͈unɥi",
+        "phoneme": "iɭ sʰunɥi",
         "is_nc": false,
         "nc_type": null
       },
@@ -831,7 +831,7 @@
     "split": "train",
     "text": "베트남전 피그만침공 이라크전 시리아전 아프간전 줄줄이 패전 전쟁수행능력 세계패권 이니 씹지랄 개삽질 연속 무근본 병신이니 300년도 못감",
     "canonical": "베트남전 피그만침공 이라크전 시리아전 아프간전 줄줄이 패전 전쟁수행능력 세계패권 이니 씹지랄 개삽질 연속 무근본 병신이니 300년도 못감",
-    "phonemes": "pe̞tʰɯna̠md͡ʑʌ̹n pʰiɡɯma̠nt͡ɕʰimɡo̞ŋ iɾa̠kxɯd͡ʑʌ̹n ɕʰiɾia̠d͡ʑʌ̹n a̠pʰɯɡa̠nd͡ʑʌ̹n t͡ɕuɭd͡ʑuɾi pʰɛ̝d͡ʑʌ̹n t͡ɕʌ̹nd͡ʑɛ̝ŋsʰuɦɛ̝ŋnɯŋɲjʌ̹k̚ sʰe̞ɡje̞pʰɛ̝k͈wʌ̹n ini ɕ͈ip̚t͡ɕ͈iɾa̠ɭ kɛ̝sʰa̠p̚t͡ɕ͈iɭ jʌ̹nsʰo̞k̚ muɡɯnbo̞n pjʌ̹ŋɕʰinini sʰa̠mbɛ̝ŋ ɲjʌ̹ndo̞ mo̞t̚k͈a̠m",
+    "phonemes": "pe̞tʰɯna̠md͡ʑʌ̹n pʰiɡɯma̠nt͡ɕʰimɡo̞ŋ iɾa̠kxɯd͡ʑʌ̹n ɕʰiɾia̠d͡ʑʌ̹n a̠pʰɯɡa̠nd͡ʑʌ̹n t͡ɕuɭd͡ʑuɾi pʰɛ̝d͡ʑʌ̹n t͡ɕʌ̹nd͡ʑɛ̝ŋsʰuɦɛ̝ŋnɯŋɲjʌ̹k̚ sʰe̞ɡje̞pʰɛ̝ɡwʌ̹n ini ɕ͈ip̚t͡ɕ͈iɾa̠ɭ kɛ̝sʰa̠p̚t͡ɕ͈iɭ jʌ̹nsʰo̞k̚ muɡɯnbo̞n pjʌ̹ŋɕʰinini sʰa̠mbɛ̝ŋ ɲjʌ̹ndo̞ mo̞t̚k͈a̠m",
     "tokens": [
       {
         "text": "베트남전",
@@ -892,7 +892,7 @@
       {
         "text": "세계패권",
         "canonical": "세계패권",
-        "phoneme": "sʰe̞ɡje̞pʰɛ̝k͈wʌ̹n",
+        "phoneme": "sʰe̞ɡje̞pʰɛ̝ɡwʌ̹n",
         "is_nc": false,
         "nc_type": null
       },
@@ -1036,7 +1036,7 @@
     "split": "train",
     "text": "리딩방 들어가서 추천종목 뜨면 바로 산 다음 손 느린 틀딱들한테 30초 뒤에 파는 놈들이 고수",
     "canonical": "리딩방 들어가서 추천종목 뜨면 바로 산 다음 손 느린 틀딱들한테 30초 뒤에 파는 놈들이 고수",
-    "phonemes": "ɾidiŋba̠ŋ tɯɾʌ̹ɡa̠sʰʌ̹ t͡ɕʰut͡ɕʰʌ̹nd͡ʑo̞ŋmo̞k̚ t͈ɯmjʌ̹n pa̠ɾo̞ sʰa̠n ta̠ɯm sʰo̞n nɯɾin tʰɯɭt͈a̠k̚t͈ɯɭɦa̠ntʰe̞ sʰa̠mɕʰip̚t͡ɕʰo̞ tɥie̞ pʰa̠nɯn no̞mdɯɾi ko̞sʰu",
+    "phonemes": "ɾidiŋba̠ŋ tɯɾʌ̹ɡa̠sʰʌ̹ t͡ɕʰut͡ɕʰʌ̹nd͡ʑo̞ŋmo̞k̚ t͈ɯmjʌ̹n pa̠ɾo̞ sʰa̠n ta̠ɯm sʰo̞n nɯɾin tʰɯɭt͈a̠k̚t͈ɯɾɦa̠ntʰe̞ sʰa̠mɕʰip̚t͡ɕʰo̞ tɥie̞ pʰa̠nɯn no̞mdɯɾi ko̞sʰu",
     "tokens": [
       {
         "text": "리딩방",
@@ -1104,7 +1104,7 @@
       {
         "text": "틀딱들한테",
         "canonical": "틀딱들한테",
-        "phoneme": "tʰɯɭt͈a̠k̚t͈ɯɭɦa̠ntʰe̞",
+        "phoneme": "tʰɯɭt͈a̠k̚t͈ɯɾɦa̠ntʰe̞",
         "is_nc": true,
         "nc_type": "C3"
       },
@@ -2503,7 +2503,7 @@
     "split": "train",
     "text": "이야말로 지옥 죽인 20년 뿐이엇네 천만명 이었던걸 계산하면 새발의",
     "canonical": "이야말로 지옥 죽인 20년 뿐이엇네 천만명 이었던걸 계산하면 새발의",
-    "phonemes": "ija̠ma̠ɭɭo̞ t͡ɕio̞k̚ t͡ɕuɡin iɕʰimɲjʌ̹n p͈uniʌ̹nne̞ t͡ɕʰʌ̹nma̠nmjʌ̹ŋ iʌ̹t̚t͈ʌ̹nɡʌ̹ɭ kje̞sʰa̠nɦa̠mjʌ̹n sʰɛ̝ba̠ɾi",
+    "phonemes": "ija̠ma̠ɭɭo̞ t͡ɕio̞k̚ t͡ɕuɡin iɕʰimɲjʌ̹n p͈uniʌ̹nne̞ t͡ɕʰʌ̹nma̠nmjʌ̹ŋ iʌ̹t̚t͈ʌ̹nɡʌ̹ɭ kje̞sʰa̠nɦa̠mjʌ̹n sʰɛ̝ba̠ɾɰi",
     "tokens": [
       {
         "text": "이야말로",
@@ -2564,7 +2564,7 @@
       {
         "text": "새발의",
         "canonical": "새발의",
-        "phoneme": "sʰɛ̝ba̠ɾi",
+        "phoneme": "sʰɛ̝ba̠ɾɰi",
         "is_nc": false,
         "nc_type": null
       }
@@ -3515,7 +3515,7 @@
     "split": "train",
     "text": "심심하면 성범죄 저지르다가 이제와서 스윗한척하는 586이 더 문제다",
     "canonical": "심심하면 성범죄 저지르다가 이제와서 스윗한척하는 586이 더 문제다",
-    "phonemes": "ɕʰimɕʰimɦa̠mjʌ̹n sʰʌ̹ŋbʌ̹md͡ʑø̞ t͡ɕʌ̹d͡ʑiɾɯda̠ɡa̠ id͡ʑe̞wa̠sʰʌ̹ sʰɯɥitʰa̠nt͡ɕʰʌ̹kʰa̠nɯn o̞bɛ̝k̚pʰa̠ɭɕ͈imɲjuk̚ i tʌ̹ mund͡ʑe̞da̠",
+    "phonemes": "ɕʰimɕʰimɦa̠mjʌ̹n sʰʌ̹ŋbʌ̹md͡ʑø̞ t͡ɕʌ̹d͡ʑiɾɯda̠ɡa̠ id͡ʑe̞wa̠sʰʌ̹ sʰɯɥitʰa̠nt͡ɕʰʌ̹kʰa̠nɯn o̞bɛ̝k̚pʰa̠ɭɕʰimɲju ɡi tʌ̹ mund͡ʑe̞da̠",
     "tokens": [
       {
         "text": "심심하면",
@@ -3555,7 +3555,7 @@
       {
         "text": "586이",
         "canonical": "586이",
-        "phoneme": "o̞bɛ̝k̚pʰa̠ɭɕ͈imɲjuk̚ i",
+        "phoneme": "o̞bɛ̝k̚pʰa̠ɭɕʰimɲju ɡi",
         "is_nc": false,
         "nc_type": null
       },
@@ -3882,7 +3882,7 @@
     "split": "train",
     "text": "친일파들 과거행적 합리화 팔아먹고 재산들 지키려는 습성 자신들 친일 행위 설득시키려는 아니었다면서 혀 놀림",
     "canonical": "친일파들 과거행적 합리화 팔아먹고 재산들 지키려는 습성 자신들 친일 행위 설득시키려는 아니었다면서 혀 놀림",
-    "phonemes": "t͡ɕʰiniɭpʰa̠dɯɭ kwa̠ɡʌ̹ɦɛ̝ŋd͡ʑʌ̹k̚ ha̠mniβwa̠ pʰa̠ɾa̠mʌ̹k̚k͈o̞ t͡ɕɛ̝sʰa̠ndɯɭ t͡ɕikçiɾjʌ̹nɯn sʰɯps͈ʌ̹ŋ t͡ɕa̠ɕʰindɯɭ t͡ɕʰiniɭ hɛ̝ŋɥi sʰʌ̹ɭt͈ɯkɕ͈ikçiɾjʌ̹nɯn a̠niʌ̹t̚t͈a̠mjʌ̹nsʰʌ̹ çjʌ̹ no̞ɭʎim",
+    "phonemes": "t͡ɕʰiniɭpʰa̠dɯɭ kwa̠ɡʌ̹ɦɛ̝ŋd͡ʑʌ̹k̚ ha̠mniβwa̠ pʰa̠ɾa̠mʌ̹k̚k͈o̞ t͡ɕɛ̝sʰa̠ndɯɭ t͡ɕikçiɾjʌ̹nɯn sʰɯps͈ʌ̹ŋ t͡ɕa̠ɕʰindɯɭ t͡ɕʰiniɭ hɛ̝ŋɥi sʰʌ̹ɭdɯkɕ͈ikçiɾjʌ̹nɯn a̠niʌ̹t̚t͈a̠mjʌ̹nsʰʌ̹ çjʌ̹ no̞ɭʎim",
     "tokens": [
       {
         "text": "친일파들",
@@ -3957,7 +3957,7 @@
       {
         "text": "설득시키려는",
         "canonical": "설득시키려는",
-        "phoneme": "sʰʌ̹ɭt͈ɯkɕ͈ikçiɾjʌ̹nɯn",
+        "phoneme": "sʰʌ̹ɭdɯkɕ͈ikçiɾjʌ̹nɯn",
         "is_nc": false,
         "nc_type": null
       },
@@ -4446,7 +4446,7 @@
     "split": "train",
     "text": "야 이정도면 그냥 가수급 아니냐",
     "canonical": "야 이정도면 그냥 가수급 아니냐",
-    "phonemes": "ja̠ id͡ʑʌ̹ŋdo̞mjʌ̹n kɯɲja̠ŋ ka̠sʰuk͈ɯp̚ a̠niɲja̠",
+    "phonemes": "ja̠ id͡ʑʌ̹ŋdo̞mjʌ̹n kɯɲja̠ŋ ka̠sʰuɡɯp̚ a̠niɲja̠",
     "tokens": [
       {
         "text": "야",
@@ -4472,7 +4472,7 @@
       {
         "text": "가수급",
         "canonical": "가수급",
-        "phoneme": "ka̠sʰuk͈ɯp̚",
+        "phoneme": "ka̠sʰuɡɯp̚",
         "is_nc": false,
         "nc_type": null
       },
@@ -4633,7 +4633,7 @@
     "split": "train",
     "text": "전형적인 서울사람 인터넷검색 이러쿵저러쿵 부산명소 정작 부산사람들 낙후된 동네 취급함 큰길 하나 건너면 서면 무슨 핫플레이스 이지랄",
     "canonical": "전형적인 서울사람 인터넷검색 이러쿵저러쿵 부산명소 정작 부산사람들 낙후된 동네 취급함 큰길 하나 건너면 서면 무슨 핫플레이스 이지랄",
-    "phonemes": "t͡ɕʌ̹nʝjʌ̹ŋd͡ʑʌ̹ɡin sʰʌ̹uɭs͈a̠ɾa̠m intʰʌ̹ne̞t̚k͈ʌ̹msʰɛ̝k̚ iɾʌ̹kʰuŋd͡ʑʌ̹ɾʌ̹kʰuŋ pusʰa̠nmjʌ̹ŋsʰo̞ ˈt͡ɕɘːŋd͡ʑa̠k̚ pusʰa̠nsʰa̠ɾa̠mdɯɭ na̠kʰudø̞n to̞ŋne̞ t͡ɕʰɥiɡɯpʰa̠m kxɯnɡiɭ ha̠na̠ kʌ̹nnʌ̹mjʌ̹n sʰʌ̹mjʌ̹n musʰɯn ha̠t̚pʰɯɭɭe̞isʰɯ id͡ʑiɾa̠ɭ",
+    "phonemes": "t͡ɕʌ̹nʝjʌ̹ŋd͡ʑʌ̹ɡin sʰʌ̹uɭsʰa̠ɾa̠m intʰʌ̹ne̞t̚k͈ʌ̹msʰɛ̝k̚ iɾʌ̹kʰuŋd͡ʑʌ̹ɾʌ̹kʰuŋ pusʰa̠nmjʌ̹ŋsʰo̞ ˈt͡ɕɘːŋd͡ʑa̠k̚ pusʰa̠nsʰa̠ɾa̠mdɯɭ na̠kʰudø̞n to̞ŋne̞ t͡ɕʰɥiɡɯpʰa̠m kxɯnɡiɭ ha̠na̠ kʌ̹nnʌ̹mjʌ̹n sʰʌ̹mjʌ̹n musʰɯn ha̠t̚pʰɯɭɭe̞isʰɯ id͡ʑiɾa̠ɭ",
     "tokens": [
       {
         "text": "전형적인",
@@ -4645,7 +4645,7 @@
       {
         "text": "서울사람",
         "canonical": "서울사람",
-        "phoneme": "sʰʌ̹uɭs͈a̠ɾa̠m",
+        "phoneme": "sʰʌ̹uɭsʰa̠ɾa̠m",
         "is_nc": false,
         "nc_type": null
       },
@@ -7551,7 +7551,7 @@
     "split": "train",
     "text": "동네 헬스장 구력 좀 된 아재들 중에 먹을 거 먹고 술도 드시고 하는 분들 다 저 비슷함 ㅋㅋㅋㅋ 커보이진 않는데 운동한 티는 확실히 나는 몸",
     "canonical": "동네 헬스장 구력 좀 된 아재들 중에 먹을 거 먹고 술도 드시고 하는 분들 다 저 비슷함 크크크크 커보이진 않는데 운동한 티는 확실히 나는 몸",
-    "phonemes": "to̞ŋne̞ he̞ɭs͈ɯd͡ʑa̠ŋ kuɾjʌ̹k̚ t͡ɕo̞m tø̞n a̠d͡ʑɛ̝dɯɭ t͡ɕuŋe̞ mʌ̹ɡɯɭ kʌ̹ mʌ̹k̚k͈o̞ sʰuɭdo̞ tɯɕʰiɡo̞ ha̠nɯn pundɯɭ ta̠ t͡ɕʌ̹ pisʰɯtʰa̠m kxɯkxɯkxɯkxɯ kʰʌ̹po̞it͡ɕin a̠nnɯnde̞ undo̞ŋɦa̠n tʰinɯn ɸwa̠kɕ͈iɾʝi na̠nɯn mo̞m",
+    "phonemes": "to̞ŋne̞ he̞ɭs͈ɯd͡ʑa̠ŋ kuɾjʌ̹k̚ t͡ɕo̞m tø̞n a̠d͡ʑɛ̝dɯɭ t͡ɕuŋe̞ mʌ̹ɡɯɭ kʌ̹ mʌ̹k̚k͈o̞ sʰuɭdo̞ tɯɕʰiɡo̞ ha̠nɯn pundɯɭ ta̠ t͡ɕʌ̹ pisʰɯtʰa̠m kxɯkxɯkxɯkxɯ kʰʌ̹bo̞id͡ʑin a̠nnɯnde̞ undo̞ŋɦa̠n tʰinɯn ɸwa̠kɕ͈iɾʝi na̠nɯn mo̞m",
     "tokens": [
       {
         "text": "동네",
@@ -7682,7 +7682,7 @@
       {
         "text": "커보이진",
         "canonical": "커보이진",
-        "phoneme": "kʰʌ̹po̞it͡ɕin",
+        "phoneme": "kʰʌ̹bo̞id͡ʑin",
         "is_nc": false,
         "nc_type": null
       },
@@ -8595,12 +8595,12 @@
     "split": "train",
     "text": "전봇대",
     "canonical": "전봇대",
-    "phonemes": "t͡ɕʌ̹nbo̞t͈ɛ̝",
+    "phonemes": "t͡ɕʌ̹nbo̞t̚t͈ɛ̝",
     "tokens": [
       {
         "text": "전봇대",
         "canonical": "전봇대",
-        "phoneme": "t͡ɕʌ̹nbo̞t͈ɛ̝",
+        "phoneme": "t͡ɕʌ̹nbo̞t̚t͈ɛ̝",
         "is_nc": false,
         "nc_type": null
       }
@@ -8786,7 +8786,7 @@
     "split": "train",
     "text": "도시사람들 시골사람들 낙오자들 안봄 이장 이든 아니든",
     "canonical": "도시사람들 시골사람들 낙오자들 안봄 이장 이든 아니든",
-    "phonemes": "to̞ɕʰisʰa̠ɾa̠mdɯɭ ɕʰiɡo̞ɭs͈a̠ɾa̠mdɯɭ na̠ɡo̞d͡ʑa̠dɯɭ a̠nbo̞m id͡ʑa̠ŋ idɯn a̠nidɯn",
+    "phonemes": "to̞ɕʰisʰa̠ɾa̠mdɯɭ ɕʰiɡo̞ɭsʰa̠ɾa̠mdɯɭ na̠ɡo̞d͡ʑa̠dɯɭ a̠nbo̞m id͡ʑa̠ŋ idɯn a̠nidɯn",
     "tokens": [
       {
         "text": "도시사람들",
@@ -8798,7 +8798,7 @@
       {
         "text": "시골사람들",
         "canonical": "시골사람들",
-        "phoneme": "ɕʰiɡo̞ɭs͈a̠ɾa̠mdɯɭ",
+        "phoneme": "ɕʰiɡo̞ɭsʰa̠ɾa̠mdɯɭ",
         "is_nc": false,
         "nc_type": null
       },
@@ -8871,7 +8871,7 @@
     "split": "train",
     "text": "음악이 의외로 짧다 창작의 영역이라 늙고 뇌 썩으면 답 없어 몇몇 장로가수들 버티는게 지금도 잘해서가 아니라 과거에 쌓아둔걸로 버티는거임",
     "canonical": "음악이 의외로 짧다 창작의 영역이라 늙고 뇌 썩으면 답 없어 몇몇 장로가수들 버티는게 지금도 잘해서가 아니라 과거에 쌓아둔걸로 버티는거임",
-    "phonemes": "ɯma̠ɡi ɰiø̞ɾo̞ t͡ɕ͈a̠ɭt͈a̠ t͡ɕʰa̠ŋd͡ʑa̠ɡi jʌ̹ŋjʌ̹ɡiɾa̠ nɯɭk͈o̞ nø̞ s͈ʌ̹ɡɯmjʌ̹n ta̠p̚ ʌ̹ps͈ʌ̹ mjʌ̹nmjʌ̹t̚ t͡ɕa̠ŋno̞ɡa̠sʰudɯɭ pʌ̹tʰinɯnɡe̞ t͡ɕiɡɯmdo̞ t͡ɕa̠ɾɦɛ̝sʰʌ̹ɡa̠ a̠niɾa̠ kwa̠ɡʌ̹e̞ s͈a̠a̠dunɡʌ̹ɭɭo̞ pʌ̹tʰinɯnɡʌ̹im",
+    "phonemes": "ɯma̠ɡi ɰiø̞ɾo̞ t͡ɕ͈a̠ɭt͈a̠ t͡ɕʰa̠ŋd͡ʑa̠ɡɰi jʌ̹ŋjʌ̹ɡiɾa̠ nɯɭk͈o̞ nø̞ s͈ʌ̹ɡɯmjʌ̹n ta̠p̚ ʌ̹ps͈ʌ̹ mjʌ̹nmjʌ̹t̚ t͡ɕa̠ŋno̞ɡa̠sʰudɯɭ pʌ̹tʰinɯnɡe̞ t͡ɕiɡɯmdo̞ t͡ɕa̠ɾɦɛ̝sʰʌ̹ɡa̠ a̠niɾa̠ kwa̠ɡʌ̹e̞ s͈a̠a̠dunɡʌ̹ɭɭo̞ pʌ̹tʰinɯnɡʌ̹im",
     "tokens": [
       {
         "text": "음악이",
@@ -8897,7 +8897,7 @@
       {
         "text": "창작의",
         "canonical": "창작의",
-        "phoneme": "t͡ɕʰa̠ŋd͡ʑa̠ɡi",
+        "phoneme": "t͡ɕʰa̠ŋd͡ʑa̠ɡɰi",
         "is_nc": false,
         "nc_type": null
       },
@@ -9779,12 +9779,12 @@
     "split": "train",
     "text": "EAPC",
     "canonical": "EAPC",
-    "phonemes": "ie̞ipʰiɕʰi",
+    "phonemes": "ie̞ipʰiɕ͈i",
     "tokens": [
       {
         "text": "EAPC",
         "canonical": "EAPC",
-        "phoneme": "ie̞ipʰiɕʰi",
+        "phoneme": "ie̞ipʰiɕ͈i",
         "is_nc": false,
         "nc_type": null
       }
@@ -10611,7 +10611,7 @@
     "split": "train",
     "text": "그렇다고 북괴 빨치산 새끼들 빨순 없잖아",
     "canonical": "그렇다고 북괴 빨치산 새끼들 빨순 없잖아",
-    "phonemes": "kɯɾʌ̹tʰa̠ɡo̞ puk̚k͈ø̞ p͈a̠ɭt͡ɕʰisʰa̠n sʰɛ̝k͈idɯɭ p͈a̠ɭs͈un ʌ̹p̚t͡ɕ͈a̠na̠",
+    "phonemes": "kɯɾʌ̹tʰa̠ɡo̞ puk̚k͈ø̞ p͈a̠ɭt͡ɕʰisʰa̠n sʰɛ̝k͈idɯɭ p͈a̠ɭsʰun ʌ̹p̚t͡ɕ͈a̠na̠",
     "tokens": [
       {
         "text": "그렇다고",
@@ -10644,7 +10644,7 @@
       {
         "text": "빨순",
         "canonical": "빨순",
-        "phoneme": "p͈a̠ɭs͈un",
+        "phoneme": "p͈a̠ɭsʰun",
         "is_nc": true,
         "nc_type": "C3"
       },
@@ -11744,7 +11744,7 @@
     "split": "train",
     "text": "가정교육 잘 대전 살기 참 좋음 시민의식 도 성숙하고",
     "canonical": "가정교육 잘 대전 살기 참 좋음 시민의식 도 성숙하고",
-    "phonemes": "ka̠d͡ʑʌ̹ŋɡjojuk̚ t͡ɕa̠ɭ tɛ̝d͡ʑʌ̹n sʰa̠ɭɡi t͡ɕʰa̠m t͡ɕo̞ɯm ɕʰiminiɕʰik̚ to̞ sʰʌ̹ŋsʰukʰa̠ɡo̞",
+    "phonemes": "ka̠d͡ʑʌ̹ŋɡjojuk̚ t͡ɕa̠ɭ tɛ̝d͡ʑʌ̹n sʰa̠ɭɡi t͡ɕʰa̠m t͡ɕo̞ɯm ɕʰiminɰiɕʰik̚ to̞ sʰʌ̹ŋsʰukʰa̠ɡo̞",
     "tokens": [
       {
         "text": "가정교육",
@@ -11791,7 +11791,7 @@
       {
         "text": "시민의식",
         "canonical": "시민의식",
-        "phoneme": "ɕʰiminiɕʰik̚",
+        "phoneme": "ɕʰiminɰiɕʰik̚",
         "is_nc": false,
         "nc_type": null
       },
@@ -12373,7 +12373,7 @@
     "split": "train",
     "text": "깔아야하는 비용 기준 사람들 대다수 조건 복지 봐도 장난 아닐건데 통일하자고 해도 입장 에서는 달갑지않은 조건임",
     "canonical": "깔아야하는 비용 기준 사람들 대다수 조건 복지 봐도 장난 아닐건데 통일하자고 해도 입장 에서는 달갑지않은 조건임",
-    "phonemes": "k͈a̠ɾa̠ja̠ɦa̠nɯn pijoŋ kid͡ʑun sʰa̠ɾa̠mdɯɭ tɛ̝da̠sʰu t͡ɕo̞ɡʌ̹n po̞k̚t͡ɕ͈i pwa̠do̞ t͡ɕa̠ŋna̠n a̠niɭk͈ʌ̹nde̞ tʰo̞ŋiɭɦa̠d͡ʑa̠ɡo̞ hɛ̝do̞ ip̚t͡ɕ͈a̠ŋ e̞sʰʌ̹nɯn ta̠ɭɡa̠p̚t͡ɕ͈ia̠nɯn t͡ɕo̞ɡʌ̹nim",
+    "phonemes": "k͈a̠ɾa̠ja̠ɦa̠nɯn pijoŋ kid͡ʑun sʰa̠ɾa̠mdɯɭ tɛ̝da̠sʰu t͡ɕo̞ɡʌ̹n po̞k̚t͡ɕ͈i pwa̠do̞ t͡ɕa̠ŋna̠n a̠niɭk͈ʌ̹nde̞ tʰo̞ŋiɾɦa̠d͡ʑa̠ɡo̞ hɛ̝do̞ ip̚t͡ɕ͈a̠ŋ e̞sʰʌ̹nɯn ta̠ɭɡa̠p̚t͡ɕ͈ia̠nɯn t͡ɕo̞ɡʌ̹nim",
     "tokens": [
       {
         "text": "깔아야하는",
@@ -12448,7 +12448,7 @@
       {
         "text": "통일하자고",
         "canonical": "통일하자고",
-        "phoneme": "tʰo̞ŋiɭɦa̠d͡ʑa̠ɡo̞",
+        "phoneme": "tʰo̞ŋiɾɦa̠d͡ʑa̠ɡo̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -12581,7 +12581,7 @@
     "split": "train",
     "text": "좆터 소리 오다 반상회 하다 번짤 하 하얀 상의 살색 누구",
     "canonical": "좆터 소리 오다 반상회 하다 번짤 하 하얀 상의 살색 누구",
-    "phonemes": "t͡ɕo̞t̚tʰʌ̹ sʰo̞ɾi o̞da̠ pa̠nsʰa̠ŋɦø̞ ha̠da̠ pʌ̹nt͡ɕ͈a̠ɭ ha̠ ha̠ja̠n sʰa̠ŋɰi sʰa̠ɭs͈ɛ̝k̚ nuɡu",
+    "phonemes": "t͡ɕo̞t̚tʰʌ̹ sʰo̞ɾi o̞da̠ pa̠nsʰa̠ŋɦø̞ ha̠da̠ pʌ̹nt͡ɕ͈a̠ɭ ha̠ ha̠ja̠n sʰa̠ŋɰi sʰa̠ɭsʰɛ̝k̚ nuɡu",
     "tokens": [
       {
         "text": "좆터",
@@ -12649,7 +12649,7 @@
       {
         "text": "살색",
         "canonical": "살색",
-        "phoneme": "sʰa̠ɭs͈ɛ̝k̚",
+        "phoneme": "sʰa̠ɭsʰɛ̝k̚",
         "is_nc": false,
         "nc_type": null
       },
@@ -13002,7 +13002,7 @@
     "split": "train",
     "text": "이과 해봐라 명예 죽었네 안해서 기술발전 느려지는거임",
     "canonical": "이과 해봐라 명예 죽었네 안해서 기술발전 느려지는거임",
-    "phonemes": "iɡwa̠ hɛ̝bwa̠ɾa̠ mjʌ̹ŋje̞ t͡ɕuɡʌ̹nne̞ a̠nɦɛ̝sʰʌ̹ kisʰuɭpa̠ɭd͡ʑʌ̹n nɯɾjʌ̹d͡ʑinɯnɡʌ̹im",
+    "phonemes": "iɡwa̠ hɛ̝bwa̠ɾa̠ mjʌ̹ŋje̞ t͡ɕuɡʌ̹nne̞ a̠nɦɛ̝sʰʌ̹ kisʰuɭba̠ɭd͡ʑʌ̹n nɯɾjʌ̹d͡ʑinɯnɡʌ̹im",
     "tokens": [
       {
         "text": "이과",
@@ -13042,7 +13042,7 @@
       {
         "text": "기술발전",
         "canonical": "기술발전",
-        "phoneme": "kisʰuɭpa̠ɭd͡ʑʌ̹n",
+        "phoneme": "kisʰuɭba̠ɭd͡ʑʌ̹n",
         "is_nc": false,
         "nc_type": null
       },
@@ -13499,7 +13499,7 @@
     "split": "train",
     "text": "씹간지네 여윾시 벤틀리다 이기",
     "canonical": "씹간지네 여윾시 벤틀리다 이기",
-    "phonemes": "ɕ͈ip̚k͈a̠nd͡ʑine̞ jʌ̹jukɕ͈i pe̞ntʰɯɭʎida̠ iɡi",
+    "phonemes": "ɕ͈ip̚k͈a̠nd͡ʑine̞ jʌ̹ɯkɕ͈i pe̞ntʰɯɭʎida̠ iɡi",
     "tokens": [
       {
         "text": "씹간지네",
@@ -13511,7 +13511,7 @@
       {
         "text": "여윾시",
         "canonical": "여윾시",
-        "phoneme": "jʌ̹jukɕ͈i",
+        "phoneme": "jʌ̹ɯkɕ͈i",
         "is_nc": true,
         "nc_type": "C3"
       },
@@ -14588,7 +14588,7 @@
     "split": "train",
     "text": "남혐하는 본인들의 모습에 심취해있는듯",
     "canonical": "남혐하는 본인들의 모습에 심취해있는듯",
-    "phonemes": "na̠mʝjʌ̹mɦa̠nɯn po̞nindɯɾi mo̞sʰɯbe̞ ɕʰimt͡ɕʰɥiɦɛ̝innɯndɯt̚",
+    "phonemes": "na̠mʝjʌ̹mɦa̠nɯn po̞nindɯɾɰi mo̞sʰɯbe̞ ɕʰimt͡ɕʰɥiɦɛ̝innɯndɯt̚",
     "tokens": [
       {
         "text": "남혐하는",
@@ -14600,7 +14600,7 @@
       {
         "text": "본인들의",
         "canonical": "본인들의",
-        "phoneme": "po̞nindɯɾi",
+        "phoneme": "po̞nindɯɾɰi",
         "is_nc": false,
         "nc_type": null
       },
@@ -15331,7 +15331,7 @@
     "split": "train",
     "text": "그건 같은서버고 병신아 ㅋㅋ 발록서버는 지들끼리 노는거니까 아무도 머라안해 병신련아 ㅋㅋ오히려 겁쟁이쉼터라고 하는새끼들이 까이는데 머라노",
     "canonical": "그건 같은서버고 병신아 크크 발록서버는 지들끼리 노는거니까 아무도 머라안해 병신련아 크크오히려 겁쟁이쉼터라고 하는새끼들이 까이는데 머라노",
-    "phonemes": "kɯɡʌ̹n ka̠tʰɯnsʰʌ̹bʌ̹ɡo̞ pjʌ̹ŋɕʰina̠ kxɯkxɯ pa̠ɭɭo̞ks͈ʌ̹bʌ̹nɯn t͡ɕidɯɭk͈iɾi no̞nɯnɡʌ̹nik͈a̠ a̠mudo̞ mʌ̹ɾa̠a̠nɦɛ̝ pjʌ̹ŋɕʰiɭʎjʌ̹na̠ kxɯkxɯo̞çiɾjʌ̹ kʌ̹p̚t͡ɕ͈ɛ̝ŋiɕʰɥimtʰʌ̹ɾa̠ɡo̞ ha̠nɯnsʰɛ̝k͈idɯɾi k͈a̠inɯnde̞ mʌ̹ɾa̠no̞",
+    "phonemes": "kɯɡʌ̹n ka̠tʰɯnsʰʌ̹bʌ̹ɡo̞ pjʌ̹ŋɕʰina̠ kxɯkxɯ pa̠ɭɭo̞ks͈ʌ̹bʌ̹nɯn t͡ɕidɯɭk͈iɾi no̞nɯnɡʌ̹nik͈a̠ a̠mudo̞ mʌ̹ɾa̠a̠nɦɛ̝ pjʌ̹ŋɕʰiɭʎjʌ̹na̠ kxɯkxɯo̞ʝiɾjʌ̹ kʌ̹p̚t͡ɕ͈ɛ̝ŋiʃʰɥimtʰʌ̹ɾa̠ɡo̞ ha̠nɯnsʰɛ̝k͈idɯɾi k͈a̠inɯnde̞ mʌ̹ɾa̠no̞",
     "tokens": [
       {
         "text": "그건",
@@ -15406,14 +15406,14 @@
       {
         "text": "ㅋㅋ오히려",
         "canonical": "크크오히려,키키오히려,킥킥오히려",
-        "phoneme": "kxɯkxɯo̞çiɾjʌ̹,kçikçio̞çiɾjʌ̹,kçik̚kçiko̞çiɾjʌ̹",
+        "phoneme": "kxɯkxɯo̞ʝiɾjʌ̹,kçikçio̞ʝiɾjʌ̹,kçik̚kçiko̞ʝiɾjʌ̹",
         "is_nc": true,
         "nc_type": "B2"
       },
       {
         "text": "겁쟁이쉼터라고",
         "canonical": "겁쟁이쉼터라고",
-        "phoneme": "kʌ̹p̚t͡ɕ͈ɛ̝ŋiɕʰɥimtʰʌ̹ɾa̠ɡo̞",
+        "phoneme": "kʌ̹p̚t͡ɕ͈ɛ̝ŋiʃʰɥimtʰʌ̹ɾa̠ɡo̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -15472,7 +15472,7 @@
     "split": "train",
     "text": "게이야 미국 당시 출판계약 79년도 한참 늦게 베른협약 가입 그냥 디즈니 법무팀 배짱장사 병신짓",
     "canonical": "게이야 미국 당시 출판계약 79년도 한참 늦게 베른협약 가입 그냥 디즈니 법무팀 배짱장사 병신짓",
-    "phonemes": "ke̞ija̠ miɡuk̚ ta̠ŋɕʰi t͡ɕʰuɭpʰa̠nɡje̞ja̠k̚ t͡ɕʰiɭɕ͈ip̚k͈u ɲjʌ̹ndo̞ ha̠nt͡ɕʰa̠m nɯt̚k͈e̞ pe̞ɾɯnʝjʌ̹bja̠k̚ ka̠ip̚ kɯɲja̠ŋ tid͡ʑɯni pʌ̹mmutʰim pɛ̝t͡ɕ͈a̠ŋd͡ʑa̠ŋsʰa̠ pjʌ̹ŋɕʰind͡ʑit̚",
+    "phonemes": "ke̞ija̠ miɡuk̚ ta̠ŋɕʰi t͡ɕʰuɭpʰa̠nɡje̞ja̠k̚ t͡ɕʰiɭɕʰip̚k͈u ɲjʌ̹ndo̞ ha̠nt͡ɕʰa̠m nɯt̚k͈e̞ pe̞ɾɯnʝjʌ̹bja̠k̚ ka̠ip̚ kɯɲja̠ŋ tid͡ʑɯni pʌ̹mmutʰim pɛ̝t͡ɕ͈a̠ŋd͡ʑa̠ŋsʰa̠ pjʌ̹ŋɕʰind͡ʑit̚",
     "tokens": [
       {
         "text": "게이야",
@@ -15505,7 +15505,7 @@
       {
         "text": "79년도",
         "canonical": "79년도",
-        "phoneme": "t͡ɕʰiɭɕ͈ip̚k͈u ɲjʌ̹ndo̞",
+        "phoneme": "t͡ɕʰiɭɕʰip̚k͈u ɲjʌ̹ndo̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -15581,12 +15581,12 @@
     "split": "train",
     "text": "호불호 갈린댜 안갈림",
     "canonical": "호불호 갈린댜 안갈림",
-    "phonemes": "ɸʷo̞buɭβo̞ ka̠ɭʎindja̠ a̠nɡa̠ɭʎim",
+    "phonemes": "ɸʷo̞buɾβo̞ ka̠ɭʎindja̠ a̠nɡa̠ɭʎim",
     "tokens": [
       {
         "text": "호불호",
         "canonical": "호불호",
-        "phoneme": "ɸʷo̞buɭβo̞",
+        "phoneme": "ɸʷo̞buɾβo̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -17611,7 +17611,7 @@
     "split": "train",
     "text": "일러스트레이터 암초 필두로 커뮤니티 길드 아기자기한 여초겜 이었음 멀었고 가챠겜",
     "canonical": "일러스트레이터 암초 필두로 커뮤니티 길드 아기자기한 여초겜 이었음 멀었고 가챠겜",
-    "phonemes": "iɭɭʌ̹sʰɯtʰɯɾe̞itʰʌ̹ a̠mt͡ɕʰo̞ pʰiɭt͈uɾo̞ kʰʌ̹mjunitiʰ? kiɭdɯ a̠ɡid͡ʑa̠ɡiɦa̠n jʌ̹t͡ɕʰo̞k͈e̞m iʌ̹s͈ɯm mʌ̹ɾʌ̹t̚k͈o̞ ka̠t͡ɕʰja̠k͈e̞m",
+    "phonemes": "iɭɭʌ̹sʰɯtʰɯɾe̞itʰʌ̹ a̠mt͡ɕʰo̞ pʰiɭt͈uɾo̞ kʰʌ̹mjunitʰi kiɭdɯ a̠ɡid͡ʑa̠ɡiɦa̠n jʌ̹t͡ɕʰo̞k͈e̞m iʌ̹s͈ɯm mʌ̹ɾʌ̹t̚k͈o̞ ka̠t͡ɕʰja̠k͈e̞m",
     "tokens": [
       {
         "text": "일러스트레이터",
@@ -17637,7 +17637,7 @@
       {
         "text": "커뮤니티",
         "canonical": "커뮤니티",
-        "phoneme": "kʰʌ̹mjunitiʰ?",
+        "phoneme": "kʰʌ̹mjunitʰi",
         "is_nc": false,
         "nc_type": null
       },
@@ -17766,7 +17766,7 @@
     "split": "train",
     "text": "애니메이션 옛날 몬스터 보고 안 보다가 최근 진격의거인 봤었는데 충격받았음 참 기술 좋아졌다 싶음",
     "canonical": "애니메이션 옛날 몬스터 보고 안 보다가 최근 진격의거인 봤었는데 충격받았음 참 기술 좋아졌다 싶음",
-    "phonemes": "ɛ̝nime̞iɕʰjʌ̹n ˈje̞ːnna̠ɭ mo̞nsʰɯtʰʌ̹ po̞ɡo̞ a̠n po̞da̠ɡa̠ t͡ɕʰø̞ɡɯn t͡ɕinɡjʌ̹ɡiɡʌ̹in pwa̠s͈ʌ̹nnɯnde̞ t͡ɕʰuŋɡjʌ̹k̚p͈a̠da̠s͈ɯm t͡ɕʰa̠m kisʰuɭ t͡ɕo̞a̠d͡ʑʌ̹t̚t͈a̠ ɕʰipʰɯm",
+    "phonemes": "ɛ̝nime̞iɕʰjʌ̹n ˈje̞ːnna̠ɭ mo̞nsʰɯtʰʌ̹ po̞ɡo̞ a̠n po̞da̠ɡa̠ t͡ɕʰø̞ɡɯn t͡ɕinɡjʌ̹ɡɰiɡʌ̹in pwa̠s͈ʌ̹nnɯnde̞ t͡ɕʰuŋɡjʌ̹k̚p͈a̠da̠s͈ɯm t͡ɕʰa̠m kisʰuɭ t͡ɕo̞a̠d͡ʑʌ̹t̚t͈a̠ ɕʰipʰɯm",
     "tokens": [
       {
         "text": "애니메이션",
@@ -17820,7 +17820,7 @@
       {
         "text": "진격의거인",
         "canonical": "진격의거인",
-        "phoneme": "t͡ɕinɡjʌ̹ɡiɡʌ̹in",
+        "phoneme": "t͡ɕinɡjʌ̹ɡɰiɡʌ̹in",
         "is_nc": false,
         "nc_type": null
       },
@@ -18530,7 +18530,7 @@
     "split": "train",
     "text": "씨발 마누라 존나 이쁘네 ㅋㅋㅋㅋ 네가 사는 지역 반경 3km 안 에선 넘버원 일거다",
     "canonical": "씨발 마누라 존나 이쁘네 크크크크 네가 사는 지역 반경 3km 안 에선 넘버원 일거다",
-    "phonemes": "ɕ͈iba̠ɭ ma̠nuɾa̠ t͡ɕo̞nna̠ ip͈ɯne̞ kxɯkxɯkxɯkxɯ ne̞ɡa̠ sʰa̠nɯn t͡ɕijʌ̹k̚ pa̠nɡjʌ̹ŋ sʰa̠m kçiɭɭo̞mitʰʌ̹ a̠n e̞sʰʌ̹n nʌ̹mbʌ̹wʌ̹n iɭɡʌ̹da̠",
+    "phonemes": "ɕ͈iba̠ɭ ma̠nuɾa̠ t͡ɕo̞nna̠ ip͈ɯne̞ kxɯkxɯkxɯkxɯ ne̞ɡa̠ sʰa̠nɯn t͡ɕijʌ̹k̚ pa̠nɡjʌ̹ŋ sʰa̠m kçiɭɭo̞mitʰʌ̹ a̠n e̞sʰʌ̹n nʌ̹mbʌ̹wʌ̹n iɭk͈ʌ̹da̠",
     "tokens": [
       {
         "text": "씨발",
@@ -18626,7 +18626,7 @@
       {
         "text": "일거다",
         "canonical": "일거다",
-        "phoneme": "iɭɡʌ̹da̠",
+        "phoneme": "iɭk͈ʌ̹da̠",
         "is_nc": false,
         "nc_type": null
       }
@@ -19273,7 +19273,7 @@
     "split": "train",
     "text": "난데 햛아주는 강아지들 같네요 아련하고 하세요",
     "canonical": "난데 햛아주는 강아지들 같네요 아련하고 하세요",
-    "phonemes": "na̠nde̞ hɛ̝ɭɡa̠d͡ʑunɯn ka̠ŋa̠d͡ʑidɯɭ ka̠nne̞jo a̠ɾjʌ̹nɦa̠ɡo̞ ha̠sʰe̞jo",
+    "phonemes": "na̠nde̞ hja̠ɭba̠d͡ʑunɯn ka̠ŋa̠d͡ʑidɯɭ ka̠nne̞jo a̠ɾjʌ̹nɦa̠ɡo̞ ha̠sʰe̞jo",
     "tokens": [
       {
         "text": "난데",
@@ -19285,7 +19285,7 @@
       {
         "text": "햛아주는",
         "canonical": "햛아주는",
-        "phoneme": "hɛ̝ɭɡa̠d͡ʑunɯn",
+        "phoneme": "hja̠ɭba̠d͡ʑunɯn",
         "is_nc": false,
         "nc_type": null
       },
@@ -20485,7 +20485,7 @@
     "split": "train",
     "text": "이색히 꼬추들 길쭉한 말상 나쁨",
     "canonical": "이색히 꼬추들 길쭉한 말상 나쁨",
-    "phonemes": "isʰɛ̝kçi k͈o̞t͡ɕʰudɯɭ kiɭt͡ɕ͈ukʰa̠n ma̠ɭs͈a̠ŋ na̠p͈ɯm",
+    "phonemes": "isʰɛ̝kçi k͈o̞t͡ɕʰudɯɭ kiɭt͡ɕ͈ukʰa̠n ma̠ɭsʰa̠ŋ na̠p͈ɯm",
     "tokens": [
       {
         "text": "이색히",
@@ -20511,7 +20511,7 @@
       {
         "text": "말상",
         "canonical": "말상",
-        "phoneme": "ma̠ɭs͈a̠ŋ",
+        "phoneme": "ma̠ɭsʰa̠ŋ",
         "is_nc": false,
         "nc_type": null
       },
@@ -20698,7 +20698,7 @@
     "split": "train",
     "text": "저 교수 만 ㄹㅇ 쉽게 말하네 ㅋㅋㅋ",
     "canonical": "저 교수 만 리얼 쉽게 말하네 크크크",
-    "phonemes": "t͡ɕʌ̹ kjosʰu ma̠n ɾiʌ̹ɭ ɕʰɥip̚k͈e̞ ma̠ɭɦa̠ne̞ kxɯkxɯkxɯ",
+    "phonemes": "t͡ɕʌ̹ kjosʰu ma̠n ɾiʌ̹ɭ ʃʰɥip̚k͈e̞ ma̠ɾɦa̠ne̞ kxɯkxɯkxɯ",
     "tokens": [
       {
         "text": "저",
@@ -20731,14 +20731,14 @@
       {
         "text": "쉽게",
         "canonical": "쉽게",
-        "phoneme": "ɕʰɥip̚k͈e̞",
+        "phoneme": "ʃʰɥip̚k͈e̞",
         "is_nc": false,
         "nc_type": null
       },
       {
         "text": "말하네",
         "canonical": "말하네",
-        "phoneme": "ma̠ɭɦa̠ne̞",
+        "phoneme": "ma̠ɾɦa̠ne̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -23414,7 +23414,7 @@
     "split": "train",
     "text": "일단 부산 제외 하고 ㅋㅋㅋ 청정 지역 에서 수입 이 증가했다는 얘기고 경상도 는 원래 마약 거래 가 활발한 이고",
     "canonical": "일단 부산 제외 하고 크크크 청정 지역 에서 수입 이 증가했다는 얘기고 경상도 는 원래 마약 거래 가 활발한 이고",
-    "phonemes": "iɭda̠n pusʰa̠n t͡ɕe̞ø̞ ha̠ɡo̞ kxɯkxɯkxɯ t͡ɕʰʌ̹ŋd͡ʑʌ̹ŋ t͡ɕijʌ̹k̚ e̞sʰʌ̹ sʰuip̚ i t͡ɕɯŋɡa̠ɦɛ̝t̚t͈a̠nɯn jɛ̝ɡiɡo̞ kjʌ̹ŋsʰa̠ŋdo̞ nɯn wʌ̹ɭɭɛ̝ ma̠ja̠k̚ kʌ̹ɾɛ̝ ka̠ ɸwa̠ɭba̠ɭɦa̠n iɡo̞",
+    "phonemes": "iɭda̠n pusʰa̠n t͡ɕe̞ø̞ ha̠ɡo̞ kxɯkxɯkxɯ t͡ɕʰʌ̹ŋd͡ʑʌ̹ŋ t͡ɕijʌ̹k̚ e̞sʰʌ̹ sʰuip̚ i t͡ɕɯŋɡa̠ɦɛ̝t̚t͈a̠nɯn jɛ̝ɡiɡo̞ kjʌ̹ŋsʰa̠ŋdo̞ nɯn wʌ̹ɭɭɛ̝ ma̠ja̠k̚ kʌ̹ɾɛ̝ ka̠ ɸwa̠ɭba̠ɾɦa̠n iɡo̞",
     "tokens": [
       {
         "text": "일단",
@@ -23545,7 +23545,7 @@
       {
         "text": "활발한",
         "canonical": "활발한",
-        "phoneme": "ɸwa̠ɭba̠ɭɦa̠n",
+        "phoneme": "ɸwa̠ɭba̠ɾɦa̠n",
         "is_nc": false,
         "nc_type": null
       },
@@ -23858,7 +23858,7 @@
     "split": "train",
     "text": "태극기 휘날리며 이고 극좌빨 아닌거",
     "canonical": "태극기 휘날리며 이고 극좌빨 아닌거",
-    "phonemes": "tʰɛ̝ɡɯk̚k͈i çɥina̠ɭʎimjʌ̹ iɡo̞ kɯk̚t͡ɕ͈wa̠p͈a̠ɭ a̠ninɡʌ̹",
+    "phonemes": "tʰɛ̝ɡɯk̚k͈i hɥina̠ɭʎimjʌ̹ iɡo̞ kɯk̚t͡ɕ͈wa̠p͈a̠ɭ a̠ninɡʌ̹",
     "tokens": [
       {
         "text": "태극기",
@@ -23870,7 +23870,7 @@
       {
         "text": "휘날리며",
         "canonical": "휘날리며",
-        "phoneme": "çɥina̠ɭʎimjʌ̹",
+        "phoneme": "hɥina̠ɭʎimjʌ̹",
         "is_nc": false,
         "nc_type": null
       },
@@ -25353,7 +25353,7 @@
     "split": "train",
     "text": "지방살고 가난하면 어딜가도 다 아는 사이여서 대놓고 무시당함 경찰서도 지들기리 돌아감 신안만 그런게 아님",
     "canonical": "지방살고 가난하면 어딜가도 다 아는 사이여서 대놓고 무시당함 경찰서도 지들기리 돌아감 신안만 그런게 아님",
-    "phonemes": "t͡ɕiba̠ŋsʰa̠ɭɡo̞ ka̠na̠nɦa̠mjʌ̹n ʌ̹diɭɡa̠do̞ ta̠ a̠nɯn sʰa̠ijʌ̹sʰʌ̹ tɛ̝no̞kʰo̞ muɕʰida̠ŋɦa̠m kjʌ̹ŋt͡ɕʰa̠ɭs͈ʌ̹do̞ t͡ɕidɯɭɡiɾi to̞ɾa̠ɡa̠m ɕʰina̠nma̠n kɯɾʌ̹nɡe̞ a̠nim",
+    "phonemes": "t͡ɕiba̠ŋsʰa̠ɭɡo̞ ka̠na̠nɦa̠mjʌ̹n ʌ̹diɭɡa̠do̞ ta̠ a̠nɯn sʰa̠ijʌ̹sʰʌ̹ tɛ̝no̞kʰo̞ muɕʰida̠ŋɦa̠m kjʌ̹ŋt͡ɕʰa̠ɭsʰʌ̹do̞ t͡ɕidɯɭɡiɾi to̞ɾa̠ɡa̠m ɕʰina̠nma̠n kɯɾʌ̹nɡe̞ a̠nim",
     "tokens": [
       {
         "text": "지방살고",
@@ -25414,7 +25414,7 @@
       {
         "text": "경찰서도",
         "canonical": "경찰서도",
-        "phoneme": "kjʌ̹ŋt͡ɕʰa̠ɭs͈ʌ̹do̞",
+        "phoneme": "kjʌ̹ŋt͡ɕʰa̠ɭsʰʌ̹do̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -25759,7 +25759,7 @@
     "split": "train",
     "text": "차은우 그냥 잘생긴 게 아니야 그 특유 의 우수 에 찬 눈망울 이 있고든 그게 역시 해외 에서도 먹히네",
     "canonical": "차은우 그냥 잘생긴 게 아니야 그 특유 의 우수 에 찬 눈망울 이 있고든 그게 역시 해외 에서도 먹히네",
-    "phonemes": "t͡ɕʰa̠ɯnu kɯɲja̠ŋ t͡ɕa̠ɭsʰɛ̝ŋɡin ke̞ a̠nija̠ kɯ tʰɯɡju ɰi usʰu e̞ t͡ɕʰa̠n nunma̠ŋuɭ i it̚k͈o̞dɯn kɯɡe̞ jʌ̹kɕ͈i hɛ̝ø̞ e̞sʰʌ̹ndo̞ mʌ̹kçine̞",
+    "phonemes": "t͡ɕʰa̠ɯnu kɯɲja̠ŋ t͡ɕa̠ɭsʰɛ̝ŋɡin ke̞ a̠nija̠ kɯ tʰɯɡju ɰi usʰu e̞ t͡ɕʰa̠n nunma̠ŋuɭ i it̚k͈o̞dɯn kɯɡe̞ jʌ̹kɕ͈i hɛ̝ø̞ e̞sʰʌ̹do̞ mʌ̹kçine̞",
     "tokens": [
       {
         "text": "차은우",
@@ -25883,7 +25883,7 @@
       {
         "text": "에서도",
         "canonical": "에서도",
-        "phoneme": "e̞sʰʌ̹ndo̞",
+        "phoneme": "e̞sʰʌ̹do̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -26111,7 +26111,7 @@
     "split": "train",
     "text": "나 억 썻는데 레퍼럴 스트리머 신청했는데 떨어져서 삐짐 반박시 인방충",
     "canonical": "나 억 썻는데 레퍼럴 스트리머 신청했는데 떨어져서 삐짐 반박시 인방충",
-    "phonemes": "na̠ ʌ̹k̚ s͈ʌ̹nnɯnde̞ ɾe̞pʰʌ̹ɾʌ̹ɭ sʰɯtʰɯɾimʌ̹ ɕʰint͡ɕʰjʌ̹ŋɦɛ̝nnɯnde̞ t͈ʌ̹ɾʌ̹d͡ʑʌ̹sʰʌ̹ p͈id͡ʑim pa̠nba̠kɕ͈i inba̠ŋt͡ɕʰuŋ",
+    "phonemes": "na̠ ʌ̹k̚ s͈ʌ̹nnɯnde̞ ɾe̞pʰʌ̹ɾʌ̹ɭ sʰɯtʰɯɾimʌ̹ ɕʰint͡ɕʰʌ̹ŋɦɛ̝nnɯnde̞ t͈ʌ̹ɾʌ̹d͡ʑʌ̹sʰʌ̹ p͈id͡ʑim pa̠nba̠kɕ͈i inba̠ŋt͡ɕʰuŋ",
     "tokens": [
       {
         "text": "나",
@@ -26151,7 +26151,7 @@
       {
         "text": "신청했는데",
         "canonical": "신청했는데",
-        "phoneme": "ɕʰint͡ɕʰjʌ̹ŋɦɛ̝nnɯnde̞",
+        "phoneme": "ɕʰint͡ɕʰʌ̹ŋɦɛ̝nnɯnde̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -28113,7 +28113,7 @@
     "split": "train",
     "text": "호위무사 재미있게 노인의전쟁 더불어 소설인듯",
     "canonical": "호위무사 재미있게 노인의전쟁 더불어 소설인듯",
-    "phonemes": "ɸʷo̞ɥimusʰa̠ t͡ɕɛ̝miit̚k͈e̞ no̞inid͡ʑʌ̹nd͡ʑɛ̝ŋ tʌ̹buɾʌ̹ sʰo̞sʰʌ̹ɾindɯt̚",
+    "phonemes": "ɸʷo̞ɥimusʰa̠ t͡ɕɛ̝miit̚k͈e̞ no̞inɰid͡ʑʌ̹nd͡ʑɛ̝ŋ tʌ̹buɾʌ̹ sʰo̞sʰʌ̹ɾindɯt̚",
     "tokens": [
       {
         "text": "호위무사",
@@ -28132,7 +28132,7 @@
       {
         "text": "노인의전쟁",
         "canonical": "노인의전쟁",
-        "phoneme": "no̞inid͡ʑʌ̹nd͡ʑɛ̝ŋ",
+        "phoneme": "no̞inɰid͡ʑʌ̹nd͡ʑɛ̝ŋ",
         "is_nc": false,
         "nc_type": null
       },
@@ -28955,7 +28955,7 @@
     "split": "train",
     "text": "카메라 매체 사람 비춰주는게 다르더라 살찐거 아닌데 TV 실물 유튜브 대충 그런거 볼때 확 다름 제일 살찌게 나와서 말랐으면 실제 보면 걍 스켈레톤 정상같으면 존나 말랐고 통통하면 정상임 물론 아예 씹돼지 제외 그리고 얼굴 막쓰는거 같은 애들이 실제보면 잘생기고 예쁨 무조건 너프시키는게 있나봄",
     "canonical": "카메라 매체 사람 비춰주는게 다르더라 살찐거 아닌데 TV 실물 유튜브 대충 그런거 볼때 확 다름 제일 살찌게 나와서 말랐으면 실제 보면 걍 스켈레톤 정상같으면 존나 말랐고 통통하면 정상임 물론 아예 씹돼지 제외 그리고 얼굴 막쓰는거 같은 애들이 실제보면 잘생기고 예쁨 무조건 너프시키는게 있나봄",
-    "phonemes": "kʰa̠me̞ɾa̠ mɛ̝t͡ɕʰe̞ ˈsʰa̠ːɾa̠m pit͡ɕʰwʌ̹d͡ʑunɯnɡe̞ ta̠ɾɯdʌ̹ɾa̠ sʰa̠ɭt͡ɕ͈inɡʌ̹ a̠ninde̞ tʰibɯi ɕʰiɭmuɭ jutʰjubɯ tɛ̝t͡ɕʰuŋ kɯɾʌ̹nɡʌ̹ po̞ɭt͈ɛ̝ ɸwa̠k̚ ta̠ɾɯm t͡ɕe̞iɭ sʰa̠ɭt͡ɕ͈iɡe̞ na̠wa̠sʰʌ̹ ma̠ɭɭa̠s͈ɯmjʌ̹n ɕʰiɭd͡ʑe̞ po̞mjʌ̹n kja̠ŋ sʰɯkʰe̞ɭɭe̞tʰo̞n t͡ɕʌ̹ŋsʰa̠ŋɡa̠tʰɯmjʌ̹n t͡ɕo̞nna̠ ma̠ɭɭa̠t̚k͈o̞ tʰo̞ŋtʰo̞ŋɦa̠mjʌ̹n t͡ɕʌ̹ŋsʰa̠ŋim muɭɭo̞n a̠je̞ ɕ͈ip̚t͈wɛ̝d͡ʑi t͡ɕe̞ø̞ kɯɾiɡo̞ ʌ̹ɭɡuɭ ma̠ks͈ɯnɯnɡʌ̹ ka̠tʰɯn ɛ̝dɯɾi ɕʰiɭt͡ɕ͈e̞bo̞mjʌ̹n t͡ɕa̠ɭsʰɛ̝ŋɡiɡo̞ je̞p͈ɯm mud͡ʑo̞ɡʌ̹n nʌ̹pʰɯɕʰikçinɯnɡe̞ inna̠bo̞m",
+    "phonemes": "kʰa̠me̞ɾa̠ mɛ̝t͡ɕʰe̞ ˈsʰa̠ːɾa̠m pit͡ɕʰwʌ̹d͡ʑunɯnɡe̞ ta̠ɾɯdʌ̹ɾa̠ sʰa̠ɭt͡ɕ͈inɡʌ̹ a̠ninde̞ tʰibɯi ɕʰiɭmuɭ jutʰjubɯ tɛ̝t͡ɕʰuŋ kɯɾʌ̹nɡʌ̹ po̞ɭt͈ɛ̝ ɸwa̠k̚ ta̠ɾɯm t͡ɕe̞iɭ sʰa̠ɭt͡ɕ͈iɡe̞ na̠wa̠sʰʌ̹ ma̠ɭɭa̠s͈ɯmjʌ̹n ɕʰiɭd͡ʑe̞ po̞mjʌ̹n kja̠ŋ sʰɯkʰe̞ɭɭe̞tʰo̞n t͡ɕʌ̹ŋsʰa̠ŋɡa̠tʰɯmjʌ̹n t͡ɕo̞nna̠ ma̠ɭɭa̠t̚k͈o̞ tʰo̞ŋtʰo̞ŋɦa̠mjʌ̹n t͡ɕʌ̹ŋsʰa̠ŋim muɭɭo̞n a̠je̞ ɕ͈ip̚t͈wɛ̝d͡ʑi t͡ɕe̞ø̞ kɯɾiɡo̞ ʌ̹ɭɡuɭ ma̠ks͈ɯnɯnɡʌ̹ ka̠tʰɯn ɛ̝dɯɾi ɕʰiɭd͡ʑe̞bo̞mjʌ̹n t͡ɕa̠ɭsʰɛ̝ŋɡiɡo̞ je̞p͈ɯm mud͡ʑo̞ɡʌ̹n nʌ̹pʰɯɕʰikçinɯnɡe̞ inna̠bo̞m",
     "tokens": [
       {
         "text": "카메라",
@@ -29219,7 +29219,7 @@
       {
         "text": "실제보면",
         "canonical": "실제보면",
-        "phoneme": "ɕʰiɭt͡ɕ͈e̞bo̞mjʌ̹n",
+        "phoneme": "ɕʰiɭd͡ʑe̞bo̞mjʌ̹n",
         "is_nc": false,
         "nc_type": null
       },
@@ -30470,7 +30470,7 @@
     "split": "train",
     "text": "탄원서 억울함 갱생가능한 제3자",
     "canonical": "탄원서 억울함 갱생가능한 제3자",
-    "phonemes": "tʰa̠nwʌ̹nsʰʌ̹ ʌ̹ɡuɭɦa̠m kɛ̝ŋsʰɛ̝ŋɡa̠nɯŋɦa̠n t͡ɕe̞ sʰa̠m d͡ʑa̠",
+    "phonemes": "tʰa̠nwʌ̹nsʰʌ̹ ʌ̹ɡuɾɦa̠m kɛ̝ŋsʰɛ̝ŋɡa̠nɯŋɦa̠n t͡ɕe̞ sʰa̠m d͡ʑa̠",
     "tokens": [
       {
         "text": "탄원서",
@@ -30482,7 +30482,7 @@
       {
         "text": "억울함",
         "canonical": "억울함",
-        "phoneme": "ʌ̹ɡuɭɦa̠m",
+        "phoneme": "ʌ̹ɡuɾɦa̠m",
         "is_nc": false,
         "nc_type": null
       },
@@ -31334,7 +31334,7 @@
     "split": "train",
     "text": "오 이거 꽤 설득력있다",
     "canonical": "오 이거 꽤 설득력있다",
-    "phonemes": "o̞ iɡʌ̹ k͈wɛ̝ sʰʌ̹ɭt͈ɯŋɲjʌ̹ɡit̚t͈a̠",
+    "phonemes": "o̞ iɡʌ̹ k͈wɛ̝ sʰʌ̹ɭdɯŋɲjʌ̹ɡit̚t͈a̠",
     "tokens": [
       {
         "text": "오",
@@ -31360,7 +31360,7 @@
       {
         "text": "설득력있다",
         "canonical": "설득력있다",
-        "phoneme": "sʰʌ̹ɭt͈ɯŋɲjʌ̹ɡit̚t͈a̠",
+        "phoneme": "sʰʌ̹ɭdɯŋɲjʌ̹ɡit̚t͈a̠",
         "is_nc": false,
         "nc_type": null
       }
@@ -31433,7 +31433,7 @@
     "split": "train",
     "text": "그게 가능한 전세계 유일한 나라 가 미국임 이 증명되었음 부품수급 에서 부터 시작해서 생산력 돈 까지 싹다 미국만 가능함",
     "canonical": "그게 가능한 전세계 유일한 나라 가 미국임 이 증명되었음 부품수급 에서 부터 시작해서 생산력 돈 까지 싹다 미국만 가능함",
-    "phonemes": "kɯɡe̞ ka̠nɯŋɦa̠n t͡ɕʌ̹nsʰe̞ɡje̞ juiɭɦa̠n na̠ɾa̠ ka̠ miɡuɡim i t͡ɕɯŋmjʌ̹ŋdø̞ʌ̹s͈ɯm pupʰumsʰuɡɯp̚ e̞sʰʌ̹ putʰʌ̹ ɕʰid͡ʑa̠kʰɛ̝sʰʌ̹ sʰɛ̝ŋsʰa̠ɭʎjʌ̹k̚ to̞n k͈a̠d͡ʑi s͈a̠k̚t͈a̠ miɡuŋma̠n ka̠nɯŋɦa̠m",
+    "phonemes": "kɯɡe̞ ka̠nɯŋɦa̠n t͡ɕʌ̹nsʰe̞ɡje̞ juiɾɦa̠n na̠ɾa̠ ka̠ miɡuɡim i t͡ɕɯŋmjʌ̹ŋdø̞ʌ̹s͈ɯm pupʰumsʰuɡɯp̚ e̞sʰʌ̹ putʰʌ̹ ɕʰid͡ʑa̠kʰɛ̝sʰʌ̹ sʰɛ̝ŋsʰa̠ɭʎjʌ̹k̚ to̞n k͈a̠d͡ʑi s͈a̠k̚t͈a̠ miɡuŋma̠n ka̠nɯŋɦa̠m",
     "tokens": [
       {
         "text": "그게",
@@ -31459,7 +31459,7 @@
       {
         "text": "유일한",
         "canonical": "유일한",
-        "phoneme": "juiɭɦa̠n",
+        "phoneme": "juiɾɦa̠n",
         "is_nc": false,
         "nc_type": null
       },
@@ -31976,7 +31976,7 @@
     "split": "train",
     "text": "딸배 대리 기본 보험 다넣고 한다 위에 사건 은 식당 에서 무보험 기사 한데 시켜서 생긴일임 안넣으면 일 도 못한다",
     "canonical": "딸배 대리 기본 보험 다넣고 한다 위에 사건 은 식당 에서 무보험 기사 한데 시켜서 생긴일임 안넣으면 일 도 못한다",
-    "phonemes": "t͈a̠ɭbɛ̝ tɛ̝ɾi kibo̞n po̞ɦʌ̹m ta̠nʌ̹kʰo̞ ha̠nda̠ ɥie̞ ˈsʰa̠ːk͈ʌ̹n ɯn ɕʰik̚t͈a̠ŋ e̞sʰʌ̹ mubo̞ʝjʌ̹m kisʰa̠ ha̠nde̞ ɕʰikçjʌ̹sʰʌ̹ sʰɛ̝ŋɡinniɾim a̠nnʌ̹ɯmjʌ̹n iɭ to̞ mo̞tʰa̠nda̠",
+    "phonemes": "t͈a̠ɭbɛ̝ tɛ̝ɾi kibo̞n po̞ɦʌ̹m ta̠nʌ̹kʰo̞ ha̠nda̠ ɥie̞ ˈsʰa̠ːk͈ʌ̹n ɯn ɕʰik̚t͈a̠ŋ e̞sʰʌ̹ mubo̞ɦʌ̹m kisʰa̠ ha̠nde̞ ɕʰikçjʌ̹sʰʌ̹ sʰɛ̝ŋɡinniɾim a̠nnʌ̹ɯmjʌ̹n iɭ to̞ mo̞tʰa̠nda̠",
     "tokens": [
       {
         "text": "딸배",
@@ -32058,7 +32058,7 @@
       {
         "text": "무보험",
         "canonical": "무보험",
-        "phoneme": "mubo̞ʝjʌ̹m",
+        "phoneme": "mubo̞ɦʌ̹m",
         "is_nc": false,
         "nc_type": null
       },
@@ -33397,7 +33397,7 @@
     "split": "train",
     "text": "갤럭시 이유 마케팅 더 철저하게 고급화 해야지 세대 나이들어 보여도 최소한 싸구려처럼 보이는 걸 좋아함 괜히 맞춘답시고 같은 하니까 폰들 저렴하게 느껴지지",
     "canonical": "갤럭시 이유 마케팅 더 철저하게 고급화 해야지 세대 나이들어 보여도 최소한 싸구려처럼 보이는 걸 좋아함 괜히 맞춘답시고 같은 하니까 폰들 저렴하게 느껴지지",
-    "phonemes": "kɛ̝ɭɭʌ̹kɕ͈i iju ma̠kʰe̞tʰiŋ tʌ̹ t͡ɕʰʌ̹ɭt͡ɕ͈ʌ̹ɦa̠ɡe̞ ko̞ɡɯpʰwa̠ hɛ̝ja̠d͡ʑi sʰe̞dɛ̝ na̠idɯɾʌ̹ po̞jʌ̹do̞ t͡ɕʰø̞sʰo̞ɦa̠n s͈a̠ɡuɾjʌ̹t͡ɕʰʌ̹ɾʌ̹m po̞inɯn kʌ̹ɭ t͡ɕo̞a̠ɦa̠m kwɛ̝nʝi ma̠t̚t͡ɕʰunda̠pɕ͈iɡo̞ ka̠tʰɯn ha̠nik͈a̠ pʰo̞ndɯɭ t͡ɕʌ̹ɾjʌ̹mɦa̠ɡe̞ nɯk͈jʌ̹d͡ʑid͡ʑi",
+    "phonemes": "kɛ̝ɭɭʌ̹kɕ͈i iju ma̠kʰe̞tʰiŋ tʌ̹ t͡ɕʰʌ̹ɭd͡ʑʌ̹ɦa̠ɡe̞ ko̞ɡɯpʰwa̠ hɛ̝ja̠d͡ʑi sʰe̞dɛ̝ na̠idɯɾʌ̹ po̞jʌ̹do̞ t͡ɕʰø̞sʰo̞ɦa̠n s͈a̠ɡuɾjʌ̹t͡ɕʰʌ̹ɾʌ̹m po̞inɯn kʌ̹ɭ t͡ɕo̞a̠ɦa̠m kwɛ̝nʝi ma̠t̚t͡ɕʰunda̠pɕ͈iɡo̞ ka̠tʰɯn ha̠nik͈a̠ pʰo̞ndɯɭ t͡ɕʌ̹ɾjʌ̹mɦa̠ɡe̞ nɯk͈jʌ̹d͡ʑid͡ʑi",
     "tokens": [
       {
         "text": "갤럭시",
@@ -33430,7 +33430,7 @@
       {
         "text": "철저하게",
         "canonical": "철저하게",
-        "phoneme": "t͡ɕʰʌ̹ɭt͡ɕ͈ʌ̹ɦa̠ɡe̞",
+        "phoneme": "t͡ɕʰʌ̹ɭd͡ʑʌ̹ɦa̠ɡe̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -33950,12 +33950,12 @@
     "split": "train",
     "text": "90년대 물건 이야 요즘 4k 8k 세상 제정신",
     "canonical": "90년대 물건 이야 요즘 4k 8k 세상 제정신",
-    "phonemes": "kusʰimɲjʌ̹ndɛ̝ muɭɡʌ̹n ija̠ jod͡ʑɯm sʰa̠ kʰe̞i pʰa̠ɭ kʰe̞i sʰe̞sʰa̠ŋ t͡ɕe̞d͡ʑʌ̹ŋɕʰin",
+    "phonemes": "kuɕʰimɲjʌ̹ndɛ̝ muɭɡʌ̹n ija̠ jod͡ʑɯm sʰa̠ kʰe̞i pʰa̠ɭ kʰe̞i sʰe̞sʰa̠ŋ t͡ɕe̞d͡ʑʌ̹ŋɕʰin",
     "tokens": [
       {
         "text": "90년대",
         "canonical": "90년대",
-        "phoneme": "kusʰimɲjʌ̹ndɛ̝",
+        "phoneme": "kuɕʰimɲjʌ̹ndɛ̝",
         "is_nc": false,
         "nc_type": null
       },
@@ -34307,7 +34307,7 @@
     "split": "train",
     "text": "거지나라 역시 거지떼들 나와서 약탈해가는",
     "canonical": "거지나라 역시 거지떼들 나와서 약탈해가는",
-    "phonemes": "kʌ̹d͡ʑina̠ɾa̠ jʌ̹kɕ͈i kʌ̹d͡ʑit͈e̞dɯɭ na̠wa̠sʰʌ̹ ja̠k̚tʰa̠ɭɦɛ̝ɡa̠nɯn",
+    "phonemes": "kʌ̹d͡ʑina̠ɾa̠ jʌ̹kɕ͈i kʌ̹d͡ʑit͈e̞dɯɭ na̠wa̠sʰʌ̹ ja̠k̚tʰa̠ɾɦɛ̝ɡa̠nɯn",
     "tokens": [
       {
         "text": "거지나라",
@@ -34340,7 +34340,7 @@
       {
         "text": "약탈해가는",
         "canonical": "약탈해가는",
-        "phoneme": "ja̠k̚tʰa̠ɭɦɛ̝ɡa̠nɯn",
+        "phoneme": "ja̠k̚tʰa̠ɾɦɛ̝ɡa̠nɯn",
         "is_nc": false,
         "nc_type": null
       }
@@ -34935,7 +34935,7 @@
     "split": "train",
     "text": "부연설명하자면 이런 인간유형들 특징이 자기 기분이 상해있는데 다른 가족들이 하하호호하는 꼴을 눈뜨고 못봄자기 기분 눈치 보면서 설설 기어야 만족함감히 내가 안좋은데 니들은 신나? 빡돌아서 트집잡고 망쳐놓고 지는 화풀려서 티비 보고 껄껄껄 웃음",
     "canonical": "부연설명하자면 이런 인간유형들 특징이 자기 기분이 상해있는데 다른 가족들이 하하호호하는 꼴을 눈뜨고 못봄자기 기분 눈치 보면서 설설 기어야 만족함감히 내가 안좋은데 니들은 신나? 빡돌아서 트집잡고 망쳐놓고 지는 화풀려서 티비 보고 껄껄껄 웃음",
-    "phonemes": "pujʌ̹nsʰʌ̹ɭmjʌ̹ŋɦa̠d͡ʑa̠mjʌ̹n iɾʌ̹n inɡa̠ɲjuʝjʌ̹ŋdɯɭ tʰɯk̚t͡ɕ͈iŋi t͡ɕa̠ɡi kibuni sʰa̠ŋɦɛ̝innɯnde̞ ta̠ɾɯn ka̠d͡ʑo̞k̚t͈ɯɾi ha̠ɦa̠βo̞βo̞ɦa̠nɯn k͈o̞ɾɯɭ nunt͈ɯɡo̞ mo̞t̚p͈o̞md͡ʑa̠ɡi kibun nunt͡ɕʰi po̞mjʌ̹nsʰʌ̹ sʰʌ̹ɭsʰʌ̹ɭ kiʌ̹ja̠ ma̠nd͡ʑo̞kʰa̠mɡa̠mʝi nɛ̝ɡa̠ a̠nd͡ʑo̞ɯnde̞ nidɯɾɯn ɕʰinna̠ p͈a̠k̚t͈o̞ɾa̠sʰʌ̹ tʰɯd͡ʑip̚t͡ɕ͈a̠p̚k͈o̞ ma̠ŋt͡ɕʰʌ̹no̞kʰo̞ t͡ɕinɯn ɸwa̠pʰuɭʎjʌ̹sʰʌ̹ tʰibi po̞ɡo̞ k͈ʌ̹ɭk͈ʌ̹ɭk͈ʌ̹ɭ usʰɯm",
+    "phonemes": "pujʌ̹nsʰʌ̹ɭmjʌ̹ŋɦa̠d͡ʑa̠mjʌ̹n iɾʌ̹n inɡa̠nɲjuʝjʌ̹ŋdɯɭ tʰɯk̚t͡ɕ͈iŋi t͡ɕa̠ɡi kibuni sʰa̠ŋɦɛ̝innɯnde̞ ta̠ɾɯn ka̠d͡ʑo̞k̚t͈ɯɾi ha̠ɦa̠βo̞βo̞ɦa̠nɯn k͈o̞ɾɯɭ nunt͈ɯɡo̞ mo̞t̚p͈o̞md͡ʑa̠ɡi kibun nunt͡ɕʰi po̞mjʌ̹nsʰʌ̹ sʰʌ̹ɭsʰʌ̹ɭ kiʌ̹ja̠ ma̠nd͡ʑo̞kʰa̠mɡa̠mʝi nɛ̝ɡa̠ a̠nd͡ʑo̞ɯnde̞ nidɯɾɯn ɕʰinna̠ p͈a̠k̚t͈o̞ɾa̠sʰʌ̹ tʰɯd͡ʑip̚t͡ɕ͈a̠p̚k͈o̞ ma̠ŋt͡ɕʰʌ̹no̞kʰo̞ t͡ɕinɯn ɸwa̠pʰuɭʎjʌ̹sʰʌ̹ tʰibi po̞ɡo̞ k͈ʌ̹ɭk͈ʌ̹ɭk͈ʌ̹ɭ usʰɯm",
     "tokens": [
       {
         "text": "부연설명하자면",
@@ -34954,7 +34954,7 @@
       {
         "text": "인간유형들",
         "canonical": "인간유형들",
-        "phoneme": "inɡa̠ɲjuʝjʌ̹ŋdɯɭ",
+        "phoneme": "inɡa̠nɲjuʝjʌ̹ŋdɯɭ",
         "is_nc": false,
         "nc_type": null
       },
@@ -36222,7 +36222,7 @@
     "split": "train",
     "text": "개조선 부동산 국가 성장동력 잡아먹고 금융산업 키워서 해외 투자했어야 할돈 빨아처먹어서 이미 끝났음 터지는거 막자고 금리 못올리고 가계부채 폭증시키고 그와중에 지금도 특례보금자리론 ㅇㅈㄹ 처하면서 대출해주고 있음 기득권 대학교수 뿐만 아니라 크게 봐서 기존에 소유한 사람들 전체 라고 본다",
     "canonical": "개조선 부동산 국가 성장동력 잡아먹고 금융산업 키워서 해외 투자했어야 할돈 빨아처먹어서 이미 끝났음 터지는거 막자고 금리 못올리고 가계부채 폭증시키고 그와중에 지금도 특례보금자리론 이지랄 처하면서 대출해주고 있음 기득권 대학교수 뿐만 아니라 크게 봐서 기존에 소유한 사람들 전체 라고 본다",
-    "phonemes": "kɛ̝d͡ʑo̞sʰʌ̹n pudo̞ŋsʰa̠n kuk̚k͈a̠ sʰʌ̹ŋd͡ʑa̠ŋdo̞ŋɲjʌ̹k̚ t͡ɕa̠ba̠mʌ̹k̚k͈o̞ kɯmɲjuŋsʰa̠nʌ̹p̚ kçiwʌ̹sʰʌ̹ hɛ̝ø̞ tʰud͡ʑa̠ɦɛ̝s͈ʌ̹ja̠ ha̠ɭt͈o̞n p͈a̠ɾa̠t͡ɕʰʌ̹mʌ̹ɡʌ̹sʰʌ̹ imi k͈ɯnna̠s͈ɯm tʰʌ̹d͡ʑinɯnɡʌ̹ ma̠k̚t͡ɕ͈a̠ɡo̞ kɯmni mo̞do̞ɭʎiɡo̞ ka̠ɡje̞but͡ɕʰɛ̝ pʰo̞k̚t͡ɕ͈ɯŋɕʰikçiɡo̞ kɯwa̠d͡ʑuŋe̞ t͡ɕiɡɯmdo̞ tʰɯŋɲje̞bo̞ɡɯmd͡ʑa̠ɾiɾo̞n id͡ʑiɾa̠ɭ t͡ɕʰʌ̹ɦa̠mjʌ̹nsʰʌ̹ tɛ̝t͡ɕʰuɭɦɛ̝d͡ʑuɡo̞ is͈ɯm kidɯk̚k͈wʌ̹n tɛ̝ɦa̠k̚k͈josʰu p͈unma̠n a̠niɾa̠ kxɯɡe̞ pwa̠sʰʌ̹ kid͡ʑo̞ne̞ sʰo̞juɦa̠n sʰa̠ɾa̠mdɯɭ t͡ɕʌ̹nt͡ɕʰe̞ ɾa̠ɡo̞ po̞nda̠",
+    "phonemes": "kɛ̝d͡ʑo̞sʰʌ̹n pudo̞ŋsʰa̠n kuk̚k͈a̠ sʰʌ̹ŋd͡ʑa̠ŋdo̞ŋɲjʌ̹k̚ t͡ɕa̠ba̠mʌ̹k̚k͈o̞ kɯmɲjuŋsʰa̠nʌ̹p̚ kçiwʌ̹sʰʌ̹ hɛ̝ø̞ tʰud͡ʑa̠ɦɛ̝s͈ʌ̹ja̠ ha̠ɭt͈o̞n p͈a̠ɾa̠t͡ɕʰʌ̹mʌ̹ɡʌ̹sʰʌ̹ imi k͈ɯnna̠s͈ɯm tʰʌ̹d͡ʑinɯnɡʌ̹ ma̠k̚t͡ɕ͈a̠ɡo̞ kɯmni mo̞do̞ɭʎiɡo̞ ka̠ɡje̞but͡ɕʰɛ̝ pʰo̞k̚t͡ɕ͈ɯŋɕʰikçiɡo̞ kɯwa̠d͡ʑuŋe̞ t͡ɕiɡɯmdo̞ tʰɯŋɲje̞bo̞ɡɯmd͡ʑa̠ɾiɾo̞n id͡ʑiɾa̠ɭ t͡ɕʰʌ̹ɦa̠mjʌ̹nsʰʌ̹ tɛ̝t͡ɕʰuɾɦɛ̝d͡ʑuɡo̞ is͈ɯm kidɯk̚k͈wʌ̹n tɛ̝ɦa̠k̚k͈josʰu p͈unma̠n a̠niɾa̠ kxɯɡe̞ pwa̠sʰʌ̹ kid͡ʑo̞ne̞ sʰo̞juɦa̠n sʰa̠ɾa̠mdɯɭ t͡ɕʌ̹nt͡ɕʰe̞ ɾa̠ɡo̞ po̞nda̠",
     "tokens": [
       {
         "text": "개조선",
@@ -36395,7 +36395,7 @@
       {
         "text": "대출해주고",
         "canonical": "대출해주고",
-        "phoneme": "tɛ̝t͡ɕʰuɭɦɛ̝d͡ʑuɡo̞",
+        "phoneme": "tɛ̝t͡ɕʰuɾɦɛ̝d͡ʑuɡo̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -37270,7 +37270,7 @@
     "split": "train",
     "text": "우디르도 오열하겠다 ㅅㅂㅋㅋㅋ",
     "canonical": "우디르도 오열하겠다 시발크크크",
-    "phonemes": "udiɾɯdo̞ o̞jʌ̹ɭɦa̠ɡe̞t̚t͈a̠ ɕʰipa̠ɭkxɯkxɯkxɯ",
+    "phonemes": "udiɾɯdo̞ o̞jʌ̹ɾɦa̠ɡe̞t̚t͈a̠ ɕʰipa̠ɭkxɯkxɯkxɯ",
     "tokens": [
       {
         "text": "우디르도",
@@ -37282,7 +37282,7 @@
       {
         "text": "오열하겠다",
         "canonical": "오열하겠다",
-        "phoneme": "o̞jʌ̹ɭɦa̠ɡe̞t̚t͈a̠",
+        "phoneme": "o̞jʌ̹ɾɦa̠ɡe̞t̚t͈a̠",
         "is_nc": false,
         "nc_type": null
       },
@@ -37444,7 +37444,7 @@
     "split": "train",
     "text": "와 198 에 88kg ㄷㄷ 살 좀 있는 체형 일까 했더니 다 근육이노",
     "canonical": "와 198 에 88kg 덜덜 살 좀 있는 체형 일까 했더니 다 근육이노",
-    "phonemes": "wa̠ pɛ̝k̚k͈uɕʰip̚pʰa̠ɭ e̞ pʰa̠ɭɕ͈ip̚pʰa̠ɭ kçiɭɭo̞ɡɯɾɛ̝m tʌ̹ɭdʌ̹ɭ sʰa̠ɭ t͡ɕo̞m innɯn t͡ɕʰe̞ʝjʌ̹ŋ iɭk͈a̠ hɛ̝t̚t͈ʌ̹ni ta̠ kɯɲjuɡino̞",
+    "phonemes": "wa̠ pɛ̝k̚k͈uɕʰip̚pʰa̠ɭ e̞ pʰa̠ɭɕʰip̚pʰa̠ɭ kçiɭɭo̞ɡɯɾɛ̝m tʌ̹ɭdʌ̹ɭ sʰa̠ɭ t͡ɕo̞m innɯn t͡ɕʰe̞ʝjʌ̹ŋ iɭk͈a̠ hɛ̝t̚t͈ʌ̹ni ta̠ kɯɲjuɡino̞",
     "tokens": [
       {
         "text": "와",
@@ -37470,7 +37470,7 @@
       {
         "text": "88kg",
         "canonical": "88kg",
-        "phoneme": "pʰa̠ɭɕ͈ip̚pʰa̠ɭ kçiɭɭo̞ɡɯɾɛ̝m",
+        "phoneme": "pʰa̠ɭɕʰip̚pʰa̠ɭ kçiɭɭo̞ɡɯɾɛ̝m",
         "is_nc": false,
         "nc_type": null
       },
@@ -37977,7 +37977,7 @@
     "split": "train",
     "text": "용돈 만원 이라는 게 천차만별 이다 학생때 겪어보지 않났냐 부자집 도련님 이 자기 은 한달 밖에 안되라고 말해도 참고서 학용품 다 사주고 먹고싶은거 입고 싶은 비싼 브랜드 옷 다사주고 가지고 장난감 취미생활 음반 애니 굿즈 사주면서 그외 신경쓰지 못한 부분에 너 맘대로 써라 라고 던져주는 있고 을 받아도 그돈으로 옷사입고 사고 학원비 내라 말하면 그걸로 사실상 암것도 할수 있는게 없지 천원짜리 던져주고 컵라면 에 삼각김밥 빵하나 음료수 사오고 남는돈 니가 라는 셔틀질 과 다를바 없다는거다 용돈이란 개념 자체가 안에 사람 잡는 칼 들어간 용어라서 설령 방송이후 으로 오른다 해도 저남자 인생은",
     "canonical": "용돈 만원 이라는 게 천차만별 이다 학생때 겪어보지 않났냐 부자집 도련님 이 자기 은 한달 밖에 안되라고 말해도 참고서 학용품 다 사주고 먹고싶은거 입고 싶은 비싼 브랜드 옷 다사주고 가지고 장난감 취미생활 음반 애니 굿즈 사주면서 그외 신경쓰지 못한 부분에 너 맘대로 써라 라고 던져주는 있고 을 받아도 그돈으로 옷사입고 사고 학원비 내라 말하면 그걸로 사실상 암것도 할수 있는게 없지 천원짜리 던져주고 컵라면 에 삼각김밥 빵하나 음료수 사오고 남는돈 니가 라는 셔틀질 과 다를바 없다는거다 용돈이란 개념 자체가 안에 사람 잡는 칼 들어간 용어라서 설령 방송이후 으로 오른다 해도 저남자 인생은",
-    "phonemes": "joŋdo̞n ma̠nwʌ̹n iɾa̠nɯn ke̞ t͡ɕʰʌ̹nt͡ɕʰa̠ma̠nbjʌ̹ɭ ida̠ ha̠ks͈ɛ̝ŋt͈ɛ̝ kjʌ̹k͈ʌ̹bo̞d͡ʑi a̠nna̠nɲja̠ pud͡ʑa̠t͡ɕ͈ip̚ to̞ɾjʌ̹nnim i t͡ɕa̠ɡi ɯn ha̠nda̠ɭ pa̠k͈e̞ a̠ndø̞ɾa̠ɡo̞ ma̠ɭɦɛ̝do̞ t͡ɕʰa̠mɡo̞sʰʌ̹ ha̠ɡjoŋpʰum ta̠ sʰa̠d͡ʑuɡo̞ mʌ̹k̚k͈o̞ɕʰipʰɯnɡʌ̹ ip̚k͈o̞ ɕʰipʰɯn pis͈a̠n pɯɾɛ̝ndɯ o̞t̚ ta̠sʰa̠d͡ʑuɡo̞ ka̠d͡ʑiɡo̞ t͡ɕa̠ŋna̠nk͈a̠m t͡ɕʰɥimisʰɛ̝ŋβwa̠ɭ ɯmba̠n ɛ̝ni kut̚t͡ɕ͈ɯ sʰa̠d͡ʑumjʌ̹nsʰʌ̹ kɯø̞ ɕʰinɡjʌ̹ŋs͈ɯd͡ʑi mo̞tʰa̠n pubune̞ nʌ̹ ma̠mdɛ̝ɾo̞ s͈ʌ̹ɾa̠ ɾa̠ɡo̞ tʌ̹nd͡ʑʌ̹d͡ʑunɯn it̚k͈o̞ ɯɭ pa̠da̠do̞ kɯdo̞nɯɾo̞ o̞t̚s͈a̠ip̚k͈o̞ sʰa̠ɡo̞ ha̠ɡwʌ̹nbi nɛ̝ɾa̠ ma̠ɭɦa̠mjʌ̹n kɯɡʌ̹ɭɭo̞ sʰa̠ɕʰiɭsʰa̠ŋ a̠mɡʌ̹t̚t͈o̞ ha̠ɭs͈u innɯnɡe̞ ʌ̹p̚t͡ɕ͈i t͡ɕʰʌ̹nwʌ̹nt͡ɕ͈a̠ɾi tʌ̹nd͡ʑʌ̹d͡ʑuɡo̞ kʰʌ̹mna̠mjʌ̹n e̞ sʰa̠mɡa̠k̚k͈imba̠p̚ p͈a̠ŋɦa̠na̠ ɯmɲjosʰu sʰa̠o̞ɡo̞ na̠mnɯndo̞n niɡa̠ ɾa̠nɯn ɕʰjʌ̹tʰɯɭd͡ʑiɭ kwa̠ ta̠ɾɯɭp͈a̠ ʌ̹p̚t͈a̠nɯnɡʌ̹da̠ joŋdo̞niɾa̠n kɛ̝ɲjʌ̹m t͡ɕa̠t͡ɕʰe̞ɡa̠ a̠ne̞ ˈsʰa̠ːɾa̠m t͡ɕa̠mnɯn kʰa̠ɭ tɯɾʌ̹ɡa̠n joŋʌ̹ɾa̠sʰʌ̹ sʰʌ̹ɭʎjʌ̹ŋ pa̠ŋsʰo̞ŋiβu ɯɾo̞ o̞ɾɯnda̠ hɛ̝do̞ t͡ɕʌ̹na̠md͡ʑa̠ insʰɛ̝ŋɯn",
+    "phonemes": "joŋdo̞n ma̠nwʌ̹n iɾa̠nɯn ke̞ t͡ɕʰʌ̹nt͡ɕʰa̠ma̠nbjʌ̹ɭ ida̠ ha̠ks͈ɛ̝ŋt͈ɛ̝ kjʌ̹k͈ʌ̹bo̞d͡ʑi a̠nna̠nɲja̠ pud͡ʑa̠t͡ɕ͈ip̚ to̞ɾjʌ̹nnim i t͡ɕa̠ɡi ɯn ha̠nda̠ɭ pa̠k͈e̞ a̠ndø̞ɾa̠ɡo̞ ma̠ɾɦɛ̝do̞ t͡ɕʰa̠mɡo̞sʰʌ̹ ha̠ɡjoŋpʰum ta̠ sʰa̠d͡ʑuɡo̞ mʌ̹k̚k͈o̞ɕʰipʰɯnɡʌ̹ ip̚k͈o̞ ɕʰipʰɯn pis͈a̠n pɯɾɛ̝ndɯ o̞t̚ ta̠sʰa̠d͡ʑuɡo̞ ka̠d͡ʑiɡo̞ t͡ɕa̠ŋna̠nk͈a̠m t͡ɕʰɥimisʰɛ̝ŋβwa̠ɭ ɯmba̠n ɛ̝ni kut̚t͡ɕ͈ɯ sʰa̠d͡ʑumjʌ̹nsʰʌ̹ kɯø̞ ɕʰinɡjʌ̹ŋs͈ɯd͡ʑi mo̞tʰa̠n pubune̞ nʌ̹ ma̠mdɛ̝ɾo̞ s͈ʌ̹ɾa̠ ɾa̠ɡo̞ tʌ̹nd͡ʑʌ̹d͡ʑunɯn it̚k͈o̞ ɯɭ pa̠da̠do̞ kɯdo̞nɯɾo̞ o̞t̚s͈a̠ip̚k͈o̞ sʰa̠ɡo̞ ha̠ɡwʌ̹nbi nɛ̝ɾa̠ ma̠ɾɦa̠mjʌ̹n kɯɡʌ̹ɭɭo̞ sʰa̠ɕʰiɭsʰa̠ŋ a̠mɡʌ̹t̚t͈o̞ ha̠ɭs͈u innɯnɡe̞ ʌ̹p̚t͡ɕ͈i t͡ɕʰʌ̹nwʌ̹nt͡ɕ͈a̠ɾi tʌ̹nd͡ʑʌ̹d͡ʑuɡo̞ kʰʌ̹mna̠mjʌ̹n e̞ sʰa̠mɡa̠k̚k͈imp͈a̠p̚ p͈a̠ŋɦa̠na̠ ɯmɲjosʰu sʰa̠o̞ɡo̞ na̠mnɯndo̞n niɡa̠ ɾa̠nɯn ɕʰjʌ̹tʰɯɭd͡ʑiɭ kwa̠ ta̠ɾɯɭp͈a̠ ʌ̹p̚t͈a̠nɯnɡʌ̹da̠ joŋdo̞niɾa̠n kɛ̝ɲjʌ̹m t͡ɕa̠t͡ɕʰe̞ɡa̠ a̠ne̞ ˈsʰa̠ːɾa̠m t͡ɕa̠mnɯn kʰa̠ɭ tɯɾʌ̹ɡa̠n joŋʌ̹ɾa̠sʰʌ̹ sʰʌ̹ɭʎjʌ̹ŋ pa̠ŋsʰo̞ŋiβu ɯɾo̞ o̞ɾɯnda̠ hɛ̝do̞ t͡ɕʌ̹na̠md͡ʑa̠ insʰɛ̝ŋɯn",
     "tokens": [
       {
         "text": "용돈",
@@ -38101,7 +38101,7 @@
       {
         "text": "말해도",
         "canonical": "말해도",
-        "phoneme": "ma̠ɭɦɛ̝do̞",
+        "phoneme": "ma̠ɾɦɛ̝do̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -38353,7 +38353,7 @@
       {
         "text": "말하면",
         "canonical": "말하면",
-        "phoneme": "ma̠ɭɦa̠mjʌ̹n",
+        "phoneme": "ma̠ɾɦa̠mjʌ̹n",
         "is_nc": false,
         "nc_type": null
       },
@@ -38430,7 +38430,7 @@
       {
         "text": "삼각김밥",
         "canonical": "삼각김밥",
-        "phoneme": "sʰa̠mɡa̠k̚k͈imba̠p̚",
+        "phoneme": "sʰa̠mɡa̠k̚k͈imp͈a̠p̚",
         "is_nc": false,
         "nc_type": null
       },
@@ -38836,7 +38836,7 @@
     "split": "train",
     "text": "트로트충 싫어해도 임영웅행동 좋은일많이하는거같음 ㅋㅋㅋㅋ",
     "canonical": "트로트충 싫어해도 임영웅행동 좋은일많이하는거같음 크크크크",
-    "phonemes": "tʰɯɾo̞tʰɯt͡ɕʰuŋ ɕʰiɾʌ̹ɦɛ̝do̞ imjʌ̹ŋuŋɦɛ̝ŋdo̞ŋ t͡ɕo̞ɯnniɭma̠niɦa̠nɯnɡʌ̹ɡa̠tʰɯm kxɯkxɯkxɯkxɯ",
+    "phonemes": "tʰɯɾo̞tʰɯt͡ɕʰuŋ ɕʰiɾʌ̹ɦɛ̝do̞ imjʌ̹ŋuŋɦɛ̝ŋdo̞ŋ t͡ɕo̞ɯniɭma̠niɦa̠nɯnɡʌ̹ɡa̠tʰɯm kxɯkxɯkxɯkxɯ",
     "tokens": [
       {
         "text": "트로트충",
@@ -38862,7 +38862,7 @@
       {
         "text": "좋은일많이하는거같음",
         "canonical": "좋은일많이하는거같음",
-        "phoneme": "t͡ɕo̞ɯnniɭma̠niɦa̠nɯnɡʌ̹ɡa̠tʰɯm",
+        "phoneme": "t͡ɕo̞ɯniɭma̠niɦa̠nɯnɡʌ̹ɡa̠tʰɯm",
         "is_nc": false,
         "nc_type": null
       },
@@ -39123,7 +39123,7 @@
     "split": "train",
     "text": "흉기차가 경상도패권세습왕조 특혜받아 유지되는 한 노조들 저짓도 계속 될거라는 실력으로 번 돈이 아니라 니들 세금이거나 바가지 강탈한거니 나눠묵자 이거지",
     "canonical": "흉기차가 경상도패권세습왕조 특혜받아 유지되는 한 노조들 저짓도 계속 될거라는 실력으로 번 돈이 아니라 니들 세금이거나 바가지 강탈한거니 나눠묵자 이거지",
-    "phonemes": "çjuŋɡit͡ɕʰa̠ɡa̠ kjʌ̹ŋsʰa̠ŋdo̞pʰɛ̝k͈wʌ̹nsʰe̞sʰɯbwa̠ŋd͡ʑo̞ tʰɯkçje̞ba̠da̠ jud͡ʑidø̞nɯn ha̠n no̞d͡ʑo̞dɯɭ t͡ɕʌ̹d͡ʑit̚t͈o̞ kje̞sʰo̞k̚ tø̞ɭk͈ʌ̹ɾa̠nɯn ɕʰiɭʎjʌ̹ɡɯɾo̞ pʌ̹n to̞ni a̠niɾa̠ nidɯɭ sʰe̞ɡɯmiɡʌ̹na̠ pa̠ɡa̠d͡ʑi ka̠ŋtʰa̠ɭɦa̠nɡʌ̹ni na̠nwʌ̹muk̚t͡ɕ͈a̠ iɡʌ̹d͡ʑi",
+    "phonemes": "çjuŋɡit͡ɕʰa̠ɡa̠ kjʌ̹ŋsʰa̠ŋdo̞pʰɛ̝k͈wʌ̹nsʰe̞sʰɯbwa̠ŋd͡ʑo̞ tʰɯkçje̞ba̠da̠ jud͡ʑidø̞nɯn ha̠n no̞d͡ʑo̞dɯɭ t͡ɕʌ̹d͡ʑit̚t͈o̞ kje̞sʰo̞k̚ tø̞ɭk͈ʌ̹ɾa̠nɯn ɕʰiɭʎjʌ̹ɡɯɾo̞ pʌ̹n to̞ni a̠niɾa̠ nidɯɭ sʰe̞ɡɯmiɡʌ̹na̠ pa̠ɡa̠d͡ʑi ka̠ŋtʰa̠ɾɦa̠nɡʌ̹ni na̠nwʌ̹muk̚t͡ɕ͈a̠ iɡʌ̹d͡ʑi",
     "tokens": [
       {
         "text": "흉기차가",
@@ -39240,7 +39240,7 @@
       {
         "text": "강탈한거니",
         "canonical": "강탈한거니",
-        "phoneme": "ka̠ŋtʰa̠ɭɦa̠nɡʌ̹ni",
+        "phoneme": "ka̠ŋtʰa̠ɾɦa̠nɡʌ̹ni",
         "is_nc": false,
         "nc_type": null
       },
@@ -39584,7 +39584,7 @@
     "split": "train",
     "text": "20세기때 전세계적으로 무더위 좆되던때 있었음 1977년임 석유파동으로 기름아껴쓰라며 지랄거리던",
     "canonical": "20세기때 전세계적으로 무더위 좆되던때 있었음 1977년임 석유파동으로 기름아껴쓰라며 지랄거리던",
-    "phonemes": "iɕʰip s͈e̞ɡit͈ɛ̝ t͡ɕʌ̹nsʰe̞ɡe̞d͡ʑʌ̹ɡɯɾo̞ mudʌ̹ɥi t͡ɕo̞t̚t͈ø̞dʌ̹nt͈ɛ̝ is͈ʌ̹s͈ɯm t͡ɕʰʌ̹nɡubɛ̝k̚t͡ɕʰiɭɕ͈ip̚t͡ɕʰiɭ ʎjʌ̹nim sʰʌ̹ɡjupʰa̠do̞ŋɯɾo̞ kiɾɯma̠k͈jʌ̹s͈ɯɾa̠mjʌ̹ t͡ɕiɾa̠ɭɡʌ̹ɾidʌ̹n",
+    "phonemes": "iɕʰip s͈e̞ɡit͈ɛ̝ t͡ɕʌ̹nsʰe̞ɡje̞d͡ʑʌ̹ɡɯɾo̞ mudʌ̹ɥi t͡ɕo̞t̚t͈ø̞dʌ̹nt͈ɛ̝ is͈ʌ̹s͈ɯm t͡ɕʰʌ̹nɡubɛ̝k̚t͡ɕʰiɭɕ͈ip̚t͡ɕʰiɭ ʎjʌ̹nim sʰʌ̹ɡjupʰa̠do̞ŋɯɾo̞ kiɾɯma̠k͈jʌ̹s͈ɯɾa̠mjʌ̹ t͡ɕiɾa̠ɭɡʌ̹ɾidʌ̹n",
     "tokens": [
       {
         "text": "20세기때",
@@ -39596,7 +39596,7 @@
       {
         "text": "전세계적으로",
         "canonical": "전세계적으로",
-        "phoneme": "t͡ɕʌ̹nsʰe̞ɡe̞d͡ʑʌ̹ɡɯɾo̞",
+        "phoneme": "t͡ɕʌ̹nsʰe̞ɡje̞d͡ʑʌ̹ɡɯɾo̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -39810,7 +39810,7 @@
     "split": "train",
     "text": "솔직히 아무 상관 없잖아 걍 무신론자라도 종교 믿어요 라고 말하면 그만인 법임 ㅇㅇ 굳이 나 무신론자요 하고 꺼드럭거리는 건 보지식 기싸움 하는 거 밖에 안됨 ㅋㅋㅋㅋ",
     "canonical": "솔직히 아무 상관 없잖아 걍 무신론자라도 종교 믿어요 라고 말하면 그만인 법임 응응 굳이 나 무신론자요 하고 꺼드럭거리는 건 보지식 기싸움 하는 거 밖에 안됨 크크크크",
-    "phonemes": "sʰo̞ɭd͡ʑikçi a̠mu sʰa̠ŋɡwa̠n ʌ̹p̚t͡ɕ͈a̠na̠ kja̠ŋ muɕʰiɭɭo̞nd͡ʑa̠ɾa̠do̞ t͡ɕo̞ŋɡjo midʌ̹jo ɾa̠ɡo̞ ma̠ɭɦa̠mjʌ̹n kɯma̠nin pʌ̹bim ɯŋɯŋ kud͡ʑi na̠ muɕʰiɭɭo̞nd͡ʑa̠jo ha̠ɡo̞ k͈ʌ̹dɯɾʌ̹k̚k͈ʌ̹ɾinɯn kʌ̹n po̞d͡ʑiɕʰik̚ kis͈a̠um ha̠nɯn kʌ̹ pa̠k͈e̞ a̠ndø̞m kxɯkxɯkxɯkxɯ",
+    "phonemes": "sʰo̞ɭd͡ʑikçi a̠mu sʰa̠ŋɡwa̠n ʌ̹p̚t͡ɕ͈a̠na̠ kja̠ŋ muɕʰiɭɭo̞nd͡ʑa̠ɾa̠do̞ t͡ɕo̞ŋɡjo midʌ̹jo ɾa̠ɡo̞ ma̠ɾɦa̠mjʌ̹n kɯma̠nin pʌ̹bim ɯŋɯŋ kud͡ʑi na̠ muɕʰiɭɭo̞nd͡ʑa̠jo ha̠ɡo̞ k͈ʌ̹dɯɾʌ̹k̚k͈ʌ̹ɾinɯn kʌ̹n po̞d͡ʑiɕʰik̚ kis͈a̠um ha̠nɯn kʌ̹ pa̠k͈e̞ a̠ndø̞m kxɯkxɯkxɯkxɯ",
     "tokens": [
       {
         "text": "솔직히",
@@ -39878,7 +39878,7 @@
       {
         "text": "말하면",
         "canonical": "말하면",
-        "phoneme": "ma̠ɭɦa̠mjʌ̹n",
+        "phoneme": "ma̠ɾɦa̠mjʌ̹n",
         "is_nc": false,
         "nc_type": null
       },
@@ -40822,7 +40822,7 @@
     "split": "train",
     "text": "ㅋㅋ 본문 별개 여자들 화법 그런게 많긴 하지",
     "canonical": "크크 본문 별개 여자들 화법 그런게 많긴 하지",
-    "phonemes": "kxɯkxɯ po̞nmun pjʌ̹ɭɡɛ̝ jʌ̹d͡ʑa̠dɯɭ ɸwa̠p͈ʌ̹p̚ kɯɾʌ̹nɡe̞ ma̠nkçin ha̠d͡ʑi",
+    "phonemes": "kxɯkxɯ po̞nmun pjʌ̹ɭɡɛ̝ jʌ̹d͡ʑa̠dɯɭ ɸwa̠bʌ̹p̚ kɯɾʌ̹nɡe̞ ma̠nkçin ha̠d͡ʑi",
     "tokens": [
       {
         "text": "ㅋㅋ",
@@ -40855,7 +40855,7 @@
       {
         "text": "화법",
         "canonical": "화법",
-        "phoneme": "ɸwa̠p͈ʌ̹p̚",
+        "phoneme": "ɸwa̠bʌ̹p̚",
         "is_nc": false,
         "nc_type": null
       },
@@ -41150,7 +41150,7 @@
     "split": "train",
     "text": "이 병신은 필리핀 현지에서 살아보지도 않았는데 국민 애니 ㅇㅈㄹ하네 야 가서 함 물어봐랔ㅋㅋㅋ 볼테스를 아는지 유유백서를 아는지아재 ㅇㅈㄹ하는데 당시 나 유딩이었어",
     "canonical": "이 병신은 필리핀 현지에서 살아보지도 않았는데 국민 애니 이지랄하네 야 가서 함 물어봐라크크크 볼테스를 아는지 유유백서를 아는지아재 이지랄하는데 당시 나 유딩이었어",
-    "phonemes": "i pjʌ̹ŋɕʰinɯn pʰiɭʎipʰin çjʌ̹nd͡ʑie̞sʰʌ̹ sʰa̠ɾa̠bo̞d͡ʑido̞ a̠na̠nnɯnde̞ kuŋmin ɛ̝ni id͡ʑiɾa̠ɭɦa̠ne̞ ja̠ ka̠sʰʌ̹ ha̠m muɾʌ̹bwa̠ɾa̠kxɯkxɯkxɯ po̞ɭtʰe̞sʰɯɾɯɭ a̠nɯnd͡ʑi jujubɛ̝ks͈ʌ̹ɾɯɭ a̠nɯnd͡ʑia̠d͡ʑɛ̝ id͡ʑiɾa̠ɭɦa̠nɯnde̞ ta̠ŋɕʰi na̠ judiŋiʌ̹s͈ʌ̹",
+    "phonemes": "i pjʌ̹ŋɕʰinɯn pʰiɭʎipʰin çjʌ̹nd͡ʑie̞sʰʌ̹ sʰa̠ɾa̠bo̞d͡ʑido̞ a̠na̠nnɯnde̞ kuŋmin ɛ̝ni id͡ʑiɾa̠ɾɦa̠ne̞ ja̠ ka̠sʰʌ̹ ha̠m muɾʌ̹bwa̠ɾa̠kxɯkxɯkxɯ po̞ɭtʰe̞sʰɯɾɯɭ a̠nɯnd͡ʑi jujubɛ̝ks͈ʌ̹ɾɯɭ a̠nɯnd͡ʑia̠d͡ʑɛ̝ id͡ʑiɾa̠ɾɦa̠nɯnde̞ ta̠ŋɕʰi na̠ judiŋiʌ̹s͈ʌ̹",
     "tokens": [
       {
         "text": "이",
@@ -41211,7 +41211,7 @@
       {
         "text": "ㅇㅈㄹ하네",
         "canonical": "이지랄하네",
-        "phoneme": "id͡ʑiɾa̠ɭɦa̠ne̞",
+        "phoneme": "id͡ʑiɾa̠ɾɦa̠ne̞",
         "is_nc": true,
         "nc_type": "A1"
       },
@@ -41274,7 +41274,7 @@
       {
         "text": "ㅇㅈㄹ하는데",
         "canonical": "이지랄하는데",
-        "phoneme": "id͡ʑiɾa̠ɭɦa̠nɯnde̞",
+        "phoneme": "id͡ʑiɾa̠ɾɦa̠nɯnde̞",
         "is_nc": true,
         "nc_type": "A1"
       },
@@ -42617,7 +42617,7 @@
     "split": "train",
     "text": "그래야지 일어날지 대비해서 순찰하느니 효율성 면에서는 좋을듯",
     "canonical": "그래야지 일어날지 대비해서 순찰하느니 효율성 면에서는 좋을듯",
-    "phonemes": "kɯɾɛ̝ja̠d͡ʑi iɾʌ̹na̠ɭt͡ɕ͈i tɛ̝biɦɛ̝sʰʌ̹ sʰunt͡ɕʰa̠ɭɦa̠nɯni çjojuɭs͈ʌ̹ŋ mjʌ̹ne̞sʰʌ̹nɯn t͡ɕo̞ɯɭt͈ɯt̚",
+    "phonemes": "kɯɾɛ̝ja̠d͡ʑi iɾʌ̹na̠ɭt͡ɕ͈i tɛ̝biɦɛ̝sʰʌ̹ sʰunt͡ɕʰa̠ɾɦa̠nɯni çjojuɭs͈ʌ̹ŋ mjʌ̹ne̞sʰʌ̹nɯn t͡ɕo̞ɯɭt͈ɯt̚",
     "tokens": [
       {
         "text": "그래야지",
@@ -42643,7 +42643,7 @@
       {
         "text": "순찰하느니",
         "canonical": "순찰하느니",
-        "phoneme": "sʰunt͡ɕʰa̠ɭɦa̠nɯni",
+        "phoneme": "sʰunt͡ɕʰa̠ɾɦa̠nɯni",
         "is_nc": false,
         "nc_type": null
       },
@@ -43792,7 +43792,7 @@
     "split": "train",
     "text": "만진당갤 거목유방단 흡연충 방 거주 고닉완장들 방명록 쳐막고 인민재판중 현실은 신안군 염전노예 부리는마냥 북괴로동당식 통제중 실베와서 지랄할때있는데 민갤 고아 아스퍼거 정신장애새끼들은 멀리해라 만나면 쌔게해라",
     "canonical": "만진당갤 거목유방단 흡연충 방 거주 고닉완장들 방명록 쳐막고 인민재판중 현실은 신안군 염전노예 부리는마냥 북괴로동당식 통제중 실베와서 지랄할때있는데 민갤 고아 아스퍼거 정신장애새끼들은 멀리해라 만나면 쌔게해라",
-    "phonemes": "ma̠nd͡ʑinda̠ŋɡɛ̝ɭ kʌ̹mo̞ɡjuba̠ŋda̠n xɯbjʌ̹nt͡ɕʰuŋ pa̠ŋ kʌ̹d͡ʑu ko̞niɡwa̠nd͡ʑa̠ŋdɯɭ pa̠ŋmjʌ̹ŋno̞k̚ t͡ɕʰʌ̹ma̠k̚k͈o̞ inmind͡ʑɛ̝pʰa̠nd͡ʑuŋ çjʌ̹nɕʰiɾɯn ɕʰina̠nɡun jʌ̹md͡ʑʌ̹nno̞je̞ puɾinɯnma̠ɲja̠ŋ puk̚k͈ø̞ɾo̞do̞ŋda̠ŋɕʰik̚ tʰo̞ŋd͡ʑe̞d͡ʑuŋ ɕʰiɭbe̞wa̠sʰʌ̹ t͡ɕiɾa̠ɭɦa̠ɭt͈ɛ̝innɯnde̞ minɡɛ̝ɭ ko̞a̠ a̠sʰɯpʰʌ̹ɡʌ̹ t͡ɕʌ̹ŋɕʰind͡ʑa̠ŋɛ̝sʰɛ̝k͈idɯɾɯn mʌ̹ɭʎiɦɛ̝ɾa̠ ma̠nna̠mjʌ̹n s͈ɛ̝ɡe̞ɦɛ̝ɾa̠",
+    "phonemes": "ma̠nd͡ʑinda̠ŋɡɛ̝ɭ kʌ̹mo̞ɡjuba̠ŋda̠n xɯbjʌ̹nt͡ɕʰuŋ pa̠ŋ kʌ̹d͡ʑu ko̞niɡwa̠nd͡ʑa̠ŋdɯɭ pa̠ŋmjʌ̹ŋno̞k̚ t͡ɕʰʌ̹ma̠k̚k͈o̞ inmind͡ʑɛ̝pʰa̠nd͡ʑuŋ çjʌ̹nɕʰiɾɯn ɕʰina̠nɡun jʌ̹md͡ʑʌ̹nno̞je̞ puɾinɯnma̠ɲja̠ŋ puk̚k͈ø̞ɾo̞do̞ŋda̠ŋɕʰik̚ tʰo̞ŋd͡ʑe̞d͡ʑuŋ ɕʰiɭbe̞wa̠sʰʌ̹ t͡ɕiɾa̠ɾɦa̠ɭt͈ɛ̝innɯnde̞ minɡɛ̝ɭ ko̞a̠ a̠sʰɯpʰʌ̹ɡʌ̹ t͡ɕʌ̹ŋɕʰind͡ʑa̠ŋɛ̝sʰɛ̝k͈idɯɾɯn mʌ̹ɭʎiɦɛ̝ɾa̠ ma̠nna̠mjʌ̹n s͈ɛ̝ɡe̞ɦɛ̝ɾa̠",
     "tokens": [
       {
         "text": "만진당갤",
@@ -43909,7 +43909,7 @@
       {
         "text": "지랄할때있는데",
         "canonical": "지랄할때있는데",
-        "phoneme": "t͡ɕiɾa̠ɭɦa̠ɭt͈ɛ̝innɯnde̞",
+        "phoneme": "t͡ɕiɾa̠ɾɦa̠ɭt͈ɛ̝innɯnde̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -44511,7 +44511,7 @@
     "split": "train",
     "text": "십자가 초승달 뜬 사진 보고 감동 먹었는데",
     "canonical": "십자가 초승달 뜬 사진 보고 감동 먹었는데",
-    "phonemes": "ɕʰip̚t͡ɕ͈a̠ɡa̠ t͡ɕʰo̞sʰɯŋt͈a̠ɭ t͈ɯn sʰa̠d͡ʑin po̞ɡo̞ ka̠mdo̞ŋ mʌ̹ɡʌ̹nnɯnde̞",
+    "phonemes": "ɕʰip̚t͡ɕ͈a̠ɡa̠ t͡ɕʰo̞sʰɯŋda̠ɭ t͈ɯn sʰa̠d͡ʑin po̞ɡo̞ ka̠mdo̞ŋ mʌ̹ɡʌ̹nnɯnde̞",
     "tokens": [
       {
         "text": "십자가",
@@ -44523,7 +44523,7 @@
       {
         "text": "초승달",
         "canonical": "초승달",
-        "phoneme": "t͡ɕʰo̞sʰɯŋt͈a̠ɭ",
+        "phoneme": "t͡ɕʰo̞sʰɯŋda̠ɭ",
         "is_nc": false,
         "nc_type": null
       },
@@ -45457,7 +45457,7 @@
     "split": "train",
     "text": "대구 시발 일자리 다 좋은데 진짜 개답없음 하나 찾아도 최저도 안주려하는 좋좋소들 천지 삐까리라 안됨",
     "canonical": "대구 시발 일자리 다 좋은데 진짜 개답없음 하나 찾아도 최저도 안주려하는 좋좋소들 천지 삐까리라 안됨",
-    "phonemes": "tɛ̝ɡu ɕʰiba̠ɭ iɭd͡ʑa̠ɾi ta̠ t͡ɕo̞ɯnde̞ t͡ɕint͡ɕ͈a̠ kɛ̝da̠bʌ̹ps͈ɯm ha̠na̠ t͡ɕʰa̠d͡ʑa̠do̞ t͡ɕʰø̞d͡ʑʌ̹do̞ a̠nd͡ʑuɾjʌ̹ɦa̠nɯn t͡ɕo̞t͡ɕʰo̞s͈o̞dɯɭ t͡ɕʰʌ̹nd͡ʑi p͈ik͈a̠ɾiɾa̠ a̠ndø̞m",
+    "phonemes": "tɛ̝ɡu ɕʰiba̠ɭ iɭd͡ʑa̠ɾi ta̠ t͡ɕo̞ɯnde̞ t͡ɕint͡ɕ͈a̠ kɛ̝da̠bʌ̹ps͈ɯm ha̠na̠ t͡ɕʰa̠d͡ʑa̠do̞ t͡ɕʰø̞d͡ʑʌ̹do̞ a̠nd͡ʑuɾjʌ̹ɦa̠nɯn t͡ɕo̞t̚t͡ɕo̞t̚s͈o̞dɯɭ t͡ɕʰʌ̹nd͡ʑi p͈ik͈a̠ɾiɾa̠ a̠ndø̞m",
     "tokens": [
       {
         "text": "대구",
@@ -45539,7 +45539,7 @@
       {
         "text": "좋좋소들",
         "canonical": "좋좋소들",
-        "phoneme": "t͡ɕo̞t͡ɕʰo̞s͈o̞dɯɭ",
+        "phoneme": "t͡ɕo̞t̚t͡ɕo̞t̚s͈o̞dɯɭ",
         "is_nc": true,
         "nc_type": "C3"
       },
@@ -45877,12 +45877,12 @@
     "split": "train",
     "text": "진실의 방으로 보내버리면 될 문제",
     "canonical": "진실의 방으로 보내버리면 될 문제",
-    "phonemes": "t͡ɕinɕʰiɾi pa̠ŋɯɾo̞ po̞nɛ̝bʌ̹ɾimjʌ̹n tø̞ɭ mund͡ʑe̞",
+    "phonemes": "t͡ɕinɕʰiɾɰi pa̠ŋɯɾo̞ po̞nɛ̝bʌ̹ɾimjʌ̹n tø̞ɭ mund͡ʑe̞",
     "tokens": [
       {
         "text": "진실의",
         "canonical": "진실의",
-        "phoneme": "t͡ɕinɕʰiɾi",
+        "phoneme": "t͡ɕinɕʰiɾɰi",
         "is_nc": false,
         "nc_type": null
       },
@@ -46100,7 +46100,7 @@
     "split": "train",
     "text": "김희철 20대 외모 보면 면전 대고 썅년아 오늘부터 1일이다 박아도 100% 사귐 ㅋㅋ",
     "canonical": "김희철 20대 외모 보면 면전 대고 썅년아 오늘부터 1일이다 박아도 100% 사귐 크크",
-    "phonemes": "kimʝit͡ɕʰʌ̹ɭ iɕʰip̚ t͈ɛ̝ ø̞mo̞ po̞mjʌ̹n mjʌ̹nd͡ʑʌ̹n tɛ̝ɡo̞ ɕ͈ja̠ŋɲjʌ̹na̠ o̞nɯɭbutʰʌ̹ iɾiɾida̠ pa̠ɡa̠do̞ pɛ̝k̚ pʰʌ̹sʰe̞ntʰɯ sʰa̠ɡɥim kxɯkxɯ",
+    "phonemes": "kimʝit͡ɕʰʌ̹ɭ iɕʰip̚ t͈ɛ̝ ø̞mo̞ po̞mjʌ̹n mjʌ̹nd͡ʑʌ̹n tɛ̝ɡo̞ ɕ͈ja̠ŋɲjʌ̹na̠ o̞nɯɭbutʰʌ̹ i ɾiɾida̠ pa̠ɡa̠do̞ pɛ̝k̚ pʰʌ̹sʰe̞ntʰɯ sʰa̠ɡɥim kxɯkxɯ",
     "tokens": [
       {
         "text": "김희철",
@@ -46161,7 +46161,7 @@
       {
         "text": "1일이다",
         "canonical": "1일이다",
-        "phoneme": "iɾiɾida̠",
+        "phoneme": "i ɾiɾida̠",
         "is_nc": false,
         "nc_type": null
       },
@@ -47356,7 +47356,7 @@
     "split": "train",
     "text": "이집트 개간지네 북괴야 그렇다 쳐도 대만은 왤케 허술하냐",
     "canonical": "이집트 개간지네 북괴야 그렇다 쳐도 대만은 왤케 허술하냐",
-    "phonemes": "id͡ʑip̚tʰɯ kɛ̝ɡa̠nd͡ʑine̞ puk̚k͈ø̞ja̠ kɯɾʌ̹tʰa̠ t͡ɕʰʌ̹do̞ tɛ̝ma̠nɯn wɛ̝ɭkʰe̞ hʌ̹sʰuɭɦa̠ɲja̠",
+    "phonemes": "id͡ʑip̚tʰɯ kɛ̝ɡa̠nd͡ʑine̞ puk̚k͈ø̞ja̠ kɯɾʌ̹tʰa̠ t͡ɕʰʌ̹do̞ tɛ̝ma̠nɯn wɛ̝ɭkʰe̞ hʌ̹sʰuɾɦa̠ɲja̠",
     "tokens": [
       {
         "text": "이집트",
@@ -47410,7 +47410,7 @@
       {
         "text": "허술하냐",
         "canonical": "허술하냐",
-        "phoneme": "hʌ̹sʰuɭɦa̠ɲja̠",
+        "phoneme": "hʌ̹sʰuɾɦa̠ɲja̠",
         "is_nc": false,
         "nc_type": null
       }
@@ -47731,12 +47731,12 @@
     "split": "train",
     "text": "일성모 ㅋㅋㅋ",
     "canonical": "일성모 크크크",
-    "phonemes": "iɭs͈ʌ̹ŋmo̞ kxɯkxɯkxɯ",
+    "phonemes": "iɭsʰʌ̹ŋmo̞ kxɯkxɯkxɯ",
     "tokens": [
       {
         "text": "일성모",
         "canonical": "일성모",
-        "phoneme": "iɭs͈ʌ̹ŋmo̞",
+        "phoneme": "iɭsʰʌ̹ŋmo̞",
         "is_nc": true,
         "nc_type": "C1"
       },
@@ -48704,7 +48704,7 @@
     "split": "train",
     "text": "박원순 귀신 씌였노",
     "canonical": "박원순 귀신 씌였노",
-    "phonemes": "pa̠ɡwʌ̹nsʰun kɥiɕʰin ɕ͈ɥijʌ̹nno̞",
+    "phonemes": "pa̠ɡwʌ̹nsʰun kɥiɕʰin ɕ͈ijʌ̹nno̞",
     "tokens": [
       {
         "text": "박원순",
@@ -48723,7 +48723,7 @@
       {
         "text": "씌였노",
         "canonical": "씌였노",
-        "phoneme": "ɕ͈ɥijʌ̹nno̞",
+        "phoneme": "ɕ͈ijʌ̹nno̞",
         "is_nc": true,
         "nc_type": "C3"
       }
@@ -48860,7 +48860,7 @@
     "split": "train",
     "text": "걍 잘생겨서 막연하게 괜찮다고 하는거겟지 어차피 얼굴보고 빠지는건 오래 못 감 옛날에 엑소도 10대소녀들한테 인기엄청많앗는데 지금은 bts한테 발리지",
     "canonical": "걍 잘생겨서 막연하게 괜찮다고 하는거겟지 어차피 얼굴보고 빠지는건 오래 못 감 옛날에 엑소도 10대소녀들한테 인기엄청많앗는데 지금은 bts한테 발리지",
-    "phonemes": "kja̠ŋ t͡ɕa̠ɭsʰɛ̝ŋɡjʌ̹sʰʌ̹ ma̠ɡjʌ̹nɦa̠ɡe̞ kwɛ̝nt͡ɕʰa̠ntʰa̠ɡo̞ ha̠nɯnɡʌ̹ɡe̞t̚t͡ɕ͈i ʌ̹t͡ɕʰa̠pʰi ʌ̹ɭɡuɭbo̞ɡo̞ p͈a̠d͡ʑinɯnɡʌ̹n o̞ɾɛ̝ mo̞t̚ ka̠m je̞nna̠ɾe̞ e̞ks͈o̞do̞ ɕʰip̚ t͈ɛ̝sʰo̞ɲjʌ̹dɯɭɦa̠ntʰe̞ ink͈iʌ̹mt͡ɕʰʌ̹ŋma̠na̠nnɯnde̞ t͡ɕiɡɯmɯn pitʰie̞sʰɯɦa̠ntʰe̞ pa̠ɭʎid͡ʑi",
+    "phonemes": "kja̠ŋ t͡ɕa̠ɭsʰɛ̝ŋɡjʌ̹sʰʌ̹ ma̠ɡjʌ̹nɦa̠ɡe̞ kwɛ̝nt͡ɕʰa̠ntʰa̠ɡo̞ ha̠nɯnɡʌ̹ɡe̞t̚t͡ɕ͈i ʌ̹t͡ɕʰa̠pʰi ʌ̹ɭɡuɭbo̞ɡo̞ p͈a̠d͡ʑinɯnɡʌ̹n o̞ɾɛ̝ mo̞t̚ ka̠m je̞nna̠ɾe̞ e̞ks͈o̞do̞ ɕʰip̚ t͈ɛ̝sʰo̞ɲjʌ̹dɯɾɦa̠ntʰe̞ ink͈iʌ̹mt͡ɕʰʌ̹ŋma̠na̠nnɯnde̞ t͡ɕiɡɯmɯn pitʰie̞sʰɯɦa̠ntʰe̞ pa̠ɭʎid͡ʑi",
     "tokens": [
       {
         "text": "걍",
@@ -48956,7 +48956,7 @@
       {
         "text": "10대소녀들한테",
         "canonical": "10대소녀들한테",
-        "phoneme": "ɕʰip̚ t͈ɛ̝sʰo̞ɲjʌ̹dɯɭɦa̠ntʰe̞",
+        "phoneme": "ɕʰip̚ t͈ɛ̝sʰo̞ɲjʌ̹dɯɾɦa̠ntʰe̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -49324,12 +49324,12 @@
     "split": "train",
     "text": "정신병자",
     "canonical": "정신병자",
-    "phonemes": "t͡ɕʌ̹ŋɕʰinbjʌ̹ŋd͡ʑa̠",
+    "phonemes": "t͡ɕʌ̹ŋɕʰinp͈jʌ̹ŋd͡ʑa̠",
     "tokens": [
       {
         "text": "정신병자",
         "canonical": "정신병자",
-        "phoneme": "t͡ɕʌ̹ŋɕʰinbjʌ̹ŋd͡ʑa̠",
+        "phoneme": "t͡ɕʌ̹ŋɕʰinp͈jʌ̹ŋd͡ʑa̠",
         "is_nc": false,
         "nc_type": null
       }
@@ -50520,7 +50520,7 @@
     "split": "train",
     "text": "딸배헌터 뜨고나서 나도 동네 딸배들 유심히 살펴보는데 나름 얌전하게 다니더라 지역차 확실한듯",
     "canonical": "딸배헌터 뜨고나서 나도 동네 딸배들 유심히 살펴보는데 나름 얌전하게 다니더라 지역차 확실한듯",
-    "phonemes": "t͈a̠ɭbɛ̝ɦʌ̹ntʰʌ̹ t͈ɯɡo̞na̠sʰʌ̹ na̠do̞ to̞ŋne̞ t͈a̠ɭbɛ̝dɯɭ juɕʰimʝi sʰa̠ɭpʰjʌ̹bo̞nɯnde̞ na̠ɾɯm ja̠md͡ʑʌ̹nɦa̠ɡe̞ ta̠nidʌ̹ɾa̠ t͡ɕijʌ̹k̚t͡ɕʰa̠ ɸwa̠kɕ͈iɭɦa̠ndɯt̚",
+    "phonemes": "t͈a̠ɭbɛ̝ɦʌ̹ntʰʌ̹ t͈ɯɡo̞na̠sʰʌ̹ na̠do̞ to̞ŋne̞ t͈a̠ɭbɛ̝dɯɭ juɕʰimʝi sʰa̠ɭpʰjʌ̹bo̞nɯnde̞ na̠ɾɯm ja̠md͡ʑʌ̹nɦa̠ɡe̞ ta̠nidʌ̹ɾa̠ t͡ɕijʌ̹k̚t͡ɕʰa̠ ɸwa̠kɕ͈iɾɦa̠ndɯt̚",
     "tokens": [
       {
         "text": "딸배헌터",
@@ -50602,7 +50602,7 @@
       {
         "text": "확실한듯",
         "canonical": "확실한듯",
-        "phoneme": "ɸwa̠kɕ͈iɭɦa̠ndɯt̚",
+        "phoneme": "ɸwa̠kɕ͈iɾɦa̠ndɯt̚",
         "is_nc": false,
         "nc_type": null
       }
@@ -50640,12 +50640,12 @@
     "split": "train",
     "text": "실제로도 목소리 크고 말투 억양에 성조가 있고 여자들은 여성성 여자력 종범한 국가들이 중국 경상도 아니노",
     "canonical": "실제로도 목소리 크고 말투 억양에 성조가 있고 여자들은 여성성 여자력 종범한 국가들이 중국 경상도 아니노",
-    "phonemes": "ɕʰiɭt͡ɕ͈e̞ɾo̞do̞ mo̞ks͈o̞ɾi kxɯɡo̞ ma̠ɭtʰu ʌ̹ɡja̠ŋe̞ sʰʌ̹ŋd͡ʑo̞ɡa̠ it̚k͈o̞ jʌ̹d͡ʑa̠dɯɾɯn jʌ̹sʰʌ̹ŋs͈ʌ̹ŋ jʌ̹d͡ʑa̠ɾjʌ̹k̚ t͡ɕo̞ŋbʌ̹mɦa̠n kuk̚k͈a̠dɯɾi t͡ɕuŋɡuk̚ kjʌ̹ŋsʰa̠ŋdo̞ a̠nino̞",
+    "phonemes": "ɕʰiɭd͡ʑe̞ɾo̞do̞ mo̞ks͈o̞ɾi kxɯɡo̞ ma̠ɭtʰu ʌ̹ɡja̠ŋe̞ sʰʌ̹ŋd͡ʑo̞ɡa̠ it̚k͈o̞ jʌ̹d͡ʑa̠dɯɾɯn jʌ̹sʰʌ̹ŋs͈ʌ̹ŋ jʌ̹d͡ʑa̠ɾjʌ̹k̚ t͡ɕo̞ŋbʌ̹mɦa̠n kuk̚k͈a̠dɯɾi t͡ɕuŋɡuk̚ kjʌ̹ŋsʰa̠ŋdo̞ a̠nino̞",
     "tokens": [
       {
         "text": "실제로도",
         "canonical": "실제로도",
-        "phoneme": "ɕʰiɭt͡ɕ͈e̞ɾo̞do̞",
+        "phoneme": "ɕʰiɭd͡ʑe̞ɾo̞do̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -51991,7 +51991,7 @@
     "split": "train",
     "text": "저건 프차문제 아님 동네 빵집들 가격 프차가격 맞추는 문제지",
     "canonical": "저건 프차문제 아님 동네 빵집들 가격 프차가격 맞추는 문제지",
-    "phonemes": "t͡ɕʌ̹ɡʌ̹n pʰɯt͡ɕʰa̠mund͡ʑe̞ a̠nim to̞ŋne̞ p͈a̠ŋt͡ɕ͈ip̚t͈ɯɭ ka̠ɡjʌ̹k̚ pʰɯt͡ɕʰa̠ɡa̠ɡjʌ̹k̚ ma̠t̚t͡ɕʰunɯn mund͡ʑe̞d͡ʑi",
+    "phonemes": "t͡ɕʌ̹ɡʌ̹n pʰɯt͡ɕʰa̠mund͡ʑe̞ a̠nim to̞ŋne̞ p͈a̠ŋd͡ʑip̚t͈ɯɭ ka̠ɡjʌ̹k̚ pʰɯt͡ɕʰa̠ɡa̠ɡjʌ̹k̚ ma̠t̚t͡ɕʰunɯn mund͡ʑe̞d͡ʑi",
     "tokens": [
       {
         "text": "저건",
@@ -52024,7 +52024,7 @@
       {
         "text": "빵집들",
         "canonical": "빵집들",
-        "phoneme": "p͈a̠ŋt͡ɕ͈ip̚t͈ɯɭ",
+        "phoneme": "p͈a̠ŋd͡ʑip̚t͈ɯɭ",
         "is_nc": false,
         "nc_type": null
       },
@@ -52806,7 +52806,7 @@
     "split": "train",
     "text": "가난 면하려면 자산 축적하는 시기 필요함 적어도 미성년자 사회 진출하기 전 본인 가져야 할 최소한 사회적 지위 얻어 놔야 하는 시기이기 때문에 아이 낳는 다는 게 말이 되지 않음 20대 초반부터 중반까지만 노는 것 줄이고 열심히 살면서 5천만원 정도 재산 모은 다면 앞으로 가난했던 과거보다 살기 굉장히 쉬운 환경이 조성이 됨 하지만 가난한 환경에서 자랐던 사람의 문제는 가난이 학습되어서 충동적이고 소비적인 삶의 방식 을 자신도 모르게 터득해서 계획적이고 미래지향적인 삶을 힘들어 함 위의 내가 말한 내용을 부모가 말을 해주면 좋겠지만 부모는 이런 미래지향적이고 계획적인 청사진을 자식에게 제시해주지 못",
     "canonical": "가난 면하려면 자산 축적하는 시기 필요함 적어도 미성년자 사회 진출하기 전 본인 가져야 할 최소한 사회적 지위 얻어 놔야 하는 시기이기 때문에 아이 낳는 다는 게 말이 되지 않음 20대 초반부터 중반까지만 노는 것 줄이고 열심히 살면서 5천만원 정도 재산 모은 다면 앞으로 가난했던 과거보다 살기 굉장히 쉬운 환경이 조성이 됨 하지만 가난한 환경에서 자랐던 사람의 문제는 가난이 학습되어서 충동적이고 소비적인 삶의 방식 을 자신도 모르게 터득해서 계획적이고 미래지향적인 삶을 힘들어 함 위의 내가 말한 내용을 부모가 말을 해주면 좋겠지만 부모는 이런 미래지향적이고 계획적인 청사진을 자식에게 제시해주지 못",
-    "phonemes": "ka̠na̠n mjʌ̹nɦa̠ɾjʌ̹mjʌ̹n t͡ɕa̠sʰa̠n t͡ɕʰuk̚t͡ɕ͈ʌ̹kʰa̠nɯn ɕʰiɡi pʰiɾjoɦa̠m ˈt͡ɕɘːɡʌ̹do̞ misʰʌ̹ŋɲjʌ̹nd͡ʑa̠ sʰa̠ɦø̞ t͡ɕint͡ɕʰuɭɦa̠ɡi t͡ɕʌ̹n po̞nin ka̠d͡ʑʌ̹ja̠ ha̠ɭ t͡ɕʰø̞sʰo̞ɦa̠n sʰa̠ɦø̞d͡ʑʌ̹k̚ t͡ɕiɥi ʌ̹dʌ̹ nwa̠ja̠ ha̠nɯn ɕʰiɡiiɡi t͈ɛ̝mune̞ a̠i na̠nnɯn ta̠nɯn ke̞ ma̠ɾi tø̞d͡ʑi a̠nɯm iɕʰip̚ t͈ɛ̝ t͡ɕʰo̞ba̠nbutʰʌ̹ t͡ɕuŋba̠nk͈a̠d͡ʑima̠n no̞nɯn kʌ̹t̚ t͡ɕuɾiɡo̞ jʌ̹ɭɕʰimʝi sʰa̠ɭmjʌ̹nsʰʌ̹ o̞ t͡ɕʰʌ̹nma̠nwʌ̹n t͡ɕʌ̹ŋdo̞ t͡ɕɛ̝sʰa̠n mo̞ɯn ta̠mjʌ̹n a̠pʰɯɾo̞ ka̠na̠nɦɛ̝t̚t͈ʌ̹n kwa̠ɡʌ̹boda̠ sʰa̠ɭɡi kø̞ŋd͡ʑa̠ŋʝi ʃʰɥiun ɸwa̠nɡjʌ̹ŋi t͡ɕo̞sʰʌ̹ŋi tø̞m ha̠d͡ʑima̠n ka̠na̠nɦa̠n ɸwa̠nɡjʌ̹ŋe̞sʰʌ̹ t͡ɕa̠ɾa̠t̚t͈ʌ̹n sʰa̠ɾa̠mɰi mund͡ʑe̞nɯn ka̠na̠ni ha̠ks͈ɯp̚t͈ø̞ʌ̹sʰʌ̹ t͡ɕʰuŋdo̞ŋd͡ʑʌ̹ɡiɡo̞ sʰo̞bid͡ʑʌ̹ɡin sʰa̠ɭmi pa̠ŋɕʰik̚ ɯɭ t͡ɕa̠ɕʰindo̞ mo̞ɾɯɡe̞ tʰʌ̹dɯkʰɛ̝sʰʌ̹ kje̞ɦø̞k̚t͡ɕ͈ʌ̹ɡiɡo̞ miɾɛ̝d͡ʑiʝja̠ŋd͡ʑʌ̹ɡin sʰa̠ɭmɯɭ çimdɯɾʌ̹ ha̠m ɥiɰi nɛ̝ɡa̠ ma̠ɾɦa̠n nɛ̝joŋɯɭ pumo̞ɡa̠ ma̠ɾɯɭ hɛ̝d͡ʑumjʌ̹n t͡ɕo̞kʰe̞t̚t͡ɕ͈ima̠n pumo̞nɯn iɾʌ̹n miɾɛ̝d͡ʑiʝja̠ŋd͡ʑʌ̹ɡiɡo̞ kje̞ɦø̞k̚t͡ɕ͈ʌ̹ɡin t͡ɕʰʌ̹ŋsʰa̠d͡ʑinɯɭ t͡ɕa̠ɕʰiɡe̞ɡe̞ t͡ɕe̞ɕʰiɦɛ̝d͡ʑud͡ʑi mo̞t̚",
+    "phonemes": "ka̠na̠n mjʌ̹nɦa̠ɾjʌ̹mjʌ̹n t͡ɕa̠sʰa̠n t͡ɕʰuk̚t͡ɕ͈ʌ̹kʰa̠nɯn ɕʰiɡi pʰiɾjoɦa̠m ˈt͡ɕɘːɡʌ̹do̞ misʰʌ̹ŋɲjʌ̹nd͡ʑa̠ sʰa̠ɦø̞ t͡ɕint͡ɕʰuɾɦa̠ɡi t͡ɕʌ̹n po̞nin ka̠d͡ʑʌ̹ja̠ ha̠ɭ t͡ɕʰø̞sʰo̞ɦa̠n sʰa̠ɦø̞d͡ʑʌ̹k̚ t͡ɕiɥi ʌ̹dʌ̹ nwa̠ja̠ ha̠nɯn ɕʰiɡiiɡi t͈ɛ̝mune̞ a̠i na̠nnɯn ta̠nɯn ke̞ ma̠ɾi tø̞d͡ʑi a̠nɯm iɕʰip̚ t͈ɛ̝ t͡ɕʰo̞ba̠nbutʰʌ̹ t͡ɕuŋba̠nk͈a̠d͡ʑima̠n no̞nɯn kʌ̹t̚ t͡ɕuɾiɡo̞ jʌ̹ɭɕʰimʝi sʰa̠ɭmjʌ̹nsʰʌ̹ o̞ t͡ɕʰʌ̹nma̠nwʌ̹n t͡ɕʌ̹ŋdo̞ t͡ɕɛ̝sʰa̠n mo̞ɯn ta̠mjʌ̹n a̠pʰɯɾo̞ ka̠na̠nɦɛ̝t̚t͈ʌ̹n kwa̠ɡʌ̹boda̠ sʰa̠ɭɡi kø̞ŋd͡ʑa̠ŋʝi ʃʰɥiun ɸwa̠nɡjʌ̹ŋi t͡ɕo̞sʰʌ̹ŋi tø̞m ha̠d͡ʑima̠n ka̠na̠nɦa̠n ɸwa̠nɡjʌ̹ŋe̞sʰʌ̹ t͡ɕa̠ɾa̠t̚t͈ʌ̹n sʰa̠ɾa̠mɰi mund͡ʑe̞nɯn ka̠na̠ni ha̠ks͈ɯp̚t͈ø̞ʌ̹sʰʌ̹ t͡ɕʰuŋdo̞ŋd͡ʑʌ̹ɡiɡo̞ sʰo̞bid͡ʑʌ̹ɡin sʰa̠ɭmi pa̠ŋɕʰik̚ ɯɭ t͡ɕa̠ɕʰindo̞ mo̞ɾɯɡe̞ tʰʌ̹dɯkʰɛ̝sʰʌ̹ kje̞ɦø̞k̚t͡ɕ͈ʌ̹ɡiɡo̞ miɾɛ̝d͡ʑiʝja̠ŋd͡ʑʌ̹ɡin sʰa̠ɭmɯɭ çimdɯɾʌ̹ ha̠m ɥiɰi nɛ̝ɡa̠ ma̠ɾɦa̠n nɛ̝joŋɯɭ pumo̞ɡa̠ ma̠ɾɯɭ hɛ̝d͡ʑumjʌ̹n t͡ɕo̞kʰe̞t̚t͡ɕ͈ima̠n pumo̞nɯn iɾʌ̹n miɾɛ̝d͡ʑiʝja̠ŋd͡ʑʌ̹ɡiɡo̞ kje̞ɦø̞k̚t͡ɕ͈ʌ̹ɡin t͡ɕʰʌ̹ŋsʰa̠d͡ʑinɯɭ t͡ɕa̠ɕʰiɡe̞ɡe̞ t͡ɕe̞ɕʰiɦɛ̝d͡ʑud͡ʑi mo̞t̚",
     "tokens": [
       {
         "text": "가난",
@@ -52874,7 +52874,7 @@
       {
         "text": "진출하기",
         "canonical": "진출하기",
-        "phoneme": "t͡ɕint͡ɕʰuɭɦa̠ɡi",
+        "phoneme": "t͡ɕint͡ɕʰuɾɦa̠ɡi",
         "is_nc": false,
         "nc_type": null
       },
@@ -54059,7 +54059,7 @@
     "split": "train",
     "text": "K게임 출시하면 해당갤에 상주하면 짱숨 매출 비교하면서 망겜이라고 극딜박아 흥행 개박살 회사 멸망시켜 흡수합병 KPOP아이돌 짱깨라 처벌 안받는 점을 악용 패드립 섹드립 무차별폭격 스포츠영웅 국민 영웅이 탄생해서 국민들이 하나로 결집 못하도록 한국 영웅들끼리 이간질 싸움붙임",
     "canonical": "K게임 출시하면 해당갤에 상주하면 짱숨 매출 비교하면서 망겜이라고 극딜박아 흥행 개박살 회사 멸망시켜 흡수합병 KPOP아이돌 짱깨라 처벌 안받는 점을 악용 패드립 섹드립 무차별폭격 스포츠영웅 국민 영웅이 탄생해서 국민들이 하나로 결집 못하도록 한국 영웅들끼리 이간질 싸움붙임",
-    "phonemes": "kʰe̞iɡe̞im t͡ɕʰuɭɕ͈iɦa̠mjʌ̹n hɛ̝da̠ŋɡɛ̝ɾe̞ sʰa̠ŋd͡ʑuɦa̠mjʌ̹n t͡ɕ͈a̠ŋsʰum mɛ̝t͡ɕʰuɭ piɡjoɦa̠mjʌ̹nsʰʌ̹ ma̠ŋk͈e̞miɾa̠ɡo̞ kɯk̚t͈iɭba̠ɡa̠ xɯŋɦɛ̝ŋ kɛ̝ba̠ks͈a̠ɭ hø̞sʰa̠ mjʌ̹ɭma̠ŋɕʰikçjʌ̹ xɯps͈uɦa̠p̚p͈jʌ̹ŋ kʰe̞ipʰa̠ba̠ido̞ɭ t͡ɕ͈a̠ŋk͈ɛ̝ɾa̠ t͡ɕʰʌ̹bʌ̹ɭ a̠nba̠nnɯn t͡ɕʌ̹mɯɭ a̠ɡjoŋ pʰɛ̝dɯɾip̚ sʰe̞k̚t͈ɯɾip̚ mut͡ɕʰa̠bjʌ̹ɭpʰo̞k̚k͈jʌ̹k̚ sʰɯpʰo̞t͡ɕʰɯjʌ̹ŋuŋ kuŋmin jʌ̹ŋuŋi tʰa̠nsʰɛ̝ŋɦɛ̝sʰʌ̹ kuŋmindɯɾi ha̠na̠ɾo̞ kjʌ̹ɭd͡ʑip̚ mo̞tʰa̠do̞ɾo̞k̚ ha̠nɡuk̚ jʌ̹ŋuŋdɯɭk͈iɾi iɡa̠nd͡ʑiɭ s͈a̠umbut͡ɕʰim",
+    "phonemes": "kʰe̞iɡe̞im t͡ɕʰuɭɕʰiɦa̠mjʌ̹n hɛ̝da̠ŋɡɛ̝ɾe̞ sʰa̠ŋd͡ʑuɦa̠mjʌ̹n t͡ɕ͈a̠ŋsʰum mɛ̝t͡ɕʰuɭ piɡjoɦa̠mjʌ̹nsʰʌ̹ ma̠ŋk͈e̞miɾa̠ɡo̞ kɯk̚t͈iɭba̠ɡa̠ xɯŋɦɛ̝ŋ kɛ̝ba̠ks͈a̠ɭ hø̞sʰa̠ mjʌ̹ɭma̠ŋɕʰikçjʌ̹ xɯps͈uɦa̠p̚p͈jʌ̹ŋ kʰe̞ipʰa̠ba̠ido̞ɭ t͡ɕ͈a̠ŋk͈ɛ̝ɾa̠ t͡ɕʰʌ̹bʌ̹ɭ a̠nba̠nnɯn t͡ɕʌ̹mɯɭ a̠ɡjoŋ pʰɛ̝dɯɾip̚ sʰe̞k̚t͈ɯɾip̚ mut͡ɕʰa̠bjʌ̹ɭpʰo̞k̚k͈jʌ̹k̚ sʰɯpʰo̞t͡ɕʰɯjʌ̹ŋuŋ kuŋmin jʌ̹ŋuŋi tʰa̠nsʰɛ̝ŋɦɛ̝sʰʌ̹ kuŋmindɯɾi ha̠na̠ɾo̞ kjʌ̹ɭd͡ʑip̚ mo̞tʰa̠do̞ɾo̞k̚ ha̠nɡuk̚ jʌ̹ŋuŋdɯɭk͈iɾi iɡa̠nd͡ʑiɭ s͈a̠umbut͡ɕʰim",
     "tokens": [
       {
         "text": "K게임",
@@ -54071,7 +54071,7 @@
       {
         "text": "출시하면",
         "canonical": "출시하면",
-        "phoneme": "t͡ɕʰuɭɕ͈iɦa̠mjʌ̹n",
+        "phoneme": "t͡ɕʰuɭɕʰiɦa̠mjʌ̹n",
         "is_nc": false,
         "nc_type": null
       },
@@ -56010,7 +56010,7 @@
     "split": "train",
     "text": "선관위가 투표지 스캔 파일 지운건 지우지 말라는 법은 봐주자 원본 증거인멸행위 확인 수개표 해보니까 주작투표지가 백개 무효처리 제외하면 나머지는 위조 투표 용지 300장 참관인들의 불법으로 방해했지만 선관위는 그런데가 아닐텐데 선관위의 불법",
     "canonical": "선관위가 투표지 스캔 파일 지운건 지우지 말라는 법은 봐주자 원본 증거인멸행위 확인 수개표 해보니까 주작투표지가 백개 무효처리 제외하면 나머지는 위조 투표 용지 300장 참관인들의 불법으로 방해했지만 선관위는 그런데가 아닐텐데 선관위의 불법",
-    "phonemes": "sʰʌ̹nɡwa̠nɥiɡa̠ tʰupʰjod͡ʑi sʰɯkʰɛ̝n pʰa̠iɭ t͡ɕiunɡʌ̹n t͡ɕiud͡ʑi ma̠ɭɭa̠nɯn pʌ̹bɯn pwa̠d͡ʑud͡ʑa̠ wʌ̹nbo̞n t͡ɕɯŋɡʌ̹inmjʌ̹ɭɦɛ̝ŋɥi ɸwa̠ɡin sʰuɡɛ̝pʰjo hɛ̝bo̞nik͈a̠ t͡ɕud͡ʑa̠k̚tʰupʰjod͡ʑiɡa̠ pɛ̝k̚k͈ɛ̝ muʝjot͡ɕʰʌ̹ɾi t͡ɕe̞ø̞ɦa̠mjʌ̹n na̠mʌ̹d͡ʑinɯn ɥid͡ʑo̞ tʰupʰjo joŋd͡ʑi sʰa̠mbɛ̝k̚ t͡ɕ͈a̠ŋ t͡ɕʰa̠mɡwa̠nindɯɾi puɭbʌ̹bɯɾo̞ pa̠ŋɦɛ̝t̚t͡ɕ͈ima̠n sʰʌ̹nɡwa̠nɥinɯn kɯɾʌ̹nde̞ɡa̠ a̠niɭtʰe̞nde̞ sʰʌ̹nɡwa̠nɥiɰi puɭbʌ̹p̚",
+    "phonemes": "sʰʌ̹nɡwa̠nɥiɡa̠ tʰupʰjod͡ʑi sʰɯkʰɛ̝n pʰa̠iɭ t͡ɕiunɡʌ̹n t͡ɕiud͡ʑi ma̠ɭɭa̠nɯn pʌ̹bɯn pwa̠d͡ʑud͡ʑa̠ wʌ̹nbo̞n t͡ɕɯŋɡʌ̹inmjʌ̹ɾɦɛ̝ŋɥi ɸwa̠ɡin sʰuɡɛ̝pʰjo hɛ̝bo̞nik͈a̠ t͡ɕud͡ʑa̠k̚tʰupʰjod͡ʑiɡa̠ pɛ̝k̚k͈ɛ̝ muʝjot͡ɕʰʌ̹ɾi t͡ɕe̞ø̞ɦa̠mjʌ̹n na̠mʌ̹d͡ʑinɯn ɥid͡ʑo̞ tʰupʰjo joŋd͡ʑi sʰa̠mbɛ̝k̚ t͡ɕ͈a̠ŋ t͡ɕʰa̠mɡwa̠nindɯɾɰi puɭbʌ̹bɯɾo̞ pa̠ŋɦɛ̝ɦɛ̝t̚t͡ɕ͈ima̠n sʰʌ̹nɡwa̠nɥinɯn kɯɾʌ̹nde̞ɡa̠ a̠niɭtʰe̞nde̞ sʰʌ̹nɡwa̠nɥiɰi puɭbʌ̹p̚",
     "tokens": [
       {
         "text": "선관위가",
@@ -56085,7 +56085,7 @@
       {
         "text": "증거인멸행위",
         "canonical": "증거인멸행위",
-        "phoneme": "t͡ɕɯŋɡʌ̹inmjʌ̹ɭɦɛ̝ŋɥi",
+        "phoneme": "t͡ɕɯŋɡʌ̹inmjʌ̹ɾɦɛ̝ŋɥi",
         "is_nc": false,
         "nc_type": null
       },
@@ -56176,7 +56176,7 @@
       {
         "text": "참관인들의",
         "canonical": "참관인들의",
-        "phoneme": "t͡ɕʰa̠mɡwa̠nindɯɾi",
+        "phoneme": "t͡ɕʰa̠mɡwa̠nindɯɾɰi",
         "is_nc": false,
         "nc_type": null
       },
@@ -56190,7 +56190,7 @@
       {
         "text": "방해했지만",
         "canonical": "방해했지만",
-        "phoneme": "pa̠ŋɦɛ̝t̚t͡ɕ͈ima̠n",
+        "phoneme": "pa̠ŋɦɛ̝ɦɛ̝t̚t͡ɕ͈ima̠n",
         "is_nc": false,
         "nc_type": null
       },
@@ -56238,7 +56238,7 @@
     "split": "train",
     "text": "시진핑 한국 충실한 애완견",
     "canonical": "시진핑 한국 충실한 애완견",
-    "phonemes": "ɕʰid͡ʑinpʰiŋ ha̠nɡuk̚ t͡ɕʰuŋɕʰiɭɦa̠n ɛ̝wa̠nɡjʌ̹n",
+    "phonemes": "ɕʰid͡ʑinpʰiŋ ha̠nɡuk̚ t͡ɕʰuŋɕʰiɾɦa̠n ɛ̝wa̠nɡjʌ̹n",
     "tokens": [
       {
         "text": "시진핑",
@@ -56257,7 +56257,7 @@
       {
         "text": "충실한",
         "canonical": "충실한",
-        "phoneme": "t͡ɕʰuŋɕʰiɭɦa̠n",
+        "phoneme": "t͡ɕʰuŋɕʰiɾɦa̠n",
         "is_nc": false,
         "nc_type": null
       },
@@ -57070,7 +57070,7 @@
     "split": "train",
     "text": "사실상 칰새끼들 한테 박고싶었던 욕이었을듯",
     "canonical": "사실상 칰새끼들 한테 박고싶었던 욕이었을듯",
-    "phonemes": "sʰa̠ɕʰiɭsʰa̠ŋ kçit̚s͈ɛ̝k͈idɯɭ ha̠ntʰe̞ pa̠k̚k͈o̞ɕʰipʰʌ̹t̚t͈ʌ̹n joɡiʌ̹s͈ɯɭt͈ɯt̚",
+    "phonemes": "sʰa̠ɕʰiɭsʰa̠ŋ t͡ɕʰik̚s͈ɛ̝k͈idɯɭ ha̠ntʰe̞ pa̠k̚k͈o̞ɕʰipʰʌ̹t̚t͈ʌ̹n joɡiʌ̹s͈ɯɭt͈ɯt̚",
     "tokens": [
       {
         "text": "사실상",
@@ -57082,7 +57082,7 @@
       {
         "text": "칰새끼들",
         "canonical": "칰새끼들",
-        "phoneme": "kçit̚s͈ɛ̝k͈idɯɭ",
+        "phoneme": "t͡ɕʰik̚s͈ɛ̝k͈idɯɭ",
         "is_nc": false,
         "nc_type": null
       },
@@ -60682,7 +60682,7 @@
     "split": "train",
     "text": "저때 당시 보수정권 장관머시기 관리자 없었당가 그러면 무조건 정부탓 아녀 우리 를 감시못한 니들 탓이랑께 예산 어디다 썼겄지 감시잘하지 그랬서 허이구 나랏님들 이 참 억지만부리니",
     "canonical": "저때 당시 보수정권 장관머시기 관리자 없었당가 그러면 무조건 정부탓 아녀 우리 를 감시못한 니들 탓이랑께 예산 어디다 썼겄지 감시잘하지 그랬서 허이구 나랏님들 이 참 억지만부리니",
-    "phonemes": "t͡ɕʌ̹t͈ɛ̝ ta̠ŋɕʰi po̞sʰud͡ʑʌ̹ŋk͈wʌ̹n t͡ɕa̠ŋɡwa̠nmʌ̹ɕʰiɡi kwa̠ɭʎid͡ʑa̠ ʌ̹ps͈ʌ̹t̚t͈a̠ŋɡa̠ kɯɾʌ̹mjʌ̹n mud͡ʑo̞ɡʌ̹n t͡ɕʌ̹ŋbutʰa̠t̚ a̠ɲjʌ̹ uɾi ɾɯɭ ka̠mɕʰimo̞tʰa̠n nidɯɭ tʰa̠ɕʰiɾa̠ŋk͈e̞ je̞sʰa̠n ʌ̹dida̠ s͈ʌ̹t̚k͈ʌ̹t̚t͡ɕ͈i ka̠mɕʰid͡ʑa̠ɭɦa̠d͡ʑi kɯɾɛ̝t̚s͈ʌ̹ hʌ̹iɡu na̠ɾa̠nnimdɯɭ i t͡ɕʰa̠m ʌ̹k̚t͡ɕ͈ima̠nbuɾini",
+    "phonemes": "t͡ɕʌ̹t͈ɛ̝ ta̠ŋɕʰi po̞sʰud͡ʑʌ̹ŋɡwʌ̹n t͡ɕa̠ŋɡwa̠nmʌ̹ɕʰiɡi kwa̠ɭʎid͡ʑa̠ ʌ̹ps͈ʌ̹t̚t͈a̠ŋɡa̠ kɯɾʌ̹mjʌ̹n mud͡ʑo̞ɡʌ̹n t͡ɕʌ̹ŋbutʰa̠t̚ a̠ɲjʌ̹ uɾi ɾɯɭ ka̠mɕʰimo̞tʰa̠n nidɯɭ tʰa̠ɕʰiɾa̠ŋk͈e̞ je̞sʰa̠n ʌ̹dida̠ s͈ʌ̹t̚k͈ʌ̹t̚t͡ɕ͈i ka̠mɕʰid͡ʑa̠ɾɦa̠d͡ʑi kɯɾɛ̝t̚s͈ʌ̹ hʌ̹iɡu na̠ɾa̠nnimdɯɭ i t͡ɕʰa̠m ʌ̹k̚t͡ɕ͈ima̠nbuɾini",
     "tokens": [
       {
         "text": "저때",
@@ -60701,7 +60701,7 @@
       {
         "text": "보수정권",
         "canonical": "보수정권",
-        "phoneme": "po̞sʰud͡ʑʌ̹ŋk͈wʌ̹n",
+        "phoneme": "po̞sʰud͡ʑʌ̹ŋɡwʌ̹n",
         "is_nc": false,
         "nc_type": null
       },
@@ -60813,7 +60813,7 @@
       {
         "text": "감시잘하지",
         "canonical": "감시잘하지",
-        "phoneme": "ka̠mɕʰid͡ʑa̠ɭɦa̠d͡ʑi",
+        "phoneme": "ka̠mɕʰid͡ʑa̠ɾɦa̠d͡ʑi",
         "is_nc": false,
         "nc_type": null
       },
@@ -60914,7 +60914,7 @@
     "split": "train",
     "text": "손오반비스트 이새끼 신의한수드래곤볼 브로리 작화 전투장면 예쑬",
     "canonical": "손오반비스트 이새끼 신의한수드래곤볼 브로리 작화 전투장면 예쑬",
-    "phonemes": "sʰo̞no̞ba̠nbisʰɯtʰɯ isʰɛ̝k͈i ɕʰine̞ɦa̠nsʰudɯɾɛ̝ɡo̞nbo̞ɭ pɯɾo̞ɾi t͡ɕa̠kʰwa̠ t͡ɕʌ̹ntʰud͡ʑa̠ŋmjʌ̹n je̞s͈uɭ",
+    "phonemes": "sʰo̞no̞ba̠nbisʰɯtʰɯ isʰɛ̝k͈i ɕʰinɰiɦa̠nsʰudɯɾɛ̝ɡo̞nbo̞ɭ pɯɾo̞ɾi t͡ɕa̠kʰwa̠ t͡ɕʌ̹ntʰud͡ʑa̠ŋmjʌ̹n je̞s͈uɭ",
     "tokens": [
       {
         "text": "손오반비스트",
@@ -60933,7 +60933,7 @@
       {
         "text": "신의한수드래곤볼",
         "canonical": "신의한수드래곤볼",
-        "phoneme": "ɕʰine̞ɦa̠nsʰudɯɾɛ̝ɡo̞nbo̞ɭ",
+        "phoneme": "ɕʰinɰiɦa̠nsʰudɯɾɛ̝ɡo̞nbo̞ɭ",
         "is_nc": false,
         "nc_type": null
       },
@@ -61395,7 +61395,7 @@
     "split": "train",
     "text": "초딩때 살아남기 시리즈 재밌었는데",
     "canonical": "초딩때 살아남기 시리즈 재밌었는데",
-    "phonemes": "t͡ɕʰo̞diŋt͈ɛ̝ sʰa̠ɾa̠na̠mk͈i ɕʰiɾid͡ʑɯ t͡ɕɛ̝mis͈ʌ̹nnɯnde̞",
+    "phonemes": "t͡ɕʰo̞diŋt͈ɛ̝ sʰa̠ɾa̠na̠mɡi ɕʰiɾid͡ʑɯ t͡ɕɛ̝mis͈ʌ̹nnɯnde̞",
     "tokens": [
       {
         "text": "초딩때",
@@ -61407,7 +61407,7 @@
       {
         "text": "살아남기",
         "canonical": "살아남기",
-        "phoneme": "sʰa̠ɾa̠na̠mk͈i",
+        "phoneme": "sʰa̠ɾa̠na̠mɡi",
         "is_nc": false,
         "nc_type": null
       },
@@ -65332,12 +65332,12 @@
     "split": "train",
     "text": "반일선동하다 한국인 없다 일본 민좆당 의원님들 편하다 눈치 안 보다 부동산 사다 골프 치다 스시 먹다 하다",
     "canonical": "반일선동하다 한국인 없다 일본 민좆당 의원님들 편하다 눈치 안 보다 부동산 사다 골프 치다 스시 먹다 하다",
-    "phonemes": "pa̠niɭs͈ʌ̹ndo̞ŋɦa̠da̠ ha̠nɡuɡin ˈɘːp̚t͈a̠ iɭbo̞n mind͡ʑo̞t̚t͈a̠ŋ ɰiwʌ̹nnimdɯɭ pʰjʌ̹nɦa̠da̠ nunt͡ɕʰi a̠n po̞da̠ pudo̞ŋsʰa̠n sʰa̠da̠ ko̞ɭpʰɯ t͡ɕʰida̠ sʰɯɕʰi mʌ̹k̚t͈a̠ ha̠da̠",
+    "phonemes": "pa̠niɭsʰʌ̹ndo̞ŋɦa̠da̠ ha̠nɡuɡin ˈɘːp̚t͈a̠ iɭbo̞n mind͡ʑo̞t̚t͈a̠ŋ ɰiwʌ̹nnimdɯɭ pʰjʌ̹nɦa̠da̠ nunt͡ɕʰi a̠n po̞da̠ pudo̞ŋsʰa̠n sʰa̠da̠ ko̞ɭpʰɯ t͡ɕʰida̠ sʰɯɕʰi mʌ̹k̚t͈a̠ ha̠da̠",
     "tokens": [
       {
         "text": "반일선동하다",
         "canonical": "반일선동하다",
-        "phoneme": "pa̠niɭs͈ʌ̹ndo̞ŋɦa̠da̠",
+        "phoneme": "pa̠niɭsʰʌ̹ndo̞ŋɦa̠da̠",
         "is_nc": false,
         "nc_type": null
       },
@@ -66164,12 +66164,12 @@
     "split": "train",
     "text": "실수령 머기업 임원급 계약직 임원 아부지 그정도",
     "canonical": "실수령 머기업 임원급 계약직 임원 아부지 그정도",
-    "phonemes": "ɕʰiɭs͈uɾjʌ̹ŋ mʌ̹ɡiʌ̹p̚ imwʌ̹nɡɯp̚ kje̞ja̠k̚t͡ɕ͈ik̚ imwʌ̹n a̠bud͡ʑi kɯd͡ʑʌ̹ŋdo̞",
+    "phonemes": "ɕʰiɭsʰuɾjʌ̹ŋ mʌ̹ɡiʌ̹p̚ imwʌ̹nɡɯp̚ kje̞ja̠k̚t͡ɕ͈ik̚ imwʌ̹n a̠bud͡ʑi kɯd͡ʑʌ̹ŋdo̞",
     "tokens": [
       {
         "text": "실수령",
         "canonical": "실수령",
-        "phoneme": "ɕʰiɭs͈uɾjʌ̹ŋ",
+        "phoneme": "ɕʰiɭsʰuɾjʌ̹ŋ",
         "is_nc": false,
         "nc_type": null
       },
@@ -67481,7 +67481,7 @@
     "split": "train",
     "text": "개재밌어요 ㅎ하ㅏ하하하ㅋㅋㅋㅋㅋㅋㅋ",
     "canonical": "개재밌어요 하하하하하크크크크크크크",
-    "phonemes": "kɛ̝d͡ʑɛ̝mis͈ʌ̹jo ha̠ha̠ha̠ha̠ha̠kxɯkxɯkxɯkxɯkxɯkxɯkxɯ",
+    "phonemes": "kɛ̝d͡ʑɛ̝mis͈ʌ̹jo ha̠ɦa̠ɦa̠ɦa̠ɦa̠kxɯkxɯkxɯkxɯkxɯkxɯkxɯ",
     "tokens": [
       {
         "text": "개재밌어요",
@@ -67493,7 +67493,7 @@
       {
         "text": "ㅎ하ㅏ하하하ㅋㅋㅋㅋㅋㅋㅋ",
         "canonical": "하하하하하크크크크크크크,하하하하하키키키키키키키,하하하하하킥킥킥킥킥킥킥",
-        "phoneme": "ha̠ha̠ha̠ha̠ha̠kxɯkxɯkxɯkxɯkxɯkxɯkxɯ,ha̠ha̠ha̠ha̠ha̠kçikçikçikçikçikçikçi,ha̠ha̠ha̠ha̠ha̠kçik̚kçik̚kçik̚kçik̚kçik̚kçik̚kçik̚",
+        "phoneme": "ha̠ɦa̠ɦa̠ɦa̠ɦa̠kxɯkxɯkxɯkxɯkxɯkxɯkxɯ,ha̠ɦa̠ɦa̠ɦa̠ɦa̠kçikçikçikçikçikçikçi,ha̠ɦa̠ɦa̠ɦa̠ɦa̠kçik̚kçik̚kçik̚kçik̚kçik̚kçik̚kçik̚",
         "is_nc": true,
         "nc_type": "B2"
       }
@@ -67538,7 +67538,7 @@
     "split": "train",
     "text": "미국 차량개조 와이드하다 이기 한국 2년마자 정기검사해대고 통과못하면 불합격받은데서만 죽어라 검사해야됨 국민일원 주민번호 지문 데이터베이스 넣어 개같이 찰지게 관리하자 경찰국 번호판만치면 소유주 가족관계증명서 발급도 가능함 이런게 몸안사리고 폭주하겠노 늬미는 좆소기업하나 가는데도 범죄이력과 사돈의 팔촌 가족간계증명서 떼어오라는데가 한국이다",
     "canonical": "미국 차량개조 와이드하다 이기 한국 2년마자 정기검사해대고 통과못하면 불합격받은데서만 죽어라 검사해야됨 국민일원 주민번호 지문 데이터베이스 넣어 개같이 찰지게 관리하자 경찰국 번호판만치면 소유주 가족관계증명서 발급도 가능함 이런게 몸안사리고 폭주하겠노 늬미는 좆소기업하나 가는데도 범죄이력과 사돈의 팔촌 가족간계증명서 떼어오라는데가 한국이다",
-    "phonemes": "miɡuk̚ t͡ɕʰa̠ɾja̠ŋɡɛ̝d͡ʑo̞ wa̠idɯɦa̠da̠ iɡi ha̠nɡuk̚ i ɲjʌ̹nma̠d͡ʑa̠ t͡ɕʌ̹ŋɡiɡʌ̹msʰa̠ɦɛ̝dɛ̝ɡo̞ tʰo̞ŋɡwa̠mo̞tʰa̠mjʌ̹n puɭɦa̠p̚k͈jʌ̹k̚p͈a̠dɯnde̞sʰʌ̹ma̠n t͡ɕuɡʌ̹ɾa̠ kʌ̹msʰa̠ɦɛ̝ja̠dø̞m kuŋminiɾwʌ̹n t͡ɕuminbʌ̹nβo̞ t͡ɕimun te̞itʰʌ̹be̞isʰɯ nʌ̹ʌ̹ kɛ̝ɡa̠t͡ɕʰi t͡ɕʰa̠ɭd͡ʑiɡe̞ kwa̠ɭʎiɦa̠d͡ʑa̠ kjʌ̹ŋt͡ɕʰa̠ɭɡuk̚ pʌ̹nβo̞pʰa̠nma̠nt͡ɕʰimjʌ̹n sʰo̞jud͡ʑu ka̠d͡ʑo̞k̚k͈wa̠nɡje̞d͡ʑɯŋmjʌ̹ŋsʰʌ̹ pa̠ɭɡɯp̚t͈o̞ ka̠nɯŋɦa̠m iɾʌ̹nɡe̞ mo̞ma̠nsʰa̠ɾiɡo̞ pʰo̞k̚t͡ɕ͈uɦa̠ɡe̞nno̞ niminɯn t͡ɕo̞t̚s͈o̞ɡiʌ̹pʰa̠na̠ ka̠nɯnde̞do̞ pʌ̹md͡ʑø̞iɾjʌ̹k̚k͈wa̠ sʰa̠do̞ne̞ pʰa̠ɭt͡ɕʰo̞n ka̠d͡ʑo̞k̚k͈a̠nɡje̞d͡ʑɯŋmjʌ̹ŋsʰʌ̹ t͈e̞ʌ̹o̞ɾa̠nɯnde̞ɡa̠ ha̠nɡuɡida̠",
+    "phonemes": "miɡuk̚ t͡ɕʰa̠ɾja̠ŋɡɛ̝d͡ʑo̞ wa̠idɯɦa̠da̠ iɡi ha̠nɡuk̚ i ɲjʌ̹nma̠d͡ʑa̠ t͡ɕʌ̹ŋɡiɡʌ̹msʰa̠ɦɛ̝dɛ̝ɡo̞ tʰo̞ŋɡwa̠mo̞tʰa̠mjʌ̹n puɾɦa̠p̚k͈jʌ̹k̚p͈a̠dɯnde̞sʰʌ̹ma̠n t͡ɕuɡʌ̹ɾa̠ kʌ̹msʰa̠ɦɛ̝ja̠dø̞m kuŋminiɾwʌ̹n t͡ɕuminbʌ̹nβo̞ t͡ɕimun te̞itʰʌ̹be̞isʰɯ nʌ̹ʌ̹ kɛ̝ɡa̠t͡ɕʰi t͡ɕʰa̠ɭd͡ʑiɡe̞ kwa̠ɭʎiɦa̠d͡ʑa̠ kjʌ̹ŋt͡ɕʰa̠ɭɡuk̚ pʌ̹nβo̞pʰa̠nma̠nt͡ɕʰimjʌ̹n sʰo̞jud͡ʑu ka̠d͡ʑo̞k̚k͈wa̠nɡje̞d͡ʑɯŋmjʌ̹ŋsʰʌ̹ pa̠ɭɡɯp̚t͈o̞ ka̠nɯŋɦa̠m iɾʌ̹nɡe̞ mo̞ma̠nsʰa̠ɾiɡo̞ pʰo̞k̚t͡ɕ͈uɦa̠ɡe̞nno̞ niminɯn t͡ɕo̞t̚s͈o̞ɡiʌ̹pʰa̠na̠ ka̠nɯnde̞do̞ pʌ̹md͡ʑø̞iɾjʌ̹k̚k͈wa̠ sʰa̠do̞nɰi pʰa̠ɭt͡ɕʰo̞n ka̠d͡ʑo̞k̚k͈a̠nɡje̞d͡ʑɯŋmjʌ̹ŋsʰʌ̹ t͈e̞ʌ̹o̞ɾa̠nɯnde̞ɡa̠ ha̠nɡuɡida̠",
     "tokens": [
       {
         "text": "미국",
@@ -67599,7 +67599,7 @@
       {
         "text": "불합격받은데서만",
         "canonical": "불합격받은데서만",
-        "phoneme": "puɭɦa̠p̚k͈jʌ̹k̚p͈a̠dɯnde̞sʰʌ̹ma̠n",
+        "phoneme": "puɾɦa̠p̚k͈jʌ̹k̚p͈a̠dɯnde̞sʰʌ̹ma̠n",
         "is_nc": false,
         "nc_type": null
       },
@@ -67767,7 +67767,7 @@
       {
         "text": "사돈의",
         "canonical": "사돈의",
-        "phoneme": "sʰa̠do̞ne̞",
+        "phoneme": "sʰa̠do̞nɰi",
         "is_nc": false,
         "nc_type": null
       },
@@ -68789,7 +68789,7 @@
     "split": "train",
     "text": "반대로 뒤집어 말해도 애초에 학부모 학년 대표 쯤 되는 거물 이었으면 자연스럽게 명품백 이미 여러개 있었거나 그게 아니어도 제법 부리고 다닐만한게 충분히 있었으므로 저러한 문제가 될게 아무것도 없었음 저기서 잡음이 튀어나온다는건 그 만큼 잡음의 요소가 있었다는 얘기임 말했듯 원인은 자체에 있으므로 뿌리를 바꿀 수 없으니 가지를 치는게 빠름",
     "canonical": "반대로 뒤집어 말해도 애초에 학부모 학년 대표 쯤 되는 거물 이었으면 자연스럽게 명품백 이미 여러개 있었거나 그게 아니어도 제법 부리고 다닐만한게 충분히 있었으므로 저러한 문제가 될게 아무것도 없었음 저기서 잡음이 튀어나온다는건 그 만큼 잡음의 요소가 있었다는 얘기임 말했듯 원인은 자체에 있으므로 뿌리를 바꿀 수 없으니 가지를 치는게 빠름",
-    "phonemes": "pa̠ndɛ̝ɾo̞ tɥid͡ʑibʌ̹ ma̠ɭɦɛ̝do̞ ɛ̝t͡ɕʰo̞e̞ ha̠k̚p͈umo̞ ha̠ŋɲjʌ̹n tɛ̝pʰjo t͡ɕ͈ɯm tø̞nɯn kʌ̹muɭ iʌ̹s͈ɯmjʌ̹n t͡ɕa̠jʌ̹nsʰɯɾʌ̹p̚k͈e̞ mjʌ̹ŋpʰumbɛ̝k̚ imi jʌ̹ɾʌ̹ɡɛ̝ is͈ʌ̹t̚k͈ʌ̹na̠ kɯɡe̞ a̠niʌ̹do̞ t͡ɕe̞bʌ̹p̚ puɾiɡo̞ ta̠niɭma̠nɦa̠nɡe̞ t͡ɕʰuŋbunʝi is͈ʌ̹s͈ɯmɯɾo̞ t͡ɕʌ̹ɾʌ̹ɦa̠n mund͡ʑe̞ɡa̠ tø̞ɭk͈e̞ a̠muɡʌ̹t̚t͈o̞ ʌ̹ps͈ʌ̹s͈ɯm t͡ɕʌ̹ɡisʰʌ̹ t͡ɕa̠bɯmi tʰɥiʌ̹na̠o̞nda̠nɯnɡʌ̹n kɯ ma̠nkxɯm t͡ɕa̠bɯmɰi josʰo̞ɡa̠ is͈ʌ̹t̚t͈a̠nɯn jɛ̝ɡiim ma̠ɭɦɛ̝t̚t͈ɯt̚ wʌ̹ninɯn t͡ɕa̠t͡ɕʰe̞e̞ is͈ɯmɯɾo̞ p͈uɾiɾɯɭ pa̠k͈uɭ sʰu ʌ̹ps͈ɯni ka̠d͡ʑiɾɯɭ t͡ɕʰinɯnɡe̞ p͈a̠ɾɯm",
+    "phonemes": "pa̠ndɛ̝ɾo̞ tɥid͡ʑibʌ̹ ma̠ɾɦɛ̝do̞ ɛ̝t͡ɕʰo̞e̞ ha̠k̚p͈umo̞ ha̠ŋɲjʌ̹n tɛ̝pʰjo t͡ɕ͈ɯm tø̞nɯn kʌ̹muɭ iʌ̹s͈ɯmjʌ̹n t͡ɕa̠jʌ̹nsʰɯɾʌ̹p̚k͈e̞ mjʌ̹ŋpʰumbɛ̝k̚ imi jʌ̹ɾʌ̹ɡɛ̝ is͈ʌ̹t̚k͈ʌ̹na̠ kɯɡe̞ a̠niʌ̹do̞ t͡ɕe̞bʌ̹p̚ puɾiɡo̞ ta̠niɭma̠nɦa̠nɡe̞ t͡ɕʰuŋbunʝi is͈ʌ̹s͈ɯmɯɾo̞ t͡ɕʌ̹ɾʌ̹ɦa̠n mund͡ʑe̞ɡa̠ tø̞ɭk͈e̞ a̠muɡʌ̹t̚t͈o̞ ʌ̹ps͈ʌ̹s͈ɯm t͡ɕʌ̹ɡisʰʌ̹ t͡ɕa̠bɯmi tʰɥiʌ̹na̠o̞nda̠nɯnɡʌ̹n kɯ ma̠nkxɯm t͡ɕa̠bɯmɰi josʰo̞ɡa̠ is͈ʌ̹t̚t͈a̠nɯn jɛ̝ɡiim ma̠ɾɦɛ̝t̚t͈ɯt̚ wʌ̹ninɯn t͡ɕa̠t͡ɕʰe̞e̞ is͈ɯmɯɾo̞ p͈uɾiɾɯɭ pa̠k͈uɭ sʰu ʌ̹ps͈ɯni ka̠d͡ʑiɾɯɭ t͡ɕʰinɯnɡe̞ p͈a̠ɾɯm",
     "tokens": [
       {
         "text": "반대로",
@@ -68808,7 +68808,7 @@
       {
         "text": "말해도",
         "canonical": "말해도",
-        "phoneme": "ma̠ɭɦɛ̝do̞",
+        "phoneme": "ma̠ɾɦɛ̝do̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -69053,7 +69053,7 @@
       {
         "text": "말했듯",
         "canonical": "말했듯",
-        "phoneme": "ma̠ɭɦɛ̝t̚t͈ɯt̚",
+        "phoneme": "ma̠ɾɦɛ̝t̚t͈ɯt̚",
         "is_nc": false,
         "nc_type": null
       },
@@ -69633,7 +69633,7 @@
     "split": "train",
     "text": "개대중이 벗겨놨으면 또 팡주폭동 일어났다 ㅋ전라도씨발롬들 우덜식풍자",
     "canonical": "개대중이 벗겨놨으면 또 팡주폭동 일어났다 크전라도씨발롬들 우덜식풍자",
-    "phonemes": "kɛ̝dɛ̝d͡ʑuŋi pʌ̹t̚k͈jʌ̹nwa̠s͈ɯmjʌ̹n t͈o̞ pʰa̠ŋd͡ʑupʰo̞k̚t͈o̞ŋ iɾʌ̹na̠t̚t͈a̠ kxɯt͡ɕʌ̹ɭɭa̠do̞ɕ͈iba̠ɭɭo̞mdɯɭ udʌ̹ɭɕ͈ik̚pʰuŋd͡ʑa̠",
+    "phonemes": "kɛ̝dɛ̝d͡ʑuŋi pʌ̹t̚k͈jʌ̹nwa̠s͈ɯmjʌ̹n t͈o̞ pʰa̠ŋd͡ʑupʰo̞k̚t͈o̞ŋ iɾʌ̹na̠t̚t͈a̠ kxɯd͡ʑʌ̹ɭɭa̠do̞ɕ͈iba̠ɭɭo̞mdɯɭ udʌ̹ɭɕʰik̚pʰuŋd͡ʑa̠",
     "tokens": [
       {
         "text": "개대중이",
@@ -69673,14 +69673,14 @@
       {
         "text": "ㅋ전라도씨발롬들",
         "canonical": "크전라도씨발롬들,키전라도씨발롬들,킥전라도씨발롬들",
-        "phoneme": "kxɯt͡ɕʌ̹ɭɭa̠do̞ɕ͈iba̠ɭɭo̞mdɯɭ,kçit͡ɕʌ̹ɭɭa̠do̞ɕ͈iba̠ɭɭo̞mdɯɭ,kçik̚t͡ɕʌ̹ɭɭa̠do̞ɕ͈iba̠ɭɭo̞mdɯɭ",
+        "phoneme": "kxɯd͡ʑʌ̹ɭɭa̠do̞ɕ͈iba̠ɭɭo̞mdɯɭ,kçid͡ʑʌ̹ɭɭa̠do̞ɕ͈iba̠ɭɭo̞mdɯɭ,kçik̚d͡ʑʌ̹ɭɭa̠do̞ɕ͈iba̠ɭɭo̞mdɯɭ",
         "is_nc": true,
         "nc_type": "B2"
       },
       {
         "text": "우덜식풍자",
         "canonical": "우덜식풍자",
-        "phoneme": "udʌ̹ɭɕ͈ik̚pʰuŋd͡ʑa̠",
+        "phoneme": "udʌ̹ɭɕʰik̚pʰuŋd͡ʑa̠",
         "is_nc": true,
         "nc_type": "C1"
       }
@@ -69753,7 +69753,7 @@
     "split": "train",
     "text": "존나 이쁜 ㄷㅔ",
     "canonical": "존나 이쁜 데",
-    "phonemes": "t͡ɕo̞nna̠ ip͈ɯn de̞",
+    "phonemes": "t͡ɕo̞nna̠ ip͈ɯn te̞",
     "tokens": [
       {
         "text": "존나",
@@ -69772,7 +69772,7 @@
       {
         "text": "ㄷㅔ",
         "canonical": "데",
-        "phoneme": "de̞",
+        "phoneme": "te̞",
         "is_nc": true,
         "nc_type": "C1"
       }
@@ -70648,7 +70648,7 @@
     "split": "train",
     "text": "나는 어미새 새끼 품고 있는 모습 이 귀엽게 느껴지더라",
     "canonical": "나는 어미새 새끼 품고 있는 모습 이 귀엽게 느껴지더라",
-    "phonemes": "na̠nɯn ʌ̹misʰɛ̝ sʰɛ̝k͈i pʰumk͈o̞ innɯn mo̞sʰɯp̚ i kɥijʌ̹p̚k͈e̞ nɯk͈jʌ̹d͡ʑidʌ̹ɾa̠",
+    "phonemes": "na̠nɯn ʌ̹misʰɛ̝ sʰɛ̝k͈i pʰumɡo̞ innɯn mo̞sʰɯp̚ i kɥijʌ̹p̚k͈e̞ nɯk͈jʌ̹d͡ʑidʌ̹ɾa̠",
     "tokens": [
       {
         "text": "나는",
@@ -70674,7 +70674,7 @@
       {
         "text": "품고",
         "canonical": "품고",
-        "phoneme": "pʰumk͈o̞",
+        "phoneme": "pʰumɡo̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -71177,12 +71177,12 @@
     "split": "train",
     "text": "실시간여시 ㅎㅇ",
     "canonical": "실시간여시 하이",
-    "phonemes": "ɕʰiɭɕ͈iɡa̠nɲjʌ̹ɕʰi ha̠i",
+    "phonemes": "ɕʰiɭɕʰiɡa̠nɲjʌ̹ɕʰi ha̠i",
     "tokens": [
       {
         "text": "실시간여시",
         "canonical": "실시간여시",
-        "phoneme": "ɕʰiɭɕ͈iɡa̠nɲjʌ̹ɕʰi",
+        "phoneme": "ɕʰiɭɕʰiɡa̠nɲjʌ̹ɕʰi",
         "is_nc": false,
         "nc_type": null
       },
@@ -72372,7 +72372,7 @@
     "split": "train",
     "text": "스카이림 하이엘프 닮았노 ㅋㅋㅋ 실사영화 만들면 무조건 캐스팅해라",
     "canonical": "스카이림 하이엘프 닮았노 크크크 실사영화 만들면 무조건 캐스팅해라",
-    "phonemes": "sʰɯkʰa̠iɾim ha̠ie̞ɭpʰɯ ta̠ɭma̠nno̞ kxɯkxɯkxɯ ɕʰiɭs͈a̠jʌ̹ŋβwa̠ ma̠ndɯɭmjʌ̹n mud͡ʑo̞ɡʌ̹n kʰɛ̝sʰɯtʰiŋɦɛ̝ɾa̠",
+    "phonemes": "sʰɯkʰa̠iɾim ha̠ie̞ɭpʰɯ ta̠ɭma̠nno̞ kxɯkxɯkxɯ ɕʰiɭsʰa̠jʌ̹ŋβwa̠ ma̠ndɯɭmjʌ̹n mud͡ʑo̞ɡʌ̹n kʰɛ̝sʰɯtʰiŋɦɛ̝ɾa̠",
     "tokens": [
       {
         "text": "스카이림",
@@ -72405,7 +72405,7 @@
       {
         "text": "실사영화",
         "canonical": "실사영화",
-        "phoneme": "ɕʰiɭs͈a̠jʌ̹ŋβwa̠",
+        "phoneme": "ɕʰiɭsʰa̠jʌ̹ŋβwa̠",
         "is_nc": false,
         "nc_type": null
       },
@@ -72609,7 +72609,7 @@
     "split": "train",
     "text": "사더라 옷값 술값 등",
     "canonical": "사더라 옷값 술값 등",
-    "phonemes": "sʰa̠dʌ̹ɾa̠ o̞t̚k͈a̠p̚ sʰuɭk͈a̠p̚ tɯŋ",
+    "phonemes": "sʰa̠dʌ̹ɾa̠ o̞t̚k͈a̠p̚ sʰuɭɡa̠p̚ tɯŋ",
     "tokens": [
       {
         "text": "사더라",
@@ -72628,7 +72628,7 @@
       {
         "text": "술값",
         "canonical": "술값",
-        "phoneme": "sʰuɭk͈a̠p̚",
+        "phoneme": "sʰuɭɡa̠p̚",
         "is_nc": false,
         "nc_type": null
       },
@@ -72648,7 +72648,7 @@
     "split": "train",
     "text": "역시 잘 생기고 예쁜 거 좋아하는 건 만국 공통이다 ㅋㅋㅋㅋㅋㅋㅋㅋ 활동명도 본인이랑 넘 찰떡",
     "canonical": "역시 잘 생기고 예쁜 거 좋아하는 건 만국 공통이다 크크크크크크크크 활동명도 본인이랑 넘 찰떡",
-    "phonemes": "jʌ̹kɕ͈i t͡ɕa̠ɭ sʰɛ̝ŋɡiɡo̞ je̞p͈ɯn kʌ̹ t͡ɕo̞a̠ɦa̠nɯn kʌ̹n ma̠nɡuk̚ ko̞ŋtʰo̞ŋida̠ kxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯ ɸwa̠ɭt͈o̞ŋmjʌ̹ŋdo̞ po̞niniɾa̠ŋ nʌ̹m t͡ɕʰa̠ɭt͈ʌ̹k̚",
+    "phonemes": "jʌ̹kɕ͈i t͡ɕa̠ɭ sʰɛ̝ŋɡiɡo̞ je̞p͈ɯn kʌ̹ t͡ɕo̞a̠ɦa̠nɯn kʌ̹n ma̠nɡuk̚ ko̞ŋtʰo̞ŋida̠ kxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯ ɸwa̠ɭdo̞ŋmjʌ̹ŋdo̞ po̞niniɾa̠ŋ nʌ̹m t͡ɕʰa̠ɭt͈ʌ̹k̚",
     "tokens": [
       {
         "text": "역시",
@@ -72723,7 +72723,7 @@
       {
         "text": "활동명도",
         "canonical": "활동명도",
-        "phoneme": "ɸwa̠ɭt͈o̞ŋmjʌ̹ŋdo̞",
+        "phoneme": "ɸwa̠ɭdo̞ŋmjʌ̹ŋdo̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -73070,7 +73070,7 @@
     "split": "train",
     "text": "씹덕후들 만화 씹덕 말 자꾸 원나블 슬램덩크 끌고오면서 킹반인들 본다고 씩씩거리는거 말임",
     "canonical": "씹덕후들 만화 씹덕 말 자꾸 원나블 슬램덩크 끌고오면서 킹반인들 본다고 씩씩거리는거 말임",
-    "phonemes": "ɕ͈ip̚t͈ʌ̹kʰudɯɭ ma̠nβwa̠ ɕ͈ip̚t͈ʌ̹k̚ ma̠ɭ t͡ɕa̠k͈u wʌ̹nna̠bɯɭ sʰɯɭɭɛ̝mdʌ̹ŋkxɯ k͈ɯɭɡo̞o̞mjʌ̹nsʰʌ̹ kçiŋba̠ninduɭ po̞nda̠ɡo̞ ɕ͈ikɕ͈ik̚k͈ʌ̹ɾinɯnɡʌ̹ ma̠ɾim",
+    "phonemes": "ɕ͈ip̚t͈ʌ̹kʰudɯɭ ma̠nβwa̠ ɕ͈ip̚t͈ʌ̹k̚ ma̠ɭ t͡ɕa̠k͈u wʌ̹nna̠bɯɭ sʰɯɭɭɛ̝mdʌ̹ŋkxɯ k͈ɯɭɡo̞o̞mjʌ̹nsʰʌ̹ kçiŋba̠nindɯɭ po̞nda̠ɡo̞ ɕ͈ik̚ɕ͈ik̚k͈ʌ̹ɾinɯnɡʌ̹ ma̠ɾim",
     "tokens": [
       {
         "text": "씹덕후들",
@@ -73131,7 +73131,7 @@
       {
         "text": "킹반인들",
         "canonical": "킹반인들",
-        "phoneme": "kçiŋba̠ninduɭ",
+        "phoneme": "kçiŋba̠nindɯɭ",
         "is_nc": true,
         "nc_type": "C3"
       },
@@ -73145,7 +73145,7 @@
       {
         "text": "씩씩거리는거",
         "canonical": "씩씩거리는거",
-        "phoneme": "ɕ͈ikɕ͈ik̚k͈ʌ̹ɾinɯnɡʌ̹",
+        "phoneme": "ɕ͈ik̚ɕ͈ik̚k͈ʌ̹ɾinɯnɡʌ̹",
         "is_nc": false,
         "nc_type": null
       },
@@ -74127,7 +74127,7 @@
     "split": "train",
     "text": "안쳐맞는게 정답 부작용 사명 위중증 살인백신 맞음 긴급승인 임상진행 통과 자발적으로 생체실험신청 실험쥐새끼들 정신못차리고 음모론거리",
     "canonical": "안쳐맞는게 정답 부작용 사명 위중증 살인백신 맞음 긴급승인 임상진행 통과 자발적으로 생체실험신청 실험쥐새끼들 정신못차리고 음모론거리",
-    "phonemes": "a̠nt͡ɕʰʌ̹ma̠nnɯnɡe̞ t͡ɕʌ̹ŋda̠p̚ pud͡ʑa̠ɡjoŋ sʰa̠mjʌ̹ŋ ɥid͡ʑuŋt͡ɕ͈ɯŋ sʰa̠ɾinbɛ̝kɕ͈in ma̠d͡ʑɯm kinɡɯps͈ɯŋin imsʰa̠ŋd͡ʑinɦɛ̝ŋ tʰo̞ŋɡwa̠ t͡ɕa̠ba̠ɭd͡ʑʌ̹ɡɯɾo̞ sʰɛ̝ŋt͡ɕʰe̞ɕʰiɾʝjʌ̹mɕʰint͡ɕʰʌ̹ŋ ɕʰiɾʝjʌ̹md͡ʑɥisʰɛ̝k͈idɯɭ t͡ɕʌ̹ŋɕʰinmo̞t̚t͡ɕʰa̠ɾiɡo̞ ɯmmo̞ɾo̞nɡʌ̹ɾi",
+    "phonemes": "a̠nt͡ɕʰʌ̹ma̠nnɯnɡe̞ t͡ɕʌ̹ŋda̠p̚ pud͡ʑa̠ɡjoŋ sʰa̠mjʌ̹ŋ ɥid͡ʑuŋt͡ɕ͈ɯŋ sʰa̠ɾinbɛ̝kɕ͈in ma̠d͡ʑɯm kinɡɯps͈ɯŋin imsʰa̠ŋd͡ʑinɦɛ̝ŋ tʰo̞ŋɡwa̠ t͡ɕa̠ba̠ɭd͡ʑʌ̹ɡɯɾo̞ sʰɛ̝ŋt͡ɕʰe̞ɕʰiɾɦjʌ̹mɕʰint͡ɕʰʌ̹ŋ ɕʰiɾɦʌ̹md͡ʑɥisʰɛ̝k͈idɯɭ t͡ɕʌ̹ŋɕʰinmo̞t̚t͡ɕʰa̠ɾiɡo̞ ɯmmo̞ɾo̞nɡʌ̹ɾi",
     "tokens": [
       {
         "text": "안쳐맞는게",
@@ -74209,14 +74209,14 @@
       {
         "text": "생체실험신청",
         "canonical": "생체실험신청",
-        "phoneme": "sʰɛ̝ŋt͡ɕʰe̞ɕʰiɾʝjʌ̹mɕʰint͡ɕʰʌ̹ŋ",
+        "phoneme": "sʰɛ̝ŋt͡ɕʰe̞ɕʰiɾɦjʌ̹mɕʰint͡ɕʰʌ̹ŋ",
         "is_nc": false,
         "nc_type": null
       },
       {
         "text": "실험쥐새끼들",
         "canonical": "실험쥐새끼들",
-        "phoneme": "ɕʰiɾʝjʌ̹md͡ʑɥisʰɛ̝k͈idɯɭ",
+        "phoneme": "ɕʰiɾɦʌ̹md͡ʑɥisʰɛ̝k͈idɯɭ",
         "is_nc": false,
         "nc_type": null
       },
@@ -74851,7 +74851,7 @@
     "split": "train",
     "text": "소음기 효과 총구 화염 감소 날카로운 소리 정확한 위치 파악 힘들게 만듦 아음속탄 사용해야 소음 크나 위력 떨어짐",
     "canonical": "소음기 효과 총구 화염 감소 날카로운 소리 정확한 위치 파악 힘들게 만듦 아음속탄 사용해야 소음 크나 위력 떨어짐",
-    "phonemes": "sʰo̞ɯmɡi ˈçjoːɡwa̠ t͡ɕʰo̞ŋk͈u ɸwa̠jʌ̹m ka̠msʰo̞ na̠ɭkʰa̠ɾo̞un sʰo̞ɾi t͡ɕʌ̹ŋβwa̠kʰa̠n ɥit͡ɕʰi pʰa̠a̠k̚ çimdɯɭɡe̞ ma̠ndɯm a̠ɯmsʰo̞k̚tʰa̠n sʰa̠joŋɦɛ̝ja̠ sʰo̞ɯm kxɯna̠ ɥiɾjʌ̹k̚ t͈ʌ̹ɾʌ̹d͡ʑim",
+    "phonemes": "sʰo̞ɯmɡi ˈçjoːɡwa̠ t͡ɕʰo̞ŋɡu ɸwa̠jʌ̹m ka̠msʰo̞ na̠ɭkʰa̠ɾo̞un sʰo̞ɾi t͡ɕʌ̹ŋβwa̠kʰa̠n ɥit͡ɕʰi pʰa̠a̠k̚ çimdɯɭɡe̞ ma̠ndɯm a̠ɯmsʰo̞k̚tʰa̠n sʰa̠joŋɦɛ̝ja̠ sʰo̞ɯm kxɯna̠ ɥiɾjʌ̹k̚ t͈ʌ̹ɾʌ̹d͡ʑim",
     "tokens": [
       {
         "text": "소음기",
@@ -74870,7 +74870,7 @@
       {
         "text": "총구",
         "canonical": "총구",
-        "phoneme": "t͡ɕʰo̞ŋk͈u",
+        "phoneme": "t͡ɕʰo̞ŋɡu",
         "is_nc": false,
         "nc_type": null
       },
@@ -75295,7 +75295,7 @@
     "split": "train",
     "text": "역사적으로 볼 때 호남인의 선택이 틀린 적은 없었다 문프의 자주 평화 외교를 믿고 민주당을 이 땅의 진실과 정의 민주주의 힘을 믿는다",
     "canonical": "역사적으로 볼 때 호남인의 선택이 틀린 적은 없었다 문프의 자주 평화 외교를 믿고 민주당을 이 땅의 진실과 정의 민주주의 힘을 믿는다",
-    "phonemes": "jʌ̹ks͈a̠d͡ʑʌ̹ɡɯɾo̞ po̞ɭ t͈ɛ̝ ɸʷo̞na̠mini sʰʌ̹ntʰɛ̝ɡi tʰɯɭʎin t͡ɕʌ̹ɡɯn ʌ̹ps͈ʌ̹t̚t͈a̠ munpʰɯɰi t͡ɕa̠d͡ʑu pʰjʌ̹ŋβwa̠ ø̞ɡjoɾɯɭ mit̚k͈o̞ mind͡ʑuda̠ŋɯɭ i t͈a̠ŋɰi t͡ɕinɕʰiɭɡwa̠ t͡ɕʌ̹ŋɰi mind͡ʑud͡ʑuɰi çimɯɭ minnɯnda̠",
+    "phonemes": "jʌ̹ks͈a̠d͡ʑʌ̹ɡɯɾo̞ po̞ɭ t͈ɛ̝ ɸʷo̞na̠minɰi sʰʌ̹ntʰɛ̝ɡi tʰɯɭʎin t͡ɕʌ̹ɡɯn ʌ̹ps͈ʌ̹t̚t͈a̠ munpʰɯɰi t͡ɕa̠d͡ʑu pʰjʌ̹ŋβwa̠ ø̞ɡjoɾɯɭ mit̚k͈o̞ mind͡ʑuda̠ŋɯɭ i t͈a̠ŋɰi t͡ɕinɕʰiɭɡwa̠ t͡ɕʌ̹ŋɰi mind͡ʑud͡ʑuɰi çimɯɭ minnɯnda̠",
     "tokens": [
       {
         "text": "역사적으로",
@@ -75321,7 +75321,7 @@
       {
         "text": "호남인의",
         "canonical": "호남인의",
-        "phoneme": "ɸʷo̞na̠mini",
+        "phoneme": "ɸʷo̞na̠minɰi",
         "is_nc": false,
         "nc_type": null
       },
@@ -75694,7 +75694,7 @@
     "split": "train",
     "text": "아무리 국뽕 좆같다고 하지만 ㅋㅋ ㄹㅇ 한국어가 잘만듬 한자만봐도 1300개 넘음 ㅋㅋㅋ",
     "canonical": "아무리 국뽕 좆같다고 하지만 크크 리얼 한국어가 잘만듬 한자만봐도 1300개 넘음 크크크",
-    "phonemes": "a̠muɾi kuk̚p͈o̞ŋ t͡ɕo̞t̚k͈a̠t̚t͈a̠ɡo̞ ha̠d͡ʑima̠n kxɯkxɯ ɾiʌ̹ɭ ha̠nɡuɡʌ̹ɡa̠ t͡ɕa̠ɭma̠ndɯm ha̠nt͡ɕ͈a̠ma̠nbwa̠do̞ t͡ɕʰʌ̹nsʰa̠mbɛ̝k̚ k͈ɛ̝ nʌ̹mɯm kxɯkxɯkxɯ",
+    "phonemes": "a̠muɾi kuk̚p͈o̞ŋ t͡ɕo̞t̚k͈a̠t̚t͈a̠ɡo̞ ha̠d͡ʑima̠n kxɯkxɯ ɾiʌ̹ɭ ha̠nɡuɡʌ̹ɡa̠ t͡ɕa̠ɭma̠ndɯm ha̠nd͡ʑa̠ma̠nbwa̠do̞ t͡ɕʰʌ̹nsʰa̠mbɛ̝k̚ k͈ɛ̝ nʌ̹mɯm kxɯkxɯkxɯ",
     "tokens": [
       {
         "text": "아무리",
@@ -75755,7 +75755,7 @@
       {
         "text": "한자만봐도",
         "canonical": "한자만봐도",
-        "phoneme": "ha̠nt͡ɕ͈a̠ma̠nbwa̠do̞",
+        "phoneme": "ha̠nd͡ʑa̠ma̠nbwa̠do̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -76015,7 +76015,7 @@
     "split": "train",
     "text": "젊은 세대 80만 이면 엄청난 수 임 이래서 한녀들 은 죄다 의심해봐야 함",
     "canonical": "젊은 세대 80만 이면 엄청난 수 임 이래서 한녀들 은 죄다 의심해봐야 함",
-    "phonemes": "t͡ɕʌ̹ɭmɯn sʰe̞dɛ̝ pʰa̠ɭɕ͈im ma̠n imjʌ̹n ʌ̹mt͡ɕʰʌ̹ŋna̠n sʰu im iɾɛ̝sʰʌ̹ ha̠nnjʌ̹dɯɭ ɯn t͡ɕø̞da̠ ɰiɕʰimɦɛ̝bwa̠ja̠ ha̠m",
+    "phonemes": "t͡ɕʌ̹ɭmɯn sʰe̞dɛ̝ pʰa̠ɭɕʰim ma̠n imjʌ̹n ʌ̹mt͡ɕʰʌ̹ŋna̠n sʰu im iɾɛ̝sʰʌ̹ ha̠nnjʌ̹dɯɭ ɯn t͡ɕø̞da̠ ɰiɕʰimɦɛ̝bwa̠ja̠ ha̠m",
     "tokens": [
       {
         "text": "젊은",
@@ -76034,7 +76034,7 @@
       {
         "text": "80만",
         "canonical": "80만",
-        "phoneme": "pʰa̠ɭɕ͈im ma̠n",
+        "phoneme": "pʰa̠ɭɕʰim ma̠n",
         "is_nc": false,
         "nc_type": null
       },
@@ -76563,12 +76563,12 @@
     "split": "train",
     "text": "솔직해지자 역사관 제대로 잡혀있는 여성 멋있잖아",
     "canonical": "솔직해지자 역사관 제대로 잡혀있는 여성 멋있잖아",
-    "phonemes": "sʰo̞ɭt͡ɕ͈ikʰɛ̝d͡ʑid͡ʑa̠ jʌ̹ks͈a̠ɡwa̠n t͡ɕe̞dɛ̝ɾo̞ t͡ɕa̠pʰjʌ̹innɯn jʌ̹sʰʌ̹ŋ mʌ̹ɕʰit̚t͡ɕ͈a̠na̠",
+    "phonemes": "sʰo̞ɭd͡ʑikʰɛ̝d͡ʑid͡ʑa̠ jʌ̹ks͈a̠ɡwa̠n t͡ɕe̞dɛ̝ɾo̞ t͡ɕa̠pʰjʌ̹innɯn jʌ̹sʰʌ̹ŋ mʌ̹ɕʰit̚t͡ɕ͈a̠na̠",
     "tokens": [
       {
         "text": "솔직해지자",
         "canonical": "솔직해지자",
-        "phoneme": "sʰo̞ɭt͡ɕ͈ikʰɛ̝d͡ʑid͡ʑa̠",
+        "phoneme": "sʰo̞ɭd͡ʑikʰɛ̝d͡ʑid͡ʑa̠",
         "is_nc": false,
         "nc_type": null
       },
@@ -76929,7 +76929,7 @@
     "split": "train",
     "text": "난 이런 사진 영상 이 너무 좋더라 그래서 디카프리오 나온 영화 레버넌트도 재밌게 봤음 광활한 자연 멋있어서",
     "canonical": "난 이런 사진 영상 이 너무 좋더라 그래서 디카프리오 나온 영화 레버넌트도 재밌게 봤음 광활한 자연 멋있어서",
-    "phonemes": "na̠n iɾʌ̹n sʰa̠d͡ʑin jʌ̹ŋsʰa̠ŋ i nʌ̹mu t͡ɕo̞tʰʌ̹ɾa̠ kɯɾɛ̝sʰʌ̹ tikʰa̠pʰɯɾio̞ na̠o̞n jʌ̹ŋβwa̠ ɾe̞bʌ̹nʌ̹ntʰɯdo̞ t͡ɕɛ̝mit̚k͈e̞ pwa̠s͈ɯm kwa̠ŋβwa̠ɭɦa̠n t͡ɕa̠jʌ̹n mʌ̹ɕʰis͈ʌ̹sʰʌ̹",
+    "phonemes": "na̠n iɾʌ̹n sʰa̠d͡ʑin jʌ̹ŋsʰa̠ŋ i nʌ̹mu t͡ɕo̞tʰʌ̹ɾa̠ kɯɾɛ̝sʰʌ̹ tikʰa̠pʰɯɾio̞ na̠o̞n jʌ̹ŋβwa̠ ɾe̞bʌ̹nʌ̹ntʰɯdo̞ t͡ɕɛ̝mit̚k͈e̞ pwa̠s͈ɯm kwa̠ŋβwa̠ɾɦa̠n t͡ɕa̠jʌ̹n mʌ̹ɕʰis͈ʌ̹sʰʌ̹",
     "tokens": [
       {
         "text": "난",
@@ -77032,7 +77032,7 @@
       {
         "text": "광활한",
         "canonical": "광활한",
-        "phoneme": "kwa̠ŋβwa̠ɭɦa̠n",
+        "phoneme": "kwa̠ŋβwa̠ɾɦa̠n",
         "is_nc": false,
         "nc_type": null
       },
@@ -77059,7 +77059,7 @@
     "split": "train",
     "text": "뭐 욕댓글 유도하다 고소하다 합의금 챙기다 그런거임",
     "canonical": "뭐 욕댓글 유도하다 고소하다 합의금 챙기다 그런거임",
-    "phonemes": "mwʌ̹ jok̚t͈ɛ̝t̚k͈ɯɭ judo̞ɦa̠da̠ ko̞sʰo̞ɦa̠da̠ ha̠biɡɯm t͡ɕʰɛ̝ŋɡida̠ kɯɾʌ̹nɡʌ̹im",
+    "phonemes": "mwʌ̹ jok̚t͈ɛ̝t̚k͈ɯɭ judo̞ɦa̠da̠ ko̞sʰo̞ɦa̠da̠ ha̠bɰiɡɯm t͡ɕʰɛ̝ŋɡida̠ kɯɾʌ̹nɡʌ̹im",
     "tokens": [
       {
         "text": "뭐",
@@ -77092,7 +77092,7 @@
       {
         "text": "합의금",
         "canonical": "합의금",
-        "phoneme": "ha̠biɡɯm",
+        "phoneme": "ha̠bɰiɡɯm",
         "is_nc": false,
         "nc_type": null
       },
@@ -77183,12 +77183,12 @@
     "split": "train",
     "text": "말해주다 워낙 오래전 단순하다 문화권 찾아보다 식문화 형태 전하다 시작되다 하듯 ㅇㅋ 이소리하다 취급받다 괴담 치료",
     "canonical": "말해주다 워낙 오래전 단순하다 문화권 찾아보다 식문화 형태 전하다 시작되다 하듯 오키 이소리하다 취급받다 괴담 치료",
-    "phonemes": "ma̠ɭɦɛ̝d͡ʑuda̠ wʌ̹na̠k̚ o̞ɾɛ̝d͡ʑʌ̹n ta̠nsʰunɦa̠da̠ munβwa̠ɡwʌ̹n t͡ɕʰa̠d͡ʑa̠bo̞da̠ ɕʰiŋmunβwa̠ çjʌ̹ŋtʰɛ̝ t͡ɕʌ̹nɦa̠da̠ ɕʰid͡ʑa̠k̚t͈ø̞da̠ ha̠dɯt̚ o̞kçi isʰo̞ɾiɦa̠da̠ t͡ɕʰɥiɡɯp̚p͈a̠t̚t͈a̠ kø̞da̠m t͡ɕʰiɾjo",
+    "phonemes": "ma̠ɾɦɛ̝d͡ʑuda̠ wʌ̹na̠k̚ o̞ɾɛ̝d͡ʑʌ̹n ta̠nsʰunɦa̠da̠ munβwa̠ɡwʌ̹n t͡ɕʰa̠d͡ʑa̠bo̞da̠ ɕʰiŋmunβwa̠ çjʌ̹ŋtʰɛ̝ t͡ɕʌ̹nɦa̠da̠ ɕʰid͡ʑa̠k̚t͈ø̞da̠ ha̠dɯt̚ o̞kçi isʰo̞ɾiɦa̠da̠ t͡ɕʰɥiɡɯp̚p͈a̠t̚t͈a̠ kø̞da̠m t͡ɕʰiɾjo",
     "tokens": [
       {
         "text": "말해주다",
         "canonical": "말해주다",
-        "phoneme": "ma̠ɭɦɛ̝d͡ʑuda̠",
+        "phoneme": "ma̠ɾɦɛ̝d͡ʑuda̠",
         "is_nc": false,
         "nc_type": null
       },
@@ -77649,7 +77649,7 @@
     "split": "train",
     "text": "와 진짜 아니 그림장르 가 차은우 만 다른 느낌 와진짜 나는 시험지 낙서 처럼 생김",
     "canonical": "와 진짜 아니 그림장르 가 차은우 만 다른 느낌 와진짜 나는 시험지 낙서 처럼 생김",
-    "phonemes": "wa̠ t͡ɕint͡ɕ͈a̠ a̠ni kɯɾimd͡ʑa̠ŋɾɯ ka̠ t͡ɕʰa̠ɯnu ma̠n ta̠ɾɯn nɯk͈im wa̠d͡ʑint͡ɕ͈a̠ na̠nɯn ɕʰiɦʌ̹md͡ʑi na̠ks͈ʌ̹ t͡ɕʰʌ̹ɾʌ̹m sʰɛ̝ŋɡim",
+    "phonemes": "wa̠ t͡ɕint͡ɕ͈a̠ a̠ni kɯɾimd͡ʑa̠ŋnɯ ka̠ t͡ɕʰa̠ɯnu ma̠n ta̠ɾɯn nɯk͈im wa̠d͡ʑint͡ɕ͈a̠ na̠nɯn ɕʰiɦʌ̹md͡ʑi na̠ks͈ʌ̹ t͡ɕʰʌ̹ɾʌ̹m sʰɛ̝ŋɡim",
     "tokens": [
       {
         "text": "와",
@@ -77675,7 +77675,7 @@
       {
         "text": "그림장르",
         "canonical": "그림장르",
-        "phoneme": "kɯɾimd͡ʑa̠ŋɾɯ",
+        "phoneme": "kɯɾimd͡ʑa̠ŋnɯ",
         "is_nc": false,
         "nc_type": null
       },
@@ -78713,7 +78713,7 @@
     "split": "train",
     "text": "서울기준 평당가 6천만원 이상 동네 사는 노인들 괜찮음",
     "canonical": "서울기준 평당가 6천만원 이상 동네 사는 노인들 괜찮음",
-    "phonemes": "sʰʌ̹uɭɡid͡ʑun pʰjʌ̹ŋda̠ŋɡa̠ juk̚ t͡ɕʰʌ̹nma̠nwʌ̹n isʰa̠ŋ to̞ŋne̞ sʰa̠nɯn no̞indɯɭ kwɛ̝nt͡ɕʰa̠nɯm",
+    "phonemes": "sʰʌ̹uɭɡid͡ʑun pʰjʌ̹ŋda̠ŋɡa̠ juk̚  t͡ɕʰʌ̹nma̠nwʌ̹n isʰa̠ŋ to̞ŋne̞ sʰa̠nɯn no̞indɯɭ kwɛ̝nt͡ɕʰa̠nɯm",
     "tokens": [
       {
         "text": "서울기준",
@@ -78732,7 +78732,7 @@
       {
         "text": "6천만원",
         "canonical": "6천만원",
-        "phoneme": "juk̚ t͡ɕʰʌ̹nma̠nwʌ̹n",
+        "phoneme": "juk̚  t͡ɕʰʌ̹nma̠nwʌ̹n",
         "is_nc": false,
         "nc_type": null
       },
@@ -78869,7 +78869,7 @@
     "split": "train",
     "text": "같은 직장인 퇴직금 50억 받다 처벌 않다 보다 있다 ㅆㅂ 박탈감 들다 야 수 없다",
     "canonical": "같은 직장인 퇴직금 50억 받다 처벌 않다 보다 있다 씨발 박탈감 들다 야 수 없다",
-    "phonemes": "ka̠tʰɯn t͡ɕik̚t͡ɕ͈a̠ŋin tʰø̞d͡ʑik̚k͈ɯm o̞ɕʰibʌ̹k̚ pa̠t̚t͈a̠ t͡ɕʰʌ̹bʌ̹ɭ a̠ntʰa̠ po̞da̠ it̚t͈a̠ ɕ͈iba̠ɭ pa̠k̚tʰa̠ɭɡa̠m tɯɭda̠ ja̠ sʰu ˈɘːp̚t͈a̠",
+    "phonemes": "ka̠tʰɯn t͡ɕik̚t͡ɕ͈a̠ŋin tʰø̞d͡ʑik̚k͈ɯm o̞ɕʰi bʌ̹k̚ pa̠t̚t͈a̠ t͡ɕʰʌ̹bʌ̹ɭ a̠ntʰa̠ po̞da̠ it̚t͈a̠ ɕ͈iba̠ɭ pa̠k̚tʰa̠ɭɡa̠m tɯɭda̠ ja̠ sʰu ˈɘːp̚t͈a̠",
     "tokens": [
       {
         "text": "같은",
@@ -78895,7 +78895,7 @@
       {
         "text": "50억",
         "canonical": "50억",
-        "phoneme": "o̞ɕʰibʌ̹k̚",
+        "phoneme": "o̞ɕʰi bʌ̹k̚",
         "is_nc": false,
         "nc_type": null
       },
@@ -79805,7 +79805,7 @@
     "split": "train",
     "text": "정확히 여자 더치페이 하자고 말하고 의기양양하면 한번 쯤은 고민 해보라고 절대적인 시그널 아닌데 냄세 난다",
     "canonical": "정확히 여자 더치페이 하자고 말하고 의기양양하면 한번 쯤은 고민 해보라고 절대적인 시그널 아닌데 냄세 난다",
-    "phonemes": "t͡ɕʌ̹ŋβwa̠kçi jʌ̹d͡ʑa̠ tʌ̹t͡ɕʰipʰe̞i ha̠d͡ʑa̠ɡo̞ ma̠ɭɦa̠ɡo̞ ɰiɡija̠ŋja̠ŋɦa̠mjʌ̹n ha̠nbʌ̹n t͡ɕ͈ɯmɯn ko̞min hɛ̝bo̞ɾa̠ɡo̞ t͡ɕʌ̹ɭt͈ɛ̝d͡ʑʌ̹ɡin ɕʰiɡɯnʌ̹ɭ a̠ninde̞ nɛ̝msʰe̞ na̠nda̠",
+    "phonemes": "t͡ɕʌ̹ŋβwa̠kçi jʌ̹d͡ʑa̠ tʌ̹t͡ɕʰipʰe̞i ha̠d͡ʑa̠ɡo̞ ma̠ɾɦa̠ɡo̞ ɰiɡija̠ŋja̠ŋɦa̠mjʌ̹n ha̠nbʌ̹n t͡ɕ͈ɯmɯn ko̞min hɛ̝bo̞ɾa̠ɡo̞ t͡ɕʌ̹ɭt͈ɛ̝d͡ʑʌ̹ɡin ɕʰiɡɯnʌ̹ɭ a̠ninde̞ nɛ̝msʰe̞ na̠nda̠",
     "tokens": [
       {
         "text": "정확히",
@@ -79838,7 +79838,7 @@
       {
         "text": "말하고",
         "canonical": "말하고",
-        "phoneme": "ma̠ɭɦa̠ɡo̞",
+        "phoneme": "ma̠ɾɦa̠ɡo̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -80443,12 +80443,12 @@
     "split": "train",
     "text": "일후 흑인들 많이 나오는데 애초에 영국 흑인 많아서 나온다 해도 자연스러움",
     "canonical": "일후 흑인들 많이 나오는데 애초에 영국 흑인 많아서 나온다 해도 자연스러움",
-    "phonemes": "iɭβu xɯɡindɯɭ ˈma̠ːni na̠o̞nɯnde̞ ɛ̝t͡ɕʰo̞e̞ jʌ̹ŋɡuk̚ xɯɡin ma̠na̠sʰʌ̹ na̠o̞nda̠ hɛ̝do̞ t͡ɕa̠jʌ̹nsʰɯɾʌ̹um",
+    "phonemes": "iɾβu xɯɡindɯɭ ˈma̠ːni na̠o̞nɯnde̞ ɛ̝t͡ɕʰo̞e̞ jʌ̹ŋɡuk̚ xɯɡin ma̠na̠sʰʌ̹ na̠o̞nda̠ hɛ̝do̞ t͡ɕa̠jʌ̹nsʰɯɾʌ̹um",
     "tokens": [
       {
         "text": "일후",
         "canonical": "일후",
-        "phoneme": "iɭβu",
+        "phoneme": "iɾβu",
         "is_nc": false,
         "nc_type": null
       },
@@ -80796,7 +80796,7 @@
     "split": "train",
     "text": "미개하네 이딴걸 필기구로 발전이",
     "canonical": "미개하네 이딴걸 필기구로 발전이",
-    "phonemes": "miɡɛ̝ɦa̠ne̞ it͈a̠nɡʌ̹ɭ pʰiɭɡiɡuɾo̞ pa̠ɭt͡ɕ͈ʌ̹ni",
+    "phonemes": "miɡɛ̝ɦa̠ne̞ it͈a̠nɡʌ̹ɭ pʰiɭɡiɡuɾo̞ pa̠ɭd͡ʑʌ̹ni",
     "tokens": [
       {
         "text": "미개하네",
@@ -80822,7 +80822,7 @@
       {
         "text": "발전이",
         "canonical": "발전이",
-        "phoneme": "pa̠ɭt͡ɕ͈ʌ̹ni",
+        "phoneme": "pa̠ɭd͡ʑʌ̹ni",
         "is_nc": false,
         "nc_type": null
       }
@@ -81404,7 +81404,7 @@
     "split": "train",
     "text": "순혈 짱깨 핏줄들 짱깨타령 하는것 만큼 우스운게 없다 ㅋㅋㅋㅋㅋ 애초에 여당 야당 바뀐지 언젠데 니새끼 한국인 맞긴함",
     "canonical": "순혈 짱깨 핏줄들 짱깨타령 하는것 만큼 우스운게 없다 크크크크크 애초에 여당 야당 바뀐지 언젠데 니새끼 한국인 맞긴함",
-    "phonemes": "sʰunʝjʌ̹ɭ t͡ɕ͈a̠ŋk͈ɛ̝ pʰit͡ɕ͈uɭdɯɭ t͡ɕ͈a̠ŋk͈ɛ̝tʰa̠ɾjʌ̹ŋ ha̠nɯnɡʌ̹t̚ ma̠nkxɯm usʰɯunɡe̞ ˈɘːp̚t͈a̠ kxɯkxɯkxɯkxɯkxɯ ɛ̝t͡ɕʰo̞e̞ jʌ̹da̠ŋ ja̠da̠ŋ pa̠k͈ɥind͡ʑi ʌ̹nd͡ʑe̞nde̞ nisʰɛ̝k͈i ha̠nɡuɡin ma̠t̚k͈inɦa̠m",
+    "phonemes": "sʰunʝjʌ̹ɭ t͡ɕ͈a̠ŋk͈ɛ̝ pʰit̚t͡ɕ͈uɭdɯɭ t͡ɕ͈a̠ŋk͈ɛ̝tʰa̠ɾjʌ̹ŋ ha̠nɯnɡʌ̹t̚ ma̠nkxɯm usʰɯunɡe̞ ˈɘːp̚t͈a̠ kxɯkxɯkxɯkxɯkxɯ ɛ̝t͡ɕʰo̞e̞ jʌ̹da̠ŋ ja̠da̠ŋ pa̠k͈ɥind͡ʑi ʌ̹nd͡ʑe̞nde̞ nisʰɛ̝k͈i ha̠nɡuɡin ma̠t̚k͈inɦa̠m",
     "tokens": [
       {
         "text": "순혈",
@@ -81423,7 +81423,7 @@
       {
         "text": "핏줄들",
         "canonical": "핏줄들",
-        "phoneme": "pʰit͡ɕ͈uɭdɯɭ",
+        "phoneme": "pʰit̚t͡ɕ͈uɭdɯɭ",
         "is_nc": false,
         "nc_type": null
       },
@@ -82428,7 +82428,7 @@
     "split": "train",
     "text": "짱구 극장판 한창 방영할 때 가 2008년즘 이니까 지금와서 보면 꽤나 틀딱픽임",
     "canonical": "짱구 극장판 한창 방영할 때 가 2008년즘 이니까 지금와서 보면 꽤나 틀딱픽임",
-    "phonemes": "t͡ɕ͈a̠ŋɡu kɯk̚t͡ɕ͈a̠ŋpʰa̠n ha̠nt͡ɕʰa̠ŋ pa̠ŋjʌ̹ŋɦa̠ɭ t͈ɛ̝ ka̠ it͡ɕʰʌ̹npʰa̠ɭ ʎjʌ̹nt͡ɕ͈ɯm inik͈a̠ t͡ɕiɡɯmwa̠sʰʌ̹ po̞mjʌ̹n k͈wɛ̝na̠ tʰɯɭt͈a̠k̚pʰiɡim",
+    "phonemes": "t͡ɕ͈a̠ŋɡu kɯk̚t͡ɕ͈a̠ŋpʰa̠n ha̠nt͡ɕʰa̠ŋ pa̠ŋjʌ̹ŋɦa̠ɭ t͈ɛ̝ ka̠ it͡ɕʰʌ̹npʰa̠ɭ ʎjʌ̹nd͡ʑɯm inik͈a̠ t͡ɕiɡɯmwa̠sʰʌ̹ po̞mjʌ̹n k͈wɛ̝na̠ tʰɯɭt͈a̠k̚pʰiɡim",
     "tokens": [
       {
         "text": "짱구",
@@ -82475,7 +82475,7 @@
       {
         "text": "2008년즘",
         "canonical": "2008년즘",
-        "phoneme": "it͡ɕʰʌ̹npʰa̠ɭ ʎjʌ̹nt͡ɕ͈ɯm",
+        "phoneme": "it͡ɕʰʌ̹npʰa̠ɭ ʎjʌ̹nd͡ʑɯm",
         "is_nc": false,
         "nc_type": null
       },
@@ -82523,7 +82523,7 @@
     "split": "train",
     "text": "그렇게따지면 축구공 완벽한 구 아님 0.01% 오차 있음 ㅋㅋ 완벽한이란 단어 혼란 주는 거지 사실상 실질적으로 맞지",
     "canonical": "그렇게따지면 축구공 완벽한 구 아님 0.01% 오차 있음 크크 완벽한이란 단어 혼란 주는 거지 사실상 실질적으로 맞지",
-    "phonemes": "kɯɾʌ̹kʰe̞t͈a̠d͡ʑimjʌ̹n t͡ɕʰuk̚k͈uɡo̞ŋ wa̠nbjʌ̹kʰa̠n ku a̠nim jʌ̹ŋt͡ɕ͈ʌ̹mjʌ̹ŋiɭ pʰʌ̹sʰe̞ntʰɯ o̞t͡ɕʰa̠ is͈ɯm kxɯkxɯ wa̠nbjʌ̹kʰa̠niɾa̠n ta̠nʌ̹ ɸʷo̞ɭɭa̠n t͡ɕunɯn kʌ̹d͡ʑi sʰa̠ɕʰiɭsʰa̠ŋ ɕʰiɭt͡ɕ͈iɭt͡ɕ͈ʌ̹ɡɯɾo̞ ma̠t̚t͡ɕ͈i",
+    "phonemes": "kɯɾʌ̹kʰe̞t͈a̠d͡ʑimjʌ̹n t͡ɕʰuk̚k͈uɡo̞ŋ wa̠nbjʌ̹kʰa̠n ku a̠nim jʌ̹ŋt͡ɕ͈ʌ̹mjʌ̹ŋiɭ pʰʌ̹sʰe̞ntʰɯ o̞t͡ɕʰa̠ is͈ɯm kxɯkxɯ wa̠nbjʌ̹kʰa̠niɾa̠n ta̠nʌ̹ ɸʷo̞ɭɭa̠n t͡ɕunɯn kʌ̹d͡ʑi sʰa̠ɕʰiɭsʰa̠ŋ ɕʰiɭd͡ʑiɭd͡ʑʌ̹ɡɯɾo̞ ma̠t̚t͡ɕ͈i",
     "tokens": [
       {
         "text": "그렇게따지면",
@@ -82633,7 +82633,7 @@
       {
         "text": "실질적으로",
         "canonical": "실질적으로",
-        "phoneme": "ɕʰiɭt͡ɕ͈iɭt͡ɕ͈ʌ̹ɡɯɾo̞",
+        "phoneme": "ɕʰiɭd͡ʑiɭd͡ʑʌ̹ɡɯɾo̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -83418,7 +83418,7 @@
     "split": "train",
     "text": "아진짜 결혼햇는데 남편이 사고잇으면 맴찢일듯",
     "canonical": "아진짜 결혼햇는데 남편이 사고잇으면 맴찢일듯",
-    "phonemes": "a̠d͡ʑint͡ɕ͈a̠ kjʌ̹ɾβo̞nɦɛ̝nnɯnde̞ na̠mpʰjʌ̹ni sʰa̠ɡo̞isʰɯmjʌ̹n mɛ̝mt͡ɕ͈id͡ʑiɭdɯt̚",
+    "phonemes": "a̠d͡ʑint͡ɕ͈a̠ kjʌ̹ɾβo̞nɦɛ̝nnɯnde̞ na̠mpʰjʌ̹ni sʰa̠ɡo̞isʰɯmjʌ̹n mɛ̝mt͡ɕ͈idiɭt͈ɯt̚",
     "tokens": [
       {
         "text": "아진짜",
@@ -83451,7 +83451,7 @@
       {
         "text": "맴찢일듯",
         "canonical": "맴찢일듯",
-        "phoneme": "mɛ̝mt͡ɕ͈id͡ʑiɭdɯt̚",
+        "phoneme": "mɛ̝mt͡ɕ͈idiɭt͈ɯt̚",
         "is_nc": true,
         "nc_type": "C4"
       }
@@ -84224,7 +84224,7 @@
     "split": "train",
     "text": "가보지도 않음 고졸무직2번남 경상도새끼까 오히려 내부가 진짠데 ㅇㅈㄹ ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 스스로 그러고 살면 자살 안마렵냐",
     "canonical": "가보지도 않음 고졸무직2번남 경상도새끼까 오히려 내부가 진짠데 이지랄 크크크크크크크크크크 스스로 그러고 살면 자살 안마렵냐",
-    "phonemes": "ka̠bo̞d͡ʑido̞ a̠nɯm ko̞d͡ʑo̞ɭmud͡ʑik̚ i bʌ̹nna̠m kjʌ̹ŋsʰa̠ŋdo̞sʰɛ̝k͈ik͈a̠ o̞ʝiɾjʌ̹ nɛ̝buɡa̠ t͡ɕint͡ɕ͈a̠nde̞ id͡ʑiɾa̠ɭ kxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯ sʰɯsʰɯɾo̞ kɯɾʌ̹ɡo̞ sʰa̠ɭmjʌ̹n t͡ɕa̠sʰa̠ɭ a̠nma̠ɾjʌ̹mɲja̠",
+    "phonemes": "ka̠bo̞d͡ʑido̞ a̠nɯm ko̞d͡ʑo̞ɭmud͡ʑi ɡi bʌ̹nna̠m kjʌ̹ŋsʰa̠ŋdo̞sʰɛ̝k͈ik͈a̠ o̞ʝiɾjʌ̹ nɛ̝buɡa̠ t͡ɕint͡ɕ͈a̠nde̞ id͡ʑiɾa̠ɭ kxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯ sʰɯsʰɯɾo̞ kɯɾʌ̹ɡo̞ sʰa̠ɭmjʌ̹n t͡ɕa̠sʰa̠ɭ a̠nma̠ɾjʌ̹mɲja̠",
     "tokens": [
       {
         "text": "가보지도",
@@ -84243,7 +84243,7 @@
       {
         "text": "고졸무직2번남",
         "canonical": "고졸무직2번남",
-        "phoneme": "ko̞d͡ʑo̞ɭmud͡ʑik̚ i bʌ̹nna̠m",
+        "phoneme": "ko̞d͡ʑo̞ɭmud͡ʑi ɡi bʌ̹nna̠m",
         "is_nc": false,
         "nc_type": null
       },
@@ -84333,7 +84333,7 @@
     "split": "train",
     "text": "병신새끼들 압수수색 울고불고 넘쳐서 못자고 지랄할껄 아마 자살한다고 지랄발광할거다 300번넘게 압수수색하는 개새끼들",
     "canonical": "병신새끼들 압수수색 울고불고 넘쳐서 못자고 지랄할껄 아마 자살한다고 지랄발광할거다 300번넘게 압수수색하는 개새끼들",
-    "phonemes": "pjʌ̹ŋɕʰinsʰɛ̝k͈idɯɭ a̠ps͈usʰusʰɛ̝k̚ uɭɡo̞buɭɡo̞ nʌ̹mt͡ɕʰʌ̹sʰʌ̹ mo̞t̚t͡ɕ͈a̠ɡo̞ t͡ɕiɾa̠ɭɦa̠ɭk͈ʌ̹ɭ a̠ma̠ t͡ɕa̠sʰa̠ɾɦa̠nda̠ɡo̞ t͡ɕiɾa̠ɭba̠ɭɡwa̠ŋɦa̠ɭk͈ʌ̹da̠ sʰa̠mbɛ̝k̚ p͈ʌ̹nnʌ̹mk͈e̞ a̠ps͈usʰusʰɛ̝kʰa̠nɯn kɛ̝sʰɛ̝k͈idɯɭ",
+    "phonemes": "pjʌ̹ŋɕʰinsʰɛ̝k͈idɯɭ a̠ps͈usʰusʰɛ̝k̚ uɭɡo̞buɭɡo̞ nʌ̹mt͡ɕʰʌ̹sʰʌ̹ mo̞t̚t͡ɕ͈a̠ɡo̞ t͡ɕiɾa̠ɾɦa̠ɭk͈ʌ̹ɭ a̠ma̠ t͡ɕa̠sʰa̠ɾɦa̠nda̠ɡo̞ t͡ɕiɾa̠ɭba̠ɭɡwa̠ŋɦa̠ɭk͈ʌ̹da̠ sʰa̠mbɛ̝k̚ p͈ʌ̹nnʌ̹mk͈e̞ a̠ps͈usʰusʰɛ̝kʰa̠nɯn kɛ̝sʰɛ̝k͈idɯɭ",
     "tokens": [
       {
         "text": "병신새끼들",
@@ -84373,7 +84373,7 @@
       {
         "text": "지랄할껄",
         "canonical": "지랄할껄",
-        "phoneme": "t͡ɕiɾa̠ɭɦa̠ɭk͈ʌ̹ɭ",
+        "phoneme": "t͡ɕiɾa̠ɾɦa̠ɭk͈ʌ̹ɭ",
         "is_nc": true,
         "nc_type": "C1"
       },
@@ -85047,7 +85047,7 @@
     "split": "train",
     "text": "물론 바늘구멍 뚫고 들어간 인재들 잘살겠지만 대다수 청년들 가난해지고 있음 중소기업 갈수 밖에 없다 현실을 직시하고 하루라도 빨리 사회에 진출해서 실무 경력을 쌓는것이 중요한데 온 커뮤니티에서 중소기업을 혐오해대니 앞날이 캄캄하네",
     "canonical": "물론 바늘구멍 뚫고 들어간 인재들 잘살겠지만 대다수 청년들 가난해지고 있음 중소기업 갈수 밖에 없다 현실을 직시하고 하루라도 빨리 사회에 진출해서 실무 경력을 쌓는것이 중요한데 온 커뮤니티에서 중소기업을 혐오해대니 앞날이 캄캄하네",
-    "phonemes": "muɭɭo̞n pa̠nɯɭɡumʌ̹ŋ t͈uɭkʰo̞ tɯɾʌ̹ɡa̠n ind͡ʑɛ̝dɯɭ t͡ɕa̠ɭsʰa̠ɭɡe̞t̚t͡ɕ͈ima̠n tɛ̝da̠sʰu t͡ɕʰʌ̹ŋɲjʌ̹ndɯɭ ka̠na̠nɦɛ̝d͡ʑiɡo̞ is͈ɯm t͡ɕuŋsʰo̞ɡiʌ̹p̚ ka̠ɭs͈u pa̠k͈e̞ ˈɘːp̚t͈a̠ çjʌ̹nɕʰiɾɯɭ t͡ɕikɕ͈iɦa̠ɡo̞ ha̠ɾuɾa̠do̞ p͈a̠ɭʎi sʰa̠ɦø̞e̞ t͡ɕint͡ɕʰuɭɦɛ̝sʰʌ̹ ɕʰiɭmu kjʌ̹ŋɲjʌ̹ɡɯɭ s͈a̠nnɯnɡʌ̹ɕʰi t͡ɕuŋjoɦa̠nde̞ o̞n kʰʌ̹mjunitʰie̞sʰʌ̹ t͡ɕuŋsʰo̞ɡiʌ̹bɯɭ çjʌ̹mo̞ɦɛ̝dɛ̝ni a̠mna̠ɾi kʰɛ̝mkʰɛ̝mɦa̠ne̞",
+    "phonemes": "muɭɭo̞n pa̠nɯɭɡumʌ̹ŋ t͈uɭkʰo̞ tɯɾʌ̹ɡa̠n ind͡ʑɛ̝dɯɭ t͡ɕa̠ɭsʰa̠ɭɡe̞t̚t͡ɕ͈ima̠n tɛ̝da̠sʰu t͡ɕʰʌ̹ŋɲjʌ̹ndɯɭ ka̠na̠nɦɛ̝d͡ʑiɡo̞ is͈ɯm t͡ɕuŋsʰo̞ɡiʌ̹p̚ ka̠ɭs͈u pa̠k͈e̞ ˈɘːp̚t͈a̠ çjʌ̹nɕʰiɾɯɭ t͡ɕikɕ͈iɦa̠ɡo̞ ha̠ɾuɾa̠do̞ p͈a̠ɭʎi sʰa̠ɦø̞e̞ t͡ɕint͡ɕʰuɾɦɛ̝sʰʌ̹ ɕʰiɭmu kjʌ̹ŋɲjʌ̹ɡɯɭ s͈a̠nnɯnɡʌ̹ɕʰi t͡ɕuŋjoɦa̠nde̞ o̞n kʰʌ̹mjunitʰie̞sʰʌ̹ t͡ɕuŋsʰo̞ɡiʌ̹bɯɭ çjʌ̹mo̞ɦɛ̝dɛ̝ni a̠mna̠ɾi kʰa̠mkʰa̠mɦa̠ne̞",
     "tokens": [
       {
         "text": "물론",
@@ -85185,7 +85185,7 @@
       {
         "text": "진출해서",
         "canonical": "진출해서",
-        "phoneme": "t͡ɕint͡ɕʰuɭɦɛ̝sʰʌ̹",
+        "phoneme": "t͡ɕint͡ɕʰuɾɦɛ̝sʰʌ̹",
         "is_nc": false,
         "nc_type": null
       },
@@ -85255,7 +85255,7 @@
       {
         "text": "캄캄하네",
         "canonical": "캄캄하네",
-        "phoneme": "kʰɛ̝mkʰɛ̝mɦa̠ne̞",
+        "phoneme": "kʰa̠mkʰa̠mɦa̠ne̞",
         "is_nc": false,
         "nc_type": null
       }
@@ -85680,7 +85680,7 @@
     "split": "train",
     "text": "사실 이것도 미디어의 이미지화로 인한 폐단임 ㅋ보안관도 빌런도 현상범사냥꾼도 일단 총잡이면 죄다 카우보이라고 부르게 됨 ㅋㅋ",
     "canonical": "사실 이것도 미디어의 이미지화로 인한 폐단임 크보안관도 빌런도 현상범사냥꾼도 일단 총잡이면 죄다 카우보이라고 부르게 됨 크크",
-    "phonemes": "sʰa̠ɕʰiɭ iɡʌ̹t̚t͈o̞ midiʌ̹ɰi imid͡ʑiβwa̠ɾo̞ inɦa̠n pʰje̞da̠nim kxɯpo̞a̠nɡwa̠nto̞ piɭɭʌ̹ndo̞ çjʌ̹nsʰa̠ŋbʌ̹msʰa̠ɲja̠ŋk͈undo̞ iɭda̠n t͡ɕʰo̞ŋd͡ʑa̠bimjʌ̹n t͡ɕø̞da̠ kʰa̠ubo̞iɾa̠ɡo̞ puɾɯɡe̞ tø̞m kxɯkxɯ",
+    "phonemes": "sʰa̠ɕʰiɭ iɡʌ̹t̚t͈o̞ midiʌ̹ɰi imid͡ʑiβwa̠ɾo̞ inɦa̠n pʰje̞da̠nim kxɯbo̞a̠nɡwa̠ndo̞ piɭɭʌ̹ndo̞ çjʌ̹nsʰa̠ŋbʌ̹msʰa̠ɲja̠ŋk͈undo̞ iɭda̠n t͡ɕʰo̞ŋd͡ʑa̠bimjʌ̹n t͡ɕø̞da̠ kʰa̠ubo̞iɾa̠ɡo̞ puɾɯɡe̞ tø̞m kxɯkxɯ",
     "tokens": [
       {
         "text": "사실",
@@ -85727,7 +85727,7 @@
       {
         "text": "ㅋ보안관도",
         "canonical": "크보안관도,키보안관도,킥보안관도",
-        "phoneme": "kxɯpo̞a̠nɡwa̠nto̞,kçipo̞a̠nɡwa̠nto̞,kçik̚po̞a̠nɡwa̠nto̞,",
+        "phoneme": "kxɯbo̞a̠nɡwa̠ndo̞,kçibo̞a̠nɡwa̠ndo̞,kçik̚p͈o̞a̠nɡwa̠ndo̞,",
         "is_nc": true,
         "nc_type": "B2"
       },
@@ -86043,7 +86043,7 @@
     "split": "train",
     "text": "살 어린 저러다 되서 알아서 나가 떨어져주면 지 뭐",
     "canonical": "살 어린 저러다 되서 알아서 나가 떨어져주면 지 뭐",
-    "phonemes": "sʰa̠ɭ ʌ̹ɾin t͡ɕʌ̹ɾʌ̹da̠ tø̞sʰʌ̹ a̠ɾa̠sʰʌ̹ na̠ɡa̠ t͈ʌ̹ɾʌ̹d͡ʑʌ̹d͡ʑumʌ̹n t͡ɕi mwʌ̹",
+    "phonemes": "sʰa̠ɭ ʌ̹ɾin t͡ɕʌ̹ɾʌ̹da̠ tø̞sʰʌ̹ a̠ɾa̠sʰʌ̹ na̠ɡa̠ t͈ʌ̹ɾʌ̹d͡ʑʌ̹d͡ʑumjʌ̹n t͡ɕi mwʌ̹",
     "tokens": [
       {
         "text": "살",
@@ -86090,7 +86090,7 @@
       {
         "text": "떨어져주면",
         "canonical": "떨어져주면",
-        "phoneme": "t͈ʌ̹ɾʌ̹d͡ʑʌ̹d͡ʑumʌ̹n",
+        "phoneme": "t͈ʌ̹ɾʌ̹d͡ʑʌ̹d͡ʑumjʌ̹n",
         "is_nc": false,
         "nc_type": null
       },
@@ -86406,7 +86406,7 @@
     "split": "train",
     "text": "그런 촌동네 사는게 뭐 잘사는 사람임 ㅋㅋㅋ",
     "canonical": "그런 촌동네 사는게 뭐 잘사는 사람임 크크크",
-    "phonemes": "kɯɾʌ̹n t͡ɕʰo̞nt͈o̞ŋne̞ sʰa̠nɯnɡe̞ mwʌ̹ t͡ɕa̠ɭsʰa̠nɯn sʰa̠ɾa̠mim kxɯkxɯkxɯ",
+    "phonemes": "kɯɾʌ̹n t͡ɕʰo̞ndo̞ŋne̞ sʰa̠nɯnɡe̞ mwʌ̹ t͡ɕa̠ɭsʰa̠nɯn sʰa̠ɾa̠mim kxɯkxɯkxɯ",
     "tokens": [
       {
         "text": "그런",
@@ -86418,7 +86418,7 @@
       {
         "text": "촌동네",
         "canonical": "촌동네",
-        "phoneme": "t͡ɕʰo̞nt͈o̞ŋne̞",
+        "phoneme": "t͡ɕʰo̞ndo̞ŋne̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -86664,7 +86664,7 @@
     "split": "train",
     "text": "현재 한녀 혼하면 좋은 직장 다니고 집차 다해가도 처가 대릴사위 노릇하게 된다 궁금하면 결혼한 주위 사람 물어봐라 10이면 10 비슷한 소리 나올껄",
     "canonical": "현재 한녀 혼하면 좋은 직장 다니고 집차 다해가도 처가 대릴사위 노릇하게 된다 궁금하면 결혼한 주위 사람 물어봐라 10이면 10 비슷한 소리 나올껄",
-    "phonemes": "çjʌ̹nd͡ʑɛ̝ ha̠nnjʌ̹ ɸʷo̞nɦa̠mjʌ̹n t͡ɕo̞ɯn t͡ɕik̚t͡ɕ͈a̠ŋ ta̠niɡo̞ t͡ɕip̚t͡ɕʰa̠ ta̠ɦɛ̝ɡa̠do̞ t͡ɕʰʌ̹ɡa̠ tɛ̝ɾiɭsʰa̠ɥi no̞ɾɯtʰa̠ɡe̞ tø̞nda̠ kuŋɡɯmɦa̠mjʌ̹n kjʌ̹ɾβo̞nɦa̠n t͡ɕuɥi ˈsʰa̠ːɾa̠m muɾʌ̹bwa̠ɾa̠ ɕʰibimjʌ̹n ɕʰip̚ pisʰɯtʰa̠n sʰo̞ɾi na̠o̞ɭk͈ʌ̹ɭ",
+    "phonemes": "çjʌ̹nd͡ʑɛ̝ ha̠nnjʌ̹ ɸʷo̞nɦa̠mjʌ̹n t͡ɕo̞ɯn t͡ɕik̚t͡ɕ͈a̠ŋ ta̠niɡo̞ t͡ɕip̚t͡ɕʰa̠ ta̠ɦɛ̝ɡa̠do̞ t͡ɕʰʌ̹ɡa̠ tɛ̝ɾiɭsʰa̠ɥi no̞ɾɯtʰa̠ɡe̞ tø̞nda̠ kuŋɡɯmɦa̠mjʌ̹n kjʌ̹ɾβo̞nɦa̠n t͡ɕuɥi ˈsʰa̠ːɾa̠m muɾʌ̹bwa̠ɾa̠ ɕʰi bimjʌ̹n ɕʰip̚ pisʰɯtʰa̠n sʰo̞ɾi na̠o̞ɭk͈ʌ̹ɭ",
     "tokens": [
       {
         "text": "현재",
@@ -86788,7 +86788,7 @@
       {
         "text": "10이면",
         "canonical": "10이면",
-        "phoneme": "ɕʰibimjʌ̹n",
+        "phoneme": "ɕʰi bimjʌ̹n",
         "is_nc": false,
         "nc_type": null
       },
@@ -86829,7 +86829,7 @@
     "split": "train",
     "text": "일본 실사화 재밋는것 많던데 그 특유의 병맛이 재밋음",
     "canonical": "일본 실사화 재밋는것 많던데 그 특유의 병맛이 재밋음",
-    "phonemes": "iɭbo̞n ɕʰiɭs͈a̠βwa̠ t͡ɕɛ̝minnɯnɡʌ̹t̚ ma̠ntʰʌ̹nde̞ kɯ tʰɯɡjuɰi pjʌ̹ŋma̠ɕʰi t͡ɕɛ̝misʰɯm",
+    "phonemes": "iɭbo̞n ɕʰiɭsʰa̠βwa̠ t͡ɕɛ̝minnɯnɡʌ̹t̚ ma̠ntʰʌ̹nde̞ kɯ tʰɯɡjuɰi pjʌ̹ŋma̠ɕʰi t͡ɕɛ̝misʰɯm",
     "tokens": [
       {
         "text": "일본",
@@ -86841,7 +86841,7 @@
       {
         "text": "실사화",
         "canonical": "실사화",
-        "phoneme": "ɕʰiɭs͈a̠βwa̠",
+        "phoneme": "ɕʰiɭsʰa̠βwa̠",
         "is_nc": false,
         "nc_type": null
       },
@@ -88116,7 +88116,7 @@
     "split": "train",
     "text": "윗놈들 병신새낀가 피떡될때까지 ㅇㅈㄹ하는데 올려치기야 비꼬는거지",
     "canonical": "윗놈들 병신새낀가 피떡될때까지 이지랄하는데 올려치기야 비꼬는거지",
-    "phonemes": "ɥinno̞mdɯɭ pjʌ̹ŋɕʰinsʰɛ̝k͈inɡa̠ pʰit͈ʌ̹k̚t͈ø̞ɭt͈ɛ̝k͈a̠d͡ʑi id͡ʑiɾa̠ɭɦa̠nɯnde̞ o̞ɭʎjʌ̹t͡ɕʰiɡija̠ pik͈o̞nɯnɡʌ̹d͡ʑi",
+    "phonemes": "ɥinno̞mdɯɭ pjʌ̹ŋɕʰinsʰɛ̝k͈inɡa̠ pʰit͈ʌ̹k̚t͈ø̞ɭt͈ɛ̝k͈a̠d͡ʑi id͡ʑiɾa̠ɾɦa̠nɯnde̞ o̞ɭʎjʌ̹t͡ɕʰiɡija̠ pik͈o̞nɯnɡʌ̹d͡ʑi",
     "tokens": [
       {
         "text": "윗놈들",
@@ -88142,7 +88142,7 @@
       {
         "text": "ㅇㅈㄹ하는데",
         "canonical": "이지랄하는데",
-        "phoneme": "id͡ʑiɾa̠ɭɦa̠nɯnde̞",
+        "phoneme": "id͡ʑiɾa̠ɾɦa̠nɯnde̞",
         "is_nc": true,
         "nc_type": "A1"
       },
@@ -88169,7 +88169,7 @@
     "split": "train",
     "text": "기성세대 특히 후반 초입 mz들 말하면 말도 듣기싫어하고 자기들 말하는 모든게 다 맞아하면서 대화단절 윽박지르고 가스라이팅 하는 분들 어케 소통을 하나",
     "canonical": "기성세대 특히 후반 초입 mz들 말하면 말도 듣기싫어하고 자기들 말하는 모든게 다 맞아하면서 대화단절 윽박지르고 가스라이팅 하는 분들 어케 소통을 하나",
-    "phonemes": "kisʰʌ̹ŋsʰe̞dɛ̝ tʰɯkçi ɸʷuba̠n t͡ɕʰo̞ip̚ e̞md͡ʑidɯɭ ma̠ɭɦa̠mjʌ̹n ma̠ɭdo̞ tɯt̚k͈iɕʰiɾʌ̹ɦa̠ɡo̞ t͡ɕa̠ɡidɯɭ ma̠ɭɦa̠nɯn mo̞dɯnɡe̞ ta̠ ma̠d͡ʑa̠ɦa̠mjʌ̹nsʰʌ̹ tɛ̝βwa̠da̠nd͡ʑʌ̹ɭ ɯk̚p͈a̠k̚t͡ɕ͈iɾɯɡo̞ ka̠sʰɯɾa̠itʰiŋ ha̠nɯn pundɯɭ ʌ̹kʰe̞ sʰo̞tʰo̞ŋɯɭ ha̠na̠",
+    "phonemes": "kisʰʌ̹ŋsʰe̞dɛ̝ tʰɯkçi ɸʷuba̠n t͡ɕʰo̞ip̚ e̞md͡ʑidɯɭ ma̠ɾɦa̠mjʌ̹n ma̠ɭdo̞ tɯt̚k͈iɕʰiɾʌ̹ɦa̠ɡo̞ t͡ɕa̠ɡidɯɭ ma̠ɾɦa̠nɯn mo̞dɯnɡe̞ ta̠ ma̠d͡ʑa̠ɦa̠mjʌ̹nsʰʌ̹ tɛ̝βwa̠da̠nd͡ʑʌ̹ɭ ɯk̚p͈a̠k̚t͡ɕ͈iɾɯɡo̞ ka̠sʰɯɾa̠itʰiŋ ha̠nɯn pundɯɭ ʌ̹kʰe̞ sʰo̞tʰo̞ŋɯɭ ha̠na̠",
     "tokens": [
       {
         "text": "기성세대",
@@ -88209,7 +88209,7 @@
       {
         "text": "말하면",
         "canonical": "말하면",
-        "phoneme": "ma̠ɭɦa̠mjʌ̹n",
+        "phoneme": "ma̠ɾɦa̠mjʌ̹n",
         "is_nc": false,
         "nc_type": null
       },
@@ -88237,7 +88237,7 @@
       {
         "text": "말하는",
         "canonical": "말하는",
-        "phoneme": "ma̠ɭɦa̠nɯn",
+        "phoneme": "ma̠ɾɦa̠nɯn",
         "is_nc": false,
         "nc_type": null
       },
@@ -88723,7 +88723,7 @@
       {
         "text": "BLACKEDRAW",
         "canonical": "BLACKEDRAW",
-        "phoneme": "pɯɭɭɛ̝kçidɯɾo̞u",
+        "phoneme": "pɯɭɭɛ̝k̚t͈ɯɾo̞u",
         "is_nc": false,
         "nc_type": null
       },
@@ -90142,7 +90142,7 @@
     "split": "train",
     "text": "시발 녹내장 걸린 사람들 못봤냐 수술하면 낫는 건데 병원 안가려고 지랄지랄하다가 눈 멀고 백내장이든 녹내장이든 병원에서 하라는대로 좀 해라",
     "canonical": "시발 녹내장 걸린 사람들 못봤냐 수술하면 낫는 건데 병원 안가려고 지랄지랄하다가 눈 멀고 백내장이든 녹내장이든 병원에서 하라는대로 좀 해라",
-    "phonemes": "ɕʰiba̠ɭ no̞ŋnɛ̝d͡ʑa̠ŋ kʌ̹ɭʎin sʰa̠ɾa̠mdɯɭ mo̞t̚p͈wa̠nɲja̠ sʰusʰuɾɦa̠mjʌ̹n na̠nnɯn kʌ̹nde̞ pjʌ̹ŋwʌ̹n a̠nɡa̠ɾjʌ̹ɡo̞ t͡ɕiɾa̠ɭd͡ʑiɾa̠ɭɦa̠da̠ɡa̠ nun mʌ̹ɭɡo̞ pɛ̝ŋnɛ̝d͡ʑa̠ŋidɯn no̞ŋnɛ̝d͡ʑa̠ŋidɯn pjʌ̹ŋwʌ̹ne̞sʰʌ̹ ha̠ɾa̠nɯndɛ̝ɾo̞ t͡ɕo̞m hɛ̝ɾa̠",
+    "phonemes": "ɕʰiba̠ɭ no̞ŋnɛ̝d͡ʑa̠ŋ kʌ̹ɭʎin sʰa̠ɾa̠mdɯɭ mo̞t̚p͈wa̠nɲja̠ sʰusʰuɾɦa̠mjʌ̹n na̠nnɯn kʌ̹nde̞ pjʌ̹ŋwʌ̹n a̠nɡa̠ɾjʌ̹ɡo̞ t͡ɕiɾa̠ɭd͡ʑiɾa̠ɾɦa̠da̠ɡa̠ nun mʌ̹ɭɡo̞ pɛ̝ŋnɛ̝d͡ʑa̠ŋidɯn no̞ŋnɛ̝d͡ʑa̠ŋidɯn pjʌ̹ŋwʌ̹ne̞sʰʌ̹ ha̠ɾa̠nɯndɛ̝ɾo̞ t͡ɕo̞m hɛ̝ɾa̠",
     "tokens": [
       {
         "text": "시발",
@@ -90217,7 +90217,7 @@
       {
         "text": "지랄지랄하다가",
         "canonical": "지랄지랄하다가",
-        "phoneme": "t͡ɕiɾa̠ɭd͡ʑiɾa̠ɭɦa̠da̠ɡa̠",
+        "phoneme": "t͡ɕiɾa̠ɭd͡ʑiɾa̠ɾɦa̠da̠ɡa̠",
         "is_nc": true,
         "nc_type": "B2"
       },
@@ -90601,7 +90601,7 @@
     "split": "train",
     "text": "일본도 저ㅈㄹ하다가 자민당 잠식해버림",
     "canonical": "일본도 저지랄하다가 자민당 잠식해버림",
-    "phonemes": "iɭbo̞ndo̞ t͡ɕʌ̹d͡ʑiɾa̠ɭɦa̠da̠ɡa̠ t͡ɕa̠minda̠ŋ t͡ɕa̠mɕʰikʰɛ̝bʌ̹ɾim",
+    "phonemes": "iɭbo̞ndo̞ t͡ɕʌ̹d͡ʑiɾa̠ɾɦa̠da̠ɡa̠ t͡ɕa̠minda̠ŋ t͡ɕa̠mɕʰikʰɛ̝bʌ̹ɾim",
     "tokens": [
       {
         "text": "일본도",
@@ -90613,7 +90613,7 @@
       {
         "text": "저ㅈㄹ하다가",
         "canonical": "저지랄하다가",
-        "phoneme": "t͡ɕʌ̹d͡ʑiɾa̠ɭɦa̠da̠ɡa̠",
+        "phoneme": "t͡ɕʌ̹d͡ʑiɾa̠ɾɦa̠da̠ɡa̠",
         "is_nc": true,
         "nc_type": "A1"
       },
@@ -91064,7 +91064,7 @@
     "split": "train",
     "text": "일본애들 만나봤는데 2프로 거든 지식 체계 상식 넓고 하나하나 알려주니까 놀라더라 인스턴트 였냐고",
     "canonical": "일본애들 만나봤는데 2프로 거든 지식 체계 상식 넓고 하나하나 알려주니까 놀라더라 인스턴트 였냐고",
-    "phonemes": "iɭbo̞nɛ̝dɯɭ ma̠nna̠bwa̠nnɯnde̞ i pʰɯɾo̞ kʌ̹dɯn t͡ɕiɕʰik̚ t͡ɕʰe̞ɡje̞ sʰa̠ŋɕʰik̚ nʌ̹ɭk͈o̞ ha̠na̠ɦa̠na̠ a̠ɭʎjʌ̹d͡ʑunik͈a̠ no̞ɭɭa̠dʌ̹ɾʌ̹ɾa̠ insʰɯtʰʌ̹ntʰɯ jʌ̹nɲja̠ɡo̞",
+    "phonemes": "iɭbo̞nɛ̝dɯɭ ma̠nna̠bwa̠nnɯnde̞ i pʰɯɾo̞ kʌ̹dɯn t͡ɕiɕʰik̚ t͡ɕʰe̞ɡje̞ sʰa̠ŋɕʰik̚ nʌ̹ɭk͈o̞ ha̠na̠ɦa̠na̠ a̠ɭʎjʌ̹d͡ʑunik͈a̠ no̞ɭɭa̠dʌ̹ɾa̠ insʰɯtʰʌ̹ntʰɯ jʌ̹nɲja̠ɡo̞",
     "tokens": [
       {
         "text": "일본애들",
@@ -91139,7 +91139,7 @@
       {
         "text": "놀라더라",
         "canonical": "놀라더라",
-        "phoneme": "no̞ɭɭa̠dʌ̹ɾʌ̹ɾa̠",
+        "phoneme": "no̞ɭɭa̠dʌ̹ɾa̠",
         "is_nc": false,
         "nc_type": null
       },
@@ -92971,7 +92971,7 @@
     "split": "train",
     "text": "서버 지랄하네",
     "canonical": "서버 지랄하네",
-    "phonemes": "sʰʌ̹bʌ̹ t͡ɕiɾa̠ɭɦa̠ne̞",
+    "phonemes": "sʰʌ̹bʌ̹ t͡ɕiɾa̠ɾɦa̠ne̞",
     "tokens": [
       {
         "text": "서버",
@@ -92983,7 +92983,7 @@
       {
         "text": "지랄하네",
         "canonical": "지랄하네",
-        "phoneme": "t͡ɕiɾa̠ɭɦa̠ne̞",
+        "phoneme": "t͡ɕiɾa̠ɾɦa̠ne̞",
         "is_nc": false,
         "nc_type": null
       }
@@ -92996,7 +92996,7 @@
     "split": "train",
     "text": "재미있네 나는 스팀에서 활동하는 홍길동이 대단하다고 생각했는데",
     "canonical": "재미있네 나는 스팀에서 활동하는 홍길동이 대단하다고 생각했는데",
-    "phonemes": "t͡ɕɛ̝miinne̞ na̠nɯn sʰɯtʰime̞sʰʌ̹ ɸwa̠ɭt͈o̞ŋɦa̠nɯn ɸʷo̞ŋɡiɭdo̞ŋi tɛ̝da̠nɦa̠da̠ɡo̞ sʰɛ̝ŋɡa̠kʰɛ̝nnɯnde̞",
+    "phonemes": "t͡ɕɛ̝miinne̞ na̠nɯn sʰɯtʰime̞sʰʌ̹ ɸwa̠ɭdo̞ŋɦa̠nɯn ɸʷo̞ŋɡiɭdo̞ŋi tɛ̝da̠nɦa̠da̠ɡo̞ sʰɛ̝ŋɡa̠kʰɛ̝nnɯnde̞",
     "tokens": [
       {
         "text": "재미있네",
@@ -93022,7 +93022,7 @@
       {
         "text": "활동하는",
         "canonical": "활동하는",
-        "phoneme": "ɸwa̠ɭt͈o̞ŋɦa̠nɯn",
+        "phoneme": "ɸwa̠ɭdo̞ŋɦa̠nɯn",
         "is_nc": false,
         "nc_type": null
       },
@@ -94120,7 +94120,7 @@
     "split": "train",
     "text": "이럴거면 탈중앙화 외쳣노",
     "canonical": "이럴거면 탈중앙화 외쳣노",
-    "phonemes": "iɾʌ̹ɭk͈ʌ̹mjʌ̹n tʰa̠ɭt͡ɕ͈uŋa̠ŋβwa̠ ø̞t͡ɕʰʌ̹nno̞",
+    "phonemes": "iɾʌ̹ɭk͈ʌ̹mjʌ̹n tʰa̠ɭd͡ʑuŋa̠ŋβwa̠ ø̞t͡ɕʰʌ̹nno̞",
     "tokens": [
       {
         "text": "이럴거면",
@@ -94132,7 +94132,7 @@
       {
         "text": "탈중앙화",
         "canonical": "탈중앙화",
-        "phoneme": "tʰa̠ɭt͡ɕ͈uŋa̠ŋβwa̠",
+        "phoneme": "tʰa̠ɭd͡ʑuŋa̠ŋβwa̠",
         "is_nc": false,
         "nc_type": null
       },
@@ -94541,7 +94541,7 @@
     "split": "train",
     "text": "도덕성 지랄해서 정권교체 썩은 나왔다 전과4범 총각사칭해 여배우먹은 이재명퇴출하자 민주당한테 속았다 윤석열이 대통령돼서 천만다행이다 합장하지마라 불교에서 운영하는 나눔의집 만들었고 정청래는 문화재 관리해주고 받는 불교문제도 불자들이 민주당에서 호국불교 애국불교 국민의힘으로 이동해서 대통령선거 숨은 최대변수 일등공신이다 알고살자",
     "canonical": "도덕성 지랄해서 정권교체 썩은 나왔다 전과4범 총각사칭해 여배우먹은 이재명퇴출하자 민주당한테 속았다 윤석열이 대통령돼서 천만다행이다 합장하지마라 불교에서 운영하는 나눔의집 만들었고 정청래는 문화재 관리해주고 받는 불교문제도 불자들이 민주당에서 호국불교 애국불교 국민의힘으로 이동해서 대통령선거 숨은 최대변수 일등공신이다 알고살자",
-    "phonemes": "to̞dʌ̹ks͈ʌ̹ŋ t͡ɕiɾa̠ɾɦɛ̝sʰʌ̹ t͡ɕʌ̹ŋk͈wʌ̹nɡjot͡ɕʰe̞ s͈ʌ̹ɡɯn na̠wa̠t̚t͈a̠ t͡ɕʌ̹nk͈wa̠ sʰa̠ pʌ̹m t͡ɕʰo̞ŋɡa̠ks͈a̠t͡ɕʰiŋɦɛ̝ jʌ̹bɛ̝umʌ̹ɡɯn id͡ʑɛ̝mjʌ̹ŋtʰø̞t͡ɕʰuɾɦa̠d͡ʑa̠ mind͡ʑuda̠ŋɦa̠ntʰe̞ sʰo̞ɡa̠t̚t͈a̠ junsʰʌ̹ɡjʌ̹ɾi tɛ̝tʰo̞ŋɲjʌ̹ŋdwɛ̝sʰʌ̹ t͡ɕʰʌ̹nma̠nda̠ɦɛ̝ŋida̠ ha̠p̚t͡ɕ͈a̠ŋɦa̠d͡ʑima̠ɾa̠ puɭɡjoe̞sʰʌ̹ uɲjʌ̹ŋɦa̠nɯn na̠numɰid͡ʑip̚ ma̠ndɯɾʌ̹t̚k͈o̞ t͡ɕʌ̹ŋt͡ɕʰʌ̹ŋnɛ̝nɯn munβwa̠d͡ʑɛ̝ kwa̠ɭʎiɦɛ̝d͡ʑuɡo̞ pa̠nnɯn puɭɡjomund͡ʑe̞do̞ puɭt͡ɕ͈a̠dɯɾi mind͡ʑuda̠ŋe̞sʰʌ̹ ɸʷo̞ɡuk̚p͈uɭɡjo ɛ̝ɡuk̚p͈uɭɡjo kuŋmine̞ʝimɯɾo̞ ido̞ŋɦɛ̝sʰʌ̹ tɛ̝tʰo̞ŋɲjʌ̹ŋsʰʌ̹nɡʌ̹ sʰumɯn t͡ɕʰø̞dɛ̝bjʌ̹nsʰu iɭdɯŋɡo̞ŋɕʰinida̠ a̠ɭɡo̞sʰa̠ɭd͡ʑa̠",
+    "phonemes": "to̞dʌ̹ks͈ʌ̹ŋ t͡ɕiɾa̠ɾɦɛ̝sʰʌ̹ t͡ɕʌ̹ŋk͈wʌ̹nɡjot͡ɕʰe̞ s͈ʌ̹ɡɯn na̠wa̠t̚t͈a̠ t͡ɕʌ̹nɡwa̠ sʰa̠ bʌ̹m t͡ɕʰo̞ŋɡa̠ks͈a̠t͡ɕʰiŋɦɛ̝ jʌ̹bɛ̝umʌ̹ɡɯn id͡ʑɛ̝mjʌ̹ŋtʰø̞t͡ɕʰuɾɦa̠d͡ʑa̠ mind͡ʑuda̠ŋɦa̠ntʰe̞ sʰo̞ɡa̠t̚t͈a̠ junsʰʌ̹ɡjʌ̹ɾi tɛ̝tʰo̞ŋɲjʌ̹ŋdwɛ̝sʰʌ̹ t͡ɕʰʌ̹nma̠nda̠ɦɛ̝ŋida̠ ha̠p̚t͡ɕ͈a̠ŋɦa̠d͡ʑima̠ɾa̠ puɭɡjoe̞sʰʌ̹ uɲjʌ̹ŋɦa̠nɯn na̠numɰid͡ʑip̚ ma̠ndɯɾʌ̹t̚k͈o̞ t͡ɕʌ̹ŋt͡ɕʰʌ̹ŋnɛ̝nɯn munβwa̠d͡ʑɛ̝ kwa̠ɭʎiɦɛ̝d͡ʑuɡo̞ pa̠nnɯn puɭɡjomund͡ʑe̞do̞ puɭd͡ʑa̠dɯɾi mind͡ʑuda̠ŋe̞sʰʌ̹ ɸʷo̞ɡuk̚p͈uɭɡjo ɛ̝ɡuk̚p͈uɭɡjo kuŋminɰiʝimɯɾo̞ ido̞ŋɦɛ̝sʰʌ̹ tɛ̝tʰo̞ŋɲjʌ̹ŋsʰʌ̹nɡʌ̹ sʰumɯn t͡ɕʰø̞dɛ̝bjʌ̹nsʰu iɭdɯŋɡo̞ŋɕʰinida̠ a̠ɭɡo̞sʰa̠ɭd͡ʑa̠",
     "tokens": [
       {
         "text": "도덕성",
@@ -94581,7 +94581,7 @@
       {
         "text": "전과4범",
         "canonical": "전과4범",
-        "phoneme": "t͡ɕʌ̹nk͈wa̠ sʰa̠ pʌ̹m",
+        "phoneme": "t͡ɕʌ̹nɡwa̠ sʰa̠ bʌ̹m",
         "is_nc": false,
         "nc_type": null
       },
@@ -94714,7 +94714,7 @@
       {
         "text": "불자들이",
         "canonical": "불자들이",
-        "phoneme": "puɭt͡ɕ͈a̠dɯɾi",
+        "phoneme": "puɭd͡ʑa̠dɯɾi",
         "is_nc": false,
         "nc_type": null
       },
@@ -94742,7 +94742,7 @@
       {
         "text": "국민의힘으로",
         "canonical": "국민의힘으로",
-        "phoneme": "kuŋmine̞ʝimɯɾo̞",
+        "phoneme": "kuŋminɰiʝimɯɾo̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -95359,7 +95359,7 @@
     "split": "train",
     "text": "온냐 너무 웃기긔",
     "canonical": "온냐 너무 웃기긔",
-    "phonemes": "o̞nɲja̠ nʌ̹mu ut̚k͈iɡɰi",
+    "phonemes": "o̞nɲja̠ nʌ̹mu ut̚k͈iɡi",
     "tokens": [
       {
         "text": "온냐",
@@ -95378,7 +95378,7 @@
       {
         "text": "웃기긔",
         "canonical": "웃기긔",
-        "phoneme": "ut̚k͈iɡɰi",
+        "phoneme": "ut̚k͈iɡi",
         "is_nc": true,
         "nc_type": "C3"
       }
@@ -96824,12 +96824,12 @@
     "split": "train",
     "text": "똥칡",
     "canonical": "똥칡",
-    "phonemes": "t͈o̞ŋkçik̚",
+    "phonemes": "t͈o̞ŋt͡ɕʰik̚",
     "tokens": [
       {
         "text": "똥칡",
         "canonical": "똥칡",
-        "phoneme": "t͈o̞ŋkçik̚",
+        "phoneme": "t͈o̞ŋt͡ɕʰik̚",
         "is_nc": false,
         "nc_type": null
       }
@@ -97692,12 +97692,12 @@
     "split": "train",
     "text": "별의별 미친년들",
     "canonical": "별의별 미친년들",
-    "phonemes": "pjʌ̹ɾibjʌ̹ɭ mit͡ɕʰinɲjʌ̹ndɯɭ",
+    "phonemes": "pjʌ̹ɾɰibjʌ̹ɭ mit͡ɕʰinɲjʌ̹ndɯɭ",
     "tokens": [
       {
         "text": "별의별",
         "canonical": "별의별",
-        "phoneme": "pjʌ̹ɾibjʌ̹ɭ",
+        "phoneme": "pjʌ̹ɾɰibjʌ̹ɭ",
         "is_nc": false,
         "nc_type": null
       },
@@ -98323,7 +98323,7 @@
     "split": "train",
     "text": "좆물받이 위안도 좆라도",
     "canonical": "좆물받이 위안도 좆라도",
-    "phonemes": "t͡ɕo̞nmuɭba̠d͡ʑi ɥia̠ndo̞ t͡ɕo̞nna̠do̞",
+    "phonemes": "t͡ɕo̞nmuɭba̠d͡ʑi ɥia̠ndo̞ t͡ɕo̞ɭɭa̠do̞",
     "tokens": [
       {
         "text": "좆물받이",
@@ -98342,7 +98342,7 @@
       {
         "text": "좆라도",
         "canonical": "좆라도",
-        "phoneme": "t͡ɕo̞nna̠do̞",
+        "phoneme": "t͡ɕo̞ɭɭa̠do̞",
         "is_nc": true,
         "nc_type": "C3"
       }
@@ -98998,7 +98998,7 @@
     "split": "train",
     "text": "이거는 근데 망해도 보내야지만 력제가 해준 게 얼마인데 사람이 신의가 있어야지",
     "canonical": "이거는 근데 망해도 보내야지만 력제가 해준 게 얼마인데 사람이 신의가 있어야지",
-    "phonemes": "iɡʌ̹nɯn kɯnde̞ ma̠ŋɦɛ̝do̞ po̞nɛ̝ja̠d͡ʑima̠n ɾjʌ̹k̚t͡ɕ͈e̞ɡa̠ hɛ̝d͡ʑun ke̞ ʌ̹ɭma̠inde̞ sʰa̠ɾa̠mi ɕʰiniɡa̠ is͈ʌ̹ja̠d͡ʑi",
+    "phonemes": "iɡʌ̹nɯn kɯnde̞ ma̠ŋɦɛ̝do̞ po̞nɛ̝ja̠d͡ʑima̠n ɾjʌ̹k̚t͡ɕ͈e̞ɡa̠ hɛ̝d͡ʑun ke̞ ʌ̹ɭma̠inde̞ sʰa̠ɾa̠mi ɕʰinɰiɡa̠ is͈ʌ̹ja̠d͡ʑi",
     "tokens": [
       {
         "text": "이거는",
@@ -99066,7 +99066,7 @@
       {
         "text": "신의가",
         "canonical": "신의가",
-        "phoneme": "ɕʰiniɡa̠",
+        "phoneme": "ɕʰinɰiɡa̠",
         "is_nc": false,
         "nc_type": null
       },
@@ -101329,7 +101329,7 @@
     "split": "train",
     "text": "근집트임 근라미드 뽕 쳐맞고 근집트 후회함 유투버들 근집트는 근트버로만 즐기라는 헛소리가 근트버 영상만 외국인이다 깁미 근달러가 기본임",
     "canonical": "근집트임 근라미드 뽕 쳐맞고 근집트 후회함 유투버들 근집트는 근트버로만 즐기라는 헛소리가 근트버 영상만 외국인이다 깁미 근달러가 기본임",
-    "phonemes": "kɯnd͡ʑip̚tʰɯim kɯɭɭa̠midɯ p͈o̞ŋ t͡ɕʰʌ̹ma̠t̚k͈o̞ kɯnd͡ʑip̚tʰɯ ɸʷuɦø̞ɦa̠m jutʰubʌ̹dɯɭ kɯnd͡ʑip̚tʰɯnɯn kɯntʰɯbʌ̹ɾo̞ma̠n t͡ɕɯɭɡiɾa̠nɯn hʌ̹t̚s͈o̞ɾiɡa̠ kɯntʰɯbʌ̹ jʌ̹ŋsʰa̠ŋma̠n ø̞ɡuɡinida̠ k͈immi kɯnda̠ɭɭʌ̹ɡa̠ kibo̞nim",
+    "phonemes": "kɯnd͡ʑip̚tʰɯim kɯɭɭa̠midɯ p͈o̞ŋ t͡ɕʰʌ̹ma̠t̚k͈o̞ kɯnd͡ʑip̚tʰɯ ɸʷuɦø̞ɦa̠m jutʰubʌ̹dɯɭ kɯnd͡ʑip̚tʰɯnɯn kɯntʰɯbʌ̹ɾo̞ma̠n t͡ɕɯɭɡiɾa̠nɯn hʌ̹t̚s͈o̞ɾiɡa̠ kɯntʰɯbʌ̹ jʌ̹ŋsʰa̠ŋma̠n ø̞ɡuɡinida̠ kimmi kɯnda̠ɭɭʌ̹ɡa̠ kibo̞nim",
     "tokens": [
       {
         "text": "근집트임",
@@ -101432,7 +101432,7 @@
       {
         "text": "깁미",
         "canonical": "깁미",
-        "phoneme": "k͈immi",
+        "phoneme": "kimmi",
         "is_nc": false,
         "nc_type": null
       },
@@ -101657,12 +101657,12 @@
     "split": "train",
     "text": "19세기 냐",
     "canonical": "19세기 냐",
-    "phonemes": "ɕʰip̚k͈usʰe̞ɡi ɲja̠",
+    "phonemes": "ɕʰip̚k͈u sʰe̞ɡi ɲja̠",
     "tokens": [
       {
         "text": "19세기",
         "canonical": "19세기",
-        "phoneme": "ɕʰip̚k͈usʰe̞ɡi",
+        "phoneme": "ɕʰip̚k͈u sʰe̞ɡi",
         "is_nc": false,
         "nc_type": null
       },
@@ -101799,7 +101799,7 @@
     "split": "train",
     "text": "오 좋노 14번 느낌",
     "canonical": "오 좋노 14번 느낌",
-    "phonemes": "o̞ t͡ɕo̞nno̞ ɕʰips͈a̠bʌ̹n nɯk͈im",
+    "phonemes": "o̞ t͡ɕo̞nno̞ ɕʰips͈a̠ bʌ̹n nɯk͈im",
     "tokens": [
       {
         "text": "오",
@@ -101818,7 +101818,7 @@
       {
         "text": "14번",
         "canonical": "14번",
-        "phoneme": "ɕʰips͈a̠bʌ̹n",
+        "phoneme": "ɕʰips͈a̠ bʌ̹n",
         "is_nc": false,
         "nc_type": null
       },
@@ -102777,7 +102777,7 @@
     "split": "train",
     "text": "누가 보면 간호사 가 환자 10명씩 돌보고 있는 줄 알겠네 현실 은 병동 에 10명 있으면 간병인들 다 옆에서 보조하고 있는중이고 간호사들은 간병인들에게 지시만 내리고 지일하러 휙 가버림 갑질 당한다고 하는데 지들이 제일 심함 간병인 없는 생기면 고용안하면 안된다고 큰일 날수 있다면서 공포감 조성하면서 존나 지랄해댐",
     "canonical": "누가 보면 간호사 가 환자 10명씩 돌보고 있는 줄 알겠네 현실 은 병동 에 10명 있으면 간병인들 다 옆에서 보조하고 있는중이고 간호사들은 간병인들에게 지시만 내리고 지일하러 휙 가버림 갑질 당한다고 하는데 지들이 제일 심함 간병인 없는 생기면 고용안하면 안된다고 큰일 날수 있다면서 공포감 조성하면서 존나 지랄해댐",
-    "phonemes": "nuɡa̠ po̞mjʌ̹n ka̠nβo̞sʰa̠ ka̠ ɸwa̠nd͡ʑa̠ ɕʰim mjʌ̹ŋɕ͈ik̚ to̞ɭbo̞ɡo̞ innɯn t͡ɕuɭ a̠ɭɡe̞nne̞ çjʌ̹nɕʰiɭ ɯn pjʌ̹ŋdo̞ŋ e̞ jʌ̹ɭmjʌ̹ŋ is͈ɯmjʌ̹n ka̠nbjʌ̹ŋindɯɭ ta̠ jʌ̹pʰe̞sʰʌ̹ po̞d͡ʑo̞ɦa̠ɡo̞ innɯnd͡ʑuŋiɡo̞ ka̠nβo̞sʰa̠dɯɾɯn ka̠nbjʌ̹ŋindɯɾe̞ɡe̞ t͡ɕiɕʰima̠n nɛ̝ɾiɡo̞ t͡ɕiiɾɦa̠ɾʌ̹ çɥik̚ ka̠bʌ̹ɾim ka̠p̚t͡ɕ͈iɭ ta̠ŋɦa̠nda̠ɡo̞ ha̠nɯnde̞ t͡ɕidɯɾi t͡ɕe̞iɭ ɕʰimɦa̠m ka̠nbjʌ̹ŋin ʌ̹mnɯn sʰɛ̝ŋɡimjʌ̹n ko̞joŋa̠nɦa̠mjʌ̹n a̠ndø̞nda̠ɡo̞ kxɯniɭ na̠ɭs͈u it̚t͈a̠mjʌ̹nsʰʌ̹ ko̞ŋpʰo̞ɡa̠m t͡ɕo̞sʰʌ̹ŋɦa̠mjʌ̹nsʰʌ̹ t͡ɕo̞nna̠ t͡ɕiɾa̠ɾɦɛ̝dɛ̝m",
+    "phonemes": "nuɡa̠ po̞mjʌ̹n ka̠nβo̞sʰa̠ ka̠ ɸwa̠nd͡ʑa̠ ɕʰim mjʌ̹ŋɕ͈ik̚ to̞ɭbo̞ɡo̞ innɯn t͡ɕuɭ a̠ɭɡe̞nne̞ çjʌ̹nɕʰiɭ ɯn pjʌ̹ŋdo̞ŋ e̞ jʌ̹ɭmjʌ̹ŋ is͈ɯmjʌ̹n ka̠nbjʌ̹ŋindɯɭ ta̠ jʌ̹pʰe̞sʰʌ̹ po̞d͡ʑo̞ɦa̠ɡo̞ innɯnd͡ʑuŋiɡo̞ ka̠nβo̞sʰa̠dɯɾɯn ka̠nbjʌ̹ŋindɯɾe̞ɡe̞ t͡ɕiɕʰima̠n nɛ̝ɾiɡo̞ t͡ɕiiɾɦa̠ɾʌ̹ hɥik̚ ka̠bʌ̹ɾim ka̠p̚t͡ɕ͈iɭ ta̠ŋɦa̠nda̠ɡo̞ ha̠nɯnde̞ t͡ɕidɯɾi t͡ɕe̞iɭ ɕʰimɦa̠m ka̠nbjʌ̹ŋin ʌ̹mnɯn sʰɛ̝ŋɡimjʌ̹n ko̞joŋa̠nɦa̠mjʌ̹n a̠ndø̞nda̠ɡo̞ kxɯniɭ na̠ɭs͈u it̚t͈a̠mjʌ̹nsʰʌ̹ ko̞ŋpʰo̞ɡa̠m t͡ɕo̞sʰʌ̹ŋɦa̠mjʌ̹nsʰʌ̹ t͡ɕo̞nna̠ t͡ɕiɾa̠ɾɦɛ̝dɛ̝m",
     "tokens": [
       {
         "text": "누가",
@@ -102964,7 +102964,7 @@
       {
         "text": "휙",
         "canonical": "휙",
-        "phoneme": "çɥik̚",
+        "phoneme": "hɥik̚",
         "is_nc": false,
         "nc_type": null
       },
@@ -103188,7 +103188,7 @@
     "split": "train",
     "text": "안타깝긴 하지만 이게 건설현장의 현실임안전관리자라고 있긴 항상 상주해서 봐야하지만 그렇게 하는 작업장 1도 없고 사고나면 어쩔수 없는거 한국건설의 문제가 아니라 현대건설 삼성물산 기타 대형사들도 다 마찬가지임 ㅋ",
     "canonical": "안타깝긴 하지만 이게 건설현장의 현실임안전관리자라고 있긴 항상 상주해서 봐야하지만 그렇게 하는 작업장 1도 없고 사고나면 어쩔수 없는거 한국건설의 문제가 아니라 현대건설 삼성물산 기타 대형사들도 다 마찬가지임 크",
-    "phonemes": "a̠ntʰa̠k͈a̠p̚k͈in ha̠d͡ʑima̠n iɡe̞ kʌ̹nsʰʌ̹ɭʝjʌ̹nd͡ʑa̠ŋɰi çjʌ̹nɕʰiɾima̠nd͡ʑʌ̹nɡwa̠ɭʎid͡ʑa̠ɾa̠ɡo̞ it̚k͈in ha̠ŋsʰa̠ŋ sʰa̠ŋd͡ʑuɦɛ̝sʰʌ̹ pwa̠ja̠ɦa̠d͡ʑima̠n kɯɾʌ̹kʰe̞ ha̠nɯn t͡ɕa̠ɡʌ̹p̚t͡ɕ͈a̠ŋ iɭ do̞ ʌ̹p̚k͈o̞ sʰa̠ɡo̞na̠mjʌ̹n ʌ̹t͡ɕ͈ʌ̹ɭs͈u ʌ̹mnɯnɡʌ̹ ha̠nɡuk̚k͈ʌ̹nsʰʌ̹ɾi mund͡ʑe̞ɡa̠ a̠niɾa̠ çjʌ̹ndɛ̝ɡʌ̹nsʰʌ̹ɭ sʰa̠msʰʌ̹ŋmuɭs͈a̠n kitʰa̠ tɛ̝ʝjʌ̹ŋsʰa̠dɯɭdo̞ ta̠ ma̠t͡ɕʰa̠nɡa̠d͡ʑiim kxɯ",
+    "phonemes": "a̠ntʰa̠k͈a̠p̚k͈in ha̠d͡ʑima̠n iɡe̞ kʌ̹nsʰʌ̹ɭʝjʌ̹nd͡ʑa̠ŋɰi çjʌ̹nɕʰiɾima̠nd͡ʑʌ̹nɡwa̠ɭʎid͡ʑa̠ɾa̠ɡo̞ it̚k͈in ha̠ŋsʰa̠ŋ sʰa̠ŋd͡ʑuɦɛ̝sʰʌ̹ pwa̠ja̠ɦa̠d͡ʑima̠n kɯɾʌ̹kʰe̞ ha̠nɯn t͡ɕa̠ɡʌ̹p̚t͡ɕ͈a̠ŋ iɭ do̞ ʌ̹p̚k͈o̞ sʰa̠ɡo̞na̠mjʌ̹n ʌ̹t͡ɕ͈ʌ̹ɭs͈u ʌ̹mnɯnɡʌ̹ ha̠nɡuk̚k͈ʌ̹nsʰʌ̹ɾɰi mund͡ʑe̞ɡa̠ a̠niɾa̠ çjʌ̹ndɛ̝ɡʌ̹nsʰʌ̹ɭ sʰa̠msʰʌ̹ŋmuɭsʰa̠n kitʰa̠ tɛ̝ʝjʌ̹ŋsʰa̠dɯɭdo̞ ta̠ ma̠t͡ɕʰa̠nɡa̠d͡ʑiim kxɯ",
     "tokens": [
       {
         "text": "안타깝긴",
@@ -103312,7 +103312,7 @@
       {
         "text": "한국건설의",
         "canonical": "한국건설의",
-        "phoneme": "ha̠nɡuk̚k͈ʌ̹nsʰʌ̹ɾi",
+        "phoneme": "ha̠nɡuk̚k͈ʌ̹nsʰʌ̹ɾɰi",
         "is_nc": false,
         "nc_type": null
       },
@@ -103340,7 +103340,7 @@
       {
         "text": "삼성물산",
         "canonical": "삼성물산",
-        "phoneme": "sʰa̠msʰʌ̹ŋmuɭs͈a̠n",
+        "phoneme": "sʰa̠msʰʌ̹ŋmuɭsʰa̠n",
         "is_nc": false,
         "nc_type": null
       },
@@ -103388,12 +103388,12 @@
     "split": "train",
     "text": "술담배 간암 폐암 확률 올라간다는 이겠누",
     "canonical": "술담배 간암 폐암 확률 올라간다는 이겠누",
-    "phonemes": "sʰuɭt͈a̠mbɛ̝ ka̠na̠m pʰje̞a̠m ɸwa̠ŋɲjuɭ o̞ɭɭa̠ɡa̠nda̠nɯn iɡe̞nnu",
+    "phonemes": "sʰuɭda̠mbɛ̝ ka̠na̠m pʰje̞a̠m ɸwa̠ŋɲjuɭ o̞ɭɭa̠ɡa̠nda̠nɯn iɡe̞nnu",
     "tokens": [
       {
         "text": "술담배",
         "canonical": "술담배",
-        "phoneme": "sʰuɭt͈a̠mbɛ̝",
+        "phoneme": "sʰuɭda̠mbɛ̝",
         "is_nc": false,
         "nc_type": null
       },
@@ -103685,7 +103685,7 @@
     "split": "train",
     "text": "부자들 해외 자금거래 하다 쉽게 바꾸다 부자감세 부자 지원 상관 없다 왜 ㅋㄷ",
     "canonical": "부자들 해외 자금거래 하다 쉽게 바꾸다 부자감세 부자 지원 상관 없다 왜 키득",
-    "phonemes": "pud͡ʑa̠dɯɭ hɛ̝ø̞ t͡ɕa̠ɡɯmɡʌ̹ɾɛ̝ ha̠da̠ ɕʰɥip̚k͈e̞ pa̠k͈uda̠ pud͡ʑa̠ɡa̠msʰe̞ pud͡ʑa̠ t͡ɕiwʌ̹n sʰa̠ŋɡwa̠n ˈɘːp̚t͈a̠ wɛ̝ kçidɯk̚",
+    "phonemes": "pud͡ʑa̠dɯɭ hɛ̝ø̞ t͡ɕa̠ɡɯmɡʌ̹ɾɛ̝ ha̠da̠ ʃʰɥip̚k͈e̞ pa̠k͈uda̠ pud͡ʑa̠ɡa̠msʰe̞ pud͡ʑa̠ t͡ɕiwʌ̹n sʰa̠ŋɡwa̠n ˈɘːp̚t͈a̠ wɛ̝ kçidɯk̚",
     "tokens": [
       {
         "text": "부자들",
@@ -103718,7 +103718,7 @@
       {
         "text": "쉽게",
         "canonical": "쉽게",
-        "phoneme": "ɕʰɥip̚k͈e̞",
+        "phoneme": "ʃʰɥip̚k͈e̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -104151,7 +104151,7 @@
     "split": "train",
     "text": "사람이었으면 불쾌하고 진부했을텐데 굳이 개로 설정한게 최고인것같음",
     "canonical": "사람이었으면 불쾌하고 진부했을텐데 굳이 개로 설정한게 최고인것같음",
-    "phonemes": "sʰa̠ɾa̠miʌ̹s͈ɯmjʌ̹n puɭkʰwɛ̝ɦa̠ɡo̞ t͡ɕinbuɦɛ̝s͈ɯɭtʰe̞nde̞ kud͡ʑi kɛ̝ɾo̞ sʰʌ̹ɭt͡ɕ͈ʌ̹ŋɦa̠nɡe̞ t͡ɕʰø̞ɡo̞inɡʌ̹t̚k͈a̠tʰɯm",
+    "phonemes": "sʰa̠ɾa̠miʌ̹s͈ɯmjʌ̹n puɭkʰwɛ̝ɦa̠ɡo̞ t͡ɕinbuɦɛ̝s͈ɯɭtʰe̞nde̞ kud͡ʑi kɛ̝ɾo̞ sʰʌ̹ɭd͡ʑʌ̹ŋɦa̠nɡe̞ t͡ɕʰø̞ɡo̞inɡʌ̹t̚k͈a̠tʰɯm",
     "tokens": [
       {
         "text": "사람이었으면",
@@ -104191,7 +104191,7 @@
       {
         "text": "설정한게",
         "canonical": "설정한게",
-        "phoneme": "sʰʌ̹ɭt͡ɕ͈ʌ̹ŋɦa̠nɡe̞",
+        "phoneme": "sʰʌ̹ɭd͡ʑʌ̹ŋɦa̠nɡe̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -104211,7 +104211,7 @@
     "split": "train",
     "text": "쿠라마 죽이고 사스케 눈깔 터뜨려서 밸런스 조절하던데 차라리 시점을 100년후로 보내든가 기존캐 능욕을 왜 하는거지",
     "canonical": "쿠라마 죽이고 사스케 눈깔 터뜨려서 밸런스 조절하던데 차라리 시점을 100년후로 보내든가 기존캐 능욕을 왜 하는거지",
-    "phonemes": "kʰuɾa̠ma̠ t͡ɕuɡiɡo̞ sʰa̠sʰɯkʰe̞ nunk͈a̠ɭ tʰʌ̹t͈ɯɾjʌ̹sʰʌ̹ pɛ̝ɭɭʌ̹nsʰɯ t͡ɕo̞d͡ʑʌ̹ɭɦa̠dʌ̹nde̞ t͡ɕʰa̠ɾa̠ɾi ɕʰid͡ʑʌ̹mɯɭ pɛ̝ŋ ɲjʌ̹nβuɾo̞ po̞nɛ̝dɯnɡa̠ kid͡ʑo̞nkʰɛ̝ nɯŋjoɡɯɭ wɛ̝ ha̠nɯnɡʌ̹d͡ʑi",
+    "phonemes": "kʰuɾa̠ma̠ t͡ɕuɡiɡo̞ sʰa̠sʰɯkʰe̞ nunk͈a̠ɭ tʰʌ̹t͈ɯɾjʌ̹sʰʌ̹ pɛ̝ɭɭʌ̹nsʰɯ t͡ɕo̞d͡ʑʌ̹ɾɦa̠dʌ̹nde̞ t͡ɕʰa̠ɾa̠ɾi ɕʰid͡ʑʌ̹mɯɭ pɛ̝ŋ ɲjʌ̹nβuɾo̞ po̞nɛ̝dɯnɡa̠ kid͡ʑo̞nkʰɛ̝ nɯŋjoɡɯɭ wɛ̝ ha̠nɯnɡʌ̹d͡ʑi",
     "tokens": [
       {
         "text": "쿠라마",
@@ -104258,7 +104258,7 @@
       {
         "text": "조절하던데",
         "canonical": "조절하던데",
-        "phoneme": "t͡ɕo̞d͡ʑʌ̹ɭɦa̠dʌ̹nde̞",
+        "phoneme": "t͡ɕo̞d͡ʑʌ̹ɾɦa̠dʌ̹nde̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -104964,7 +104964,7 @@
     "split": "train",
     "text": "형님덜 국결 좋은데 유전자 생각합시다 혼혈 밑 팔뚝 하나 달고 다니는데 여자한테 차여본적 없습니더 당신의 자식 생각하시어 벳녀보단 우즈벡 갑시더",
     "canonical": "형님덜 국결 좋은데 유전자 생각합시다 혼혈 밑 팔뚝 하나 달고 다니는데 여자한테 차여본적 없습니더 당신의 자식 생각하시어 벳녀보단 우즈벡 갑시더",
-    "phonemes": "çjʌ̹ŋnimdʌ̹ɭ kuk̚k͈jʌ̹ɭ t͡ɕo̞ɯnde̞ jud͡ʑʌ̹nd͡ʑa̠ sʰɛ̝ŋɡa̠kʰa̠pɕ͈ida̠ ɸʷo̞nʝjʌ̹ɭ mit̚ pʰa̠ɭt͈uk̚ ha̠na̠ ta̠ɭɡo̞ ta̠ninɯnde̞ jʌ̹d͡ʑa̠ɦa̠ntʰe̞ t͡ɕʰa̠jʌ̹bo̞nd͡ʑʌ̹k̚ ʌ̹ps͈ɯmnidʌ̹ ta̠ŋɕʰine̞ t͡ɕa̠ɕʰik̚ sʰɛ̝ŋɡa̠kʰa̠ɕʰiʌ̹ pe̞nɲjʌ̹bo̞da̠n ud͡ʑɯbe̞k̚ ka̠pɕ͈idʌ̹",
+    "phonemes": "çjʌ̹ŋnimdʌ̹ɭ kuk̚k͈jʌ̹ɭ t͡ɕo̞ɯnde̞ jud͡ʑʌ̹nd͡ʑa̠ sʰɛ̝ŋɡa̠kʰa̠pɕ͈ida̠ ɸʷo̞nʝjʌ̹ɭ mit̚ pʰa̠ɭt͈uk̚ ha̠na̠ ta̠ɭɡo̞ ta̠ninɯnde̞ jʌ̹d͡ʑa̠ɦa̠ntʰe̞ t͡ɕʰa̠jʌ̹bo̞nd͡ʑʌ̹k̚ ʌ̹ps͈ɯmnidʌ̹ ta̠ŋɕʰinɰi t͡ɕa̠ɕʰik̚ sʰɛ̝ŋɡa̠kʰa̠ɕʰiʌ̹ pe̞nɲjʌ̹bo̞da̠n ud͡ʑɯbe̞k̚ ka̠pɕ͈idʌ̹",
     "tokens": [
       {
         "text": "형님덜",
@@ -105067,7 +105067,7 @@
       {
         "text": "당신의",
         "canonical": "당신의",
-        "phoneme": "ta̠ŋɕʰine̞",
+        "phoneme": "ta̠ŋɕʰinɰi",
         "is_nc": false,
         "nc_type": null
       },
@@ -105564,7 +105564,7 @@
     "split": "train",
     "text": "대구에서 착한사람은 수성구 출신밖에 없다 내가 출신이라 이말하는게 아니다 출신사람한테 도움받은적이 많아서 그렇다",
     "canonical": "대구에서 착한사람은 수성구 출신밖에 없다 내가 출신이라 이말하는게 아니다 출신사람한테 도움받은적이 많아서 그렇다",
-    "phonemes": "tɛ̝ɡue̞sʰʌ̹ t͡ɕʰa̠kʰa̠nsʰa̠ɾa̠mɯn sʰusʰʌ̹ŋɡu t͡ɕʰuɭɕ͈inba̠k͈e̞ ˈɘːp̚t͈a̠ nɛ̝ɡa̠ t͡ɕʰuɭɕ͈iniɾa̠ ima̠ɾɦa̠nɯnɡe̞ a̠nida̠ t͡ɕʰuɭɕ͈insʰa̠ɾa̠mɦa̠ntʰe̞ to̞umba̠dɯnd͡ʑʌ̹ɡi ma̠na̠sʰʌ̹ kɯɾʌ̹tʰa̠",
+    "phonemes": "tɛ̝ɡue̞sʰʌ̹ t͡ɕʰa̠kʰa̠nsʰa̠ɾa̠mɯn sʰusʰʌ̹ŋɡu t͡ɕʰuɭɕʰinba̠k͈e̞ ˈɘːp̚t͈a̠ nɛ̝ɡa̠ t͡ɕʰuɭɕʰiniɾa̠ ima̠ɾɦa̠nɯnɡe̞ a̠nida̠ t͡ɕʰuɭɕʰinsʰa̠ɾa̠mɦa̠ntʰe̞ to̞umba̠dɯnd͡ʑʌ̹ɡi ma̠na̠sʰʌ̹ kɯɾʌ̹tʰa̠",
     "tokens": [
       {
         "text": "대구에서",
@@ -105590,7 +105590,7 @@
       {
         "text": "출신밖에",
         "canonical": "출신밖에",
-        "phoneme": "t͡ɕʰuɭɕ͈inba̠k͈e̞",
+        "phoneme": "t͡ɕʰuɭɕʰinba̠k͈e̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -105611,7 +105611,7 @@
       {
         "text": "출신이라",
         "canonical": "출신이라",
-        "phoneme": "t͡ɕʰuɭɕ͈iniɾa̠",
+        "phoneme": "t͡ɕʰuɭɕʰiniɾa̠",
         "is_nc": false,
         "nc_type": null
       },
@@ -105632,7 +105632,7 @@
       {
         "text": "출신사람한테",
         "canonical": "출신사람한테",
-        "phoneme": "t͡ɕʰuɭɕ͈insʰa̠ɾa̠mɦa̠ntʰe̞",
+        "phoneme": "t͡ɕʰuɭɕʰinsʰa̠ɾa̠mɦa̠ntʰe̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -106328,7 +106328,7 @@
     "split": "train",
     "text": "코홍철 사라지고 양세형 들어오면서 더 재밌는게 있을까 싶었는데 군대편은 숨쉬기가 힘들정도로 웃기더라 시발",
     "canonical": "코홍철 사라지고 양세형 들어오면서 더 재밌는게 있을까 싶었는데 군대편은 숨쉬기가 힘들정도로 웃기더라 시발",
-    "phonemes": "kʰo̞βo̞ŋt͡ɕʰʌ̹ɭ sʰa̠ɾa̠d͡ʑiɡo̞ ja̠ŋsʰe̞ʝjʌ̹ŋ tɯɾʌ̹o̞mjʌ̹nsʰʌ̹ tʌ̹ t͡ɕɛ̝minnɯnɡe̞ is͈ɯɭk͈a̠ ɕʰipʰʌ̹nnɯnde̞ kundɛ̝pʰjʌ̹nɯn sʰumɕʰɥiɡiɡa̠ çimdɯɭt͡ɕ͈ʌ̹ŋdo̞ɾo̞ ut̚k͈idʌ̹ɾa̠ ɕʰiba̠ɭ",
+    "phonemes": "kʰo̞βo̞ŋt͡ɕʰʌ̹ɭ sʰa̠ɾa̠d͡ʑiɡo̞ ja̠ŋsʰe̞ʝjʌ̹ŋ tɯɾʌ̹o̞mjʌ̹nsʰʌ̹ tʌ̹ t͡ɕɛ̝minnɯnɡe̞ is͈ɯɭk͈a̠ ɕʰipʰʌ̹nnɯnde̞ kundɛ̝pʰjʌ̹nɯn sʰumʃʰɥiɡiɡa̠ çimdɯɭd͡ʑʌ̹ŋdo̞ɾo̞ ut̚k͈idʌ̹ɾa̠ ɕʰiba̠ɭ",
     "tokens": [
       {
         "text": "코홍철",
@@ -106396,14 +106396,14 @@
       {
         "text": "숨쉬기가",
         "canonical": "숨쉬기가",
-        "phoneme": "sʰumɕʰɥiɡiɡa̠",
+        "phoneme": "sʰumʃʰɥiɡiɡa̠",
         "is_nc": false,
         "nc_type": null
       },
       {
         "text": "힘들정도로",
         "canonical": "힘들정도로",
-        "phoneme": "çimdɯɭt͡ɕ͈ʌ̹ŋdo̞ɾo̞",
+        "phoneme": "çimdɯɭd͡ʑʌ̹ŋdo̞ɾo̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -107785,7 +107785,7 @@
     "split": "train",
     "text": "저런고스펙도 결국 자영업 엔딩 인게 뭔가 쓸쓸하네",
     "canonical": "저런고스펙도 결국 자영업 엔딩 인게 뭔가 쓸쓸하네",
-    "phonemes": "t͡ɕʌ̹ɾʌ̹nɡo̞sʰɯpʰe̞k̚t͈o̞ kjʌ̹ɭɡuk̚ t͡ɕa̠jʌ̹ŋʌ̹p̚ e̞ndiŋ inɡe̞ mwʌ̹nɡa̠ s͈ɯɭs͈ɯɭɦa̠ne̞",
+    "phonemes": "t͡ɕʌ̹ɾʌ̹nɡo̞sʰɯpʰe̞k̚t͈o̞ kjʌ̹ɭɡuk̚ t͡ɕa̠jʌ̹ŋʌ̹p̚ e̞ndiŋ inɡe̞ mwʌ̹nɡa̠ s͈ɯɭs͈ɯɾɦa̠ne̞",
     "tokens": [
       {
         "text": "저런고스펙도",
@@ -107832,7 +107832,7 @@
       {
         "text": "쓸쓸하네",
         "canonical": "쓸쓸하네",
-        "phoneme": "s͈ɯɭs͈ɯɭɦa̠ne̞",
+        "phoneme": "s͈ɯɭs͈ɯɾɦa̠ne̞",
         "is_nc": false,
         "nc_type": null
       }
@@ -108221,7 +108221,7 @@
     "split": "train",
     "text": "여러분 한없이 관대 타인 엄격함 달리며 토트넘 좆소라 않나 모험심 하질 비난질 95% 로우 직장인들 계십니다",
     "canonical": "여러분 한없이 관대 타인 엄격함 달리며 토트넘 좆소라 않나 모험심 하질 비난질 95% 로우 직장인들 계십니다",
-    "phonemes": "jʌ̹ɾʌ̹bun ha̠nʌ̹pɕ͈i kwa̠ndɛ̝ tʰa̠in ʌ̹mɡjʌ̹kʰa̠m ta̠ɭʎimjʌ̹ tʰo̞tʰɯnʌ̹m t͡ɕo̞t̚s͈o̞ɾa̠ a̠nna̠ mo̞ɦʌ̹mɕʰim ha̠d͡ʑiɭ pina̠nd͡ʑiɭ kusʰibo̞ pʰʌ̹sʰe̞ntʰɯ ɾo̞u t͡ɕik̚t͡ɕ͈a̠ŋindɯɭ kje̞ɕʰimnida̠",
+    "phonemes": "jʌ̹ɾʌ̹bun ha̠nʌ̹pɕ͈i kwa̠ndɛ̝ tʰa̠in ʌ̹mɡjʌ̹kʰa̠m ta̠ɭʎimjʌ̹ tʰo̞tʰɯnʌ̹m t͡ɕo̞t̚s͈o̞ɾa̠ a̠nna̠ mo̞ɦʌ̹mɕʰim ha̠d͡ʑiɭ pina̠nd͡ʑiɭ kuɕʰibo̞ pʰʌ̹sʰe̞ntʰɯ ɾo̞u t͡ɕik̚t͡ɕ͈a̠ŋindɯɭ kje̞ɕʰimnida̠",
     "tokens": [
       {
         "text": "여러분",
@@ -108310,7 +108310,7 @@
       {
         "text": "95%",
         "canonical": "95%",
-        "phoneme": "kusʰibo̞ pʰʌ̹sʰe̞ntʰɯ",
+        "phoneme": "kuɕʰibo̞ pʰʌ̹sʰe̞ntʰɯ",
         "is_nc": false,
         "nc_type": null
       },
@@ -109092,7 +109092,7 @@
     "split": "train",
     "text": "암 그라제 미국 유럽 포함해 스레드 쓰는 전세계인들 븅신 우덜 조선인 최고 인 것이여",
     "canonical": "암 그라제 미국 유럽 포함해 스레드 쓰는 전세계인들 븅신 우덜 조선인 최고 인 것이여",
-    "phonemes": "a̠m kɯɾa̠d͡ʑe̞ miɡuk̚ juɾʌ̹p̚ pʰo̞ɦa̠mɦɛ̝ sʰɯɾe̞dɯ s͈ɯnɯn t͡ɕʌ̹nsʰe̞ɡe̞induɭ pjuŋɕʰin udʌ̹ɭ t͡ɕo̞sʰʌ̹nin t͡ɕʰø̞ɡo̞ in kʌ̹ɕʰijʌ̹",
+    "phonemes": "a̠m kɯɾa̠d͡ʑe̞ miɡuk̚ juɾʌ̹p̚ pʰo̞ɦa̠mɦɛ̝ sʰɯɾe̞dɯ s͈ɯnɯn t͡ɕʌ̹nsʰe̞ɡje̞indɯɭ pjuŋɕʰin udʌ̹ɭ t͡ɕo̞sʰʌ̹nin t͡ɕʰø̞ɡo̞ in kʌ̹ɕʰijʌ̹",
     "tokens": [
       {
         "text": "암",
@@ -109146,7 +109146,7 @@
       {
         "text": "전세계인들",
         "canonical": "전세계인들",
-        "phoneme": "t͡ɕʌ̹nsʰe̞ɡe̞induɭ",
+        "phoneme": "t͡ɕʌ̹nsʰe̞ɡje̞indɯɭ",
         "is_nc": false,
         "nc_type": null
       },
@@ -109993,7 +109993,7 @@
     "split": "train",
     "text": "걍 다선동이지 박근혜가 7시간동안 인신공양했다는거랑 같은급임",
     "canonical": "걍 다선동이지 박근혜가 7시간동안 인신공양했다는거랑 같은급임",
-    "phonemes": "kja̠ŋ ta̠sʰʌ̹ndo̞ŋid͡ʑi pa̠k̚k͈ɯnʝje̞ɡa̠ t͡ɕʰiɭ ɕ͈iɡa̠ndo̞ŋa̠n inɕʰinɡo̞ŋja̠ŋɦɛ̝t̚t͈a̠nɯnɡʌ̹ɾa̠ŋ ka̠tʰɯnk͈ɯbim",
+    "phonemes": "kja̠ŋ ta̠sʰʌ̹ndo̞ŋid͡ʑi pa̠k̚k͈ɯnʝje̞ɡa̠ t͡ɕʰiɭ ɕʰiɡa̠ndo̞ŋa̠n inɕʰinɡo̞ŋja̠ŋɦɛ̝t̚t͈a̠nɯnɡʌ̹ɾa̠ŋ ka̠tʰɯnɡɯbim",
     "tokens": [
       {
         "text": "걍",
@@ -110019,7 +110019,7 @@
       {
         "text": "7시간동안",
         "canonical": "7시간동안",
-        "phoneme": "t͡ɕʰiɭ ɕ͈iɡa̠ndo̞ŋa̠n",
+        "phoneme": "t͡ɕʰiɭ ɕʰiɡa̠ndo̞ŋa̠n",
         "is_nc": false,
         "nc_type": null
       },
@@ -110033,7 +110033,7 @@
       {
         "text": "같은급임",
         "canonical": "같은급임",
-        "phoneme": "ka̠tʰɯnk͈ɯbim",
+        "phoneme": "ka̠tʰɯnɡɯbim",
         "is_nc": true,
         "nc_type": "C3"
       }
@@ -110215,7 +110215,7 @@
     "split": "train",
     "text": "서양애들 사진 실물 못따라가는 경우 많음 ㄹㅇ 직접 보면 길 에서 상워 10프로 애들 입체감 지림 특히 옆모습 서양 40프로 정도짜리 한테도 차은우도 개쓰레기된다 유럽 가보면 느낌",
     "canonical": "서양애들 사진 실물 못따라가는 경우 많음 리얼 직접 보면 길 에서 상워 10프로 애들 입체감 지림 특히 옆모습 서양 40프로 정도짜리 한테도 차은우도 개쓰레기된다 유럽 가보면 느낌",
-    "phonemes": "sʰʌ̹ja̠ŋɛ̝dɯɭ sʰa̠d͡ʑin ɕʰiɭmuɭ mo̞t̚t͈a̠ɾa̠ɡa̠nɯn kjʌ̹ŋu ma̠nɯm ɾiʌ̹ɭ t͡ɕik̚t͡ɕ͈ʌ̹p̚ po̞mjʌ̹n kiɭ e̞sʰʌ̹ sʰa̠ŋwʌ̹ ɕʰip̚pʰɯɾo̞ ɛ̝dɯɭ ip̚t͡ɕʰe̞ɡa̠m t͡ɕiɾim tʰɯkçi jʌ̹mmo̞sʰɯp̚ sʰʌ̹ja̠ŋ sʰa̠ɕʰip̚ pʰɯɾo̞ t͡ɕʌ̹ŋdo̞t͡ɕ͈a̠ɾi ha̠ntʰe̞do̞ t͡ɕʰa̠ɯnudo̞ kɛ̝s͈ɯɾe̞ɡidø̞nda̠ juɾʌ̹p̚ ka̠bo̞mjʌ̹n nɯk͈im",
+    "phonemes": "sʰʌ̹ja̠ŋɛ̝dɯɭ sʰa̠d͡ʑin ɕʰiɭmuɭ mo̞t̚t͈a̠ɾa̠ɡa̠nɯn kjʌ̹ŋu ma̠nɯm ɾiʌ̹ɭ t͡ɕik̚t͡ɕ͈ʌ̹p̚ po̞mjʌ̹n kiɭ e̞sʰʌ̹ sʰa̠ŋwʌ̹ ɕʰip̚ pʰɯɾo̞ ɛ̝dɯɭ ip̚t͡ɕʰe̞ɡa̠m t͡ɕiɾim tʰɯkçi jʌ̹mmo̞sʰɯp̚ sʰʌ̹ja̠ŋ sʰa̠ɕʰip̚ pʰɯɾo̞ t͡ɕʌ̹ŋdo̞t͡ɕ͈a̠ɾi ha̠ntʰe̞do̞ t͡ɕʰa̠ɯnudo̞ kɛ̝s͈ɯɾe̞ɡidø̞nda̠ juɾʌ̹p̚ ka̠bo̞mjʌ̹n nɯk͈im",
     "tokens": [
       {
         "text": "서양애들",
@@ -110304,7 +110304,7 @@
       {
         "text": "10프로",
         "canonical": "10프로",
-        "phoneme": "ɕʰip̚pʰɯɾo̞",
+        "phoneme": "ɕʰip̚ pʰɯɾo̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -110729,7 +110729,7 @@
     "split": "train",
     "text": "누가보면 해머로 부수는줄 알겠네 ㅋㅋㅋㅋ고작 기스 찌이이이익",
     "canonical": "누가보면 해머로 부수는줄 알겠네 크크크크고작 기스 찌익",
-    "phonemes": "nuɡa̠bo̞mjʌ̹n hɛ̝mʌ̹ɾo̞ pusʰunɯnd͡ʑuɭ a̠ɭɡe̞nne̞ kxɯkxɯkxɯkxɯko̞t͡ɕa̠k̚ kisʰɯ t͡ɕ͈iik̚",
+    "phonemes": "nuɡa̠bo̞mjʌ̹n hɛ̝mʌ̹ɾo̞ pusʰunɯnd͡ʑuɭ a̠ɭɡe̞nne̞ kxɯkxɯkxɯkxɯɡo̞t͡ɕa̠k̚ kisʰɯ t͡ɕ͈iik̚",
     "tokens": [
       {
         "text": "누가보면",
@@ -110762,7 +110762,7 @@
       {
         "text": "ㅋㅋㅋㅋ고작",
         "canonical": "크크크크고작,키키키키고작,킥킥킥킥고작",
-        "phoneme": "kxɯkxɯkxɯkxɯko̞t͡ɕa̠k̚,kçikçikçikçiko̞t͡ɕa̠k̚,kçik̚kçik̚kçik̚kçik̚k͈o̞t͡ɕa̠k̚",
+        "phoneme": "kxɯkxɯkxɯkxɯɡo̞t͡ɕa̠k̚,kçikçikçikçiɡo̞t͡ɕa̠k̚,kçik̚kçik̚kçik̚kçik̚k͈o̞t͡ɕa̠k̚",
         "is_nc": true,
         "nc_type": "B2"
       },
@@ -110874,7 +110874,7 @@
     "split": "train",
     "text": "오메가 엑스는 뭐고, 템퍼링오메오오메오메가 엑스는 뭐고, 템퍼링은 또 뭔데 개병신 씹덕 새끼들아 ㅉㅉ오메가 엑스는 뭐고, 템퍼링은 또 뭔데 개병신 씹덕 새끼들아 ㅉㅉ스는 뭐고, 템퍼링은 또 뭔데 개병신 씹덕 새끼오오오메가 엑스는 뭐고, 템퍼링은 또 뭔데 개병신 씹덕 새끼들아 ㅉㅉ오메가 엑스는 뭐고, 템메가 엑스는 뭐고, 템퍼링은 또 뭔데 개병신 씹덕 새끼들아 ㅉㅉ메가 엑스는 뭐고오 템퍼링은 오 오메가 엑스는 뭐고, 템퍼링은 또 뭔데 개병신 씹덕 새끼들아 ㅉㅉㅉㅉ 엑스는 뭐고, 템퍼링은 또 뭔데 개병신 씹덕 새끼들아 ㅉㅉ오메가 엑스는 뭐고, 템퍼링은 또 뭔데 오오오가오메스는 뭐고, 템퍼링은 또메가 엑스는 뭐고, 템퍼링은 또 뭔데 개병신 씹덕 새끼들아 ㅉㅉ병신 씹덕 새끼들아 ㅉㅉ 뭔데 개병신 씹덕 새끼들아 ㅉㅉ",
     "canonical": "오메가 엑스는 뭐고, 템퍼링오메가 엑스는 뭐고, 템퍼링은 또 뭔데 개병신 씹덕 새끼들아 쯧쯧오메가 엑스는 뭐고, 템퍼링은 또 뭔데 개병신 씹덕 새끼들아 쯧쯧스는 뭐고, 템퍼링은 또 뭔데 개병신 씹덕 새끼오메가 엑스는 뭐고, 템퍼링은 또 뭔데 개병신 씹덕 새끼들아 쯧쯧오메가 엑스는 뭐고, 템메가 엑스는 뭐고, 템퍼링은 또 뭔데 개병신 씹덕 새끼들아 쯧쯧메가 엑스는 뭐고 템퍼링은 오 오메가 엑스는 뭐고, 템퍼링은 또 뭔데 개병신 씹덕 새끼들아 쯧쯧쯧쯧 엑스는 뭐고, 템퍼링은 또 뭔데 개병신 씹덕 새끼들아 쯧쯧오메가 엑스는 뭐고, 템퍼링은 또 뭔데 오오오가오메스는 뭐고, 템퍼링은 또메가 엑스는 뭐고, 템퍼링은 또 뭔데 개병신 씹덕 새끼들아 쯧쯧병신 씹덕 새끼들아 쯧쯧 뭔데 개병신 씹덕 새끼들아 쯧쯧",
-    "phonemes": "o̞me̞ɡa̠ e̞ks͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋo̞me̞ɡa̠ e̞ks͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋɯn t͈o̞ mwʌ̹nde̞ kɛ̝bjʌ̹ŋɕʰin ɕ͈ip̚t͈ʌ̹k̚ sʰɛ̝k͈idɯɾa̠ t͡ɕ͈ɯt̚t͡ɕ͈ɯsʰo̞me̞ɡa̠ e̞ks͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋɯn t͈o̞ mwʌ̹nde̞ kɛ̝bjʌ̹ŋɕʰin ɕ͈ip̚t͈ʌ̹k̚ sʰɛ̝k͈idɯɾa̠ t͡ɕ͈ɯt̚t͡ɕ͈ɯt̚s͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋɯn t͈o̞ mwʌ̹nde̞ kɛ̝bjʌ̹ŋɕʰin ɕ͈ip̚t͈ʌ̹k̚ sʰɛ̝k͈io̞me̞ɡa̠ e̞ks͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋɯn t͈o̞ mwʌ̹nde̞ kɛ̝bjʌ̹ŋɕʰin ɕ͈ip̚t͈ʌ̹k̚ sʰɛ̝k͈idɯɾa̠ t͡ɕ͈ɯt̚t͡ɕ͈ɯsʰo̞me̞ɡa̠ e̞ks͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mme̞ɡa̠ e̞ks͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋɯn t͈o̞ mwʌ̹nde̞ kɛ̝bjʌ̹ŋɕʰin ɕ͈ip̚t͈ʌ̹k̚ sʰɛ̝k͈idɯɾa̠ t͡ɕ͈ɯt̚t͡ɕ͈ɯnme̞ɡa̠ e̞ks͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋɯn o̞ o̞me̞ɡa̠ e̞ks͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋɯn t͈o̞ mwʌ̹nde̞ kɛ̝bjʌ̹ŋɕʰin ɕ͈ip̚t͈ʌ̹k̚ sʰɛ̝k͈idɯɾa̠ t͡ɕ͈ɯt̚t͡ɕ͈ɯt̚t͡ɕ͈ɯt̚t͡ɕ͈ɯt̚ e̞ks͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋɯn t͈o̞ mwʌ̹nde̞ kɛ̝bjʌ̹ŋɕʰin ɕ͈ip̚t͈ʌ̹k̚ sʰɛ̝k͈idɯɾa̠ t͡ɕ͈ɯt̚t͡ɕ͈ɯsʰo̞me̞ɡa̠ e̞ks͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋɯn t͈o̞ mwʌ̹nde̞ o̞o̞o̞ɡa̠o̞me̞sʰɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋɯn t͈o̞me̞ɡa̠ e̞ks͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋɯn t͈o̞ mwʌ̹nde̞ kɛ̝bjʌ̹ŋɕʰin ɕ͈ip̚t͈ʌ̹k̚ sʰɛ̝k͈idɯɾa̠ t͡ɕ͈ɯt̚t͡ɕ͈ɯt̚bjʌ̹ŋɕʰin ɕ͈ip̚t͈ʌ̹k̚ sʰɛ̝k͈idɯɾa̠ t͡ɕ͈ɯt̚t͡ɕ͈ɯt̚ mwʌ̹nde̞ kɛ̝bjʌ̹ŋɕʰin ɕ͈ip̚t͈ʌ̹k̚ sʰɛ̝k͈idɯɾa̠ t͡ɕ͈ɯt̚t͡ɕ͈ɯt̚",
+    "phonemes": "o̞me̞ɡa̠ e̞ks͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋo̞me̞ɡa̠ e̞ks͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋɯn t͈o̞ mwʌ̹nde̞ kɛ̝bjʌ̹ŋɕʰin ɕ͈ip̚t͈ʌ̹k̚ sʰɛ̝k͈idɯɾa̠ t͡ɕ͈ɯt̚t͡ɕ͈ɯsʰo̞me̞ɡa̠ e̞ks͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋɯn t͈o̞ mwʌ̹nde̞ kɛ̝bjʌ̹ŋɕʰin ɕ͈ip̚t͈ʌ̹k̚ sʰɛ̝k͈idɯɾa̠ t͡ɕ͈ɯt̚t͡ɕ͈ɯt̚s͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋɯn t͈o̞ mwʌ̹nde̞ kɛ̝bjʌ̹ŋɕʰin ɕ͈ip̚t͈ʌ̹k̚ sʰɛ̝k͈io̞me̞ɡa̠ e̞ks͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋɯn t͈o̞ mwʌ̹nde̞ kɛ̝bjʌ̹ŋɕʰin ɕ͈ip̚t͈ʌ̹k̚ sʰɛ̝k͈idɯɾa̠ t͡ɕ͈ɯt̚t͡ɕ͈ɯsʰo̞me̞ɡa̠ e̞ks͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mme̞ɡa̠ e̞ks͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋɯn t͈o̞ mwʌ̹nde̞ kɛ̝bjʌ̹ŋɕʰin ɕ͈ip̚t͈ʌ̹k̚ sʰɛ̝k͈idɯɾa̠ t͡ɕ͈ɯt̚t͡ɕ͈ɯnme̞ɡa̠ e̞ks͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋɯn o̞ o̞me̞ɡa̠ e̞ks͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋɯn t͈o̞ mwʌ̹nde̞ kɛ̝bjʌ̹ŋɕʰin ɕ͈ip̚t͈ʌ̹k̚ sʰɛ̝k͈idɯɾa̠ t͡ɕ͈ɯt̚t͡ɕ͈ɯt̚t͡ɕ͈ɯt̚t͡ɕ͈ɯt̚ e̞ks͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋɯn t͈o̞ mwʌ̹nde̞ kɛ̝bjʌ̹ŋɕʰin ɕ͈ip̚t͈ʌ̹k̚ sʰɛ̝k͈idɯɾa̠ t͡ɕ͈ɯt̚t͡ɕ͈ɯsʰo̞me̞ɡa̠ e̞ks͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋɯn t͈o̞ mwʌ̹nde̞ o̞o̞o̞ɡa̠o̞me̞sʰɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋɯn t͈o̞me̞ɡa̠ e̞ks͈ɯnɯn mwʌ̹ɡo̞ tʰe̞mpʰʌ̹ɾiŋɯn t͈o̞ mwʌ̹nde̞ kɛ̝bjʌ̹ŋɕʰin ɕ͈ip̚t͈ʌ̹k̚ sʰɛ̝k͈idɯɾa̠ t͡ɕ͈ɯt̚t͡ɕ͈ɯt̚p͈jʌ̹ŋɕʰin ɕ͈ip̚t͈ʌ̹k̚ sʰɛ̝k͈idɯɾa̠ t͡ɕ͈ɯt̚t͡ɕ͈ɯt̚ mwʌ̹nde̞ kɛ̝bjʌ̹ŋɕʰin ɕ͈ip̚t͈ʌ̹k̚ sʰɛ̝k͈idɯɾa̠ t͡ɕ͈ɯt̚t͡ɕ͈ɯt̚",
     "tokens": [
       {
         "text": "오메가",
@@ -111509,7 +111509,7 @@
       {
         "text": "ㅉㅉ병신",
         "canonical": "쯧쯧병신,쯔쯔병신",
-        "phoneme": "t͡ɕ͈ɯt̚t͡ɕ͈ɯt̚bjʌ̹ŋɕʰin,t͡ɕ͈ɯt͡ɕ͈ɯbjʌ̹ŋɕʰin",
+        "phoneme": "t͡ɕ͈ɯt̚t͡ɕ͈ɯt̚p͈jʌ̹ŋɕʰin,t͡ɕ͈ɯt͡ɕ͈ɯbjʌ̹ŋɕʰin",
         "is_nc": true,
         "nc_type": "B2"
       },
@@ -111603,7 +111603,7 @@
     "split": "train",
     "text": "대가리 달린 새끼면 걍 보지새끼에 미련을 버리고 니 앰생에나 좀 투자해서 신분 상승할라 노오오력해라 병신들아어차피 제대로 된 년들은 이미 잘난 알파메일들이 트로피로 따갔고못생긴 니들이 도태페미년 씹치년 똥남아랑 잡종시켜봐야 애새끼도 평생 불행한 성욕부산물만 양산하는거다",
     "canonical": "대가리 달린 새끼면 걍 보지새끼에 미련을 버리고 니 앰생에나 좀 투자해서 신분 상승할라 노력해라 병신들아어차피 제대로 된 년들은 이미 잘난 알파메일들이 트로피로 따갔고못생긴 니들이 도태페미년 씹치년 똥남아랑 잡종시켜봐야 애새끼도 평생 불행한 성욕부산물만 양산하는거다",
-    "phonemes": "tɛ̝ɡa̠ɾi ta̠ɭʎin sʰɛ̝k͈imjʌ̹n kja̠ŋ po̞d͡ʑisʰɛ̝k͈ie̞ miɾjʌ̹nɯɭ pʌ̹ɾiɡo̞ ni ɛ̝msʰɛ̝ŋe̞na̠ t͡ɕo̞m tʰud͡ʑa̠ɦɛ̝sʰʌ̹ ɕʰinbun sʰa̠ŋsʰɯŋɦa̠ɭɭa̠ no̞ɾjʌ̹kʰɛ̝ɾa̠ pjʌ̹ŋɕʰindɯɾa̠ʌ̹t͡ɕʰa̠pʰi t͡ɕe̞dɛ̝ɾo̞ tø̞n ɲjʌ̹ndɯɾɯn imi t͡ɕa̠ɭɭa̠n a̠ɭpʰa̠me̞iɭdɯɾi tʰɯɾo̞pʰiɾo̞ t͈a̠ɡa̠t̚k͈o̞mo̞t̚s͈ɛ̝ŋɡin nidɯɾi to̞tʰɛ̝pʰe̞miɲjʌ̹n ɕ͈ip̚t͡ɕʰiɲjʌ̹n t͈o̞ŋna̠ma̠ɾa̠ŋ t͡ɕa̠p̚t͡ɕ͈o̞ŋɕʰikçjʌ̹bwa̠ja̠ ɛ̝sʰɛ̝k͈ido̞ pʰjʌ̹ŋsʰɛ̝ŋ puɭɦɛ̝ŋɦa̠n sʰʌ̹ŋjok̚p͈usʰa̠nmuɭma̠n ja̠ŋsʰa̠nɦa̠nɯnɡʌ̹da̠",
+    "phonemes": "tɛ̝ɡa̠ɾi ta̠ɭʎin sʰɛ̝k͈imjʌ̹n kja̠ŋ po̞d͡ʑisʰɛ̝k͈ie̞ miɾjʌ̹nɯɭ pʌ̹ɾiɡo̞ ni ɛ̝msʰɛ̝ŋe̞na̠ t͡ɕo̞m tʰud͡ʑa̠ɦɛ̝sʰʌ̹ ɕʰinbun sʰa̠ŋsʰɯŋɦa̠ɭɭa̠ no̞ɾjʌ̹kʰɛ̝ɾa̠ pjʌ̹ŋɕʰindɯɾa̠ʌ̹t͡ɕʰa̠pʰi t͡ɕe̞dɛ̝ɾo̞ tø̞n ɲjʌ̹ndɯɾɯn imi t͡ɕa̠ɭɭa̠n a̠ɭpʰa̠me̞iɭdɯɾi tʰɯɾo̞pʰiɾo̞ t͈a̠ɡa̠t̚k͈o̞mo̞t̚s͈ɛ̝ŋɡin nidɯɾi to̞tʰɛ̝pʰe̞miɲjʌ̹n ɕ͈ip̚t͡ɕʰiɲjʌ̹n t͈o̞ŋna̠ma̠ɾa̠ŋ t͡ɕa̠p̚t͡ɕ͈o̞ŋɕʰikçjʌ̹bwa̠ja̠ ɛ̝sʰɛ̝k͈ido̞ pʰjʌ̹ŋsʰɛ̝ŋ puɾɦɛ̝ŋɦa̠n sʰʌ̹ŋjok̚p͈usʰa̠nmuɭma̠n ja̠ŋsʰa̠nɦa̠nɯnɡʌ̹da̠",
     "tokens": [
       {
         "text": "대가리",
@@ -111818,7 +111818,7 @@
       {
         "text": "불행한",
         "canonical": "불행한",
-        "phoneme": "puɭɦɛ̝ŋɦa̠n",
+        "phoneme": "puɾɦɛ̝ŋɦa̠n",
         "is_nc": false,
         "nc_type": null
       },
@@ -111845,7 +111845,7 @@
     "split": "train",
     "text": "카드론에 리볼빙 열심히 써줘서 내가 카드혜택 잘 먹고 다닌다 고맙다 미안하다 77ㅓㅓㅓㅓ억",
     "canonical": "카드론에 리볼빙 열심히 써줘서 내가 카드혜택 잘 먹고 다닌다 고맙다 미안하다 77ㅓ억",
-    "phonemes": "kʰa̠dɯɾo̞ne̞ ɾibo̞ɭbiŋ jʌ̹ɭɕʰimʝi s͈ʌ̹d͡ʑwʌ̹sʰʌ̹ nɛ̝ɡa̠ kʰa̠dɯʝje̞tʰɛ̝k̚ t͡ɕa̠ɭ mʌ̹k̚k͈o̞ ta̠ninda̠ ko̞ma̠p̚t͈a̠ mia̠nɦa̠da̠ t͡ɕʰiɭɕʰip̚t͡ɕʰiɭʌ̹k̚",
+    "phonemes": "kʰa̠dɯɾo̞ne̞ ɾibo̞ɭbiŋ jʌ̹ɭɕʰimʝi s͈ʌ̹d͡ʑwʌ̹sʰʌ̹ nɛ̝ɡa̠ kʰa̠dɯʝje̞tʰɛ̝k̚ t͡ɕa̠ɭ mʌ̹k̚k͈o̞ ta̠ninda̠ ko̞ma̠p̚t͈a̠ mia̠nɦa̠da̠ t͡ɕʰiɭɕʰip̚t͡ɕʰiɭ ʌ̹k̚",
     "tokens": [
       {
         "text": "카드론에",
@@ -111927,7 +111927,7 @@
       {
         "text": "77ㅓㅓㅓㅓ억",
         "canonical": "77ㅓ억",
-        "phoneme": "t͡ɕʰiɭɕʰip̚t͡ɕʰiɭʌ̹k̚",
+        "phoneme": "t͡ɕʰiɭɕʰip̚t͡ɕʰiɭ ʌ̹k̚",
         "is_nc": true,
         "nc_type": "B1"
       }
@@ -112659,7 +112659,7 @@
     "split": "train",
     "text": "펙트는 본문은 실전사료 1도없는 개소리고 실전 기록은 윌리엄애덤스 기록뿐이고 븅신아 교전비 압도적으로 포루투칼 선원들이 이겼는데 시발아 일뽕 시발 새끼 ㅋㅋㅋ 바람의 검심 발도술로 세계최에에에에고!! ㅇㅈㄹ 하고 있네 진짜 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ천상용섬으로 총알도 갈랐다고 하지 시발아 ㅋㅋ",
     "canonical": "펙트는 본문은 실전사료 1도없는 개소리고 실전 기록은 윌리엄애덤스 기록뿐이고 븅신아 교전비 압도적으로 포루투칼 선원들이 이겼는데 시발아 일뽕 시발 새끼 크크크 바람의 검심 발도술로 세계최고!! 이지랄 하고 있네 진짜 크크크크크크크크크크크크크크크크크크천상용섬으로 총알도 갈랐다고 하지 시발아 크크",
-    "phonemes": "pʰe̞k̚tʰɯnɯn po̞nmunɯn ɕʰiɭt͡ɕ͈ʌ̹nsʰa̠ɾjo iɭ do̞ʌ̹mnɯn kɛ̝sʰo̞ɾiɡo̞ ɕʰiɭd͡ʑʌ̹n kiɾo̞ɡɯn ɥiɭʎiʌ̹mɛ̝dʌ̹msʰɯ kiɾo̞k̚p͈uniɡo̞ pjuŋɕʰina̠ kjod͡ʑʌ̹nbi a̠p̚t͈o̞d͡ʑʌ̹ɡɯɾo̞ pʰo̞ɾutʰukʰa̠ɭ sʰʌ̹nwʌ̹ndɯɾi iɡjʌ̹nnɯnde̞ ɕʰiba̠ɾa̠ iɭp͈o̞ŋ ɕʰiba̠ɭ sʰɛ̝k͈i kxɯkxɯkxɯ pa̠ɾa̠mi kʌ̹mɕʰim pa̠ɭdo̞sʰuɭɭo̞ sʰe̞ɡje̞t͡ɕʰø̞ɡo̞ id͡ʑiɾa̠ɭ ha̠ɡo̞ inne̞ t͡ɕint͡ɕ͈a̠ kxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯt͡ɕʰʌ̹nsʰa̠ŋjoŋsʰʌ̹mɯɾo̞ t͡ɕʰo̞ŋa̠ɭdo̞ ka̠ɭɭa̠t̚t͈a̠ɡo̞ ha̠d͡ʑi ɕʰiba̠ɾa̠ kxɯkxɯ",
+    "phonemes": "pʰe̞k̚tʰɯnɯn po̞nmunɯn ɕʰiɭd͡ʑʌ̹nsʰa̠ɾjo iɭ do̞ʌ̹mnɯn kɛ̝sʰo̞ɾiɡo̞ ɕʰiɭd͡ʑʌ̹n kiɾo̞ɡɯn ɥiɭʎiʌ̹mɛ̝dʌ̹msʰɯ kiɾo̞k̚p͈uniɡo̞ pjuŋɕʰina̠ kjod͡ʑʌ̹nbi a̠p̚t͈o̞d͡ʑʌ̹ɡɯɾo̞ pʰo̞ɾutʰukʰa̠ɭ sʰʌ̹nwʌ̹ndɯɾi iɡjʌ̹nnɯnde̞ ɕʰiba̠ɾa̠ iɭp͈o̞ŋ ɕʰiba̠ɭ sʰɛ̝k͈i kxɯkxɯkxɯ pa̠ɾa̠mɰi kʌ̹mɕʰim pa̠ɭdo̞sʰuɭɭo̞ sʰe̞ɡje̞t͡ɕʰø̞ɡo̞ id͡ʑiɾa̠ɭ ha̠ɡo̞ inne̞ t͡ɕint͡ɕ͈a̠ kxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯt͡ɕʰʌ̹nsʰa̠ŋjoŋsʰʌ̹mɯɾo̞ t͡ɕʰo̞ŋa̠ɭdo̞ ka̠ɭɭa̠t̚t͈a̠ɡo̞ ha̠d͡ʑi ɕʰiba̠ɾa̠ kxɯkxɯ",
     "tokens": [
       {
         "text": "펙트는",
@@ -112678,7 +112678,7 @@
       {
         "text": "실전사료",
         "canonical": "실전사료",
-        "phoneme": "ɕʰiɭt͡ɕ͈ʌ̹nsʰa̠ɾjo",
+        "phoneme": "ɕʰiɭd͡ʑʌ̹nsʰa̠ɾjo",
         "is_nc": false,
         "nc_type": null
       },
@@ -112804,7 +112804,7 @@
       {
         "text": "바람의",
         "canonical": "바람의",
-        "phoneme": "pa̠ɾa̠mi",
+        "phoneme": "pa̠ɾa̠mɰi",
         "is_nc": false,
         "nc_type": null
       },
@@ -112908,7 +112908,7 @@
     "split": "train",
     "text": "조센징을 착하게 만드는 정의선 회장님의 노오오려크를 잊지 않겠습니다wwwwwwwwwwwwwwwwwwwwwwwwwwwww",
     "canonical": "조센징을 착하게 만드는 정의선 회장님의 노려크를 잊지 않겠습니다wwwwwwwwwwwwwwwwwwwwwwwwwwwww",
-    "phonemes": "t͡ɕo̞sʰe̞nd͡ʑiŋɯɭ t͡ɕʰa̠kʰa̠ɡe̞ ma̠ndɯnɯn t͡ɕʌ̹ŋɰisʰʌ̹n hø̞d͡ʑa̠ŋnime̞ no̞ɾjʌ̹kxɯɾɯɭ it̚t͡ɕ͈i a̠nkʰe̞t̚s͈ɯmnida̠",
+    "phonemes": "t͡ɕo̞sʰe̞nd͡ʑiŋɯɭ t͡ɕʰa̠kʰa̠ɡe̞ ma̠ndɯnɯn t͡ɕʌ̹ŋɰisʰʌ̹n hø̞d͡ʑa̠ŋnimɰi no̞ɾjʌ̹kxɯɾɯɭ it̚t͡ɕ͈i a̠nkʰe̞t̚s͈ɯmnida̠",
     "tokens": [
       {
         "text": "조센징을",
@@ -112941,7 +112941,7 @@
       {
         "text": "회장님의",
         "canonical": "회장님의",
-        "phoneme": "hø̞d͡ʑa̠ŋnime̞",
+        "phoneme": "hø̞d͡ʑa̠ŋnimɰi",
         "is_nc": false,
         "nc_type": null
       },
@@ -113802,7 +113802,7 @@
     "split": "train",
     "text": "사실 자막 진짜인데 구라인 부분이발가락 짤린 이대남이 계집처럼 끄아아악 비명 지르다가 죽었다는 내용임",
     "canonical": "사실 자막 진짜인데 구라인 부분이발가락 짤린 이대남이 계집처럼 끄악 비명 지르다가 죽었다는 내용임",
-    "phonemes": "sʰa̠ɕʰiɭ t͡ɕa̠ma̠k̚ t͡ɕint͡ɕ͈a̠inde̞ kuɾa̠in pubuniba̠ɭk͈a̠ɾa̠k̚ t͡ɕ͈a̠ɭʎin idɛ̝na̠mi kje̞d͡ʑip̚t͡ɕʰʌ̹ɾʌ̹m k͈ɯa̠k̚ pimjʌ̹ŋ t͡ɕiɾɯda̠ɡa̠ t͡ɕuɡʌ̹t̚t͈a̠nɯn nɛ̝joŋim",
+    "phonemes": "sʰa̠ɕʰiɭ t͡ɕa̠ma̠k̚ t͡ɕint͡ɕ͈a̠inde̞ kuɾa̠in pubuniba̠ɭɡa̠ɾa̠k̚ t͡ɕ͈a̠ɭʎin idɛ̝na̠mi kje̞d͡ʑip̚t͡ɕʰʌ̹ɾʌ̹m k͈ɯa̠k̚ pimjʌ̹ŋ t͡ɕiɾɯda̠ɡa̠ t͡ɕuɡʌ̹t̚t͈a̠nɯn nɛ̝joŋim",
     "tokens": [
       {
         "text": "사실",
@@ -113835,7 +113835,7 @@
       {
         "text": "부분이발가락",
         "canonical": "부분이발가락",
-        "phoneme": "pubuniba̠ɭk͈a̠ɾa̠k̚",
+        "phoneme": "pubuniba̠ɭɡa̠ɾa̠k̚",
         "is_nc": false,
         "nc_type": null
       },
@@ -114510,7 +114510,7 @@
     "split": "train",
     "text": "죄과 길렀지뫈 저눈 주인이 아닙뉘돠 훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과 길렀지뫈 저눈 주인이 아닙뉘돠 훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과 길렀지뫈 저눈 주인이 아닙뉘돠 훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과 길렀지뫈 저눈 주인이 아닙뉘돠 훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과 길렀지뫈 저눈 주인이 아닙뉘돠 훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과 길렀지뫈 저눈 주인이 아닙뉘돠 훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과 길렀지뫈 저눈 주인이 아닙뉘돠 훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과 길렀지뫈 저눈 주인이 아닙뉘돠 훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ",
     "canonical": "죄과 길렀지뫈 저눈 주인이 아닙뉘돠 훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과 길렀지뫈 저눈 주인이 아닙뉘돠 훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과 길렀지뫈 저눈 주인이 아닙뉘돠 훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과 길렀지뫈 저눈 주인이 아닙뉘돠 훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과 길렀지뫈 저눈 주인이 아닙뉘돠 훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과 길렀지뫈 저눈 주인이 아닙뉘돠 훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과 길렀지뫈 저눈 주인이 아닙뉘돠 훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과 길렀지뫈 저눈 주인이 아닙뉘돠 훠어",
-    "phonemes": "t͡ɕø̞ɡwa̠ kiɭɭʌ̹t̚t͡ɕ͈imwa̠n t͡ɕʌ̹nun t͡ɕuini a̠nimnɥidwa̠ ɸwʌ̹t͡ɕø̞kwa̠ kiɭɭʌ̹t̚t͡ɕ͈imwa̠n t͡ɕʌ̹nun t͡ɕuini a̠nimnɥidwa̠ ɸwʌ̹t͡ɕø̞kwa̠ kiɭɭʌ̹t̚t͡ɕ͈imwa̠n t͡ɕʌ̹nun t͡ɕuini a̠nimnɥidwa̠ ɸwʌ̹t͡ɕø̞kwa̠ kiɭɭʌ̹t̚t͡ɕ͈imwa̠n t͡ɕʌ̹nun t͡ɕuini a̠nimnɥidwa̠ ɸwʌ̹t͡ɕø̞kwa̠ kiɭɭʌ̹t̚t͡ɕ͈imwa̠n t͡ɕʌ̹nun t͡ɕuini a̠nimnɥidwa̠ ɸwʌ̹t͡ɕø̞kwa̠ kiɭɭʌ̹t̚t͡ɕ͈imwa̠n t͡ɕʌ̹nun t͡ɕuini a̠nimnɥidwa̠ ɸwʌ̹t͡ɕø̞kwa̠ kiɭɭʌ̹t̚t͡ɕ͈imwa̠n t͡ɕʌ̹nun t͡ɕuini a̠nimnɥidwa̠ ɸwʌ̹t͡ɕø̞kwa̠ kiɭɭʌ̹t̚t͡ɕ͈imwa̠n t͡ɕʌ̹nun t͡ɕuini a̠nimnɥidwa̠ ɸwʌ̹ʌ̹",
+    "phonemes": "t͡ɕø̞ɡwa̠ kiɭɭʌ̹t̚t͡ɕ͈imwa̠n t͡ɕʌ̹nun t͡ɕuini a̠nimnɥidwa̠ ɸwʌ̹ t͡ɕø̞ɡwa̠ kiɭɭʌ̹t̚t͡ɕ͈imwa̠n t͡ɕʌ̹nun t͡ɕuini a̠nimnɥidwa̠ ɸwʌ̹ t͡ɕø̞ɡwa̠ kiɭɭʌ̹t̚t͡ɕ͈imwa̠n t͡ɕʌ̹nun t͡ɕuini a̠nimnɥidwa̠ ɸwʌ̹ t͡ɕø̞ɡwa̠ kiɭɭʌ̹t̚t͡ɕ͈imwa̠n t͡ɕʌ̹nun t͡ɕuini a̠nimnɥidwa̠ ɸwʌ̹ t͡ɕø̞ɡwa̠ kiɭɭʌ̹t̚t͡ɕ͈imwa̠n t͡ɕʌ̹nun t͡ɕuini a̠nimnɥidwa̠ ɸwʌ̹ t͡ɕø̞ɡwa̠ kiɭɭʌ̹t̚t͡ɕ͈imwa̠n t͡ɕʌ̹nun t͡ɕuini a̠nimnɥidwa̠ ɸwʌ̹ t͡ɕø̞ɡwa̠ kiɭɭʌ̹t̚t͡ɕ͈imwa̠n t͡ɕʌ̹nun t͡ɕuini a̠nimnɥidwa̠ ɸwʌ̹ t͡ɕø̞ɡwa̠ kiɭɭʌ̹t̚t͡ɕ͈imwa̠n t͡ɕʌ̹nun t͡ɕuini a̠nimnɥidwa̠ ɸwʌ̹ʌ̹",
     "tokens": [
       {
         "text": "죄과",
@@ -114550,7 +114550,7 @@
       {
         "text": "훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과",
         "canonical": "훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과",
-        "phoneme": "ɸwʌ̹t͡ɕø̞kwa̠",
+        "phoneme": "ɸwʌ̹ t͡ɕø̞ɡwa̠",
         "is_nc": true,
         "nc_type": "C1"
       },
@@ -114585,7 +114585,7 @@
       {
         "text": "훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과",
         "canonical": "훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과",
-        "phoneme": "ɸwʌ̹t͡ɕø̞kwa̠",
+        "phoneme": "ɸwʌ̹ t͡ɕø̞ɡwa̠",
         "is_nc": true,
         "nc_type": "C1"
       },
@@ -114620,7 +114620,7 @@
       {
         "text": "훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과",
         "canonical": "훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과",
-        "phoneme": "ɸwʌ̹t͡ɕø̞kwa̠",
+        "phoneme": "ɸwʌ̹ t͡ɕø̞ɡwa̠",
         "is_nc": true,
         "nc_type": "C1"
       },
@@ -114655,7 +114655,7 @@
       {
         "text": "훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과",
         "canonical": "훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과",
-        "phoneme": "ɸwʌ̹t͡ɕø̞kwa̠",
+        "phoneme": "ɸwʌ̹ t͡ɕø̞ɡwa̠",
         "is_nc": true,
         "nc_type": "C1"
       },
@@ -114690,7 +114690,7 @@
       {
         "text": "훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과",
         "canonical": "훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과",
-        "phoneme": "ɸwʌ̹t͡ɕø̞kwa̠",
+        "phoneme": "ɸwʌ̹ t͡ɕø̞ɡwa̠",
         "is_nc": true,
         "nc_type": "C1"
       },
@@ -114725,7 +114725,7 @@
       {
         "text": "훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과",
         "canonical": "훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과",
-        "phoneme": "ɸwʌ̹t͡ɕø̞kwa̠",
+        "phoneme": "ɸwʌ̹ t͡ɕø̞ɡwa̠",
         "is_nc": true,
         "nc_type": "C1"
       },
@@ -114760,7 +114760,7 @@
       {
         "text": "훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과",
         "canonical": "훠ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ죄과",
-        "phoneme": "ɸwʌ̹t͡ɕø̞kwa̠",
+        "phoneme": "ɸwʌ̹ t͡ɕø̞ɡwa̠",
         "is_nc": true,
         "nc_type": "C1"
       },
@@ -115642,7 +115642,7 @@
     "split": "train",
     "text": "송조 조치.. 10짤 구우웃",
     "canonical": "송조 조치.. 10짤 굿",
-    "phonemes": "sʰo̞ŋd͡ʑo̞ t͡ɕo̞t͡ɕʰi ɕʰip̚t͡ɕ͈a̠ɭ kut̚",
+    "phonemes": "sʰo̞ŋd͡ʑo̞ t͡ɕo̞t͡ɕʰi ɕʰip̚ t͡ɕ͈a̠ɭ kut̚",
     "tokens": [
       {
         "text": "송조",
@@ -115661,7 +115661,7 @@
       {
         "text": "10짤",
         "canonical": "10짤",
-        "phoneme": "ɕʰip̚t͡ɕ͈a̠ɭ",
+        "phoneme": "ɕʰip̚ t͡ɕ͈a̠ɭ",
         "is_nc": true,
         "nc_type": "C3"
       },
@@ -115681,7 +115681,7 @@
     "split": "train",
     "text": "반박은 못하고 왜 우리편 안들어 빼애액!!!!무조건 우리편 들란말이야!!!!!ㅂㄷㅂㄷ하는 댓글들밖에 없네",
     "canonical": "반박은 못하고 왜 우리편 안들어 빼액!무조건 우리편 들란말이야!!!!!부들부들하는 댓글들밖에 없네",
-    "phonemes": "pa̠nba̠ɡɯn mo̞tʰa̠ɡo̞ wɛ̝ uɾipʰjʌ̹n a̠ndɯɾʌ̹ p͈ɛ̝ɛ̝k̚ mud͡ʑo̞ɡʌ̹n uɾipʰjʌ̹n tɯɭɭa̠nma̠ɾija̠ pudɯɭbudɯɭɦa̠nɯn tɛ̝t̚k͈ɯɭdɯɭba̠k͈e̞ ʌ̹mne̞",
+    "phonemes": "pa̠nba̠ɡɯn mo̞tʰa̠ɡo̞ wɛ̝ uɾipʰjʌ̹n a̠ndɯɾʌ̹ p͈ɛ̝ɛ̝k̚ mud͡ʑo̞ɡʌ̹n uɾipʰjʌ̹n tɯɭɭa̠nma̠ɾija̠ pudɯɭbudɯɾɦa̠nɯn tɛ̝t̚k͈ɯɭdɯɭba̠k͈e̞ ʌ̹mne̞",
     "tokens": [
       {
         "text": "반박은",
@@ -115735,7 +115735,7 @@
       {
         "text": "들란말이야!!!!!ㅂㄷㅂㄷ하는",
         "canonical": "들란말이야!!!!!부들부들하는",
-        "phoneme": "tɯɭɭa̠nma̠ɾija̠ pudɯɭbudɯɭɦa̠nɯn",
+        "phoneme": "tɯɭɭa̠nma̠ɾija̠ pudɯɭbudɯɾɦa̠nɯn",
         "is_nc": true,
         "nc_type": "A1"
       },
@@ -115957,12 +115957,12 @@
     "split": "train",
     "text": "휘이이이~~이~~",
     "canonical": "휘이~~",
-    "phonemes": "çɥii",
+    "phonemes": "hɥii",
     "tokens": [
       {
         "text": "휘이이이~~이~~",
         "canonical": "휘이~~",
-        "phoneme": "çɥii",
+        "phoneme": "hɥii",
         "is_nc": true,
         "nc_type": "B1"
       }
@@ -116673,12 +116673,12 @@
     "split": "train",
     "text": "쮸우우우우우우우웅하하하하하하하하하쮸우우우우우우웅기덕쿠더러러럭쭈우우우우우우웅끼얏호우우",
     "canonical": "쮸웅하하하쮸웅기덕쿠더러러럭쭈웅끼얏호",
-    "phonemes": "t͡ɕ͈juuŋha̠ha̠ha̠t͡ɕ͈juuŋɡidʌ̹k̚kʰudʌ̹ɾʌ̹ɾʌ̹ɾʌ̹k̚t͡ɕ͈uuŋk͈ija̠tʰo̞",
+    "phonemes": "t͡ɕ͈juuŋha̠ɦa̠ɦa̠t͡ɕ͈juuŋɡidʌ̹k̚kʰudʌ̹ɾʌ̹ɾʌ̹ɾʌ̹k̚t͡ɕ͈uuŋk͈ija̠tʰo̞",
     "tokens": [
       {
         "text": "쮸우우우우우우우웅하하하하하하하하하쮸우우우우우우웅기덕쿠더러러럭쭈우우우우우우웅끼얏호우우",
         "canonical": "쮸웅하하하쮸웅기덕쿠더러러럭쭈웅끼얏호",
-        "phoneme": "t͡ɕ͈juuŋha̠ha̠ha̠t͡ɕ͈juuŋɡidʌ̹k̚kʰudʌ̹ɾʌ̹ɾʌ̹ɾʌ̹k̚t͡ɕ͈uuŋk͈ija̠tʰo̞",
+        "phoneme": "t͡ɕ͈juuŋha̠ɦa̠ɦa̠t͡ɕ͈juuŋɡidʌ̹k̚kʰudʌ̹ɾʌ̹ɾʌ̹ɾʌ̹k̚t͡ɕ͈uuŋk͈ija̠tʰo̞",
         "is_nc": true,
         "nc_type": "B1"
       }
@@ -116691,12 +116691,12 @@
     "split": "train",
     "text": "ㅋㅋ근데 주변에서 실제로 꺼어어억 이런말 쓰는 사람보면 '뭐지? 이런말을 현실에서도 쓰는사람있구나' 생각 들긴 함반대적으론 자존감 높고 긍정적이고 성격좋은 사람은 저런말 하지 않으니 이상한사람 이라는 키워드가 엮일수 있게 되는 반증이 될 수 있어서 안좋아보임 그래서 친구들한텐 써도 남들한텐 절대 안쓰는듯",
     "canonical": "크크근데 주변에서 실제로 꺼억 이런말 쓰는 사람보면 '뭐지? 이런말을 현실에서도 쓰는사람있구나' 생각 들긴 함반대적으론 자존감 높고 긍정적이고 성격좋은 사람은 저런말 하지 않으니 이상한사람 이라는 키워드가 엮일수 있게 되는 반증이 될 수 있어서 안좋아보임 그래서 친구들한텐 써도 남들한텐 절대 안쓰는듯",
-    "phonemes": "kxɯkxɯkɯnte̞ t͡ɕubjʌ̹ne̞sʰʌ̹ ɕʰiɭd͡ʑe̞ɾo̞ k͈ʌ̹ʌ̹k̚ iɾʌ̹nma̠ɭ s͈ɯnɯn sʰa̠ɾa̠mbo̞mjʌ̹n mwʌ̹d͡ʑi iɾʌ̹nma̠ɾɯɭ çjʌ̹nɕʰiɾe̞sʰʌ̹do̞ s͈ɯnɯnsʰa̠ɾa̠mit̚k͈una̠ sʰɛ̝ŋɡa̠k̚ tɯɭɡin ha̠mba̠ndɛ̝d͡ʑʌ̹ɡɯɾo̞n t͡ɕa̠d͡ʑo̞nɡa̠m no̞p̚k͈o̞ kɯŋd͡ʑʌ̹ŋd͡ʑʌ̹ɡiɡo̞ sʰʌ̹ŋk͈jʌ̹k̚t͡ɕ͈o̞ɯn sʰa̠ɾa̠mɯn t͡ɕʌ̹ɾʌ̹nma̠ɭ ha̠d͡ʑi a̠nɯni isʰa̠ŋɦa̠nsʰa̠ɾa̠m iɾa̠nɯn kçiwʌ̹dɯɡa̠ jʌ̹k͈iɭs͈u it̚k͈e̞ tø̞nɯn pa̠nd͡ʑɯŋi tø̞ɭ sʰu is͈ʌ̹sʰʌ̹ a̠nd͡ʑo̞a̠bo̞im kɯɾɛ̝sʰʌ̹ t͡ɕʰinɡudɯɾɦa̠ntʰe̞n s͈ʌ̹do̞ na̠mdɯɾɦa̠ntʰen t͡ɕʌ̹ɭdɛ̝ a̠ns͈ɯnɯndɯt̚",
+    "phonemes": "kxɯkxɯɡɯnde̞ t͡ɕubjʌ̹ne̞sʰʌ̹ ɕʰiɭd͡ʑe̞ɾo̞ k͈ʌ̹ʌ̹k̚ iɾʌ̹nma̠ɭ s͈ɯnɯn sʰa̠ɾa̠mbo̞mjʌ̹n mwʌ̹d͡ʑi iɾʌ̹nma̠ɾɯɭ çjʌ̹nɕʰiɾe̞sʰʌ̹do̞ s͈ɯnɯnsʰa̠ɾa̠mit̚k͈una̠ sʰɛ̝ŋɡa̠k̚ tɯɭɡin ha̠mba̠ndɛ̝d͡ʑʌ̹ɡɯɾo̞n t͡ɕa̠d͡ʑo̞nɡa̠m no̞p̚k͈o̞ kɯŋd͡ʑʌ̹ŋd͡ʑʌ̹ɡiɡo̞ sʰʌ̹ŋɡjʌ̹k̚t͡ɕ͈o̞ɯn sʰa̠ɾa̠mɯn t͡ɕʌ̹ɾʌ̹nma̠ɭ ha̠d͡ʑi a̠nɯni isʰa̠ŋɦa̠nsʰa̠ɾa̠m iɾa̠nɯn kçiwʌ̹dɯɡa̠ jʌ̹k͈iɭs͈u it̚k͈e̞ tø̞nɯn pa̠nd͡ʑɯŋi tø̞ɭ sʰu is͈ʌ̹sʰʌ̹ a̠nd͡ʑo̞a̠bo̞im kɯɾɛ̝sʰʌ̹ t͡ɕʰinɡudɯɾɦa̠ntʰe̞n s͈ʌ̹do̞ na̠mdɯɾɦa̠ntʰe̞n t͡ɕʌ̹ɭdɛ̝ a̠ns͈ɯnɯndɯt̚",
     "tokens": [
       {
         "text": "ㅋㅋ근데",
         "canonical": "크크근데,키키근데,킥킥근데",
-        "phoneme": "kxɯkxɯkɯnte̞,kçikçikɯnte̞,kçik̚kçik̚k͈ɯnte̞",
+        "phoneme": "kxɯkxɯɡɯnde̞,kçikçiɡɯnde̞,kçik̚kçik̚k͈ɯnde̞",
         "is_nc": true,
         "nc_type": "B2"
       },
@@ -116815,7 +116815,7 @@
       {
         "text": "성격좋은",
         "canonical": "성격좋은",
-        "phoneme": "sʰʌ̹ŋk͈jʌ̹k̚t͡ɕ͈o̞ɯn",
+        "phoneme": "sʰʌ̹ŋɡjʌ̹k̚t͡ɕ͈o̞ɯn",
         "is_nc": false,
         "nc_type": null
       },
@@ -116948,7 +116948,7 @@
       {
         "text": "남들한텐",
         "canonical": "남들한텐",
-        "phoneme": "na̠mdɯɾɦa̠ntʰen",
+        "phoneme": "na̠mdɯɾɦa̠ntʰe̞n",
         "is_nc": false,
         "nc_type": null
       },
@@ -116975,7 +116975,7 @@
     "split": "train",
     "text": "ㄹㅇ 한국 성우새끼들 조오ㅗㅗㅗㅗㅗㅗㅗㅗㅗㄴ나 오글거리고 연기 개못함. 억양 자체가 시발 존나 억지스러워서 영문더빙판을 보면 봤지, 한국더빙은 절대 안 봄. 어릴 때 외화 더빙 처음 볼 때도 속으로 '이 사람들 왜 이렇게 말하지?? ㅈㄴ 이상하다..' 이렇게 생각함 ㅋㅋㅋ 연기 개못하는 데다가 주제도 몰라서 시발.. 게임 더빙 같은 거 대사 지좃대로 바꿔서",
     "canonical": "레알 한국 성우새끼들 존나 오글거리고 연기 개못함. 억양 자체가 시발 존나 억지스러워서 영문더빙판을 보면 봤지, 한국더빙은 절대 안 봄. 어릴 때 외화 더빙 처음 볼 때도 속으로 '이 사람들 왜 이렇게 말하지?? 존나 이상하다..' 이렇게 생각함 크크크 연기 개못하는 데다가 주제도 몰라서 시발.. 게임 더빙 같은 거 대사 지좃대로 바꿔서",
-    "phonemes": "ɾe̞a̠ɭ ha̠nɡuk̚ sʰʌ̹ŋusʰɛ̝k͈idɯɭ t͡ɕo̞nna̠ o̞ɡɯɭɡʌ̹ɾiɡo̞ jʌ̹nɡi kɛ̝mo̞tʰa̠m ʌ̹ɡja̠ŋ t͡ɕa̠t͡ɕʰe̞ɡa̠ ɕʰiba̠ɭ t͡ɕo̞nna̠ ʌ̹k̚t͡ɕ͈isʰɯɾʌ̹wʌ̹sʰʌ̹ jʌ̹ŋmundʌ̹biŋpʰa̠nɯɭ po̞mjʌ̹n pwa̠t̚t͡ɕ͈i ha̠nɡuk̚t͈ʌ̹biŋɯn t͡ɕʌ̹ɭdɛ̝ a̠n po̞m ʌ̹ɾiɭ t͈ɛ̝ ø̞βwa̠ tʌ̹biŋ t͡ɕʰʌ̹ɯm po̞ɭ t͈ɛ̝do̞ sʰo̞ɡɯɾo̞ i sʰa̠ɾa̠mdɯɭ wɛ̝ iɾʌ̹kʰe̞ ma̠ɭɦa̠d͡ʑi t͡ɕo̞nna̠ isʰa̠ŋɦa̠da̠ iɾʌ̹kʰe̞ sʰɛ̝ŋɡa̠kʰa̠m kxɯkxɯkxɯ jʌ̹nɡi kɛ̝mo̞tʰa̠nɯn te̞da̠ɡa̠ t͡ɕud͡ʑe̞do̞ mo̞ɭɭa̠sʰʌ̹ ɕʰiba̠ɭ k͈e̞im tʌ̹biŋ ka̠tʰɯn kʌ̹ tɛ̝sʰa̠ t͡ɕid͡ʑo̞t̚t͈ɛ̝ɾo̞ pa̠k͈wʌ̹sʰʌ̹",
+    "phonemes": "ɾe̞a̠ɭ ha̠nɡuk̚ sʰʌ̹ŋusʰɛ̝k͈idɯɭ t͡ɕo̞nna̠ o̞ɡɯɭɡʌ̹ɾiɡo̞ jʌ̹nɡi kɛ̝mo̞tʰa̠m ʌ̹ɡja̠ŋ t͡ɕa̠t͡ɕʰe̞ɡa̠ ɕʰiba̠ɭ t͡ɕo̞nna̠ ʌ̹k̚t͡ɕ͈isʰɯɾʌ̹wʌ̹sʰʌ̹ jʌ̹ŋmundʌ̹biŋpʰa̠nɯɭ po̞mjʌ̹n pwa̠t̚t͡ɕ͈i ha̠nɡuk̚t͈ʌ̹biŋɯn t͡ɕʌ̹ɭdɛ̝ a̠n po̞m ʌ̹ɾiɭ t͈ɛ̝ ø̞βwa̠ tʌ̹biŋ t͡ɕʰʌ̹ɯm po̞ɭ t͈ɛ̝do̞ sʰo̞ɡɯɾo̞ i sʰa̠ɾa̠mdɯɭ wɛ̝ iɾʌ̹kʰe̞ ma̠ɾɦa̠d͡ʑi t͡ɕo̞nna̠ isʰa̠ŋɦa̠da̠ iɾʌ̹kʰe̞ sʰɛ̝ŋɡa̠kʰa̠m kxɯkxɯkxɯ jʌ̹nɡi kɛ̝mo̞tʰa̠nɯn te̞da̠ɡa̠ t͡ɕud͡ʑe̞do̞ mo̞ɭɭa̠sʰʌ̹ ɕʰiba̠ɭ k͈e̞im tʌ̹biŋ ka̠tʰɯn kʌ̹ tɛ̝sʰa̠ t͡ɕid͡ʑo̞t̚t͈ɛ̝ɾo̞ pa̠k͈wʌ̹sʰʌ̹",
     "tokens": [
       {
         "text": "ㄹㅇ",
@@ -117197,7 +117197,7 @@
       {
         "text": "말하지??",
         "canonical": "말하지??",
-        "phoneme": "ma̠ɭɦa̠d͡ʑi",
+        "phoneme": "ma̠ɾɦa̠d͡ʑi",
         "is_nc": false,
         "nc_type": null
       },
@@ -118038,7 +118038,7 @@
     "split": "train",
     "text": "국뽕충 존나 웃긴점 -처음 나올때: 원피스 망했다던데?실상: 84개국 1위2주 후: 응 시청 시간 망했어~실상: 역대 넷플 시청시간 11위, 2주차에 손익 분기점 상회3주 후: 아 아무튼 망했어 ㅅㅂ 빼애액실상 : 시즌2 제작 결정",
     "canonical": "국뽕충 존나 웃긴점 -처음 나올때: 원피스 망했다던데?실상: 84개국 1위2주 후: 응 시청 시간 망했어~실상: 역대 넷플 시청시간 11위, 2주차에 손익 분기점 상회3주 후: 아 아무튼 망했어 시발 빼액실상 시즌2 제작 결정",
-    "phonemes": "kuk̚p͈o̞ŋt͡ɕʰuŋ t͡ɕo̞nna̠ ut̚k͈ind͡ʑʌ̹m t͡ɕʰʌ̹ɯm na̠o̞ɭt͈ɛ̝ wʌ̹npʰisʰɯ ma̠ŋɦɛ̝t̚t͈a̠dʌ̹nde̞ ɕʰiɭs͈a̠ŋ pʰa̠ɭɕ͈ips͈a̠ ɡɛ̝ɡuk̚ iɾɥi id͡ʑu ɸʷu ɯŋ ɕʰit͡ɕʰʌ̹ŋ ɕʰiɡa̠n ma̠ŋɦɛ̝s͈ʌ̹ ɕʰiɭs͈a̠ŋ jʌ̹k̚t͈ɛ̝ ne̞t̚pʰɯɭ ɕʰit͡ɕʰʌ̹ŋɕʰiɡa̠n ɕʰibiɾ ɥi i d͡ʑut͡ɕʰa̠e̞ sʰo̞nik̚ punɡid͡ʑʌ̹m sʰa̠ŋɦø̞ sʰa̠m t͡ɕu ɸʷu a̠ a̠mutʰɯn ma̠ŋɦɛ̝s͈ʌ̹ ɕʰiba̠ɭ p͈ɛ̝ɛ̝kɕ͈iɭs͈a̠ŋ ɕʰid͡ʑɯn i t͡ɕe̞d͡ʑa̠k̚ kjʌ̹ɭd͡ʑʌ̹ŋ",
+    "phonemes": "kuk̚p͈o̞ŋt͡ɕʰuŋ t͡ɕo̞nna̠ ut̚k͈ind͡ʑʌ̹m t͡ɕʰʌ̹ɯm na̠o̞ɭt͈ɛ̝ wʌ̹npʰisʰɯ ma̠ŋɦɛ̝t̚t͈a̠dʌ̹nde̞ ɕʰiɭs͈a̠ŋ pʰa̠ɭɕʰips͈a̠ ɡɛ̝ɡuk̚ iɾ ɥi i d͡ʑu ɸʷu ɯŋ ɕʰit͡ɕʰʌ̹ŋ ɕʰiɡa̠n ma̠ŋɦɛ̝s͈ʌ̹ ɕʰiɭs͈a̠ŋ jʌ̹k̚t͈ɛ̝ ne̞t̚pʰɯɭ ɕʰit͡ɕʰʌ̹ŋɕʰiɡa̠n ɕʰibi ɾɥi i d͡ʑut͡ɕʰa̠e̞ sʰo̞nik̚ punɡid͡ʑʌ̹m sʰa̠ŋɦø̞ sʰa̠m d͡ʑu ɸʷu a̠ a̠mutʰɯn ma̠ŋɦɛ̝s͈ʌ̹ ɕʰiba̠ɭ p͈ɛ̝ɛ̝kɕ͈iɭs͈a̠ŋ ɕʰid͡ʑɯn i t͡ɕe̞d͡ʑa̠k̚ kjʌ̹ɭd͡ʑʌ̹ŋ",
     "tokens": [
       {
         "text": "국뽕충",
@@ -118092,14 +118092,14 @@
       {
         "text": "84개국",
         "canonical": "84개국",
-        "phoneme": "pʰa̠ɭɕ͈ips͈a̠ ɡɛ̝ɡuk̚",
+        "phoneme": "pʰa̠ɭɕʰips͈a̠ ɡɛ̝ɡuk̚",
         "is_nc": false,
         "nc_type": null
       },
       {
         "text": "1위2주",
         "canonical": "1위2주",
-        "phoneme": "iɾɥi id͡ʑu",
+        "phoneme": "iɾ ɥi i d͡ʑu",
         "is_nc": false,
         "nc_type": null
       },
@@ -118162,7 +118162,7 @@
       {
         "text": "11위,",
         "canonical": "11위,",
-        "phoneme": "ɕʰibiɾ ɥi",
+        "phoneme": "ɕʰibi ɾɥi",
         "is_nc": false,
         "nc_type": null
       },
@@ -118190,7 +118190,7 @@
       {
         "text": "상회3주",
         "canonical": "상회3주",
-        "phoneme": "sʰa̠ŋɦø̞ sʰa̠m t͡ɕu",
+        "phoneme": "sʰa̠ŋɦø̞ sʰa̠m d͡ʑu",
         "is_nc": false,
         "nc_type": null
       },
@@ -118273,7 +118273,7 @@
     "split": "train",
     "text": "가글을 마치고 꿀꺽 삼킨 그녀는 개운하다는듯이 프하아~ 소리를 내었다.“꺼어어억~”시원한 트름소리에 구릿튀튀한 지른내가 입에서 풍겨나왔다.그녀가 살고있는 이 마을은 다 무너져가는 마을이었다.남은 사람이 이장과 이장 아들, 그리고 치매걸린 노인 둘, 김말숙씨 총 다섯명 뿐이었다.오늘은 경로당에서 다같이 점심 식사를 하기로 한 날이였다. 이런 날은 항상 김말숙씨가 밥을 하였다.오늘의 점심은 강된장쌈밥 (말숙할매의 맛이 들어간)이었고 그녀는 아침부터 분주하게 밥을 준비하였다.이틀 전 부터 모아둔 대변을 항아리에서 스르륵 건져내었다. 날이 더웠던 탓일까, 그녀의 배설물들은 데워진 상태로 서로 엉키고 섥혀 주르르륵 올라왔고 주걱에서 미끄러지며 사방으로 똥이 튀었다.",
     "canonical": "가글을 마치고 꿀꺽 삼킨 그녀는 개운하다는듯이 프하~ 소리를 내었다.“꺼억~”시원한 트름소리에 구릿튀튀한 지른내가 입에서 풍겨나왔다.그녀가 살고있는 이 마을은 다 무너져가는 마을이었다.남은 사람이 이장과 이장 아들, 그리고 치매걸린 노인 둘, 김말숙씨 총 다섯명 뿐이었다.오늘은 경로당에서 다같이 점심 식사를 하기로 한 날이였다. 이런 날은 항상 김말숙씨가 밥을 하였다.오늘의 점심은 강된장쌈밥 (말숙할매의 맛이 들어간)이었고 그녀는 아침부터 분주하게 밥을 준비하였다.이틀 전 부터 모아둔 대변을 항아리에서 스르륵 건져내었다. 날이 더웠던 탓일까, 그녀의 배설물들은 데워진 상태로 서로 엉키고 섥혀 주르륵 올라왔고 주걱에서 미끄러지며 사방으로 똥이 튀었다.",
-    "phonemes": "ka̠ɡɯɾɯɭ ma̠t͡ɕʰiɡo̞ k͈uɭk͈ʌ̹k̚ sʰa̠mkçin kɯɲjʌ̹nɯn kɛ̝unɦa̠da̠nɯndɯɕʰi pʰɯɦa̠ sʰo̞ɾiɾɯɭ nɛ̝ʌ̹t̚t͈a̠ k͈ʌ̹ʌ̹k̚ ɕʰiwʌ̹nɦa̠n tʰɯɾɯms͈o̞ɾie̞ kuɾit̚tʰɥitʰɥiɦa̠n t͡ɕiɾɯnnɛ̝ɡa̠ ibe̞sʰʌ̹ pʰuŋɡjʌ̹na̠wa̠t̚t͈a̠ kɯɲjʌ̹ɡa̠ sʰa̠ɭɡo̞innɯn i ma̠ɯɾɯn ta̠ munʌ̹d͡ʑʌ̹ɡa̠nɯn ma̠ɯɾiʌ̹t̚t͈a̠ na̠mɯn sʰa̠ɾa̠mi id͡ʑa̠ŋɡwa̠ id͡ʑa̠ŋ a̠dɯɭ kɯɾiɡo̞ t͡ɕʰimɛ̝ɡʌ̹ɭʎin no̞in tuɭ kimma̠ɭs͈ukɕ͈i t͡ɕʰo̞ŋ ta̠sʰʌ̹nmjʌ̹ŋ p͈uniʌ̹t̚t͈a̠ o̞nɯɾɯn kjʌ̹ŋno̞da̠ŋe̞sʰʌ̹ ta̠ɡa̠t͡ɕʰi t͡ɕʌ̹mɕʰim ɕʰiks͈a̠ɾɯɭ ha̠ɡiɾo̞ ha̠n na̠ɾijʌ̹t̚t͈a̠ iɾʌ̹n na̠ɾɯn ha̠ŋsʰa̠ŋ kimma̠ɭs͈ukɕ͈iɡa̠ pa̠bɯɭ ha̠jʌ̹t̚t͈a̠ o̞nɯɾe̞ t͡ɕʌ̹mɕʰimɯn ka̠ŋdø̞nd͡ʑa̠ŋs͈a̠mba̠p̚ ma̠ɭs͈ukʰa̠ɭmɛ̝ɰi ma̠ɕʰi tɯɾʌ̹ɡa̠n iʌ̹t̚k͈o̞ kɯɲjʌ̹nɯn a̠t͡ɕʰimbutʰʌ̹ pund͡ʑuɦa̠ɡe̞ pa̠bɯɭ t͡ɕunbiɦa̠jʌ̹t̚t͈a̠ itʰɯɭ t͡ɕʌ̹n putʰʌ̹ mo̞a̠dun tɛ̝bjʌ̹nɯɭ ha̠ŋa̠ɾie̞sʰʌ̹ sʰɯɾɯɾɯk̚ kʌ̹nd͡ʑʌ̹nɛ̝ʌ̹t̚t͈a̠ na̠ɾi tʌ̹wʌ̹t̚t͈ʌ̹n tʰa̠ɕʰiɭk͈a̠ kɯɲjʌ̹ɰi pɛ̝sʰʌ̹ɭmuɭdɯɾɯn te̞wʌ̹d͡ʑin sʰa̠ŋtʰɛ̝ɾo̞ sʰʌ̹ɾo̞ ʌ̹ŋkçiɡo̞ sʰʌ̹ɭkçjʌ̹ t͡ɕuɾɯɾɯk̚ o̞ɭɭa̠wa̠t̚k͈o̞ t͡ɕuɡʌ̹ɡe̞sʰʌ̹ mik͈ɯɾʌ̹d͡ʑimjʌ̹ sʰa̠ba̠ŋɯɾo̞ t͈o̞ŋi tʰɥiʌ̹t̚t͈a̠",
+    "phonemes": "ka̠ɡɯɾɯɭ ma̠t͡ɕʰiɡo̞ k͈uɭk͈ʌ̹k̚ sʰa̠mkçin kɯɲjʌ̹nɯn kɛ̝unɦa̠da̠nɯndɯɕʰi pʰɯɦa̠ sʰo̞ɾiɾɯɭ nɛ̝ʌ̹t̚t͈a̠ k͈ʌ̹ʌ̹k̚ ɕʰiwʌ̹nɦa̠n tʰɯɾɯms͈o̞ɾie̞ kuɾit̚tʰɥitʰɥiɦa̠n t͡ɕiɾɯnnɛ̝ɡa̠ ibe̞sʰʌ̹ pʰuŋɡjʌ̹na̠wa̠t̚t͈a̠ kɯɲjʌ̹ɡa̠ sʰa̠ɭɡo̞innɯn i ma̠ɯɾɯn ta̠ munʌ̹d͡ʑʌ̹ɡa̠nɯn ma̠ɯɾiʌ̹t̚t͈a̠ na̠mɯn sʰa̠ɾa̠mi id͡ʑa̠ŋɡwa̠ id͡ʑa̠ŋ a̠dɯɭ kɯɾiɡo̞ t͡ɕʰimɛ̝ɡʌ̹ɭʎin no̞in tuɭ kimma̠ɭs͈ukɕ͈i t͡ɕʰo̞ŋ ta̠sʰʌ̹nmjʌ̹ŋ p͈uniʌ̹t̚t͈a̠ o̞nɯɾɯn kjʌ̹ŋno̞da̠ŋe̞sʰʌ̹ ta̠ɡa̠t͡ɕʰi t͡ɕʌ̹mɕʰim ɕʰiks͈a̠ɾɯɭ ha̠ɡiɾo̞ ha̠n na̠ɾijʌ̹t̚t͈a̠ iɾʌ̹n na̠ɾɯn ha̠ŋsʰa̠ŋ kimma̠ɭs͈ukɕ͈iɡa̠ pa̠bɯɭ ha̠jʌ̹t̚t͈a̠ o̞nɯɾɰi t͡ɕʌ̹mɕʰimɯn ka̠ŋdø̞nd͡ʑa̠ŋs͈a̠mba̠p̚ ma̠ɭs͈ukʰa̠ɭmɛ̝ɰi ma̠ɕʰi tɯɾʌ̹ɡa̠n iʌ̹t̚k͈o̞ kɯɲjʌ̹nɯn a̠t͡ɕʰimbutʰʌ̹ pund͡ʑuɦa̠ɡe̞ pa̠bɯɭ t͡ɕunbiɦa̠jʌ̹t̚t͈a̠ itʰɯɭ t͡ɕʌ̹n putʰʌ̹ mo̞a̠dun tɛ̝bjʌ̹nɯɭ ha̠ŋa̠ɾie̞sʰʌ̹ sʰɯɾɯɾɯk̚ kʌ̹nd͡ʑʌ̹nɛ̝ʌ̹t̚t͈a̠ na̠ɾi tʌ̹wʌ̹t̚t͈ʌ̹n tʰa̠ɕʰiɭk͈a̠ kɯɲjʌ̹ɰi pɛ̝sʰʌ̹ɭmuɭdɯɾɯn te̞wʌ̹d͡ʑin sʰa̠ŋtʰɛ̝ɾo̞ sʰʌ̹ɾo̞ ʌ̹ŋkçiɡo̞ sʰʌ̹ɭkçjʌ̹ t͡ɕuɾɯɾɯk̚ o̞ɭɭa̠wa̠t̚k͈o̞ t͡ɕuɡʌ̹ɡe̞sʰʌ̹ mik͈ɯɾʌ̹d͡ʑimjʌ̹ sʰa̠ba̠ŋɯɾo̞ t͈o̞ŋi tʰɥiʌ̹t̚t͈a̠",
     "tokens": [
       {
         "text": "가글을",
@@ -118586,7 +118586,7 @@
       {
         "text": "하였다.오늘의",
         "canonical": "하였다.오늘의",
-        "phoneme": "ha̠jʌ̹t̚t͈a̠ o̞nɯɾe̞",
+        "phoneme": "ha̠jʌ̹t̚t͈a̠ o̞nɯɾɰi",
         "is_nc": false,
         "nc_type": null
       },
@@ -118891,12 +118891,12 @@
     "split": "train",
     "text": "77ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ억 ㅋㅋ",
     "canonical": "77ㅓ억 크크",
-    "phonemes": "t͡ɕʰiɭɕʰip̚t͡ɕʰiɭʌ̹k̚ kxɯkxɯ",
+    "phonemes": "t͡ɕʰiɭɕʰip̚t͡ɕʰiɭ ʌ̹k̚ kxɯkxɯ",
     "tokens": [
       {
         "text": "77ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ억",
         "canonical": "77ㅓ억",
-        "phoneme": "t͡ɕʰiɭɕʰip̚t͡ɕʰiɭʌ̹k̚",
+        "phoneme": "t͡ɕʰiɭɕʰip̚t͡ɕʰiɭ ʌ̹k̚",
         "is_nc": true,
         "nc_type": "B1"
       },
@@ -119486,7 +119486,7 @@
     "split": "train",
     "text": "지들이 만든 페미영화 걸캅스에서도 남자가 집에서 전업하니까 \"이 머저리 등신새끼야아아아!!!\" 하면서 밥상머리 사자후 터뜨리던데한녀 퐁퐁이 새끼들이 언제부터 집안일의 가치를 쳐줬다고ㅋㅋㅋㅋㅋ지들도 아는 거지 전업주부의 노동가치 따윈 0이라고",
     "canonical": "지들이 만든 페미영화 걸캅스에서도 남자가 집에서 전업하니까 \"이 머저리 등신새끼야!!!\" 하면서 밥상머리 사자후 터뜨리던데한녀 퐁퐁이 새끼들이 언제부터 집안일의 가치를 쳐줬다고ㅋㅋㅋㅋㅋ지들도 아는 거지 전업주부의 노동가치 따윈 0이라고",
-    "phonemes": "t͡ɕidɯɾi ma̠ndɯn pʰe̞mijʌ̹ŋβwa̠ kʌ̹ɭkʰa̠ps͈ɯe̞sʰʌ̹do̞ na̠md͡ʑa̠ɡa̠ t͡ɕibe̞sʰʌ̹ t͡ɕʌ̹nʌ̹pʰa̠nik͈a̠ i mʌ̹d͡ʑʌ̹ɾi tɯŋɕʰinsʰɛ̝k͈ija̠ ha̠mjʌ̹nsʰʌ̹ pa̠ps͈a̠ŋmʌ̹ɾi sʰa̠d͡ʑa̠βu tʰʌ̹t͈ɯɾidʌ̹nde̞ɦa̠nɲjʌ̹ pʰo̞ŋpʰo̞ŋi sʰɛ̝k͈idɯɾi ʌ̹nd͡ʑe̞butʰʌ̹ t͡ɕiba̠nniɾi ka̠t͡ɕʰiɾɯɭ t͡ɕʰʌ̹t͡ɕwʌ̹t̚t͈a̠ɡo̞ t͡ɕidɯɭdo̞ a̠nɯn kʌ̹d͡ʑi t͡ɕʌ̹nʌ̹p̚t͡ɕ͈ubue̞ no̞do̞ŋɡa̠t͡ɕʰi t͈a̠ɥin jʌ̹ŋ iɾa̠ɡo̞",
+    "phonemes": "t͡ɕidɯɾi ma̠ndɯn pʰe̞mijʌ̹ŋβwa̠ kʌ̹ɭkʰa̠ps͈ɯe̞sʰʌ̹do̞ na̠md͡ʑa̠ɡa̠ t͡ɕibe̞sʰʌ̹ t͡ɕʌ̹nʌ̹pʰa̠nik͈a̠ i mʌ̹d͡ʑʌ̹ɾi tɯŋɕʰinsʰɛ̝k͈ija̠ ha̠mjʌ̹nsʰʌ̹ pa̠ps͈a̠ŋmʌ̹ɾi sʰa̠d͡ʑa̠βu tʰʌ̹t͈ɯɾidʌ̹nde̞ɦa̠nɲjʌ̹ pʰo̞ŋpʰo̞ŋi sʰɛ̝k͈idɯɾi ʌ̹nd͡ʑe̞butʰʌ̹ t͡ɕiba̠niɾɰi ka̠t͡ɕʰiɾɯɭ t͡ɕʰʌ̹d͡ʑwʌ̹t̚t͈a̠ɡo̞ t͡ɕidɯɭdo̞ a̠nɯn kʌ̹d͡ʑi t͡ɕʌ̹nʌ̹p̚t͡ɕ͈ubuɰi no̞do̞ŋɡa̠t͡ɕʰi t͈a̠ɥin jʌ̹ŋ iɾa̠ɡo̞",
     "tokens": [
       {
         "text": "지들이",
@@ -119610,7 +119610,7 @@
       {
         "text": "집안일의",
         "canonical": "집안일의",
-        "phoneme": "t͡ɕiba̠nniɾi",
+        "phoneme": "t͡ɕiba̠niɾɰi",
         "is_nc": false,
         "nc_type": null
       },
@@ -119624,7 +119624,7 @@
       {
         "text": "쳐줬다고ㅋㅋㅋㅋㅋ지들도",
         "canonical": "쳐줬다고ㅋㅋㅋㅋㅋ지들도",
-        "phoneme": "t͡ɕʰʌ̹t͡ɕwʌ̹t̚t͈a̠ɡo̞ t͡ɕidɯɭdo̞",
+        "phoneme": "t͡ɕʰʌ̹d͡ʑwʌ̹t̚t͈a̠ɡo̞ t͡ɕidɯɭdo̞",
         "is_nc": true,
         "nc_type": "C1"
       },
@@ -119645,7 +119645,7 @@
       {
         "text": "전업주부의",
         "canonical": "전업주부의",
-        "phoneme": "t͡ɕʌ̹nʌ̹p̚t͡ɕ͈ubue̞",
+        "phoneme": "t͡ɕʌ̹nʌ̹p̚t͡ɕ͈ubuɰi",
         "is_nc": false,
         "nc_type": null
       },
@@ -120187,7 +120187,7 @@
     "split": "train",
     "text": "좌빨 우씌우씌...씌익씌익 어쩌고저쩌꼬... 러시아가 어쩌고저쩌고....ㅠㅠ세계 최고 지존! 울트라 캡숑짱 국군 시가 행진이면 전세계가 다쫄아!!! 핵그따이게 뭐가 소용이야?! 나의 좌빨을 저주하는 주문한방이면 세계정복이야! 빼애애액~ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
     "canonical": "좌빨 우씌우씌...씌익씌익 어쩌고저쩌꼬... 러시아가 어쩌고저쩌고....ㅠㅠ세계 최고 지존! 울트라 캡숑짱 국군 시가 행진이면 전세계가 다쫄아!!! 핵그따이게 뭐가 소용이야?! 나의 좌빨을 저주하는 주문한방이면 세계정복이야! 빼액~크크크크크크크크크크",
-    "phonemes": "t͡ɕwa̠p͈a̠ɭ uɕ͈iuɕ͈i ɕ͈iikɕ͈iik̚ ʌ̹t͡ɕ͈ʌ̹ɡo̞d͡ʑʌ̹t͡ɕ͈ʌ̹k͈o̞ ɾʌ̹ɕʰia̠ɡa̠ ʌ̹t͡ɕ͈ʌ̹ɡo̞ʌ̹t͡ɕ͈ʌ̹ɡo̞ sʰe̞ɡje̞ t͡ɕʰø̞ɡo̞ t͡ɕid͡ʑo̞n uɭtʰɯɾa̠ kʰɛ̝pɕ͈joŋt͡ɕ͈a̠ŋ kuk̚k͈un ɕʰiɡa̠ hɛ̝ŋd͡ʑinimjʌ̹n t͡ɕʌ̹nsʰe̞ɡe̞ɡa̠ ta̠t͡ɕ͈o̞ɾa̠ hɛ̝k̚k͈ɯt͈a̠iɡe̞ mwʌ̹ɡa̠ sʰo̞joŋija̠ na̠ɰi t͡ɕwa̠p͈a̠ɾɯɭ t͡ɕʌ̹d͡ʑuɦa̠nɯn t͡ɕumunɦa̠nba̠ŋimjʌ̹n sʰe̞ɡje̞d͡ʑʌ̹ŋbo̞ɡija̠ p͈ɛ̝ɛ̝k̚ kxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯ",
+    "phonemes": "t͡ɕwa̠p͈a̠ɭ uɕ͈iuɕ͈i ɕ͈iikɕ͈iik̚ ʌ̹t͡ɕ͈ʌ̹ɡo̞d͡ʑʌ̹t͡ɕ͈ʌ̹k͈o̞ ɾʌ̹ɕʰia̠ɡa̠ ʌ̹t͡ɕ͈ʌ̹ɡo̞d͡ʑʌ̹t͡ɕ͈ʌ̹ɡo̞ sʰe̞ɡje̞ t͡ɕʰø̞ɡo̞ t͡ɕid͡ʑo̞n uɭtʰɯɾa̠ kʰɛ̝pɕ͈joŋt͡ɕ͈a̠ŋ kuk̚k͈un ɕʰiɡa̠ hɛ̝ŋd͡ʑinimjʌ̹n t͡ɕʌ̹nsʰe̞ɡje̞ɡa̠ ta̠t͡ɕ͈o̞ɾa̠ hɛ̝k̚k͈ɯt͈a̠iɡe̞ mwʌ̹ɡa̠ sʰo̞joŋija̠ na̠ɰi t͡ɕwa̠p͈a̠ɾɯɭ t͡ɕʌ̹d͡ʑuɦa̠nɯn t͡ɕumunɦa̠nba̠ŋimjʌ̹n sʰe̞ɡje̞d͡ʑʌ̹ŋbo̞ɡija̠ p͈ɛ̝ɛ̝k̚ kxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯ",
     "tokens": [
       {
         "text": "좌빨",
@@ -120220,7 +120220,7 @@
       {
         "text": "어쩌고저쩌고....ㅠㅠ세계",
         "canonical": "어쩌고저쩌고....ㅠㅠ세계",
-        "phoneme": "ʌ̹t͡ɕ͈ʌ̹ɡo̞ʌ̹t͡ɕ͈ʌ̹ɡo̞ sʰe̞ɡje̞",
+        "phoneme": "ʌ̹t͡ɕ͈ʌ̹ɡo̞d͡ʑʌ̹t͡ɕ͈ʌ̹ɡo̞ sʰe̞ɡje̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -120276,7 +120276,7 @@
       {
         "text": "전세계가",
         "canonical": "전세계가",
-        "phoneme": "t͡ɕʌ̹nsʰe̞ɡe̞ɡa̠",
+        "phoneme": "t͡ɕʌ̹nsʰe̞ɡje̞ɡa̠",
         "is_nc": false,
         "nc_type": null
       },
@@ -120796,7 +120796,7 @@
     "split": "train",
     "text": "한국도 1 2층 짜리 건물에 철근 콘크리트로 하는곳 별로 없다그거 돈 ㅈㄹ이거든 철근콘트리트 할거면 3층 건물이 평균이다시멘트 공장이 근처에있는 한국도 비싸가지고 1~2층 건물에 철근 콘크리트 안하는데미국에서 2층짜리 집에 철근 콘크리트 하겠냐? 비용이 ㅅㅂ",
     "canonical": "한국도 1 2층 짜리 건물에 철근 콘크리트로 하는곳 별로 없다그거 돈 지랄이거든 철근콘트리트 할거면 3층 건물이 평균이다시멘트 공장이 근처에있는 한국도 비싸가지고 1~2층 건물에 철근 콘크리트 안하는데미국에서 2층짜리 집에 철근 콘크리트 하겠냐? 비용이 시발",
-    "phonemes": "ha̠nɡuk̚t͈o̞ iɭ i t͡ɕʰɯŋ t͡ɕ͈a̠ɾi kʌ̹nmuɾe̞ t͡ɕʰʌ̹ɭɡɯn kʰo̞nkxɯɾitʰɯɾo̞ ha̠nɯnɡo̞t̚ pjʌ̹ɭɭo̞ ʌ̹p̚t͈a̠ɡɯɡʌ̹ to̞n t͡ɕiɾa̠ɾiɡʌ̹dɯn t͡ɕʰʌ̹ɭɡɯnkʰo̞ntʰɯɾitʰɯ ha̠ɭk͈ʌ̹mjʌ̹n sʰa̠m t͡ɕʰɯŋ kʌ̹nmuɾi pʰjʌ̹ŋɡjunida̠ɕʰime̞ntʰɯ ko̞ŋd͡ʑa̠ŋi kɯnt͡ɕʰʌ̹e̞innɯn ha̠nɡuk̚t͈o̞ pis͈a̠ɡa̠d͡ʑiɡo̞ iɾi t͡ɕʰɯŋ kʌ̹nmuɾe̞ t͡ɕʰʌ̹ɭɡɯn kʰo̞nkxɯɾitʰɯ a̠nɦa̠nɯnde̞miɡuɡe̞sʰʌ̹ i t͡ɕʰɯŋt͡ɕ͈a̠ɾi t͡ɕibe̞ t͡ɕʰʌ̹ɭɡɯn kʰo̞nkxɯɾitʰɯ ha̠ɡe̞nɲja̠ pijoŋi ɕʰiba̠ɭ",
+    "phonemes": "ha̠nɡuk̚t͈o̞ iɭ i t͡ɕʰɯŋ t͡ɕ͈a̠ɾi kʌ̹nmuɾe̞ t͡ɕʰʌ̹ɭɡɯn kʰo̞nkxɯɾitʰɯɾo̞ ha̠nɯnɡo̞t̚ pjʌ̹ɭɭo̞ ʌ̹p̚t͈a̠ɡɯɡʌ̹ to̞n t͡ɕiɾa̠ɾiɡʌ̹dɯn t͡ɕʰʌ̹ɭɡɯnkʰo̞ntʰɯɾitʰɯ ha̠ɭk͈ʌ̹mjʌ̹n sʰa̠m t͡ɕʰɯŋ kʌ̹nmuɾi pʰjʌ̹ŋɡjunida̠ɕʰime̞ntʰɯ ko̞ŋd͡ʑa̠ŋi kɯnt͡ɕʰʌ̹e̞innɯn ha̠nɡuk̚t͈o̞ pis͈a̠ɡa̠d͡ʑiɡo̞ i ɾi t͡ɕʰɯŋ kʌ̹nmuɾe̞ t͡ɕʰʌ̹ɭɡɯn kʰo̞nkxɯɾitʰɯ a̠nɦa̠nɯnde̞miɡuɡe̞sʰʌ̹ i t͡ɕʰɯŋt͡ɕ͈a̠ɾi t͡ɕibe̞ t͡ɕʰʌ̹ɭɡɯn kʰo̞nkxɯɾitʰɯ ha̠ɡe̞nɲja̠ pijoŋi ɕʰiba̠ɭ",
     "tokens": [
       {
         "text": "한국도",
@@ -120948,7 +120948,7 @@
       {
         "text": "1~2층",
         "canonical": "1~2층",
-        "phoneme": "iɾi t͡ɕʰɯŋ",
+        "phoneme": "i ɾi t͡ɕʰɯŋ",
         "is_nc": false,
         "nc_type": null
       },
@@ -121207,7 +121207,7 @@
     "split": "train",
     "text": "중세시대때 고양이 키우던 여자 마녀로 몰아 불태워죽인게 ㄹㅇ 미개 중세랜드가 아니라 옛 성현의 지혜임 ㅋㅋ",
     "canonical": "중세시대때 고양이 키우던 여자 마녀로 몰아 불태워죽인게 리얼 미개 중세랜드가 아니라 옛 성현의 지혜임 크크",
-    "phonemes": "t͡ɕuŋsʰe̞ɕʰidɛ̝t͈ɛ̝ ko̞ja̠ŋi kçiudʌ̹n jʌ̹d͡ʑa̠ ma̠ɲjʌ̹ɾo̞ mo̞ɾa̠ puɭtʰɛ̝wʌ̹d͡ʑuɡinɡe̞ ɾiʌ̹ɭ miɡɛ̝ t͡ɕuŋsʰe̞ɾɛ̝ndɯɡa̠ a̠niɾa̠ je̞t̚ sʰʌ̹ŋʝjʌ̹ni t͡ɕiʝje̞im kxɯkxɯ",
+    "phonemes": "t͡ɕuŋsʰe̞ɕʰidɛ̝t͈ɛ̝ ko̞ja̠ŋi kçiudʌ̹n jʌ̹d͡ʑa̠ ma̠ɲjʌ̹ɾo̞ mo̞ɾa̠ puɭtʰɛ̝wʌ̹d͡ʑuɡinɡe̞ ɾiʌ̹ɭ miɡɛ̝ t͡ɕuŋsʰe̞ɾɛ̝ndɯɡa̠ a̠niɾa̠ je̞t̚ sʰʌ̹ŋʝjʌ̹nɰi t͡ɕiʝje̞im kxɯkxɯ",
     "tokens": [
       {
         "text": "중세시대때",
@@ -121296,7 +121296,7 @@
       {
         "text": "성현의",
         "canonical": "성현의",
-        "phoneme": "sʰʌ̹ŋʝjʌ̹ni",
+        "phoneme": "sʰʌ̹ŋʝjʌ̹nɰi",
         "is_nc": false,
         "nc_type": null
       },
@@ -122062,7 +122062,7 @@
     "split": "train",
     "text": "ㅂㅅ 미국은 더 심하다 일 뽑을때 학력 ㅈㄴ 보고 동기 ㅈㄴ 끌어주고 오하려 한국보다 더 심함 한국은 그래도 뽑을때 학력 블라인드라도 하지 미국은 추천제도가 있어서 꼽아주면 ㅈㄴ 좋은 일자리도 훨씬 쉽게 들어갈 서 있다",
     "canonical": "병신 미국은 더 심하다 일 뽑을때 학력 존나 보고 동기 존나 끌어주고 오하려 한국보다 더 심함 한국은 그래도 뽑을때 학력 블라인드라도 하지 미국은 추천제도가 있어서 꼽아주면 존나 좋은 일자리도 훨씬 쉽게 들어갈 서 있다",
-    "phonemes": "pjʌ̹ŋɕʰin miɡuɡɯn tʌ̹ ɕʰimɦa̠da̠ iɭ p͈o̞bɯɭt͈ɛ̝ ha̠ŋɲjʌ̹k̚ t͡ɕo̞nna̠ po̞ɡo̞ to̞ŋɡi t͡ɕo̞nna̠ k͈ɯɾʌ̹d͡ʑuɡo̞ o̞ɦa̠ɾjʌ̹ ha̠nɡuk̚p͈o̞da̠ tʌ̹ ɕʰimɦa̠m ha̠nɡuɡɯn kɯɾɛ̝do̞ p͈o̞bɯɭt͈ɛ̝ ha̠ŋɲjʌ̹k̚ pɯɭɭa̠indɯɾa̠do̞ ha̠d͡ʑi miɡuɡɯn t͡ɕʰut͡ɕʰʌ̹nd͡ʑe̞do̞ɡa̠ is͈ʌ̹sʰʌ̹ k͈o̞ba̠d͡ʑumjʌ̹n t͡ɕo̞nna̠ t͡ɕo̞ɯn iɭd͡ʑa̠ɾdo̞ ɸwʌ̹ɭɕ͈in ɕʰɥip̚k͈e̞ tɯɾʌ̹ɡa̠ɭ sʰʌ̹ it̚t͈a̠",
+    "phonemes": "pjʌ̹ŋɕʰin miɡuɡɯn tʌ̹ ɕʰimɦa̠da̠ iɭ p͈o̞bɯɭt͈ɛ̝ ha̠ŋɲjʌ̹k̚ t͡ɕo̞nna̠ po̞ɡo̞ to̞ŋɡi t͡ɕo̞nna̠ k͈ɯɾʌ̹d͡ʑuɡo̞ o̞ɦa̠ɾjʌ̹ ha̠nɡuk̚p͈o̞da̠ tʌ̹ ɕʰimɦa̠m ha̠nɡuɡɯn kɯɾɛ̝do̞ p͈o̞bɯɭt͈ɛ̝ ha̠ŋɲjʌ̹k̚ pɯɭɭa̠indɯɾa̠do̞ ha̠d͡ʑi miɡuɡɯn t͡ɕʰut͡ɕʰʌ̹nd͡ʑe̞do̞ɡa̠ is͈ʌ̹sʰʌ̹ k͈o̞ba̠d͡ʑumjʌ̹n t͡ɕo̞nna̠ t͡ɕo̞ɯn iɭd͡ʑa̠ɾdo̞ ɸwʌ̹ɭɕ͈in ʃʰɥip̚k͈e̞ tɯɾʌ̹ɡa̠ɭ sʰʌ̹ it̚t͈a̠",
     "tokens": [
       {
         "text": "ㅂㅅ",
@@ -122277,7 +122277,7 @@
       {
         "text": "쉽게",
         "canonical": "쉽게",
-        "phoneme": "ɕʰɥip̚k͈e̞",
+        "phoneme": "ʃʰɥip̚k͈e̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -122656,7 +122656,7 @@
     "split": "train",
     "text": "ㅅㅂ 재료값도 안나오것다 ㅋㅋㅋㅋㅋㅋㅋㅋ 작가 색기는 저걸 믿으라고 시나리오썻나",
     "canonical": "시발 재료값도 안나오것다 크크크크크크크크 작가 색기는 저걸 믿으라고 시나리오썻나",
-    "phonemes": "ɕʰiba̠ɭ t͡ɕɛ̝ɾjok͈a̠p̚t͈o̞ a̠nna̠o̞ɡʌ̹t̚t͈a̠ kxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯ t͡ɕa̠k̚k͈a̠ sʰɛ̝k̚k͈inɯn t͡ɕʌ̹ɡʌ̹ɭ midɯɾa̠ɡo̞ ɕʰina̠ɾio̞s͈ʌ̹nna̠",
+    "phonemes": "ɕʰiba̠ɭ t͡ɕɛ̝ɾjoɡa̠p̚t͈o̞ a̠nna̠o̞ɡʌ̹t̚t͈a̠ kxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯ t͡ɕa̠k̚k͈a̠ sʰɛ̝k̚k͈inɯn t͡ɕʌ̹ɡʌ̹ɭ midɯɾa̠ɡo̞ ɕʰina̠ɾio̞s͈ʌ̹nna̠",
     "tokens": [
       {
         "text": "ㅅㅂ",
@@ -122668,7 +122668,7 @@
       {
         "text": "재료값도",
         "canonical": "재료값도",
-        "phoneme": "t͡ɕɛ̝ɾjok͈a̠p̚t͈o̞",
+        "phoneme": "t͡ɕɛ̝ɾjoɡa̠p̚t͈o̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -124612,7 +124612,7 @@
     "split": "train",
     "text": "ㄹㅇ 신승1부는 뽕 오지게차는데",
     "canonical": "레알 신승1부는 뽕 오지게차는데",
-    "phonemes": "ɾe̞a̠ɭ ɕʰinsʰɯŋ iɭ punɯn p͈o̞ŋ o̞d͡ʑiɡe̞t͡ɕʰa̠nɯnde̞",
+    "phonemes": "ɾe̞a̠ɭ ɕʰinsʰɯŋ iɭ bunɯn p͈o̞ŋ o̞d͡ʑiɡe̞t͡ɕʰa̠nɯnde̞",
     "tokens": [
       {
         "text": "ㄹㅇ",
@@ -124624,7 +124624,7 @@
       {
         "text": "신승1부는",
         "canonical": "신승1부는",
-        "phoneme": "ɕʰinsʰɯŋ iɭ punɯn",
+        "phoneme": "ɕʰinsʰɯŋ iɭ bunɯn",
         "is_nc": false,
         "nc_type": null
       },
@@ -124795,7 +124795,7 @@
     "split": "train",
     "text": "와 저새낀 1시간반 동안 여기서 열등감 ㅇㅈㄹ 하고있는거 개씹소름이네 ㅋㅋㅋㅋㅋㅋ",
     "canonical": "와 저새낀 1시간반 동안 여기서 열등감 이지랄 하고있는거 개씹소름이네 크크크크크크",
-    "phonemes": "wa̠ t͡ɕʌ̹sʰɛ̝k͈in iɭ ɕ͈iɡa̠nba̠n to̞ŋa̠n jʌ̹ɡisʰʌ̹ jʌ̹ɭdɯŋɡa̠m id͡ʑiɾa̠ɭ ha̠ɡo̞innɯnɡʌ̹ kɛ̝ɕ͈ips͈o̞ɾɯmine̞ kxɯkxɯkxɯkxɯkxɯkxɯ",
+    "phonemes": "wa̠ t͡ɕʌ̹sʰɛ̝k͈in iɭ ɕʰiɡa̠nba̠n to̞ŋa̠n jʌ̹ɡisʰʌ̹ jʌ̹ɭdɯŋɡa̠m id͡ʑiɾa̠ɭ ha̠ɡo̞innɯnɡʌ̹ kɛ̝ɕ͈ips͈o̞ɾɯmine̞ kxɯkxɯkxɯkxɯkxɯkxɯ",
     "tokens": [
       {
         "text": "와",
@@ -124814,7 +124814,7 @@
       {
         "text": "1시간반",
         "canonical": "1시간반",
-        "phoneme": "iɭ ɕ͈iɡa̠nba̠n",
+        "phoneme": "iɭ ɕʰiɡa̠nba̠n",
         "is_nc": false,
         "nc_type": null
       },
@@ -125274,7 +125274,7 @@
     "split": "train",
     "text": "ㄴ 그 '쳐먹는다'가 유지되거나 쪄도 일상생활 중에 빠지는 수준인 사람이 있고 살로 빠르게 바뀌는 사람이 있음같은 생활습관을 가져도 누구는 살이 찌고 누구는 살이 안찌거나 빠짐그러니까 똑같은 일상을 가져도 누구는 점점 살이 찌는거고 누구는 유지가 되는거지 선천적인 영향에 의해서물론 둘 다 다이어트 하면 똑같이 빠지는데, 그러면 선천적으로 살찌기 쉬운 사람은 더 노력을 해야한다는 결론임절대 사람은 내분비계가 동일하지 않음",
     "canonical": "그 '쳐먹는다'가 유지되거나 쪄도 일상생활 중에 빠지는 수준인 사람이 있고 살로 빠르게 바뀌는 사람이 있음같은 생활습관을 가져도 누구는 살이 찌고 누구는 살이 안찌거나 빠짐그러니까 똑같은 일상을 가져도 누구는 점점 살이 찌는거고 누구는 유지가 되는거지 선천적인 영향에 의해서물론 둘 다 다이어트 하면 똑같이 빠지는데, 그러면 선천적으로 살찌기 쉬운 사람은 더 노력을 해야한다는 결론임절대 사람은 내분비계가 동일하지 않음",
-    "phonemes": "kɯ t͡ɕʰʌ̹mʌ̹ŋnɯnda̠ ɡa̠ jud͡ʑidø̞ɡʌ̹na̠ t͡ɕ͈ʌ̹do̞ iɭsʰa̠ŋsʰɛ̝ŋβwa̠ɭ t͡ɕuŋe̞ p͈a̠d͡ʑinɯn sʰud͡ʑunin sʰa̠ɾa̠mi it̚k͈o̞ sʰa̠ɭɭo̞ p͈a̠ɾɯɡe̞ pa̠k͈ɥinɯn sʰa̠ɾa̠mi is͈ɯmɡa̠tʰɯn sʰɛ̝ŋβwa̠ɭs͈ɯp̚k͈wa̠nɯɭ ka̠d͡ʑʌ̹do̞ nuɡunɯn sʰa̠ɾi t͡ɕ͈iɡo̞ nuɡunɯn sʰa̠ɾi a̠nt͡ɕ͈iɡʌ̹na̠ p͈a̠d͡ʑimɡɯɾʌ̹nik͈a̠ t͈o̞k̚k͈a̠tʰɯn iɭsʰa̠ŋɯɭ ka̠d͡ʑʌ̹do̞ nuɡunɯn t͡ɕʌ̹md͡ʑʌ̹m sʰa̠ɾi t͡ɕ͈inɯnɡʌ̹ɡo̞ nuɡunɯn jud͡ʑiɡa̠ tø̞nɯnɡʌ̹d͡ʑi sʰʌ̹nt͡ɕʰʌ̹nd͡ʑʌ̹ɡin jʌ̹ŋʝja̠ŋe̞ ɰiɦɛ̝sʰʌ̹muɭɭo̞n tuɭ ta̠ ta̠iʌ̹tʰɯ ha̠mjʌ̹n t͈o̞k̚k͈a̠t͡ɕʰi p͈a̠d͡ʑinɯnde̞ kɯɾʌ̹mjʌ̹n sʰʌ̹nt͡ɕʰʌ̹nd͡ʑʌ̹ɡɯɾo̞ sʰa̠ɭt͡ɕ͈iɡi ʃʰɥiun sʰa̠ɾa̠mɯn tʌ̹ no̞ɾjʌ̹ɡɯɭ hɛ̝ja̠ɦa̠nda̠nɯn kjʌ̹ɭɭo̞nimd͡ʑʌ̹ɭt͈ɛ̝ sʰa̠ɾa̠mɯn nɛ̝bunbiɡje̞ɡa̠ to̞ŋiɾɦa̠d͡ʑi a̠nɯm",
+    "phonemes": "kɯ t͡ɕʰʌ̹mʌ̹ŋnɯnda̠ ɡa̠ jud͡ʑidø̞ɡʌ̹na̠ t͡ɕ͈ʌ̹do̞ iɭsʰa̠ŋsʰɛ̝ŋβwa̠ɭ t͡ɕuŋe̞ p͈a̠d͡ʑinɯn sʰud͡ʑunin sʰa̠ɾa̠mi it̚k͈o̞ sʰa̠ɭɭo̞ p͈a̠ɾɯɡe̞ pa̠k͈ɥinɯn sʰa̠ɾa̠mi is͈ɯmɡa̠tʰɯn sʰɛ̝ŋβwa̠ɭsʰɯp̚k͈wa̠nɯɭ ka̠d͡ʑʌ̹do̞ nuɡunɯn sʰa̠ɾi t͡ɕ͈iɡo̞ nuɡunɯn sʰa̠ɾi a̠nt͡ɕ͈iɡʌ̹na̠ p͈a̠d͡ʑimɡɯɾʌ̹nik͈a̠ t͈o̞k̚k͈a̠tʰɯn iɭsʰa̠ŋɯɭ ka̠d͡ʑʌ̹do̞ nuɡunɯn t͡ɕʌ̹md͡ʑʌ̹m sʰa̠ɾi t͡ɕ͈inɯnɡʌ̹ɡo̞ nuɡunɯn jud͡ʑiɡa̠ tø̞nɯnɡʌ̹d͡ʑi sʰʌ̹nt͡ɕʰʌ̹nd͡ʑʌ̹ɡin jʌ̹ŋʝja̠ŋe̞ ɰiɦɛ̝sʰʌ̹muɭɭo̞n tuɭ ta̠ ta̠iʌ̹tʰɯ ha̠mjʌ̹n t͈o̞k̚k͈a̠t͡ɕʰi p͈a̠d͡ʑinɯnde̞ kɯɾʌ̹mjʌ̹n sʰʌ̹nt͡ɕʰʌ̹nd͡ʑʌ̹ɡɯɾo̞ sʰa̠ɭt͡ɕ͈iɡi ʃʰɥiun sʰa̠ɾa̠mɯn tʌ̹ no̞ɾjʌ̹ɡɯɭ hɛ̝ja̠ɦa̠nda̠nɯn kjʌ̹ɭɭo̞nimd͡ʑʌ̹ɭt͈ɛ̝ sʰa̠ɾa̠mɯn nɛ̝bunbiɡje̞ɡa̠ to̞ŋiɾɦa̠d͡ʑi a̠nɯm",
     "tokens": [
       {
         "text": "ㄴ",
@@ -125391,7 +125391,7 @@
       {
         "text": "생활습관을",
         "canonical": "생활습관을",
-        "phoneme": "sʰɛ̝ŋβwa̠ɭs͈ɯp̚k͈wa̠nɯɭ",
+        "phoneme": "sʰɛ̝ŋβwa̠ɭsʰɯp̚k͈wa̠nɯɭ",
         "is_nc": false,
         "nc_type": null
       },
@@ -125684,7 +125684,7 @@
     "split": "train",
     "text": "저런 부자들은 걍 자고 일어나기만 해도 이자 16억 불어남 ㅋㅋㅋ",
     "canonical": "저런 부자들은 걍 자고 일어나기만 해도 이자 16억 불어남 크크크",
-    "phonemes": "t͡ɕʌ̹ɾʌ̹n pud͡ʑa̠dɯɾɯn kja̠ŋ t͡ɕa̠ɡo̞ iɾʌ̹na̠ɡima̠n hɛ̝do̞ id͡ʑa̠ ɕʰimɲjuɡʌ̹k̚ puɾʌ̹na̠m kxɯkxɯkxɯ",
+    "phonemes": "t͡ɕʌ̹ɾʌ̹n pud͡ʑa̠dɯɾɯn kja̠ŋ t͡ɕa̠ɡo̞ iɾʌ̹na̠ɡima̠n hɛ̝do̞ id͡ʑa̠ ɕʰimɲju ɡʌ̹k̚ puɾʌ̹na̠m kxɯkxɯkxɯ",
     "tokens": [
       {
         "text": "저런",
@@ -125738,7 +125738,7 @@
       {
         "text": "16억",
         "canonical": "16억",
-        "phoneme": "ɕʰimɲjuɡʌ̹k̚",
+        "phoneme": "ɕʰimɲju ɡʌ̹k̚",
         "is_nc": false,
         "nc_type": null
       },
@@ -127062,7 +127062,7 @@
     "split": "train",
     "text": "애미뒤진 홍어새끼들만 불호지 정상적인 80억 인구수들은 전부 극호다 ㅇㅇ",
     "canonical": "애미뒤진 홍어새끼들만 불호지 정상적인 80억 인구수들은 전부 극호다 응응",
-    "phonemes": "ɛ̝midɥid͡ʑin ɸʷo̞ŋʌ̹sʰɛ̝k͈idɯɭma̠n puɭβo̞d͡ʑi t͡ɕʌ̹ŋsʰa̠ŋd͡ʑʌ̹ɡin pʰa̠ɭɕ͈i bʌ̹k̚ inɡusʰudɯɾɯn t͡ɕʌ̹nbu kɯkʰo̞da̠ ɯŋɯŋ",
+    "phonemes": "ɛ̝midɥid͡ʑin ɸʷo̞ŋʌ̹sʰɛ̝k͈idɯɭma̠n puɾβo̞d͡ʑi t͡ɕʌ̹ŋsʰa̠ŋd͡ʑʌ̹ɡin pʰa̠ɭɕʰi bʌ̹k̚ inɡusʰudɯɾɯn t͡ɕʌ̹nbu kɯkʰo̞da̠ ɯŋɯŋ",
     "tokens": [
       {
         "text": "애미뒤진",
@@ -127081,7 +127081,7 @@
       {
         "text": "불호지",
         "canonical": "불호지",
-        "phoneme": "puɭβo̞d͡ʑi",
+        "phoneme": "puɾβo̞d͡ʑi",
         "is_nc": false,
         "nc_type": null
       },
@@ -127095,7 +127095,7 @@
       {
         "text": "80억",
         "canonical": "80억",
-        "phoneme": "pʰa̠ɭɕ͈i bʌ̹k̚",
+        "phoneme": "pʰa̠ɭɕʰi bʌ̹k̚",
         "is_nc": false,
         "nc_type": null
       },
@@ -127333,7 +127333,7 @@
     "split": "train",
     "text": "c타입만으로 15가 기존 아이폰들 압살한다 c타입이 ㄹㅇ 갓임",
     "canonical": "c타입만으로 15가 기존 아이폰들 압살한다 c타입이 리얼 갓임",
-    "phonemes": "ɕ͈itʰa̠imma̠nɯɾo̞ ɕʰibo̞ɡa̠ kid͡ʑo̞n a̠ipʰo̞ndɯɭ a̠ps͈a̠ɭɦa̠nda̠ ɕ͈itʰa̠ibi ɾiʌ̹ɭ ka̠ɕʰim",
+    "phonemes": "ɕ͈itʰa̠imma̠nɯɾo̞ ɕʰibo̞ ɡa̠ kid͡ʑo̞n a̠ipʰo̞ndɯɭ a̠ps͈a̠ɾɦa̠nda̠ ɕ͈itʰa̠ibi ɾiʌ̹ɭ ka̠ɕʰim",
     "tokens": [
       {
         "text": "c타입만으로",
@@ -127345,7 +127345,7 @@
       {
         "text": "15가",
         "canonical": "15가",
-        "phoneme": "ɕʰibo̞ɡa̠",
+        "phoneme": "ɕʰibo̞ ɡa̠",
         "is_nc": false,
         "nc_type": null
       },
@@ -127366,7 +127366,7 @@
       {
         "text": "압살한다",
         "canonical": "압살한다",
-        "phoneme": "a̠ps͈a̠ɭɦa̠nda̠",
+        "phoneme": "a̠ps͈a̠ɾɦa̠nda̠",
         "is_nc": false,
         "nc_type": null
       },
@@ -128144,7 +128144,7 @@
     "split": "train",
     "text": "전세계 자살률 1위 국가 ㅇㄷ?",
     "canonical": "전세계 자살률 1위 국가 어디?",
-    "phonemes": "t͡ɕʌ̹nsʰe̞ɡje̞ t͡ɕa̠sʰa̠ɭʎjuɭ iɾɥi kuk̚k͈a̠ ʌ̹di",
+    "phonemes": "t͡ɕʌ̹nsʰe̞ɡje̞ t͡ɕa̠sʰa̠ɭʎjuɭ iɾ ɥi kuk̚k͈a̠ ʌ̹di",
     "tokens": [
       {
         "text": "전세계",
@@ -128163,7 +128163,7 @@
       {
         "text": "1위",
         "canonical": "1위",
-        "phoneme": "iɾɥi",
+        "phoneme": "iɾ ɥi",
         "is_nc": false,
         "nc_type": null
       },
@@ -128402,7 +128402,7 @@
     "split": "train",
     "text": "저 핏물이라는것도 이미 고기에 시즈닝을 소금이 들어간상태로 자연스럽게 핏물에도 녹아들었을테니 문제는 없어보이기도 하군요 ㅇㅇ",
     "canonical": "저 핏물이라는것도 이미 고기에 시즈닝을 소금이 들어간상태로 자연스럽게 핏물에도 녹아들었을테니 문제는 없어보이기도 하군요 응응",
-    "phonemes": "t͡ɕʌ̹ pʰinmuɾiɾa̠nɯnɡʌ̹t̚t͈o̞ imi ko̞ɡie̞ ɕʰid͡ʑɯniŋɯɭ sʰo̞ɡɯmi tɯɾʌ̹ɡa̠nsʰa̠ŋtʰɛ̝ɾo̞ t͡ɕa̠jʌ̹nsʰɯɾʌ̹p̚k͈e̞ pʰinmuɾe̞do̞ no̞ɡa̠dɯɾʌ̹s͈ɯɭtʰe̞ni mund͡ʑe̞nɯn ʌ̹ps͈ʌ̹bo̞iɡido̞ ha̠ɡuɲjo ɯŋɯŋ",
+    "phonemes": "t͡ɕʌ̹ pʰinmuɾiɾa̠nɯnɡʌ̹t̚t͈o̞ imi ko̞ɡie̞ ɕʰid͡ʑɯniŋɯɭ sʰo̞ɡɯmi tɯɾʌ̹ɡa̠nsʰa̠ŋtʰɛ̝ɾo̞ t͡ɕa̠jʌ̹nsʰɯɾʌ̹p̚k͈e̞ pʰinmuɾe̞do̞ no̞ɡa̠dɯɾʌ̹s͈ɯɭtʰe̞ni mund͡ʑe̞nɯn ʌ̹ps͈ʌ̹bo̞iɡido̞ ha̠ɡunɲjo ɯŋɯŋ",
     "tokens": [
       {
         "text": "저",
@@ -128491,7 +128491,7 @@
       {
         "text": "하군요",
         "canonical": "하군요",
-        "phoneme": "ha̠ɡuɲjo",
+        "phoneme": "ha̠ɡunɲjo",
         "is_nc": false,
         "nc_type": null
       },
@@ -128511,7 +128511,7 @@
     "split": "train",
     "text": "이재명 제삿상 ㅇㄷ?",
     "canonical": "이재명 제삿상 어디",
-    "phonemes": "id͡ʑɛ̝mjʌ̹ŋ t͡ɕe̞sʰa̠s͈a̠ŋ ʌ̹di",
+    "phonemes": "id͡ʑɛ̝mjʌ̹ŋ t͡ɕe̞sʰa̠t̚s͈a̠ŋ ʌ̹di",
     "tokens": [
       {
         "text": "이재명",
@@ -128523,7 +128523,7 @@
       {
         "text": "제삿상",
         "canonical": "제삿상",
-        "phoneme": "t͡ɕe̞sʰa̠s͈a̠ŋ",
+        "phoneme": "t͡ɕe̞sʰa̠t̚s͈a̠ŋ",
         "is_nc": false,
         "nc_type": null
       },
@@ -128543,7 +128543,7 @@
     "split": "train",
     "text": "ㄹㅇ 문재앙의 유일한 업적은 사람들의 빌어먹을 현실을 다 개박살내버렸다는거",
     "canonical": "리얼 문재앙의 유일한 업적은 사람들의 빌어먹을 현실을 다 개박살내버렸다는거",
-    "phonemes": "ɾiʌ̹ɭ mund͡ʑɛ̝a̠ŋɰi juiɭɦa̠n ʌ̹p̚t͡ɕ͈ʌ̹ɡɯn sʰa̠ɾa̠mdɯɾe̞ piɾʌ̹mʌ̹ɡɯɭ çjʌ̹nɕʰiɾɯɭ ta̠ kɛ̝ba̠ks͈a̠ɭɭɛ̝bʌ̹ɾjʌ̹t̚t͈a̠nɯnɡʌ̹",
+    "phonemes": "ɾiʌ̹ɭ mund͡ʑɛ̝a̠ŋɰi juiɾɦa̠n ʌ̹p̚t͡ɕ͈ʌ̹ɡɯn sʰa̠ɾa̠mdɯɾɰi piɾʌ̹mʌ̹ɡɯɭ çjʌ̹nɕʰiɾɯɭ ta̠ kɛ̝ba̠ks͈a̠ɭɭɛ̝bʌ̹ɾjʌ̹t̚t͈a̠nɯnɡʌ̹",
     "tokens": [
       {
         "text": "ㄹㅇ",
@@ -128562,7 +128562,7 @@
       {
         "text": "유일한",
         "canonical": "유일한",
-        "phoneme": "juiɭɦa̠n",
+        "phoneme": "juiɾɦa̠n",
         "is_nc": false,
         "nc_type": null
       },
@@ -128576,7 +128576,7 @@
       {
         "text": "사람들의",
         "canonical": "사람들의",
-        "phoneme": "sʰa̠ɾa̠mdɯɾe̞",
+        "phoneme": "sʰa̠ɾa̠mdɯɾɰi",
         "is_nc": false,
         "nc_type": null
       },
@@ -128656,12 +128656,12 @@
     "split": "train",
     "text": "현역입영율 98%인 요즘 공익가는건 ㄹㅇ 알짜배기들이겠노",
     "canonical": "현역입영율 98%인 요즘 공익가는건 리얼 알짜배기들이겠노",
-    "phonemes": "çjʌ̹nɲjʌ̹ɡibjʌ̹ŋɲjuɭ kuɕʰip̚pʰa̠ɭ pʰʌ̹sʰe̞ntʰɯin jod͡ʑɯm ko̞ŋik̚k͈a̠nɯnɡʌ̹n ɾiʌ̹ɭ a̠ɭt͡ɕ͈a̠bɛ̝ɡidɯɾiɡe̞nno̞",
+    "phonemes": "çjʌ̹ɲjʌ̹ɡibjʌ̹ŋɲjuɭ kuɕʰip̚pʰa̠ɭ pʰʌ̹sʰe̞ntʰɯin jod͡ʑɯm ko̞ŋik̚k͈a̠nɯnɡʌ̹n ɾiʌ̹ɭ a̠ɭt͡ɕ͈a̠bɛ̝ɡidɯɾiɡe̞nno̞",
     "tokens": [
       {
         "text": "현역입영율",
         "canonical": "현역입영율",
-        "phoneme": "çjʌ̹nɲjʌ̹ɡibjʌ̹ŋɲjuɭ",
+        "phoneme": "çjʌ̹ɲjʌ̹ɡibjʌ̹ŋɲjuɭ",
         "is_nc": false,
         "nc_type": null
       },
@@ -128988,7 +128988,7 @@
     "split": "train",
     "text": "할카스들이 왕후를 고르는 조선 왕실문화가 나라를 망친 듯. 태종이 계모랑 세종 처가 다 쳐죽인 걸 보고도 내내 계집들한테 휘둘렸으니 ㅉㅉ",
     "canonical": "할카스들이 왕후를 고르는 조선 왕실문화가 나라를 망친 듯. 태종이 계모랑 세종 처가 다 쳐죽인 걸 보고도 내내 계집들한테 휘둘렸으니 쯧쯧",
-    "phonemes": "ha̠ɭkʰa̠sʰɯdɯɾi wa̠ŋβuɾɯɭ ko̞ɾɯnɯn t͡ɕo̞sʰʌ̹n wa̠ŋɕʰiɭmunβwa̠ɡa̠ na̠ɾa̠ɾɯɭ ma̠ŋt͡ɕʰin tɯt̚ tʰɛ̝d͡ʑo̞ŋi kje̞mo̞ɾa̠ŋ sʰe̞d͡ʑo̞ŋ t͡ɕʰʌ̹ɡa̠ ta̠ t͡ɕʰʌ̹d͡ʑuɡin kʌ̹ɭ po̞ɡo̞do̞ nɛ̝nɛ̝ kje̞d͡ʑip̚t͈ɯɾɦa̠ntʰe̞ çɥiduɭʎjʌ̹s͈ɯni t͡ɕ͈ɯt̚t͡ɕ͈ɯt̚",
+    "phonemes": "ha̠ɭkʰa̠sʰɯdɯɾi wa̠ŋβuɾɯɭ ko̞ɾɯnɯn t͡ɕo̞sʰʌ̹n wa̠ŋɕʰiɭmunβwa̠ɡa̠ na̠ɾa̠ɾɯɭ ma̠ŋt͡ɕʰin tɯt̚ tʰɛ̝d͡ʑo̞ŋi kje̞mo̞ɾa̠ŋ sʰe̞d͡ʑo̞ŋ t͡ɕʰʌ̹ɡa̠ ta̠ t͡ɕʰʌ̹d͡ʑuɡin kʌ̹ɭ po̞ɡo̞do̞ nɛ̝nɛ̝ kje̞d͡ʑip̚t͈ɯɾɦa̠ntʰe̞ hɥiduɭʎjʌ̹s͈ɯni t͡ɕ͈ɯt̚t͡ɕ͈ɯt̚",
     "tokens": [
       {
         "text": "할카스들이",
@@ -129119,7 +129119,7 @@
       {
         "text": "휘둘렸으니",
         "canonical": "휘둘렸으니",
-        "phoneme": "çɥiduɭʎjʌ̹s͈ɯni",
+        "phoneme": "hɥiduɭʎjʌ̹s͈ɯni",
         "is_nc": false,
         "nc_type": null
       },
@@ -129178,7 +129178,7 @@
     "split": "train",
     "text": "ㄹㅇㅋㅋ 주차장에서 일한다는거도 딱봐도 연막용임",
     "canonical": "리얼크크 주차장에서 일한다는거도 딱봐도 연막용임",
-    "phonemes": "ɾiʌ̹ɭkxɯkxɯ t͡ɕut͡ɕʰa̠d͡ʑa̠ŋe̞sʰʌ̹ iɭɦa̠nda̠nɯnɡʌ̹do̞ t͈a̠k̚p͈wa̠do̞ jʌ̹nma̠ɡjoŋim",
+    "phonemes": "ɾiʌ̹ɭkxɯkxɯ t͡ɕut͡ɕʰa̠d͡ʑa̠ŋe̞sʰʌ̹ iɾɦa̠nda̠nɯnɡʌ̹do̞ t͈a̠k̚p͈wa̠do̞ jʌ̹nma̠ɡjoŋim",
     "tokens": [
       {
         "text": "ㄹㅇㅋㅋ",
@@ -129197,7 +129197,7 @@
       {
         "text": "일한다는거도",
         "canonical": "일한다는거도",
-        "phoneme": "iɭɦa̠nda̠nɯnɡʌ̹do̞",
+        "phoneme": "iɾɦa̠nda̠nɯnɡʌ̹do̞",
         "is_nc": true,
         "nc_type": "C1"
       },
@@ -129411,7 +129411,7 @@
     "split": "train",
     "text": "문재앙 5년동안 일어난 변화 - 선진국 궤도에 오른 나라를 5년만에 세계 출산율 압도적 꼴지, 반도체 전기차 바이오 부분 등 중국에 기술역전 시작, 대만에 1인당 gdp 추월당함,북한에 핵 배치되서 군사 열세 확정 동북아 최약체됨, 흑자 공기업들 모조리 적자 전환, 공공 부채 2배되서 천조원 넘김 민간부문 합하면 이천조, 온나라가 부동산 코인 투기판, 온국민 갈라치기 갈등 대폭발, 적대국에 조공 굴욕외교하고 동맹국들과는 싸움시작 씨발 생지옥이 따로 없게 됨.인국공 조국사태 제천화재 부동산급등 코로나 백신 부작용 LH사태 입양아막말 민식이법 울산선거비리 태양광게이트 페미니스트급증 남성차별대우 온갖 사고 비리 사회부작용 폭발",
     "canonical": "문재앙 5년동안 일어난 변화 - 선진국 궤도에 오른 나라를 5년만에 세계 출산율 압도적 꼴지, 반도체 전기차 바이오 부분 등 중국에 기술역전 시작, 대만에 1인당 gdp 추월당함,북한에 핵 배치되서 군사 열세 확정 동북아 최약체됨, 흑자 공기업들 모조리 적자 전환, 공공 부채 2배되서 천조원 넘김 민간부문 합하면 이천조, 온나라가 부동산 코인 투기판, 온국민 갈라치기 갈등 대폭발, 적대국에 조공 굴욕외교하고 동맹국들과는 싸움시작 씨발 생지옥이 따로 없게 됨.인국공 조국사태 제천화재 부동산급등 코로나 백신 부작용 LH사태 입양아막말 민식이법 울산선거비리 태양광게이트 페미니스트급증 남성차별대우 온갖 사고 비리 사회부작용 폭발",
-    "phonemes": "mund͡ʑɛ̝a̠ŋ o̞ ɲjʌ̹ndo̞ŋa̠n iɾʌ̹na̠n pjʌ̹nβwa̠ ma̠inʌ̹sʰɯ sʰʌ̹nd͡ʑinɡuk̚ kwe̞do̞e̞ o̞ɾɯn na̠ɾa̠ɾɯɭ o̞ ɲjʌ̹nma̠ne̞ sʰe̞ɡje̞ t͡ɕʰuɭs͈a̠nɲjuɭ a̠p̚t͈o̞d͡ʑʌ̹k̚ k͈o̞ɭd͡ʑi pa̠ndo̞t͡ɕʰe̞ t͡ɕʌ̹nɡit͡ɕʰa̠ pa̠io̞ pubun tɯŋ t͡ɕuŋɡuɡe̞ kisʰuɭʎjʌ̹k̚t͡ɕ͈ʌ̹n ɕʰid͡ʑa̠k̚ tɛ̝ma̠ne̞ iɾinda̠ŋ t͡ɕidipʰi t͡ɕʰuwʌ̹ɭt͈a̠ŋɦa̠m pukʰa̠ne̞ hɛ̝k̚ pɛ̝t͡ɕʰidø̞sʰʌ̹ kunsʰa̠ jʌ̹ɭsʰe̞ ɸwa̠k̚t͡ɕ͈ʌ̹ŋ to̞ŋbuɡa̠ t͡ɕʰø̞ja̠k̚t͡ɕʰe̞dø̞m xɯk̚t͡ɕ͈a̠ ko̞ŋɡiʌ̹p̚t͈ɯɭ mo̞d͡ʑo̞ɾi t͡ɕʌ̹k̚t͡ɕ͈a̠ t͡ɕʌ̹nβwa̠n ko̞ŋʝjuiɭ put͡ɕʰɛ̝ i bɛ̝dø̞sʰʌ̹ t͡ɕʰʌ̹nd͡ʑo̞wʌ̹n nʌ̹mɡim minɡa̠nbumun ha̠pʰa̠mjʌ̹n it͡ɕʰʌ̹nd͡ʑo̞ o̞nna̠ɾa̠ɡa̠ pudo̞ŋsʰa̠n kʰo̞in tʰuɡipʰa̠n o̞nɡuŋmin ka̠ɭɭa̠t͡ɕʰiɡi ka̠ɭdɯŋ tɛ̝pʰo̞k̚p͈a̠ɭ t͡ɕʌ̹k̚t͈ɛ̝ɡuɡe̞ t͡ɕo̞ɡo̞ŋ kuɾjoɡø̞ɡjoɦa̠ɡo̞ to̞ŋmɛ̝ŋɡuk̚t͈ɯɭɡwa̠nɯn s͈a̠umɕʰid͡ʑa̠k̚ ɕ͈iba̠ɭ sʰɛ̝ŋd͡ʑio̞ɡi t͈a̠ɾo̞ ʌ̹p̚k͈e̞ tø̞m inɡuk̚k͈o̞ŋ t͡ɕo̞ɡuks͈a̠tʰɛ̝ t͡ɕe̞t͡ɕʰʌ̹nβwa̠d͡ʑɛ̝ pudo̞ŋsʰa̠nɡɯp̚t͈ɯŋ kʰo̞ɾo̞na̠ pɛ̝kɕ͈in pud͡ʑa̠ɡjoŋ e̞ɾe̞it͡ɕʰisʰa̠tʰɛ̝ ibja̠ŋa̠ma̠ŋma̠ɭ minɕʰiɡip͈ʌ̹p̚ uɭs͈a̠nsʰʌ̹nɡʌ̹biɾi tʰɛ̝ja̠ŋɡwa̠ŋɡe̞itʰɯ pʰe̞minisʰɯtʰɯɡɯp̚t͡ɕ͈ɯŋ na̠msʰʌ̹ŋt͡ɕʰa̠bjʌ̹ɭdɛ̝u o̞nɡa̠t̚ sʰa̠ɡo̞ piɾi sʰa̠ɦø̞bud͡ʑa̠ɡjoŋ pʰo̞k̚p͈a̠ɭ",
+    "phonemes": "mund͡ʑɛ̝a̠ŋ o̞ ɲjʌ̹ndo̞ŋa̠n iɾʌ̹na̠n pjʌ̹nβwa̠ ma̠inʌ̹sʰɯ sʰʌ̹nd͡ʑinɡuk̚ kwe̞do̞e̞ o̞ɾɯn na̠ɾa̠ɾɯɭ o̞ ɲjʌ̹nma̠ne̞ sʰe̞ɡje̞ t͡ɕʰuɭs͈a̠nɲjuɭ a̠p̚t͈o̞d͡ʑʌ̹k̚ k͈o̞ɭd͡ʑi pa̠ndo̞t͡ɕʰe̞ t͡ɕʌ̹nɡit͡ɕʰa̠ pa̠io̞ pubun tɯŋ t͡ɕuŋɡuɡe̞ kisʰuɭʎjʌ̹k̚t͡ɕ͈ʌ̹n ɕʰid͡ʑa̠k̚ tɛ̝ma̠ne̞ iɾ inda̠ŋ t͡ɕidipʰi t͡ɕʰuwʌ̹ɭda̠ŋɦa̠m pukʰa̠ne̞ hɛ̝k̚ pɛ̝t͡ɕʰidø̞sʰʌ̹ kunsʰa̠ jʌ̹ɭsʰe̞ ɸwa̠k̚t͡ɕ͈ʌ̹ŋ to̞ŋbuɡa̠ t͡ɕʰø̞ja̠k̚t͡ɕʰe̞dø̞m xɯk̚t͡ɕ͈a̠ ko̞ŋɡiʌ̹p̚t͈ɯɭ mo̞d͡ʑo̞ɾi t͡ɕʌ̹k̚t͡ɕ͈a̠ t͡ɕʌ̹nβwa̠n ko̞ŋʝjuiɭ put͡ɕʰɛ̝ i bɛ̝dø̞sʰʌ̹ t͡ɕʰʌ̹nd͡ʑo̞wʌ̹n nʌ̹mɡim minɡa̠nbumun ha̠pʰa̠mjʌ̹n it͡ɕʰʌ̹nd͡ʑo̞ o̞nna̠ɾa̠ɡa̠ pudo̞ŋsʰa̠n kʰo̞in tʰuɡipʰa̠n o̞nɡuŋmin ka̠ɭɭa̠t͡ɕʰiɡi ka̠ɭdɯŋ tɛ̝pʰo̞k̚p͈a̠ɭ t͡ɕʌ̹k̚t͈ɛ̝ɡuɡe̞ t͡ɕo̞ɡo̞ŋ kuɾjoɡø̞ɡjoɦa̠ɡo̞ to̞ŋmɛ̝ŋɡuk̚t͈ɯɭɡwa̠nɯn s͈a̠umɕʰid͡ʑa̠k̚ ɕ͈iba̠ɭ sʰɛ̝ŋd͡ʑio̞ɡi t͈a̠ɾo̞ ʌ̹p̚k͈e̞ tø̞m inɡuk̚k͈o̞ŋ t͡ɕo̞ɡuks͈a̠tʰɛ̝ t͡ɕe̞t͡ɕʰʌ̹nβwa̠d͡ʑɛ̝ pudo̞ŋsʰa̠nɡɯp̚t͈ɯŋ kʰo̞ɾo̞na̠ pɛ̝kɕ͈in pud͡ʑa̠ɡjoŋ e̞ɾe̞it͡ɕʰisʰa̠tʰɛ̝ ibja̠ŋa̠ma̠ŋma̠ɭ minɕʰiɡibʌ̹p̚ uɭs͈a̠nsʰʌ̹nɡʌ̹biɾi tʰɛ̝ja̠ŋɡwa̠ŋɡe̞itʰɯ pʰe̞minisʰɯtʰɯɡɯp̚t͡ɕ͈ɯŋ na̠msʰʌ̹ŋt͡ɕʰa̠bjʌ̹ɭdɛ̝u o̞nɡa̠t̚ sʰa̠ɡo̞ piɾi sʰa̠ɦø̞bud͡ʑa̠ɡjoŋ pʰo̞k̚p͈a̠ɭ",
     "tokens": [
       {
         "text": "문재앙",
@@ -129577,7 +129577,7 @@
       {
         "text": "1인당",
         "canonical": "1인당",
-        "phoneme": "iɾinda̠ŋ",
+        "phoneme": "iɾ inda̠ŋ",
         "is_nc": false,
         "nc_type": null
       },
@@ -129591,7 +129591,7 @@
       {
         "text": "추월당함,북한에",
         "canonical": "추월당함,북한에",
-        "phoneme": "t͡ɕʰuwʌ̹ɭt͈a̠ŋɦa̠m pukʰa̠ne̞",
+        "phoneme": "t͡ɕʰuwʌ̹ɭda̠ŋɦa̠m pukʰa̠ne̞",
         "is_nc": false,
         "nc_type": null
       },
@@ -129920,7 +129920,7 @@
       {
         "text": "민식이법",
         "canonical": "민식이법",
-        "phoneme": "minɕʰiɡip͈ʌ̹p̚",
+        "phoneme": "minɕʰiɡibʌ̹p̚",
         "is_nc": false,
         "nc_type": null
       },
@@ -129996,7 +129996,7 @@
     "split": "train",
     "text": "ㄹㅇ 0.01 초만 참지 시발 ㅋㅋㅋㅋ",
     "canonical": "리얼 0.01 초만 참지 시발 크크크크",
-    "phonemes": "ɾiʌ̹ɭ jʌ̹ŋt͡ɕ͈ʌ̹mjʌ̹ŋiɭ t͡ɕʰo̞ma̠n t͡ɕʰa̠mt͡ɕ͈i ɕʰiba̠ɭ kxɯkxɯkxɯkxɯ",
+    "phonemes": "ɾiʌ̹ɭ jʌ̹ŋt͡ɕ͈ʌ̹mjʌ̹ŋiɭ t͡ɕʰo̞ma̠n t͡ɕʰa̠md͡ʑi ɕʰiba̠ɭ kxɯkxɯkxɯkxɯ",
     "tokens": [
       {
         "text": "ㄹㅇ",
@@ -130022,7 +130022,7 @@
       {
         "text": "참지",
         "canonical": "참지",
-        "phoneme": "t͡ɕʰa̠mt͡ɕ͈i",
+        "phoneme": "t͡ɕʰa̠md͡ʑi",
         "is_nc": false,
         "nc_type": null
       },
@@ -131901,7 +131901,7 @@
     "split": "train",
     "text": "철근 누락, 저질 세멘 시공시 살인 미수로 입건하는 법을 만들어야 돼아주 그냥 저지르고 걸리면아 실수임 ㅎㅎ 앞으로 안그럼 ㅇㅈㄹ 반복인데",
     "canonical": "철근 누락, 저질 세멘 시공시 살인 미수로 입건하는 법을 만들어야 돼아주 그냥 저지르고 걸리면아 실수임 흐흐 앞으로 안그럼 이지랄 반복인데",
-    "phonemes": "t͡ɕʰʌ̹ɭɡɯn nuɾa̠k̚ t͡ɕʌ̹d͡ʑiɭ sʰe̞me̞n ɕʰiɡo̞ŋɕʰi sʰa̠ɾin misʰuɾo̞ ip̚k͈ʌ̹nɦa̠nɯn pʌ̹bɯɭ ma̠ndɯɾʌ̹ja̠ twɛ̝a̠d͡ʑu kɯɲja̠ŋ t͡ɕʌ̹d͡ʑiɾɯɡo̞ kʌ̹ɭʎimjʌ̹na̠ ɕʰiɭs͈uim xɯɦɯ a̠pʰɯɾo̞ a̠nɡɯɾʌ̹m id͡ʑiɾa̠ɭ pa̠nbo̞ɡinde̞",
+    "phonemes": "t͡ɕʰʌ̹ɭɡɯn nuɾa̠k̚ t͡ɕʌ̹d͡ʑiɭ sʰe̞me̞n ɕʰiɡo̞ŋɕʰi sʰa̠ɾin misʰuɾo̞ ip̚k͈ʌ̹nɦa̠nɯn pʌ̹bɯɭ ma̠ndɯɾʌ̹ja̠ twɛ̝a̠d͡ʑu kɯɲja̠ŋ t͡ɕʌ̹d͡ʑiɾɯɡo̞ kʌ̹ɭʎimjʌ̹na̠ ɕʰiɭsʰuim xɯɦɯ a̠pʰɯɾo̞ a̠nɡɯɾʌ̹m id͡ʑiɾa̠ɭ pa̠nbo̞ɡinde̞",
     "tokens": [
       {
         "text": "철근",
@@ -132004,7 +132004,7 @@
       {
         "text": "실수임",
         "canonical": "실수임",
-        "phoneme": "ɕʰiɭs͈uim",
+        "phoneme": "ɕʰiɭsʰuim",
         "is_nc": false,
         "nc_type": null
       },
@@ -132610,7 +132610,7 @@
     "split": "train",
     "text": "쪽가위 서걱서걱단 ㄷㄷ하노 이제 킹스맨 코스프레까지 하노 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 강서구민 단체 능지테스트 시작됐노ㅋㅋ엌ㅋㅋㅋㅋㅋㅋㅋ",
     "canonical": "쪽가위 서걱서걱단 덜덜하노 이제 킹스맨 코스프레까지 하노 크크크크크크크크크크크크크크크크크 강서구민 단체 능지테스트 시작됐노ㅋㅋ엌ㅋㅋㅋㅋㅋㅋㅋ",
-    "phonemes": "t͡ɕ͈o̞k̚k͈a̠ɥi sʰʌ̹ɡʌ̹ks͈ʌ̹ɡʌ̹k̚t͈a̠n tʌ̹ɭdʌ̹ɭɦa̠no̞ id͡ʑe̞ kçiŋsʰɯmɛ̝n kʰo̞sʰɯpʰɯɾe̞k͈a̠d͡ʑi ha̠no̞ kxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯ ka̠ŋsʰʌ̹ɡumin ta̠nt͡ɕʰe̞ nɯŋd͡ʑitʰe̞sʰɯtʰɯ ɕʰid͡ʑa̠k̚t͈wɛ̝nno̞ ʌ̹k̚",
+    "phonemes": "t͡ɕ͈o̞k̚k͈a̠ɥi sʰʌ̹ɡʌ̹ks͈ʌ̹ɡʌ̹k̚t͈a̠n tʌ̹ɭdʌ̹ɾɦa̠no̞ id͡ʑe̞ kçiŋsʰɯmɛ̝n kʰo̞sʰɯpʰɯɾe̞k͈a̠d͡ʑi ha̠no̞ kxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯkxɯ ka̠ŋsʰʌ̹ɡumin ta̠nt͡ɕʰe̞ nɯŋd͡ʑitʰe̞sʰɯtʰɯ ɕʰid͡ʑa̠k̚t͈wɛ̝nno̞ ʌ̹k̚",
     "tokens": [
       {
         "text": "쪽가위",
@@ -132629,7 +132629,7 @@
       {
         "text": "ㄷㄷ하노",
         "canonical": "덜덜하노",
-        "phoneme": "tʌ̹ɭdʌ̹ɭɦa̠no̞",
+        "phoneme": "tʌ̹ɭdʌ̹ɾɦa̠no̞",
         "is_nc": true,
         "nc_type": "C3"
       },

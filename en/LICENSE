@@ -1,0 +1,12 @@
+The English subset of UGTPHON is built on LexNorm2015 (via MultiLexNorm).
+
+No explicit license is attached to the source data. Following the convention
+established by MultiLexNorm 2021, attribution via citation is treated as
+sufficient.
+
+Source: https://noisy-text.github.io/2015/norm-shared-task.html
+
+Citation:
+  Baldwin et al. 2015. Shared Tasks of the 2015 Workshop on Noisy
+  User-generated Text: Twitter Lexical Normalization and Named Entity
+  Recognition. W-NUT 2015. https://aclanthology.org/W15-4319/

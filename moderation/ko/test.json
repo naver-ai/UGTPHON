@@ -1,0 +1,4127 @@
+[
+  {
+    "id": "multilexnorm2026_1913",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0162
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0162
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1914",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.5246
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.524
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1915",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0201
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0201
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1916",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0089
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0087
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1917",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0322
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0322
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1918",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.5694
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.5694
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1919",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0001
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0001
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1920",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0871
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0871
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1921",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0006
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0006
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1922",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.3561
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.3562
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1923",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0103
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0103
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1924",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "illicit",
+        "top_score": 0.0038
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0101
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1925",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.3543
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.3543
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1926",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0052
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0052
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1927",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0472
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0471
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1928",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.198
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.198
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1929",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0063
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0063
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1930",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0007
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0007
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1931",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0005
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0005
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1932",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.3724
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.3724
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1933",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1081
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0553
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1934",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0093
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0091
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1935",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0202
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0202
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1936",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "self-harm",
+        "top_score": 0.8562
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "self-harm",
+        "top_score": 0.8567
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1937",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0005
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0005
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1938",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0052
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "illicit",
+        "top_score": 0.0015
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1939",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0202
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0202
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1940",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.4882
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.4882
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1941",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1942",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0007
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0007
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1943",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0989
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0989
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1944",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0526
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0526
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1945",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0006
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0006
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1946",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0589
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0589
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1947",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0982
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0981
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1948",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0008
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0008
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1949",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "hate",
+        "top_score": 0.3056
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "hate",
+        "top_score": 0.3056
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1950",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "hate",
+        "top_score": 0.0071
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "hate",
+        "top_score": 0.0072
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1951",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.3977
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.3977
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1952",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0197
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0197
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1953",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0711
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0711
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1954",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "illicit",
+        "top_score": 0.0038
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "illicit",
+        "top_score": 0.0038
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1955",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0194
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0194
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1956",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.2859
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.2859
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1957",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0009
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0009
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1958",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "self-harm",
+        "top_score": 0.4541
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "self-harm",
+        "top_score": 0.4541
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1959",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0005
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0008
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1960",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0093
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0064
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1961",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.6451
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.6451
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1962",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0887
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0887
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1963",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.4012
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.4012
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1964",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0196
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0196
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1965",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0028
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0028
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1966",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.3496
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.3496
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1967",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.5696
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.8429
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1968",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1403
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1403
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1969",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0716
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0716
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1970",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "illicit/violent",
+        "top_score": 0.2898
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "illicit/violent",
+        "top_score": 0.2896
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1971",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.4643
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.4643
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1972",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0006
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0006
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1973",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.3549
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.3549
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1974",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "illicit",
+        "top_score": 0.0038
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0101
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1975",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.1998
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.2005
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1976",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.2518
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.2518
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1977",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.4217
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.4215
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1978",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0006
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0006
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1979",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1413
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1413
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1980",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.2309
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.2435
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1981",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0103
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0103
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1982",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0051
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0051
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1983",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.1248
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.125
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1984",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1408
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1408
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1985",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0375
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0375
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1986",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.6509
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.6509
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1987",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0201
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0199
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1988",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0103
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.005
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1989",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.3528
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.3527
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1990",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.242
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.2854
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1991",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0203
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0203
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1992",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.1207
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.1205
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1993",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0007
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0007
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1994",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.016
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.016
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1995",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0207
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0206
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1996",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.5258
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.5258
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1997",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1436
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1993
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1998",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.1192
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0519
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_1999",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.1212
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.121
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_2000",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0234
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0234
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_2001",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0194
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0194
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_2002",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "self-harm",
+        "top_score": 0.0006
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "self-harm",
+        "top_score": 0.0006
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_2003",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0059
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0059
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_2004",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0101
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0101
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_2005",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0001
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0001
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_2006",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.1192
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1081
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_2007",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.4886
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.5222
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_2008",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.1237
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.1237
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_2009",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0027
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0027
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_2010",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0001
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0001
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_2011",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.2529
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.2529
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_2012",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0006
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0006
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_2013",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0101
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0101
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_2014",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0102
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0101
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_2015",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1434
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1954
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_2016",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0522
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0522
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_2017",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0234
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0234
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_2018",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0051
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0051
+      }
+    }
+  },
+  {
+    "id": "multilexnorm2026_2019",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0966
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0976
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2020",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1973
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.2843
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2021",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0216
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0524
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2023",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0969
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0974
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2024",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0551
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0404
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2030",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "illicit",
+        "top_score": 0.0063
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "illicit",
+        "top_score": 0.0063
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2032",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0227
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0377
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2035",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.5697
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.569
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2037",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0005
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0005
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2039",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0258
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0102
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2040",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.202
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.1994
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2044",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.3591
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.4257
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2045",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.1997
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.2
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2046",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0205
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.038
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2050",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0206
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0655
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2051",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.3395
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.3381
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2053",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0057
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0058
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2055",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0376
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0209
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2061",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.3998
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.6486
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2062",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0005
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0008
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2065",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0194
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0104
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2066",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.7401
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.8044
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2069",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.083
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.2044
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2071",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.016
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.005
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2072",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0471
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0716
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2075",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0209
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.003
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2076",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0012
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0012
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2078",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0228
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0202
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2079",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0105
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.5223
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2080",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.1819
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0987
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2084",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.2053
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.12
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2086",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0979
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0977
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2087",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0231
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0194
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2090",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0359
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0379
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2091",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0201
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0201
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2093",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0001
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0006
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2095",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.2085
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.2858
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2096",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "hate",
+        "top_score": 0.0358
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0258
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2101",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.021
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0976
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2102",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0102
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0102
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2107",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1957
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1406
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2108",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0714
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0711
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2110",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0052
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0059
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2115",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "self-harm/intent",
+        "top_score": 0.9375
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "self-harm/intent",
+        "top_score": 0.8322
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2117",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "hate",
+        "top_score": 0.0071
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "hate",
+        "top_score": 0.0071
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2118",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0061
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0063
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2122",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0967
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0646
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2123",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.8426
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.8078
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2124",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0645
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.1198
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2125",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.6447
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.5688
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2126",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.2529
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.2845
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2127",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.3386
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.3417
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2129",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1411
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1405
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2131",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.3422
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.3993
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2133",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.8068
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.8038
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2135",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.29
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.3315
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2136",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1413
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1413
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2142",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.3064
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.2455
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2145",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.7345
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.6853
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2146",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0204
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0204
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2152",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.3388
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1988
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2153",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1436
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1419
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2154",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.4885
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.5676
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2155",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.6517
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.6511
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2156",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.1193
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0651
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2157",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.036
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.097
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2158",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0553
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0557
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2161",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.2889
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.3737
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2167",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.4015
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.4007
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2168",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0713
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.204
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2169",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "self-harm/intent",
+        "top_score": 0.0674
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "self-harm/intent",
+        "top_score": 0.0679
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2170",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.006
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0058
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2171",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0056
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.006
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2172",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.036
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.036
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2174",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.3536
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.3536
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2175",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0376
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.038
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2177",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1414
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1404
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2180",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0217
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0217
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2181",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0273
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0283
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2182",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0376
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0381
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2183",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.8813
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.8918
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2186",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "illicit",
+        "top_score": 0.0015
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "illicit",
+        "top_score": 0.0038
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2188",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.5222
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.5243
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2189",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0101
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0103
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2190",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.1989
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.055
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2197",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.3989
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.3415
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2198",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.7382
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.6507
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2200",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0655
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0972
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2202",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0201
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0202
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2203",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0407
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0407
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2204",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0097
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0097
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2207",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.1796
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.1796
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2212",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0406
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0406
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2213",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0202
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.021
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2217",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0092
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0092
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2218",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0001
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2223",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1953
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.1999
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2224",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0969
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0518
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2226",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.3412
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.3386
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2227",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.2003
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1972
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2230",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0099
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0202
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2232",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0556
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0556
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2234",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0375
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0009
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2235",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.3993
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.2534
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2236",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.4023
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.3737
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2238",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0213
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0208
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2239",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0235
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0709
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2240",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.2009
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.2014
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2241",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.021
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0518
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2244",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1957
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.3424
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2245",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0379
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0524
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2250",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.2007
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.2007
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2253",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "self-harm",
+        "top_score": 0.041
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.023
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2255",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0375
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0646
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2256",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "self-harm",
+        "top_score": 0.0413
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "self-harm",
+        "top_score": 0.0413
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2257",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.2025
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.2025
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2261",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.6526
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.6488
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2266",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0323
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0323
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2267",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.5118
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.4534
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2483",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.3417
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1427
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2375",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1983
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1529
+      }
+    }
+  },
+  {
+    "id": "dc_inside_3753",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.5684
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.5676
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2618",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.1209
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0646
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2530",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1077
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1417
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2475",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "illicit",
+        "top_score": 0.1108
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "illicit",
+        "top_score": 0.0942
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2383",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1414
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1415
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2511",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1978
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1984
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2445",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.1992
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.1965
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2276",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0709
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0708
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2544",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.02
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0204
+      }
+    }
+  },
+  {
+    "id": "dc_inside_3575",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0285
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0258
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2312",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.2523
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1999
+      }
+    }
+  },
+  {
+    "id": "dc_inside_3722",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.4261
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.424
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2269",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1982
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1972
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2564",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.8025
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.8048
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2563",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0657
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0551
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2531",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.199
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.2008
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2362",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1982
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1958
+      }
+    }
+  },
+  {
+    "id": "dc_inside_3610",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0379
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1079
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2547",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0056
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0059
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2313",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0062
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0051
+      }
+    }
+  },
+  {
+    "id": "dc_inside_3674",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.4644
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.3402
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2403",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0212
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0376
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2585",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.056
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0555
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2341",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "illicit",
+        "top_score": 0.0166
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "violence",
+        "top_score": 0.0101
+      }
+    }
+  },
+  {
+    "id": "dc_inside_3757",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.5694
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.6503
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2350",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.4232
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.4232
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2353",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.3401
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.3384
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2548",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.5259
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.5259
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2557",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.2011
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.2003
+      }
+    }
+  },
+  {
+    "id": "dc_inside_3695",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.2531
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.2847
+      }
+    }
+  },
+  {
+    "id": "dc_inside_3698",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0964
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.1805
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2546",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.6093
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.6093
+      }
+    }
+  },
+  {
+    "id": "dc_inside_3729",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.4551
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.4882
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2392",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1958
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1959
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2658",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0199
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.0197
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2652",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.2045
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.2043
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2396",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.8018
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.7207
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2629",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.4009
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "violence",
+        "top_score": 0.4014
+      }
+    }
+  },
+  {
+    "id": "dc_inside_3687",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.6457
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.6442
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2619",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.02
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0197
+      }
+    }
+  },
+  {
+    "id": "dc_inside_3737",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1987
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1997
+      }
+    }
+  },
+  {
+    "id": "dc_inside_3600",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0986
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0969
+      }
+    }
+  },
+  {
+    "id": "dc_inside_3589",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0375
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0203
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2460",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1418
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.1808
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2381",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.5235
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.3995
+      }
+    }
+  },
+  {
+    "id": "dc_inside_3583",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1422
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "harassment",
+        "top_score": 0.1079
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2537",
+    "moderation": {
+      "raw": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.8656
+      },
+      "norm": {
+        "flagged": true,
+        "top_category": "harassment",
+        "top_score": 0.8054
+      }
+    }
+  },
+  {
+    "id": "dc_inside_2514",
+    "moderation": {
+      "raw": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0361
+      },
+      "norm": {
+        "flagged": false,
+        "top_category": "sexual",
+        "top_score": 0.0202
+      }
+    }
+  }
+]

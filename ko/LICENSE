@@ -1,0 +1,14 @@
+The Korean subset of UGTPHON is derived from KoMultiText (via MultiLexNorm++).
+
+Licensed under the Apache License, Version 2.0.
+
+Full license text:
+  https://www.apache.org/licenses/LICENSE-2.0
+
+Sources:
+  https://github.com/Dasol-Choi/KoMultiText
+  https://arxiv.org/abs/2601.16623
+
+Citations:
+  Choi et al. 2023. KoMultiText. NeurIPS SoLaR workshop.
+  Buaphet et al. 2026. MultiLexNorm++. https://arxiv.org/abs/2601.16623

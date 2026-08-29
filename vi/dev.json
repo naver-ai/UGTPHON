@@ -238,7 +238,7 @@
     "split": "dev",
     "text": "Vứt con đấy đi hành hung ng khác trong khi bản thân sai lè ra.",
     "canonical": "Vứt con đấy đi hành hung người khác trong khi bản thân sai lè ra.",
-    "phonemes": "vɯt˦˥ kɔn˧˧ dɤ̆j˨˦ di˧˧ hɛŋ˧˨ huŋ͡m˧˧ ŋɯəj˧˨ xak˦˥ cɔŋ͡m˧˧ xi˧˧ ban˧˩˨ tʰɤ̆n˧˧ saj˧˧ lɛ˧˨ za˧˧",
+    "phonemes": "vɯt˦˥ kɔn˧˧ dɤ̆j˨˦ di˧˧ hɛŋ˧˨ huŋ͡m˧˧ ŋɯəj˧˨ xak˦˥ tɕɔŋ͡m˧˧ xi˧˧ ban˧˩˨ tʰɤ̆n˧˧ saj˧˧ lɛ˧˨ za˧˧",
     "tokens": [
       {
         "text": "Vứt",
@@ -299,7 +299,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -1227,7 +1227,7 @@
     "split": "dev",
     "text": "Thế yêu chính bản thán mình thì sao",
     "canonical": "Thế yêu chính bản thân mình thì sao",
-    "phonemes": "tʰe˨˦ iəw˧˧ ciŋ˨˦ ban˧˩˨ tʰɤ̆n˧˧ miŋ˧˨ tʰi˧˨ saw˧˧",
+    "phonemes": "tʰe˨˦ iəw˧˧ tɕiŋ˨˦ ban˧˩˨ tʰɤ̆n˧˧ miŋ˧˨ tʰi˧˨ saw˧˧",
     "tokens": [
       {
         "text": "Thế",
@@ -1246,7 +1246,7 @@
       {
         "text": "chính",
         "canonical": "chính",
-        "phoneme": "ciŋ˨˦",
+        "phoneme": "tɕiŋ˨˦",
         "is_nc": false,
         "nc_type": null
       },
@@ -3755,7 +3755,7 @@
     "split": "dev",
     "text": "Đám cưới k có cô dâu chú rể thành đám gì",
     "canonical": "Đám cưới không có cô dâu chú rể thành đám gì",
-    "phonemes": "dam˨˦ kɯəj˨˦ xoŋ͡m˧˧ kɔ˨˦ ko˧˧ zɤ̆w˧˧ cu˨˦ ze˧˩˨ tʰɛŋ˧˨ dam˨˦ ɣi˧˨",
+    "phonemes": "dam˨˦ kɯəj˨˦ xoŋ͡m˧˧ kɔ˨˦ ko˧˧ zɤ̆w˧˧ tɕu˨˦ ze˧˩˨ tʰɛŋ˧˨ dam˨˦ ɣi˧˨",
     "tokens": [
       {
         "text": "Đám",
@@ -3802,7 +3802,7 @@
       {
         "text": "chú",
         "canonical": "chú",
-        "phoneme": "cu˨˦",
+        "phoneme": "tɕu˨˦",
         "is_nc": false,
         "nc_type": null
       },
@@ -5347,7 +5347,7 @@
     "split": "dev",
     "text": "Từ lúc đỗ đại học đến lúc tốt nghiệp đi làm 2 cụ nhà chưa giục anh em tôi ew đương kết hôn đẻ đái gì cả",
     "canonical": "Từ lúc đỗ đại học đến lúc tốt nghiệp đi làm 2 cụ nhà chưa giục anh em tôi yêu đương kết hôn đẻ đái gì cả",
-    "phonemes": "tɯ˧˨ luk͡p˦˥ do˧ˀ˥ daj˨ˀ˩ʔ hɔk͡p˨ˀ˩ den˨˦ luk͡p˦˥ tot˦˥ ŋiəp˨ˀ˩ di˧˧ lam˧˨ haj˧˧ ku˨ˀ˩ʔ ɲa˧˨ cɯə˧˧ zuk͡p˨ˀ˩ ɛŋ˧˧ ɛm˧˧ toj˧˧ ʔiəw˧˧ dɯəŋ˧˧ ket˦˥ hon˧˧ dɛ˧˩˨ daj˨˦ ɣi˧˨ ka˧˩˨",
+    "phonemes": "tɯ˧˨ luk͡p˦˥ do˧ˀ˥ daj˨ˀ˩ʔ hɔk͡p˨ˀ˩ den˨˦ luk͡p˦˥ tot˦˥ ŋiəp̚˨ˀ˩ di˧˧ lam˧˨ haj˧˧ ku˨ˀ˩ʔ ɲa˧˨ cɯə˧˧ zuk͡p˨ˀ˩ ɛŋ˧˧ ɛm˧˧ toj˧˧ ʔiəw˧˧ dɯəŋ˧˧ ket˦˥ hon˧˧ dɛ˧˩˨ daj˨˦ ɣi˧˨ ka˧˩˨",
     "tokens": [
       {
         "text": "Từ",
@@ -5408,7 +5408,7 @@
       {
         "text": "nghiệp",
         "canonical": "nghiệp",
-        "phoneme": "ŋiəp˨ˀ˩",
+        "phoneme": "ŋiəp̚˨ˀ˩",
         "is_nc": false,
         "nc_type": null
       },
@@ -6428,7 +6428,7 @@
     "split": "dev",
     "text": "Luộc mì căn xong bỏ tủ lạnh lúc khác nấu được khôg ạ?",
     "canonical": "Luộc mì căn xong bỏ tủ lạnh lúc khác nấu được không ạ?",
-    "phonemes": "luək˨ˀ˩ mi˧˨ kăn˧˧ sɔŋ͡m˧˧ bɔ˧˩˨ tu˧˩˨ lɛŋ˨ˀ˩ʔ luk͡p˦˥ xak˦˥ nɤ̆w˨˦ dɯək˨ˀ˩ xoŋ͡m˧˧ ʔa˦˥",
+    "phonemes": "luək˨ˀ˩ mi˧˨ kăn˧˧ sɔŋ͡m˧˧ bɔ˧˩˨ tu˧˩˨ laŋ˨ˀ˩ʔ luk͡p˦˥ xak˦˥ nɤ̆w˨˦ dɯək˨ˀ˩ xoŋ͡m˧˧ ʔa˦˥",
     "tokens": [
       {
         "text": "Luộc",
@@ -6475,7 +6475,7 @@
       {
         "text": "lạnh",
         "canonical": "lạnh",
-        "phoneme": "lɛŋ˨ˀ˩ʔ",
+        "phoneme": "laŋ˨ˀ˩ʔ",
         "is_nc": false,
         "nc_type": null
       },
@@ -6650,7 +6650,7 @@
     "split": "dev",
     "text": "Do sau này các trường học ở miền tây hay bị trôi sông lạc chợ người quê quán xa xôi zô làm bừa làm bậy lắm.",
     "canonical": "Do sau này các trường học ở miền tây hay bị trôi sông lạc chợ người quê quán xa xôi vô làm bừa làm bậy lắm.",
-    "phonemes": "zɔ˧˧ săw˧˧ năj˧˨ kak˦˥ cɯəŋ˧˨ hɔk͡p˨ˀ˩ ɤ˧˩˨ miən˧˨ tɤ̆j˧˧ hăj˧˧ bi˨ˀ˩ʔ coj˧˧ soŋ͡m˧˧ lak˨ˀ˩ cɤ˨ˀ˩ʔ ŋɯəj˧˨ kwe˧˧ kwan˨˦ sa˧˧ soj˧˧ vo˧˧ lam˧˨ bɯə˧˨ lam˧˨ bɤ̆j˨ˀ˩ʔ lam˦˥",
+    "phonemes": "zɔ˧˧ săw˧˧ năj˧˨ kak˦˥ cɯəŋ˧˨ hɔk͡p˨ˀ˩ ɤ˧˩˨ miən˧˨ tɤ̆j˧˧ hăj˧˧ bi˨ˀ˩ʔ coj˧˧ soŋ͡m˧˧ lak˨ˀ˩ cɤ˨ˀ˩ʔ ŋɯəj˧˨ kwe˧˧ kwan˨˦ sa˧˧ soj˧˧ vo˧˧ lam˧˨ bɯə˧˨ lam˧˨ bɤ̆j˨ˀ˩ʔ lăm˦˥",
     "tokens": [
       {
         "text": "Do",
@@ -6830,7 +6830,7 @@
       {
         "text": "lắm.",
         "canonical": "lắm.",
-        "phoneme": "lam˦˥",
+        "phoneme": "lăm˦˥",
         "is_nc": false,
         "nc_type": null
       }
@@ -7258,7 +7258,7 @@
     "split": "dev",
     "text": "2 chú k xử lý được à",
     "canonical": "2 chú không xử lý được à",
-    "phonemes": "haj˧˧ cu˨˦ xoŋ͡m˧˧ sɯ˧˩˨ li˨˦ dɯək˨ˀ˩ a˧˨",
+    "phonemes": "haj˧˧ tɕu˨˦ xoŋ͡m˧˧ sɯ˧˩˨ li˨˦ dɯək˨ˀ˩ a˧˨",
     "tokens": [
       {
         "text": "2",
@@ -7270,7 +7270,7 @@
       {
         "text": "chú",
         "canonical": "chú",
-        "phoneme": "cu˨˦",
+        "phoneme": "tɕu˨˦",
         "is_nc": false,
         "nc_type": null
       },
@@ -7518,7 +7518,7 @@
     "split": "dev",
     "text": "Chiều mai chị có nhận đc HCV hay không thì cũng chả sao mọi người vẫn ủng hộ chị",
     "canonical": "Chiều mai chị có nhận được HCV hay không thì cũng chả sao mọi người vẫn ủng hộ chị",
-    "phonemes": "ciəw˧˨ maj˧˧ ci˨ˀ˩ʔ kɔ˨˦ ɲɤ̆n˨ˀ˩ʔ dɯək̚˨ˀ˩ haː ce˧˧ vi˧˧ hăj˧˧ xoŋ͡m˧˧ tʰi˧˨ kuŋ͡m˧ˀ˥ ca˧˩˨ saw˧˧ mɔj˨ˀ˩ʔ ŋɯəj˧˨ vɤ̆n˧ˀ˥ uŋ͡m˧˩˨ ho˨ˀ˩ʔ ci˨ˀ˩ʔ",
+    "phonemes": "ciəw˧˨ maj˧˧ ci˨ˀ˩ʔ kɔ˨˦ ɲɤ̆n˨ˀ˩ʔ dɯək̚˨ˀ˩ haː ce˧˧ vi˧˧ hăj˧˧ xoŋ͡m˧˧ tʰi˧˨ kuŋ͡m˧ˀ˥ ca˧˩˨ saw˧˧ mɔj˨ˀ˩ʔ ŋɯəj˧˨ vɤ̆n˧ˀ˥ ʔuŋ͡m˧˩˨ ho˨ˀ˩ʔ ci˨ˀ˩ʔ",
     "tokens": [
       {
         "text": "Chiều",
@@ -7635,7 +7635,7 @@
       {
         "text": "ủng",
         "canonical": "ủng",
-        "phoneme": "uŋ͡m˧˩˨",
+        "phoneme": "ʔuŋ͡m˧˩˨",
         "is_nc": false,
         "nc_type": null
       },
@@ -8165,7 +8165,7 @@
     "split": "dev",
     "text": "Cần tâm sự t có mẹ và bạn thân, cần tiền t kiếm và có e t cho, bm t cho, đi chơi thì có đồng nghiệp",
     "canonical": "Cần tâm sự tôi có mẹ và bạn thân, cần tiền tôi kiếm và có em tôi cho, ba mẹ tôi cho, đi chơi thì có đồng nghiệp",
-    "phonemes": "kɤ̆n˧˨ tɤ̆m˧˧ sɯ˨ˀ˩ʔ toj˧˧ kɔ˨˦ mɛ˨ˀ˩ʔ va˧˨ ban˨ˀ˩ʔ tʰən˧˧ kɤ̆n˧˨ tiən˧˨ toj˧˧ kiəm˨˦ va˧˨ kɔ˨˦ ʔɛm˧˧ toj˧˧ cɔ˧˧ ba˧˧ mɛ˨ˀ˩ʔ toj˧˧ cɔ˧˧ di˧˧ cɤj˧˧ tʰi˧˨ kɔ˨˦ doŋ͡m˧˨ ŋiəp˨ˀ˩",
+    "phonemes": "kɤ̆n˧˨ tɤ̆m˧˧ sɯ˨ˀ˩ʔ toj˧˧ kɔ˨˦ mɛ˨ˀ˩ʔ va˧˨ ban˨ˀ˩ʔ tʰən˧˧ kɤ̆n˧˨ tiən˧˨ toj˧˧ kiəm˨˦ va˧˨ kɔ˨˦ ʔɛm˧˧ toj˧˧ cɔ˧˧ ba˧˧ mɛ˨ˀ˩ʔ toj˧˧ cɔ˧˧ di˧˧ cɤj˧˧ tʰi˧˨ kɔ˨˦ doŋ͡m˧˨ ŋiəp̚˨ˀ˩",
     "tokens": [
       {
         "text": "Cần",
@@ -8338,7 +8338,7 @@
       {
         "text": "nghiệp",
         "canonical": "nghiệp",
-        "phoneme": "ŋiəp˨ˀ˩",
+        "phoneme": "ŋiəp̚˨ˀ˩",
         "is_nc": false,
         "nc_type": null
       }
@@ -9437,12 +9437,12 @@
     "split": "dev",
     "text": "trong nhà t có cái ảnh chụp lúc t mới sinh được bố mẹ lồng khung treo lên tường",
     "canonical": "trong nhà tôi có cái ảnh chụp lúc tôi mới sinh được bố mẹ lồng khung treo lên tường",
-    "phonemes": "cɔŋ͡m˧˧ ɲa˧˨ toj˧˧ kɔ˨˦ kaj˨˦ ɛŋ˧˩˨ cup˨ˀ˩ luk͡p˦˥ toj˧˧ mɤj˨˦ siŋ˧˧ dɯək˨ˀ˩ bo˨˦ mɛ˨ˀ˩ʔ loŋ͡m˧˨ xuŋ͡m˧˧ ceo˧˧ len˧˧ tɯəŋ˧˨",
+    "phonemes": "tɕɔŋ͡m˧˧ ɲa˧˨ toj˧˧ kɔ˨˦ kaj˨˦ ɛŋ˧˩˨ cup˨ˀ˩ luk͡p˦˥ toj˧˧ mɤj˨˦ siŋ˧˧ dɯək˨ˀ˩ bo˨˦ mɛ˨ˀ˩ʔ loŋ͡m˧˨ xuŋ͡m˧˧ ceo˧˧ len˧˧ tɯəŋ˧˨",
     "tokens": [
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -10127,7 +10127,7 @@
     "split": "dev",
     "text": "Việc làm trong mơ ko phải cái gì quá cao xa nhưng mà để tìm được nó thì mình cũng phải bầm dập",
     "canonical": "Việc làm trong mơ không phải cái gì quá cao xa nhưng mà để tìm được nó thì mình cũng phải bầm dập",
-    "phonemes": "viək˨ˀ˩ lam˧˨ cɔŋ͡m˧˧ mɤ˧˧ xoŋ͡m˧˧ faj˧˩˨ kaj˨˦ ɣi˧˨ kwa˨˦ kaw˧˧ sa˧˧ ɲɯŋ˧˧ ma˧˨ de˧˩˨ tim˧˨ dɯək˨ˀ˩ nɔ˨˦ tʰi˧˨ miŋ˧˨ kuŋ͡m˧ˀ˥ faj˧˩˨ bɤ̆m˧˨ zɤ̆p˨ˀ˩",
+    "phonemes": "viək˨ˀ˩ lam˧˨ tɕɔŋ͡m˧˧ mɤ˧˧ xoŋ͡m˧˧ faj˧˩˨ kaj˨˦ ɣi˧˨ kwa˨˦ kaw˧˧ sa˧˧ ɲɯŋ˧˧ ma˧˨ de˧˩˨ tim˧˨ dɯək˨ˀ˩ nɔ˨˦ tʰi˧˨ miŋ˧˨ kuŋ͡m˧ˀ˥ faj˧˩˨ bɤ̆m˧˨ zɤ̆p˨ˀ˩",
     "tokens": [
       {
         "text": "Việc",
@@ -10146,7 +10146,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -10971,7 +10971,7 @@
     "split": "dev",
     "text": "Mình cũng đang phấn đấu để vượt lên sự mệt mỏi cũng như qđ chuyển về SG trong thời điểm khó khăn này.",
     "canonical": "Mình cũng đang phấn đấu để vượt lên sự mệt mỏi cũng như quyết định chuyển về SG trong thời điểm khó khăn này.",
-    "phonemes": "miŋ˧˨ kuŋ͡m˧ˀ˥ daŋ˧˧ fɤ̆n˨˦ dɤ̆w˨˦ de˧˩˨ vɯət˨ˀ˩ʔ len˧˧ sɯ˨ˀ˩ʔ met˨ˀ˩ mɔj˧˩˨ kuŋ͡m˧ˀ˥ ɲɯ˧˧ kwiət̚˦˥ diŋ˨ˀ˩ʔ cwiən˧˩˨ ve˧˨ saj˨˩ ɣɔn˨˩ cɔŋ͡m˧˧ tʰɤj˧˨ diəm˧˩˨ xɔ˨˦ xăn˧˧ naj˨˨",
+    "phonemes": "miŋ˧˨ kuŋ͡m˧ˀ˥ daŋ˧˧ fɤ̆n˨˦ dɤ̆w˨˦ de˧˩˨ vɯət˨ˀ˩ʔ len˧˧ sɯ˨ˀ˩ʔ met˨ˀ˩ mɔj˧˩˨ kuŋ͡m˧ˀ˥ ɲɯ˧˧ kwiət̚˦˥ diŋ˨ˀ˩ʔ cwiən˧˩˨ ve˧˨ saj˨˩ ɣɔn˨˩ tɕɔŋ͡m˧˧ tʰɤj˧˨ diəm˧˩˨ xɔ˨˦ xăn˧˧ naj˨˨",
     "tokens": [
       {
         "text": "Mình",
@@ -11095,7 +11095,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -11143,7 +11143,7 @@
     "split": "dev",
     "text": "Hồi c1 tui cũng chơi với mấy đứa kiểu cứ ra chơi hay ra về sẽ chơi nhau đợi nhau ra cổng các thứ, nhưng trong lòng tui k thật sự quý ai, đến khi làm văn t cũng tả điêu điêu một đứa ất ơ không có thật",
     "canonical": "Hồi cấp 1 tui cũng chơi với mấy đứa kiểu cứ ra chơi hay ra về sẽ chơi nhau đợi nhau ra cổng các thứ, nhưng trong lòng tui không thật sự quý ai, đến khi làm văn tôi cũng tả điêu điêu một đứa ất ơ không có thật",
-    "phonemes": "hoj˧˨ kɤ̆p̚˦˥ mot̚˨ˀ˩ tuj˧˧ kuŋ͡m˧ˀ˥ cɤj˧˧ vɤj˨˦ mɤ̆j˨˦ dɯə˨˦ kiəw˧˩˨ kɯ˨˦ za˧˧ cɤj˧˧ hăj˧˧ za˧˧ ve˧˨ sɛ˧ˀ˥ cɤj˧˧ ɲăw˧˧ dɤj˨ˀ˩ʔ ɲăw˧˧ za˧˧ koŋ͡m˧˩˨ kak˦˥ tʰɯ˦˥ ɲɯŋ˧˧ cɔŋ͡m˧˧ lɔŋ͡m˧˨ tuj˧˧ xoŋ͡m˧˧ tʰɤ̆t˨ˀ˩ sɯ˨ˀ˩ʔ kwi˨˦ ʔaj˧˧ den˨˦ xi˧˧ lam˧˨ văn˧˧ toj˧˧ kuŋ͡m˧ˀ˥ ta˧˩˨ diəw˧˧ diəw˧˧ mot˨ˀ˩ dɯə˨˦ ɤ̆t˦˥ ɤ˧˧ xoŋ͡m˧˧ kɔ˨˦ tʰɤ̆t˨ˀ˩",
+    "phonemes": "hoj˧˨ kɤ̆p̚˦˥ mot̚˨ˀ˩ tuj˧˧ kuŋ͡m˧ˀ˥ cɤj˧˧ vɤj˨˦ mɤ̆j˨˦ dɯə˨˦ kiəw˧˩˨ kɯ˨˦ za˧˧ cɤj˧˧ hăj˧˧ za˧˧ ve˧˨ sɛ˧ˀ˥ cɤj˧˧ ɲăw˧˧ dɤj˨ˀ˩ʔ ɲăw˧˧ za˧˧ koŋ͡m˧˩˨ kak˦˥ tʰɯ˦˥ ɲɯŋ˧˧ tɕɔŋ͡m˧˧ lɔŋ͡m˧˨ tuj˧˧ xoŋ͡m˧˧ tʰɤ̆t˨ˀ˩ sɯ˨ˀ˩ʔ kwi˨˦ ʔaj˧˧ den˨˦ xi˧˧ lam˧˨ văn˧˧ toj˧˧ kuŋ͡m˧ˀ˥ ta˧˩˨ diəw˧˧ diəw˧˧ mot˨ˀ˩ dɯə˨˦ ɤ̆t˦˥ ɤ˧˧ xoŋ͡m˧˧ kɔ˨˦ tʰɤ̆t˨ˀ˩",
     "tokens": [
       {
         "text": "Hồi",
@@ -11323,7 +11323,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -13577,7 +13577,7 @@
     "split": "dev",
     "text": "Cậy thế đông hiếp đáp người khác trong khi mình sai thì luật nhân quả ko chừa 1 ai đâu",
     "canonical": "Cậy thế đông hiếp đáp người khác trong khi mình sai thì luật nhân quả không chừa 1 ai đâu",
-    "phonemes": "kɤ̆j˨ˀ˩ʔ tʰe˨˦ doŋ͡m˧˧ hiəp˦˥ dap˦˥ ŋɯəj˧˨ xak˦˥ cɔŋ͡m˧˧ xi˧˧ miŋ˧˨ saj˧˧ tʰi˧˨ lwɤ̆t˨ˀ˩ ɲɤ̆n˧˧ kwa˧˩˨ xoŋ͡m˧˧ cɯə˧˨ mot˨ˀ˩ aj˧˧ dɤ̆w˧˧",
+    "phonemes": "kɤ̆j˨ˀ˩ʔ tʰe˨˦ doŋ͡m˧˧ hiəp˦˥ dap˦˥ ŋɯəj˧˨ xak˦˥ tɕɔŋ͡m˧˧ xi˧˧ miŋ˧˨ saj˧˧ tʰi˧˨ lwɤ̆t˨ˀ˩ ɲɤ̆n˧˧ kwa˧˩˨ xoŋ͡m˧˧ cɯə˧˨ mot˨ˀ˩ aj˧˧ dɤ̆w˧˧",
     "tokens": [
       {
         "text": "Cậy",
@@ -13631,7 +13631,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -17743,7 +17743,7 @@
     "split": "dev",
     "text": "nhanh thiệt, t mới chỉ coi demo cái phim lật mặt đổi đời này, mà đã nhìn page chế memes rồi",
     "canonical": "nhanh thật, tôi mới chỉ coi demo cái phim lật mặt đổi đời này, mà đã nhìn page chế memes rồi",
-    "phonemes": "ɲɛŋ˧˧ tʰɤ̆t̚˨ˀ˩ʔ toj˧˧ mɤj˨˦ ci˧˩˨ kɔj˧˧ de˧˧ mo˧˧ kaj˨˦ fim˧˧ lɤ̆t˨ˀ˩ măt˨ˀ˩ doj˧˩˨ dɤj˧˨ naːj˨˧ ma˧˨ da˧ˀ˥ ɲin˧˨ pejt͡ɕ˧˧ ce˨˦ mim˧˧ zoj˧˨",
+    "phonemes": "ɲɛŋ˧˧ tʰɤ̆t̚˨ˀ˩ʔ toj˧˧ mɤj˨˦ ci˧˩˨ kɔj˧˧ de˧˧ mo˧˧ kaj˨˦ fim˧˧ lɤ̆t˨ˀ˩ măt˨ˀ˩ doj˧˩˨ dɤj˧˨ naːj˨˧ ma˧˨ da˧ˀ˥ ɲin˧˨ pejt͡ɕ˧˧ ce˨˦ mi˧˧ mi˧˧ zoj˧˨",
     "tokens": [
       {
         "text": "nhanh",
@@ -17881,7 +17881,7 @@
       {
         "text": "memes",
         "canonical": "memes",
-        "phoneme": "mim˧˧",
+        "phoneme": "mi˧˧ mi˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -18665,7 +18665,7 @@
     "split": "dev",
     "text": "Trước bảo lấy bạn a là thằng Mít Phái mắt nó ti hí tí thôi nhưng được cái nó chung tình thì k nghe",
     "canonical": "Trước bảo lấy bạn anh là thằng Mít Phái mắt nó ti hí tí thôi nhưng được cái nó chung tình thì không nghe",
-    "phonemes": "cɯək˦˥ baw˧˩˨ lɤ̆j˨˦ ban˨ˀ˩ʔ ʔaŋ˧˧ la˧˨ tʰaŋ˨˧ mit˦˥ faj˨˦ măt˦˥ nɔ˨˦ ti˧˧ hi˨˦ ti˨˦ tʰoj˧˧ ɲɯŋ˧˧ dɯək˨ˀ˩ kaj˨˦ nɔ˨˦ cuŋ͡m˧˧ tiŋ˧˨ tʰi˧˨ xoŋ͡m˧˧ ŋɛ˧˧",
+    "phonemes": "cɯək˦˥ baw˧˩˨ lɤ̆j˨˦ ban˨ˀ˩ʔ ʔaŋ˧˧ la˧˨ tʰaŋ˨˧ mit˦˥ faj˨˦ măt˦˥ nɔ˨˦ ti˧˧ hi˨˦ ti˨˦ tʰoj˧˧ ɲɯŋ˧˧ dɯək˨ˀ˩ kaj˨˦ nɔ˨˦ tɕuŋ͡m˧˧ tiŋ˧˨ tʰi˧˨ xoŋ͡m˧˧ ŋɛ˧˧",
     "tokens": [
       {
         "text": "Trước",
@@ -18803,7 +18803,7 @@
       {
         "text": "chung",
         "canonical": "chung",
-        "phoneme": "cuŋ͡m˧˧",
+        "phoneme": "tɕuŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -18844,7 +18844,7 @@
     "split": "dev",
     "text": "cô đơn trong viện dưỡng lão khi đoá bà dẫn gia đình bà zô thăm tui mỗi tháng được hong zạ",
     "canonical": "cô đơn trong viện dưỡng lão khi đó bà dẫn gia đình bà vô thăm tui mỗi tháng được không dạ",
-    "phonemes": "ko˧˧ dɤn˧˧ cɔŋ͡m˧˧ viən˨ˀ˩ʔ zɯəŋ˧ˀ˥ law˧ˀ˥ xi˧˧ dɔ˨˦ ba˧˨ zɤ̆n˧ˀ˥ za˧˧ diŋ˧˨ ba˧˨ vo˧˧ tʰăm˧˧ tuj˧˧ moj˧ˀ˥ tʰaŋ˨˦ dɯək˨ˀ˩ xoŋ͡m˧˧ za˨ˀ˩ʔ",
+    "phonemes": "ko˧˧ dɤn˧˧ tɕɔŋ͡m˧˧ viən˨ˀ˩ʔ zɯəŋ˧ˀ˥ law˧ˀ˥ xi˧˧ dɔ˨˦ ba˧˨ zɤ̆n˧ˀ˥ za˧˧ diŋ˧˨ ba˧˨ vo˧˧ tʰăm˧˧ tuj˧˧ moj˧ˀ˥ tʰaŋ˨˦ dɯək˨ˀ˩ xoŋ͡m˧˧ za˨ˀ˩ʔ",
     "tokens": [
       {
         "text": "cô",
@@ -18863,7 +18863,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -23704,7 +23704,7 @@
     "split": "dev",
     "text": "shout out to người tóm tắt nội dung dùm luôn k cần xem",
     "canonical": "shout out to người tóm tắt nội dung giùm luôn không cần xem",
-    "phonemes": "ʂawt˧˧ ʔawt˧˧ tɔ˧˧ ŋɯəj˧˨ tɔm˨˦ tăt˦˥ noj˨ˀ˩ʔ zuŋ͡m˧˧ zum˧˨ luən˧˧ xoŋ͡m˧˧ kɤ̆n˧˨ sɛm˧˧",
+    "phonemes": "ʂawt˧˧ ʔaw˧˧ tɔ˧˧ ŋɯəj˧˨ tɔm˨˦ tăt˦˥ noj˨ˀ˩ʔ zuŋ͡m˧˧ zum˧˨ luən˧˧ xoŋ͡m˧˧ kɤ̆n˧˨ sɛm˧˧",
     "tokens": [
       {
         "text": "shout",
@@ -23716,7 +23716,7 @@
       {
         "text": "out",
         "canonical": "out",
-        "phoneme": "ʔawt˧˧",
+        "phoneme": "ʔaw˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -24665,7 +24665,7 @@
     "split": "dev",
     "text": "Mưa trong tym bão trong lòng =))",
     "canonical": "Mưa trong tim bão trong lòng =))",
-    "phonemes": "mɯə˧˧ cɔŋ͡m˧˧ tim˧˧ baw˧ˀ˥ cɔŋ͡m˧˧ lɔŋ͡m˧˨ <=))>",
+    "phonemes": "mɯə˧˧ tɕɔŋ͡m˧˧ tim˧˧ baw˧ˀ˥ tɕɔŋ͡m˧˧ lɔŋ͡m˧˨ <=))>",
     "tokens": [
       {
         "text": "Mưa",
@@ -24677,7 +24677,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -24698,7 +24698,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -25102,12 +25102,12 @@
     "split": "dev",
     "text": "T mún ăn măng cụt chín cơ",
     "canonical": "T muốn ăn măng cụt chín cơ",
-    "phonemes": "te˧˧ muən˨˦ ăn˧˧ măŋ˧˧ kut˨ˀ˩ cin˨˦ kɤ˧˧",
+    "phonemes": "toj˧˧ muən˨˦ ăn˧˧ măŋ˧˧ kut˨ˀ˩ cin˨˦ kɤ˧˧",
     "tokens": [
       {
         "text": "T",
         "canonical": "T",
-        "phoneme": "te˧˧",
+        "phoneme": "toj˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -26855,7 +26855,7 @@
     "split": "dev",
     "text": "Triệu Lệ Dĩnh xinh xĩuuuuuuuuu",
     "canonical": "Triệu Lệ Dĩnh xinh xỉu",
-    "phonemes": "ciəw˨ˀ˩ʔ le˨ˀ˩ʔ ziɲ˨ˀ˩ʔ siŋ˧˧ siw˧˩˨",
+    "phonemes": "ciəw˨ˀ˩ʔ le˨ˀ˩ʔ ziŋ˧ˀ˥ siŋ˧˧ siw˧˩˨",
     "tokens": [
       {
         "text": "Triệu",
@@ -26874,7 +26874,7 @@
       {
         "text": "Dĩnh",
         "canonical": "Dĩnh",
-        "phoneme": "ziɲ˨ˀ˩ʔ",
+        "phoneme": "ziŋ˧ˀ˥",
         "is_nc": false,
         "nc_type": null
       },
@@ -28110,7 +28110,7 @@
     "split": "dev",
     "text": "Cái dại của bạn là b k bjo chia sẻ cho ck biết b chi tiêu ntn trong cs",
     "canonical": "Cái dại của bạn là bạn không bao giờ chia sẻ cho chồng biết bạn chi tiêu ntn trong cuộc sống",
-    "phonemes": "kaj˨˦ zaj˨ˀ˩ʔ kuə˧˩˨ ban˨ˀ˩ʔ la˧˨ ban˨ˀ˩ʔ xoŋ͡m˧˧ baw˧˧ zɤ˧˨ ciə˧˧ sɛ˧˩˨ cɔ˧˧ tɕoŋ͡m˧˨ biət̚˦˥ ban˨ˀ˩ʔ ci˧˧ tiəw˧˧ nɯ tʰe nao˧˧ cɔŋ͡m˧˧ kuək̚˨ˀ˩ soŋ͡m˨˦",
+    "phonemes": "kaj˨˦ zaj˨ˀ˩ʔ kuə˧˩˨ ban˨ˀ˩ʔ la˧˨ ban˨ˀ˩ʔ xoŋ͡m˧˧ baw˧˧ zɤ˧˨ ciə˧˧ sɛ˧˩˨ cɔ˧˧ tɕoŋ͡m˧˨ biət̚˦˥ ban˨ˀ˩ʔ ci˧˧ tiəw˧˧ nɯ tʰe nao˧˧ tɕɔŋ͡m˧˧ kuək̚˨ˀ˩ soŋ͡m˨˦",
     "tokens": [
       {
         "text": "Cái",
@@ -28220,7 +28220,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -29218,7 +29218,7 @@
     "split": "dev",
     "text": "ý da, sao toy lại đọc đc cái này sau khi ngâm gần cả tiếng trong đó vậy tr",
     "canonical": "ý ta, sao tôi lại đọc được cái này sau khi ngâm gần cả tiếng trong đó vậy trời",
-    "phonemes": "i˨˦ ta˧˧ saw˧˧ toj˧˧ laj˨ˀ˩ʔ dɔk͡p˨ˀ˩ dɯək̚˨ˀ˩ kaj˨˦ năj˧˨ săw˧˧ xi˧˧ ŋɤ̆m˧˧ ɣɤ̆n˧˨ ka˧˩˨ tiəŋ˨˦ cɔŋ͡m˧˧ dɔ˨˦ vɤ̆j˨ˀ˩ʔ tɕɤj˧˨",
+    "phonemes": "i˨˦ ta˧˧ saw˧˧ toj˧˧ laj˨ˀ˩ʔ dɔk͡p˨ˀ˩ dɯək̚˨ˀ˩ kaj˨˦ năj˧˨ săw˧˧ xi˧˧ ŋɤ̆m˧˧ ɣɤ̆n˧˨ ka˧˩˨ tiəŋ˨˦ tɕɔŋ͡m˧˧ dɔ˨˦ vɤ̆j˨ˀ˩ʔ tɕɤj˧˨",
     "tokens": [
       {
         "text": "ý",
@@ -29328,7 +29328,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -29362,7 +29362,7 @@
     "split": "dev",
     "text": "chứ k có kiểu bới chọn trong đĩa đâu nhé!!!",
     "canonical": "chứ không có kiểu bới chọn trong đĩa đâu nhé!!!",
-    "phonemes": "cɯ˨˦ xoŋ͡m˧˧ kɔ˨˦ kiəw˧˩˨ bɤj˨˦ cɔn˨ˀ˩ʔ cɔŋ͡m˧˧ diə˧ˀ˥ dɤ̆w˧˧ ɲɛ˨˦",
+    "phonemes": "cɯ˨˦ xoŋ͡m˧˧ kɔ˨˦ kiəw˧˩˨ bɤj˨˦ cɔn˨ˀ˩ʔ tɕɔŋ͡m˧˧ diə˧ˀ˥ dɤ̆w˧˧ ɲɛ˨˦",
     "tokens": [
       {
         "text": "chứ",
@@ -29409,7 +29409,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -30012,7 +30012,7 @@
     "split": "dev",
     "text": "Mém quên mk đang đi làm vào giờ hàng chính luôn",
     "canonical": "Mém quên mình đang đi làm vào giờ hành chính luôn",
-    "phonemes": "mɛm˨˦ kwen˧˧ miŋ˧˨ daŋ˧˧ di˧˧ lam˧˨ vaw˧˨ zɤ˧˨ haŋ˧˨ ciŋ˨˦ luən˧˧",
+    "phonemes": "mɛm˨˦ kwen˧˧ miŋ˧˨ daŋ˧˧ di˧˧ lam˧˨ vaw˧˨ zɤ˧˨ haŋ˧˨ tɕiŋ˨˦ luən˧˧",
     "tokens": [
       {
         "text": "Mém",
@@ -30080,7 +30080,7 @@
       {
         "text": "chính",
         "canonical": "chính",
-        "phoneme": "ciŋ˨˦",
+        "phoneme": "tɕiŋ˨˦",
         "is_nc": false,
         "nc_type": null
       },
@@ -30628,7 +30628,7 @@
     "split": "dev",
     "text": "Có shop nào ra mẫu áo khoác ngoài màu trắng bên trong màu đen chưa để em đặt hàng nèooo",
     "canonical": "Có shop nào ra mẫu áo khoác ngoài màu trắng bên trong màu đen chưa để em đặt hàng nào",
-    "phonemes": "kɔ˨˦ ʂɔp̚˧˧ naw˧˨ za˧˧ mɤ̆w˧ˀ˥ aw˨˦ xwaːk̚˨˦ ŋwaj˧˨ măw˧˨ caŋ͡m˨ˀ˩ʔ ben˧˧ cɔŋ͡m˧˧ măw˧˨ dɛn˧˧ cɯə˧˧ de˧˩˨ ɛm˧˧ dăt˨ˀ˩ haŋ˧˨ naw˧˨",
+    "phonemes": "kɔ˨˦ ʂɔp̚˧˧ naw˧˨ za˧˧ mɤ̆w˧ˀ˥ aw˨˦ xwaːk̚˨˦ ŋwaj˧˨ măw˧˨ caŋ͡m˨ˀ˩ʔ ben˧˧ tɕɔŋ͡m˧˧ măw˧˨ dɛn˧˧ cɯə˧˧ de˧˩˨ ɛm˧˧ dăt˨ˀ˩ haŋ˧˨ naw˧˨",
     "tokens": [
       {
         "text": "Có",
@@ -30710,7 +30710,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -31137,7 +31137,7 @@
     "split": "dev",
     "text": "bên mik như tủ lạnh á",
     "canonical": "bên mình như tủ lạnh á",
-    "phonemes": "ben˧˧ miŋ˧˨ ɲɯ˧˧ tu˧˩˨ lɛŋ˨ˀ˩ʔ a˨˦",
+    "phonemes": "ben˧˧ miŋ˧˨ ɲɯ˧˧ tu˧˩˨ laŋ˨ˀ˩ʔ a˨˦",
     "tokens": [
       {
         "text": "bên",
@@ -31170,7 +31170,7 @@
       {
         "text": "lạnh",
         "canonical": "lạnh",
-        "phoneme": "lɛŋ˨ˀ˩ʔ",
+        "phoneme": "laŋ˨ˀ˩ʔ",
         "is_nc": false,
         "nc_type": null
       },
@@ -31190,7 +31190,7 @@
     "split": "dev",
     "text": "c chung có định triển thử k ạ",
     "canonical": "cậu chung có định triển thử không ạ",
-    "phonemes": "kɤ̆w˨ˀ˩ʔ cuŋ͡m˧˧ kɔ˨˦ diŋ˨ˀ˩ʔ ciən˧˩˨ tʰɯ˧˩˨ xoŋ͡m˧˧ a˨ˀ˩ʔ",
+    "phonemes": "kɤ̆w˨ˀ˩ʔ tɕuŋ͡m˧˧ kɔ˨˦ diŋ˨ˀ˩ʔ ciən˧˩˨ tʰɯ˧˩˨ xoŋ͡m˧˧ a˨ˀ˩ʔ",
     "tokens": [
       {
         "text": "c",
@@ -31202,7 +31202,7 @@
       {
         "text": "chung",
         "canonical": "chung",
-        "phoneme": "cuŋ͡m˧˧",
+        "phoneme": "tɕuŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -32660,7 +32660,7 @@
     "split": "dev",
     "text": "bữa vô sớm cái hồ ko có ai thấy nước trong nên vô,đi 1 tí qlai thấy cái hồ nó đổi màu ngang :)))",
     "canonical": "bữa vô sớm cái hồ không có ai thấy nước trong nên vô,đi 1 tí quay lại thấy cái hồ nó đổi màu ngang :)))",
-    "phonemes": "bɯə˧ˀ˥ vo˧˧ sɤm˨˦ kaj˨˦ ho˧˨ xoŋ͡m˧˧ kɔ˨˦ ʔaj˧˧ tʰɤ̆j˨˦ nɯək˦˥ cɔŋ͡m˧˧ nen˧˧ vo˧˧ ɗi˧˧ mot˨ˀ˩ ti˨˦ kwăj˧˧ laj˨ˀ˩ʔ tʰɤ̆j˨˦ kaj˨˦ ho˧˨ nɔ˨˦ doj˧˩˨ măw˧˨ ŋaŋ˧˧ <:)))>",
+    "phonemes": "bɯə˧ˀ˥ vo˧˧ sɤm˨˦ kaj˨˦ ho˧˨ xoŋ͡m˧˧ kɔ˨˦ ʔaj˧˧ tʰɤ̆j˨˦ nɯək˦˥ tɕɔŋ͡m˧˧ nen˧˧ vo˧˧ ɗi˧˧ mot˨ˀ˩ ti˨˦ kwăj˧˧ laj˨ˀ˩ʔ tʰɤ̆j˨˦ kaj˨˦ ho˧˨ nɔ˨˦ doj˧˩˨ măw˧˨ ŋaŋ˧˧ <:)))>",
     "tokens": [
       {
         "text": "bữa",
@@ -32735,7 +32735,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -33121,7 +33121,7 @@
     "split": "dev",
     "text": "Bạn tao vài người có 1 2tr đô kiếm từ chứng khoán , crypto nhưng chưa thấy đứa nào khoe tháng kiếm dc vài chục triệu bao giờ",
     "canonical": "Bạn tôi vài người có 1 2tr đô kiếm từ chứng khoán , crypto nhưng chưa thấy đứa nào khoe tháng kiếm được vài chục triệu bao giờ",
-    "phonemes": "ban˨ˀ˩ʔ toj˧˧ vaj˧˨ ŋɯəj˧˨ kɔ˨˦ mot˨ˀ˩ haj˧˧ ciəw˨ˀ˩ʔ do˧˧ kiəm˨˦ tɯ˧˨ cɯŋ˨˦ xwan˨˦ <,> kɾip˨˦ to˧˧ ɲɯŋ˧˧ cɯə˧˧ tʰɤ̆j˨˦ dɯə˨˦ naw˧˨ xwɛ˧˧ tʰaŋ˨˦ kiəm˨˦ dɯək̚˨ˀ˩ vaj˧˨ cuk͡p˨ˀ˩ ciəw˨ˀ˩ʔ baw˧˧ zɤ˧˨",
+    "phonemes": "ban˨ˀ˩ʔ toj˧˧ vaj˧˨ ŋɯəj˧˨ kɔ˨˦ mot˨ˀ˩ haj˧˧ tɕiəw˨ˀ˩ʔ do˧˧ kiəm˨˦ tɯ˧˨ cɯŋ˨˦ xwan˨˦ <,> kɾip˨˦ to˧˧ ɲɯŋ˧˧ cɯə˧˧ tʰɤ̆j˨˦ dɯə˨˦ naw˧˨ xwɛ˧˧ tʰaŋ˨˦ kiəm˨˦ dɯək̚˨ˀ˩ vaj˧˨ cuk͡p˨ˀ˩ ciəw˨ˀ˩ʔ baw˧˧ zɤ˧˨",
     "tokens": [
       {
         "text": "Bạn",
@@ -33168,7 +33168,7 @@
       {
         "text": "2tr",
         "canonical": "2tr",
-        "phoneme": "haj˧˧ ciəw˨ˀ˩ʔ",
+        "phoneme": "haj˧˧ tɕiəw˨ˀ˩ʔ",
         "is_nc": false,
         "nc_type": null
       },
@@ -33441,7 +33441,7 @@
     "split": "dev",
     "text": "Nhà t có nửa quả dưa hấu to đùng trong tủ lạnh nhưng chị t vẫn đặt ép dưa hấu về uống",
     "canonical": "Nhà tôi có nửa quả dưa hấu to đùng trong tủ lạnh nhưng chị tôi vẫn đặt ép dưa hấu về uống",
-    "phonemes": "ɲa˧˨ toj˧˧ kɔ˨˦ nɯə˧˩˨ kwa˧˩˨ zɯə˧˧ hɤ̆w˨˦ tɔ˧˧ duŋ͡m˧˨ cɔŋ͡m˧˧ tu˧˩˨ laŋ˨ˀ˩ʔ ɲɯŋ˧˧ ci˨ˀ˩ʔ toj˧˧ vɤ̆n˧ˀ˥ dăt˨ˀ˩ ɛp˦˥ zɯə˧˧ hɤ̆w˨˦ ve˧˨ uəŋ˨˦",
+    "phonemes": "ɲa˧˨ toj˧˧ kɔ˨˦ nɯə˧˩˨ kwa˧˩˨ zɯə˧˧ hɤ̆w˨˦ tɔ˧˧ duŋ͡m˧˨ tɕɔŋ͡m˧˧ tu˧˩˨ laŋ˨ˀ˩ʔ ɲɯŋ˧˧ ci˨ˀ˩ʔ toj˧˧ vɤ̆n˧ˀ˥ dăt˨ˀ˩ ɛp˦˥ zɯə˧˧ hɤ̆w˨˦ ve˧˨ uəŋ˨˦",
     "tokens": [
       {
         "text": "Nhà",
@@ -33509,7 +33509,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -33969,12 +33969,12 @@
     "split": "dev",
     "text": "chú páo em zai mình =))))",
     "canonical": "chú báo em trai mình =))))",
-    "phonemes": "cu˨˦ baw˨˦ ɛm˧˧ tɕaj˧˧ miŋ˧˨ <=))))>",
+    "phonemes": "tɕu˨˦ baw˨˦ ɛm˧˧ tɕaj˧˧ miŋ˧˨ <=))))>",
     "tokens": [
       {
         "text": "chú",
         "canonical": "chú",
-        "phoneme": "cu˨˦",
+        "phoneme": "tɕu˨˦",
         "is_nc": false,
         "nc_type": null
       },
@@ -34022,7 +34022,7 @@
     "split": "dev",
     "text": "nói thật chứ trừ khi là t muốn làm thêm giờ thì t làm, chứ cứ ép nhau kiểu đấy không khác gì ép rượu ép bia, bọn t chả nể đâu",
     "canonical": "nói thật chứ trừ khi là tao muốn làm thêm giờ thì tao làm, chứ cứ ép nhau kiểu đấy không khác gì ép rượu ép bia, bọn tao chả nể đâu",
-    "phonemes": "nɔj˨˦ tʰɤ̆t˨ˀ˩ cɯ˨˦ cɯ˧˨ xi˧˧ la˧˨ taw˧˧ muən˨˦ lam˧˨ tʰem˧˧ zɤ˧˨ tʰi˧˨ taw˧˧ laːm˧˨ cɯ˨˦ kɯ˨˦ ɛp˦˥ ɲăw˧˧ kiəw˧˩˨ dɤ̆j˨˦ xoŋ͡m˧˧ xak˦˥ ɣi˧˨ ɛp˦˥ zɯəw˨ˀ˩ʔ ʔɛp˦˥ biə˧˧ bɔn˨ˀ˩ʔ taw˧˧ ca˧˩˨ ne˧˩˨ dɤ̆w˧˧",
+    "phonemes": "nɔj˨˦ tʰɤ̆t˨ˀ˩ cɯ˨˦ tɕɯ˧˨ xi˧˧ la˧˨ taw˧˧ muən˨˦ lam˧˨ tʰem˧˧ zɤ˧˨ tʰi˧˨ taw˧˧ laːm˧˨ cɯ˨˦ kɯ˨˦ ɛp˦˥ ɲăw˧˧ kiəw˧˩˨ dɤ̆j˨˦ xoŋ͡m˧˧ xak˦˥ ɣi˧˨ ɛp˦˥ zɯəw˨ˀ˩ʔ ʔɛp˦˥ biə˧˧ bɔn˨ˀ˩ʔ taw˧˧ ca˧˩˨ ne˧˩˨ dɤ̆w˧˧",
     "tokens": [
       {
         "text": "nói",
@@ -34048,7 +34048,7 @@
       {
         "text": "trừ",
         "canonical": "trừ",
-        "phoneme": "cɯ˧˨",
+        "phoneme": "tɕɯ˧˨",
         "is_nc": false,
         "nc_type": null
       },
@@ -34345,7 +34345,7 @@
     "split": "dev",
     "text": "chụp hs là phụ khoe xoài là chính :)))",
     "canonical": "chụp học sinh là phụ khoe xoài là chính :)))",
-    "phonemes": "cup˨ˀ˩ hɔk͡p˨ˀ˩ siŋ˧˧ la˧˨ fu˨ˀ˩ʔ xwe˧˧ swaj˧˨ la˧˨ ciŋ˨˦ <:)))>",
+    "phonemes": "cup˨ˀ˩ hɔk͡p˨ˀ˩ siŋ˧˧ la˧˨ fu˨ˀ˩ʔ xwe˧˧ swaj˧˨ la˧˨ tɕiŋ˨˦ <:)))>",
     "tokens": [
       {
         "text": "chụp",
@@ -34399,7 +34399,7 @@
       {
         "text": "chính",
         "canonical": "chính",
-        "phoneme": "ciŋ˨˦",
+        "phoneme": "tɕiŋ˨˦",
         "is_nc": false,
         "nc_type": null
       },
@@ -35341,7 +35341,7 @@
     "split": "dev",
     "text": "Toàn lm ở trong nhà mà ko thể trắng nổi",
     "canonical": "Toàn làm ở trong nhà mà không thể trắng nổi",
-    "phonemes": "twan˧˨ lam˧˨ ɤ˧˩˨ cɔŋ͡m˧˧ ɲa˧˨ ma˧˨ xoŋ͡m˧˧ tʰe˧˩˨ caŋ͡m˨ˀ˩ʔ noj˧˩˨",
+    "phonemes": "twan˧˨ lam˧˨ ɤ˧˩˨ tɕɔŋ͡m˧˧ ɲa˧˨ ma˧˨ xoŋ͡m˧˧ tʰe˧˩˨ caŋ͡m˨ˀ˩ʔ noj˧˩˨",
     "tokens": [
       {
         "text": "Toàn",
@@ -35367,7 +35367,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -35422,7 +35422,7 @@
     "split": "dev",
     "text": "Hậu quả của việc leo lênh giường hok thấy gi thú vị nên mở tủ lạnh",
     "canonical": "Hậu quả của việc leo lên giường hông thấy gì thú vị nên mở tủ lạnh",
-    "phonemes": "hɤ̆w˨ˀ˩ʔ kwa˧˩˨ kuə˧˩˨ viək˨ˀ˩ leo˧˧ len˧˧ zɯəŋ˧˨ hoŋ͡m˧˧ tʰɤ̆j˨˦ zi˧˨ tʰu˨˦ vi˨ˀ˩ʔ nen˧˧ mɤ˧˩˨ tu˧˩˨ lɛŋ˨ˀ˩ʔ",
+    "phonemes": "hɤ̆w˨ˀ˩ʔ kwa˧˩˨ kuə˧˩˨ viək˨ˀ˩ leo˧˧ len˧˧ zɯəŋ˧˨ hoŋ͡m˧˧ tʰɤ̆j˨˦ zi˧˨ tʰu˨˦ vi˨ˀ˩ʔ nen˧˧ mɤ˧˩˨ tu˧˩˨ laŋ˨ˀ˩ʔ",
     "tokens": [
       {
         "text": "Hậu",
@@ -35532,7 +35532,7 @@
       {
         "text": "lạnh",
         "canonical": "lạnh",
-        "phoneme": "lɛŋ˨ˀ˩ʔ",
+        "phoneme": "laŋ˨ˀ˩ʔ",
         "is_nc": false,
         "nc_type": null
       }
@@ -36204,7 +36204,7 @@
     "split": "dev",
     "text": "hôm nay khum gặp được chú òy :((",
     "canonical": "hôm nay không gặp được chú rồi :((",
-    "phonemes": "hom˧˧ năj˧˧ xoŋ͡m˧˧ ɣăp˨ˀ˩ dɯək̚˨ˀ˩ cu˨˦ zoj˧˨ <:((>",
+    "phonemes": "hom˧˧ năj˧˧ xoŋ͡m˧˧ ɣăp˨ˀ˩ dɯək̚˨ˀ˩ tɕu˨˦ zoj˧˨ <:((>",
     "tokens": [
       {
         "text": "hôm",
@@ -36244,7 +36244,7 @@
       {
         "text": "chú",
         "canonical": "chú",
-        "phoneme": "cu˨˦",
+        "phoneme": "tɕu˨˦",
         "is_nc": false,
         "nc_type": null
       },
@@ -37602,7 +37602,7 @@
     "split": "dev",
     "text": "mún đc iu nhưng k mún iu, mập rõ tnay đau tim lắm ấy ơi hic",
     "canonical": "muốn được yêu nhưng không muốn yêu, mập rõ tnay đau tim lắm ấy ơi hic",
-    "phonemes": "muən˨˦ dɯək̚˨ˀ˩ ʔiəw˧˧ ɲɯŋ˧˧ xoŋ͡m˧˧ muən˨˦ ʔiəw˧˧ mɤ̆p˨ˀ˩ zɔ˧ˀ˥ tə̆˧˧ naːj˧˧ dăw˧˧ tim˧˧ lăm˨˦ ɤ̆j˨˦ ɤj˧˧ hik˧˧",
+    "phonemes": "muən˨˦ dɯək̚˨ˀ˩ ʔiəw˧˧ ɲɯŋ˧˧ xoŋ͡m˧˧ muən˨˦ ʔiəw˧˧ mɤ̆p˨ˀ˩ zɔ˧ˀ˥ tə̆˧˧ naːj˧˧ dăw˧˧ tim˧˧ lăm˨˦ ɤ̆j˨˦ ɤj˧˧ hik̚˦˥",
     "tokens": [
       {
         "text": "mún",
@@ -37712,7 +37712,7 @@
       {
         "text": "hic",
         "canonical": "hic",
-        "phoneme": "hik˧˧",
+        "phoneme": "hik̚˦˥",
         "is_nc": false,
         "nc_type": null
       }
@@ -37771,7 +37771,7 @@
     "split": "dev",
     "text": "Ngô Thiến nhìn có sức sống ghê, mong là chị thuận lợi, k vướn bận gì trong lòng",
     "canonical": "Ngô Thiến nhìn có sức sống ghê, mong là chị thuận lợi, không vướng bận gì trong lòng",
-    "phonemes": "ŋo˧˧ tʰiən˨˦ ɲin˧˨ kɔ˨˦ sɯk˦˥ soŋ͡m˨˦ ɣe˧˧ mɔŋ͡m˧˧ la˧˨ ci˨ˀ˩ʔ tʰwɤ̆n˨ˀ˩ʔ lɤj˨ˀ˩ʔ xoŋ͡m˧˧ vɯəŋ˨˦ bɤ̆n˨ˀ˩ʔ ɣi˧˨ cɔŋ͡m˧˧ lɔŋ͡m˧˨",
+    "phonemes": "ŋo˧˧ tʰiən˨˦ ɲin˧˨ kɔ˨˦ sɯk˦˥ soŋ͡m˨˦ ɣe˧˧ mɔŋ͡m˧˧ la˧˨ ci˨ˀ˩ʔ tʰwɤ̆n˨ˀ˩ʔ lɤj˨ˀ˩ʔ xoŋ͡m˧˧ vɯəŋ˨˦ bɤ̆n˨ˀ˩ʔ ɣi˧˨ tɕɔŋ͡m˧˧ lɔŋ͡m˧˨",
     "tokens": [
       {
         "text": "Ngô",
@@ -37888,7 +37888,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -39533,7 +39533,7 @@
     "split": "dev",
     "text": "Hên qá đau có tiền đau cho vay, toàn đi vay ngta k à, mà ngta đòi k chịu trả",
     "canonical": "Hên quá đâu có tiền đâu cho vay, toàn đi vay người ta không à, mà người ta đòi không chịu trả",
-    "phonemes": "hen˧˧ kwa˨˦ dɤ̆w˧˧ kɔ˨˦ tiən˧˨ dɤ̆w˧˧ cɔ˧˧ vaj˧˧ twan˧˨ di˧˧ văj˧˧ ŋɯəj˧˨ ta˧˧ xoŋ͡m˧˧ a˧˨ ma˧˨ ŋɯəj˧˨ ta˧˧ dɔj˧˨ xoŋ͡m˧˧ ciw˨ˀ˩ʔ ca˧˩˨",
+    "phonemes": "hen˧˧ kwa˨˦ dɤ̆w˧˧ kɔ˨˦ tiən˧˨ dɤ̆w˧˧ cɔ˧˧ vaj˧˧ twan˧˨ di˧˧ văj˧˧ ŋɯəj˧˨ ta˧˧ xoŋ͡m˧˧ a˧˨ ma˧˨ ŋɯəj˧˨ ta˧˧ dɔj˧˨ xoŋ͡m˧˧ tɕiw˨ˀ˩ʔ ca˧˩˨",
     "tokens": [
       {
         "text": "Hên",
@@ -39650,7 +39650,7 @@
       {
         "text": "chịu",
         "canonical": "chịu",
-        "phoneme": "ciw˨ˀ˩ʔ",
+        "phoneme": "tɕiw˨ˀ˩ʔ",
         "is_nc": false,
         "nc_type": null
       },
@@ -42245,7 +42245,7 @@
     "split": "dev",
     "text": "Hổng hiểu em, z mà nói iu",
     "canonical": "Không hiểu em, vậy mà nói yêu",
-    "phonemes": "xoŋ͡m˧˧ hiəw˧˩˨ ɛm˧˧ vɤ̆j˨ˀ˩ʔ ma˧˨ nɔj˨˦ ʔiəw˧˧",
+    "phonemes": "xoŋ͡m˧˧ hiəw˧˩˨ ʔɛm˧˧ vɤ̆j˨ˀ˩ʔ ma˧˨ nɔj˨˦ ʔiəw˧˧",
     "tokens": [
       {
         "text": "Hổng",
@@ -42264,7 +42264,7 @@
       {
         "text": "em,",
         "canonical": "em,",
-        "phoneme": "ɛm˧˧",
+        "phoneme": "ʔɛm˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -43367,7 +43367,7 @@
     "split": "dev",
     "text": "Mong e bé k sao, nhưng cũng mong kẻ đánh ng phải chịu hình phạt thích đáng.",
     "canonical": "Mong em bé không sao, nhưng cũng mong kẻ đánh người phải chịu hình phạt thích đáng.",
-    "phonemes": "mɔŋ͡m˧˧ ʔɛm˧˧ bɛ˨˦ xoŋ͡m˧˧ ʂaw˧˧ ɲɯŋ˧˧ kuŋ͡m˧ˀ˥ mɔŋ͡m˧˧ kɛ˧˩˨ dɛŋ˨˦ ŋɯəj˧˨ faj˧˩˨ ciw˨ˀ˩ʔ hiŋ˧˨ fat˨ˀ˩ tʰik˦˥ ɗaːŋ˨˦",
+    "phonemes": "mɔŋ͡m˧˧ ʔɛm˧˧ bɛ˨˦ xoŋ͡m˧˧ saw˧˧ ɲɯŋ˧˧ kuŋ͡m˧ˀ˥ mɔŋ͡m˧˧ kɛ˧˩˨ dɛŋ˨˦ ŋɯəj˧˨ faj˧˩˨ tɕiw˨ˀ˩ʔ hiŋ˧˨ fat˨ˀ˩ tʰik˦˥ ɗaːŋ˨˦",
     "tokens": [
       {
         "text": "Mong",
@@ -43400,7 +43400,7 @@
       {
         "text": "sao,",
         "canonical": "sao,",
-        "phoneme": "ʂaw˧˧",
+        "phoneme": "saw˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -43456,7 +43456,7 @@
       {
         "text": "chịu",
         "canonical": "chịu",
-        "phoneme": "ciw˨ˀ˩ʔ",
+        "phoneme": "tɕiw˨ˀ˩ʔ",
         "is_nc": false,
         "nc_type": null
       },
@@ -43786,7 +43786,7 @@
     "split": "dev",
     "text": "Trường tui cx bật lúc 9h á má mát lạnh luôn",
     "canonical": "Trường tui cũng bật lúc 9h á má mát lạnh luôn",
-    "phonemes": "cɯəŋ˧˨ tuj˧˧ kuŋ͡m˧ˀ˥ bɤ̆t˨ˀ˩ luk͡p˦˥ cin˨˦ zɤ˧˨ a˨˦ ma˨˦ mat˦˥ lɛŋ˨ˀ˩ʔ luən˧˧",
+    "phonemes": "cɯəŋ˧˨ tuj˧˧ kuŋ͡m˧ˀ˥ bɤ̆t˨ˀ˩ luk͡p˦˥ cin˨˦ zɤ˧˨ a˨˦ ma˨˦ mat˦˥ laŋ˨ˀ˩ʔ luən˧˧",
     "tokens": [
       {
         "text": "Trường",
@@ -43854,7 +43854,7 @@
       {
         "text": "lạnh",
         "canonical": "lạnh",
-        "phoneme": "lɛŋ˨ˀ˩ʔ",
+        "phoneme": "laŋ˨ˀ˩ʔ",
         "is_nc": false,
         "nc_type": null
       },
@@ -44264,7 +44264,7 @@
     "split": "dev",
     "text": "Hoy bè ơi bè, ăn chung mâm mà bới bới kiểu đó tui còn khó chịu chứ đừng nói gì tới ng lớn",
     "canonical": "Thôi bà ơi bà, ăn chung mâm mà bới bới kiểu đó tui còn khó chịu chứ đừng nói gì tới người lớn",
-    "phonemes": "tʰoj˧˧ ba˧˨ ɤj˧˧ ɓa˧˨ ăn˧˧ cuŋ͡m˧˧ mɤ̆m˧˧ ma˧˨ bɤj˨˦ bɤj˨˦ kiəw˧˩˨ dɔ˨˦ tuj˧˧ kɔn˧˨ xɔ˨˦ ciw˨ˀ˩ʔ cɯ˨˦ dɯŋ˧˨ nɔj˨˦ ɣi˧˨ tɤj˨˦ ŋɯəj˧˨ lɤn˨˦",
+    "phonemes": "tʰoj˧˧ ba˧˨ ɤj˧˧ ɓa˧˨ ăn˧˧ tɕuŋ͡m˧˧ mɤ̆m˧˧ ma˧˨ bɤj˨˦ bɤj˨˦ kiəw˧˩˨ dɔ˨˦ tuj˧˧ kɔn˧˨ xɔ˨˦ tɕiw˨ˀ˩ʔ cɯ˨˦ dɯŋ˧˨ nɔj˨˦ ɣi˧˨ tɤj˨˦ ŋɯəj˧˨ lɤn˨˦",
     "tokens": [
       {
         "text": "Hoy",
@@ -44304,7 +44304,7 @@
       {
         "text": "chung",
         "canonical": "chung",
-        "phoneme": "cuŋ͡m˧˧",
+        "phoneme": "tɕuŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -44374,7 +44374,7 @@
       {
         "text": "chịu",
         "canonical": "chịu",
-        "phoneme": "ciw˨ˀ˩ʔ",
+        "phoneme": "tɕiw˨ˀ˩ʔ",
         "is_nc": false,
         "nc_type": null
       },
@@ -45061,7 +45061,7 @@
     "split": "dev",
     "text": "Mình nhận tạo tài khoản ChatGPT giá rẻ chỉ 15k email chính chủ, tạo xong vào k cần vpn hay fake ip",
     "canonical": "Mình nhận tạo tài khoản ChatGPT giá rẻ chỉ 15k email chính chủ, tạo xong vào không cần vpn hay fake ip",
-    "phonemes": "miŋ˧˨ ɲɤ̆n˨ˀ˩ʔ taw˨ˀ˩ʔ taj˧˨ xwan˧˩˨ t͡ɕɛt̚˦˥ d͡ʑi˧˧ pi˧˧ ti˧˧ za˨˦ zɛ˧˩˨ ci˧˩˨ mɯəj˧˨ lăm˧˧ ŋin˧˨ ʔi˧˧ mej˧˧ ciŋ˨˦ cu˧˩˨ taw˨ˀ˩ʔ sɔŋ͡m˧˧ vaw˧˨ xoŋ͡m˧˧ kɤ̆n˧˨ vi˧˧ pi˧˧ ʔɛn˧˧ hăj˧˧ fejk˦˥ ʔaj˧˧ pi˧˧",
+    "phonemes": "miŋ˧˨ ɲɤ̆n˨ˀ˩ʔ taw˨ˀ˩ʔ taj˧˨ xwan˧˩˨ t͡ɕɛt̚˦˥ d͡ʑi˧˧ pi˧˧ ti˧˧ za˨˦ zɛ˧˩˨ ci˧˩˨ mɯəj˧˨ lăm˧˧ ŋin˧˨ ʔi˧˧ mej˧˧ tɕiŋ˨˦ cu˧˩˨ taw˨ˀ˩ʔ sɔŋ͡m˧˧ vaw˧˨ xoŋ͡m˧˧ kɤ̆n˧˨ vi˧˧ pi˧˧ ʔɛn˧˧ hăj˧˧ fejk˦˥ ʔaj˧˧ pi˧˧",
     "tokens": [
       {
         "text": "Mình",
@@ -45143,7 +45143,7 @@
       {
         "text": "chính",
         "canonical": "chính",
-        "phoneme": "ciŋ˨˦",
+        "phoneme": "tɕiŋ˨˦",
         "is_nc": false,
         "nc_type": null
       },
@@ -45360,7 +45360,7 @@
     "split": "dev",
     "text": "nói ông chú của c kìa",
     "canonical": "nói ông chú của cậu kìa",
-    "phonemes": "nɔj˨˦ oŋ͡m˧˧ cu˨˦ kuə˧˩˨ kɤ̆w˨ˀ˩ʔ kiə˧˨",
+    "phonemes": "nɔj˨˦ oŋ͡m˧˧ tɕu˨˦ kuə˧˩˨ kɤ̆w˨ˀ˩ʔ kiə˧˨",
     "tokens": [
       {
         "text": "nói",
@@ -45379,7 +45379,7 @@
       {
         "text": "chú",
         "canonical": "chú",
-        "phoneme": "cu˨˦",
+        "phoneme": "tɕu˨˦",
         "is_nc": false,
         "nc_type": null
       },
@@ -45501,7 +45501,7 @@
     "split": "dev",
     "text": "Mình có mấy thằng em, cno thịt mình tới đôi dép cuối cùng",
     "canonical": "Mình có mấy thằng em, chúng nó thịt mình tới đôi dép cuối cùng",
-    "phonemes": "miŋ˧˨ kɔ˨˦ mɤ̆j˨˦ tʰaŋ˨˧ ɛm˧˧ tɕuŋ͡m˨˦ nɔ˨˦ tʰit˨ˀ˩ miŋ˧˨ tɤj˨˦ doj˧˧ zɛp˦˥ kuəj˨˦ kuŋ͡m˧˨",
+    "phonemes": "miŋ˧˨ kɔ˨˦ mɤ̆j˨˦ tʰaŋ˨˧ ʔɛm˧˧ tɕuŋ͡m˨˦ nɔ˨˦ tʰit˨ˀ˩ miŋ˧˨ tɤj˨˦ doj˧˧ zɛp˦˥ kuəj˨˦ kuŋ͡m˧˨",
     "tokens": [
       {
         "text": "Mình",
@@ -45534,7 +45534,7 @@
       {
         "text": "em,",
         "canonical": "em,",
-        "phoneme": "ɛm˧˧",
+        "phoneme": "ʔɛm˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -46170,7 +46170,7 @@
     "split": "dev",
     "text": "Có lần mình chạy xe đi pv liên tục mấy chỗ, chạy tất cả tầm hơn 30km thôi, lúc dừng đèn đỏ mỏi mắt quá nên nhắm mắt một tí, vậy là một chú bên cạnh mình hỏi \"mệt quá hả con\".",
     "canonical": "Có lần mình chạy xe đi phỏng vấn liên tục mấy chỗ, chạy tất cả tầm hơn 30km thôi, lúc dừng đèn đỏ mỏi mắt quá nên nhắm mắt một tí, vậy là một chú bên cạnh mình hỏi \"mệt quá hả con\".",
-    "phonemes": "kɔ˨˦ lən˨˧ miŋ˧˨ căj˨ˀ˩ʔ sɛ˧˧ di˧˧ fɔŋ͡m˧˩˨ vɤ̆n˨˦ liən˧˧ tuk͡p˨ˀ˩ mɤ̆j˨˦ tɕo˨ˀ˩ʔ căj˨ˀ˩ʔ tɤ̆t˦˥ ka˧˩˨ tɤ̆m˧˨ hɤn˧˧ ba˧˧ mɯəj˧˧ ki˧˧ lo˧˧ mɛt˦˥ tʰoj˧˧ luk͡p˦˥ zɯŋ˧˨ dɛn˧˨ dɔ˧˩˨ mɔj˧˩˨ măt˦˥ kwa˨˦ nen˧˧ ɲăm˨˦ măt˦˥ mot˨ˀ˩ ti˨˦ vɤ̆j˨ˀ˩ʔ la˧˨ mot˨ˀ˩ cu˨˦ ben˧˧ kaɲ˨ˀ˩ʔ miŋ˧˨ hɔj˧˩˨ mət̚˨ˀ˩ʔ kwa˨˦ ha˧˩˨ kɔn˧˧",
+    "phonemes": "kɔ˨˦ lən˨˧ miŋ˧˨ căj˨ˀ˩ʔ sɛ˧˧ di˧˧ fɔŋ͡m˧˩˨ vɤ̆n˨˦ liən˧˧ tuk͡p˨ˀ˩ mɤ̆j˨˦ tɕo˨ˀ˩ʔ căj˨ˀ˩ʔ tɤ̆t˦˥ ka˧˩˨ tɤ̆m˧˨ hɤn˧˧ ba˧˧ mɯəj˧˧ ki˧˧ lo˧˧ mɛt˦˥ tʰoj˧˧ luk͡p˦˥ zɯŋ˧˨ dɛn˧˨ dɔ˧˩˨ mɔj˧˩˨ măt˦˥ kwa˨˦ nen˧˧ ɲăm˨˦ măt˦˥ mot˨ˀ˩ ti˨˦ vɤ̆j˨ˀ˩ʔ la˧˨ mot˨ˀ˩ tɕu˨˦ ben˧˧ kaɲ˨ˀ˩ʔ miŋ˧˨ hɔj˧˩˨ mət̚˨ˀ˩ʔ kwa˨˦ ha˧˩˨ kɔn˧˧",
     "tokens": [
       {
         "text": "Có",
@@ -46406,7 +46406,7 @@
       {
         "text": "chú",
         "canonical": "chú",
-        "phoneme": "cu˨˦",
+        "phoneme": "tɕu˨˦",
         "is_nc": false,
         "nc_type": null
       },
@@ -46475,7 +46475,7 @@
     "split": "dev",
     "text": "Nma nó cũng oke phết chứ",
     "canonical": "Nhưng mà nó cũng oke phết chứ",
-    "phonemes": "ɲɯŋ˧˧ ma˧˨ nɔ˨˦ kuŋ͡m˧ˀ˥ o˧˧ ke˧˧ fet˦˥ cɯ˨˦",
+    "phonemes": "ɲɯŋ˧˧ ma˧˨ nɔ˨˦ kuŋ͡m˧ˀ˥ ʔo˧˧ ke˧˧ fet˦˥ cɯ˨˦",
     "tokens": [
       {
         "text": "Nma",
@@ -46501,7 +46501,7 @@
       {
         "text": "oke",
         "canonical": "oke",
-        "phoneme": "o˧˧ ke˧˧",
+        "phoneme": "ʔo˧˧ ke˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -47563,7 +47563,7 @@
     "split": "dev",
     "text": "tự cap tn của chính mình",
     "canonical": "tự cap tin nhắn của chính mình",
-    "phonemes": "tɯ˨ˀ˩ʔ kɛp̚˧˧ tin˧˧ ɲăn˨˦ kuə˧˩˨ ciŋ˨˦ miŋ˧˨",
+    "phonemes": "tɯ˨ˀ˩ʔ kɛp̚˧˧ tin˧˧ ɲăn˨˦ kuə˧˩˨ tɕiŋ˨˦ miŋ˧˨",
     "tokens": [
       {
         "text": "tự",
@@ -47596,7 +47596,7 @@
       {
         "text": "chính",
         "canonical": "chính",
-        "phoneme": "ciŋ˨˦",
+        "phoneme": "tɕiŋ˨˦",
         "is_nc": false,
         "nc_type": null
       },
@@ -49036,7 +49036,7 @@
     "split": "dev",
     "text": "Ko phải quy chụp nhưng đa phần ctrai mà chơi chung kiểu gì cái nết y nhau, tốt quá cơ, nào là sợ gd bạn tan rã, cái kết v chưa đủ tan hả mấy cha",
     "canonical": "Không phải quy chụp nhưng đa phần con trai mà chơi chung kiểu gì cái nết y nhau, tốt quá cơ, nào là sợ gia đình bạn tan rã, cái kết vâỵ chưa đủ tan hả mấy cha",
-    "phonemes": "xoŋ͡m˧˧ faj˧˩˨ kwi˧˧ cup˨ˀ˩ ɲɯŋ˧˧ da˧˧ fɤ̆n˧˨ kɔn˧˧ tɕaj˧˧ ma˧˨ cɤj˧˧ cuŋ͡m˧˧ kiəw˧˩˨ ɣi˧˨ kaj˨˦ net˦˥ i˧˧ ɲaw˧˧ tot˦˥ kwa˨˦ kɤ˧˧ naw˧˨ la˧˨ sɤ˨ˀ˩ʔ za˧˧ diŋ˧˨ ban˨ˀ˩ʔ tan˧˧ za˨ˀ˩ʔ kaj˨˦ ket˦˥ vɤ̆j˨ˀ˩ʔ cɯə˧˧ du˧˩˨ tan˧˧ ha˧˩˨ mɤ̆j˨˦ ca˧˧",
+    "phonemes": "xoŋ͡m˧˧ faj˧˩˨ kwi˧˧ cup˨ˀ˩ ɲɯŋ˧˧ da˧˧ fɤ̆n˧˨ kɔn˧˧ tɕaj˧˧ ma˧˨ cɤj˧˧ tɕuŋ͡m˧˧ kiəw˧˩˨ ɣi˧˨ kaj˨˦ net˦˥ i˧˧ ɲaw˧˧ tot˦˥ kwa˨˦ kɤ˧˧ naw˧˨ la˧˨ sɤ˨ˀ˩ʔ za˧˧ diŋ˧˨ ban˨ˀ˩ʔ tan˧˧ za˨ˀ˩ʔ kaj˨˦ ket˦˥ vɤ̆j˨ˀ˩ʔ cɯə˧˧ du˧˩˨ tan˧˧ ha˧˩˨ mɤ̆j˨˦ ca˧˧",
     "tokens": [
       {
         "text": "Ko",
@@ -49111,7 +49111,7 @@
       {
         "text": "chung",
         "canonical": "chung",
-        "phoneme": "cuŋ͡m˧˧",
+        "phoneme": "tɕuŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -50342,7 +50342,7 @@
     "split": "dev",
     "text": "Nhường hcv cho bhl indo",
     "canonical": "Nhường huy chương vàng cho ban huấn luyện indo",
-    "phonemes": "ɲɯəŋ˧˨ hwi˧˧ tɕɯəŋ˧˧ vaŋ˧˨ cɔ˧˧ ban˧˧ hwɤ̆n˨˦ lwiən˨ˀ˩ʔ in˧˧ ɗo˧˧",
+    "phonemes": "ɲɯəŋ˧˨ hwi˧˧ tɕɯəŋ˧˧ vaŋ˧˨ cɔ˧˧ ban˧˧ hwɤ̆n˨˦ lwiən˨ˀ˩ʔ ʔin˧˧ do˧˧",
     "tokens": [
       {
         "text": "Nhường",
@@ -50375,7 +50375,7 @@
       {
         "text": "indo",
         "canonical": "indo",
-        "phoneme": "in˧˧ ɗo˧˧",
+        "phoneme": "ʔin˧˧ do˧˧",
         "is_nc": false,
         "nc_type": null
       }
@@ -50649,7 +50649,7 @@
     "split": "dev",
     "text": "Chả hiểu sao mình vẫn sống được đến bh nhỉ",
     "canonical": "Chả hiểu sao mình vẫn sống được đến bây giờ nhỉ",
-    "phonemes": "ca˧˩˨ hiəw˧˩˨ saw˧˧ miŋ˧˨ vɤ̆n˧ˀ˥ soŋ͡m˨˦ dɯək˨ˀ˩ den˨˦ bɤ̆j˧˧ zɤ˧˨ ɲi˧˩˨",
+    "phonemes": "ca˧˩˨ hiəw˧˩˨ saw˧˧ miŋ˧˨ vɤ̆n˧ˀ˥ soŋ͡m˨˦ dɯək˨ˀ˩ den˨˦ baw˧˧ zɤ˧˨ ɲi˧˩˨",
     "tokens": [
       {
         "text": "Chả",
@@ -50710,7 +50710,7 @@
       {
         "text": "bh",
         "canonical": "bây giờ",
-        "phoneme": "bɤ̆j˧˧ zɤ˧˨",
+        "phoneme": "baw˧˧ zɤ˧˨",
         "is_nc": true,
         "nc_type": "A3"
       },
@@ -51011,7 +51011,7 @@
     "split": "dev",
     "text": "Nghe hơi khùng chứ, mỗi khi mà có ai hay có việc gì đó xảy ra làm tớ muốn khóc nhưng mà đ thể nào khóc được vì chưa đủ đô ấy, tớ thường nghĩ lại 7749 chuyện buồn thúi ruột mà tớ từng trải qua, cho tới khi nào khóc được ra thì thôi",
     "canonical": "Nghe hơi khùng chứ, mỗi khi mà có ai hay có việc gì đó xảy ra làm tớ muốn khóc nhưng mà đếch thể nào khóc được vì chưa đủ đô ấy, tớ thường nghĩ lại 7749 chuyện buồn thúi ruột mà tớ từng trải qua, cho tới khi nào khóc được ra thì thôi",
-    "phonemes": "ŋɛ˧˧ hɤj˧˧ xuŋ͡m˧˨ t͡ɕɯ˨˦ moj˧ˀ˥ xi˧˧ ma˧˨ kɔ˨˦ aj˧˧ hăj˧˧ kɔ˨˦ viək˨ˀ˩ ɣi˧˨ dɔ˨˦ săj˧˩˨ za˧˧ lam˧˨ tɤ˨˦ muən˨˦ xɔk͡p˦˥ ɲɯŋ˧˧ ma˧˨ dek̚˦˥ tʰe˧˩˨ naw˧˨ xɔk͡p˦˥ dɯək˨ˀ˩ vi˧˨ cɯə˧˧ du˧˩˨ do˧˧ ʔɤ̆j˨˦ tɤ˨˦ tʰɯəŋ˧˨ ŋi˧ˀ˥ laj˨ˀ˩ʔ băj˧˩˨ ŋin˧˨ băj˧˩˨ căm˧˧ bon˨˦ mɯəj˧˧ cin˨˦ cwiən˨ˀ˩ʔ buən˧˨ tʰuj˨˦ zuət˨ˀ˩ ma˧˨ tɤ˨˦ tɯŋ˧˨ caj˧˩˨ kwa˧˧ cɔ˧˧ tɤj˨˦ xi˧˧ naw˧˨ xɔk͡p˦˥ dɯək˨ˀ˩ za˧˧ tʰi˧˨ tʰoj˧˧",
+    "phonemes": "ŋɛ˧˧ hɤj˧˧ xuŋ͡m˧˨ t͡ɕɯ˨˦ moj˧ˀ˥ xi˧˧ ma˧˨ kɔ˨˦ aj˧˧ hăj˧˧ kɔ˨˦ viək˨ˀ˩ ɣi˧˨ dɔ˨˦ săj˧˩˨ za˧˧ lam˧˨ tɤ˨˦ muən˨˦ xɔk͡p˦˥ ɲɯŋ˧˧ ma˧˨ dek̚˦˥ tʰe˧˩˨ naw˧˨ xɔk͡p˦˥ dɯək˨ˀ˩ vi˧˨ cɯə˧˧ du˧˩˨ do˧˧ ʔɤ̆j˨˦ tɤ˨˦ tʰɯəŋ˧˨ ŋi˧ˀ˥ laj˨ˀ˩ʔ băj˧˩˨ ŋin˧˨ băj˧˩˨ tɕăm˧˧ bon˨˦ mɯəj˧˧ tɕin˨˦ cwiən˨ˀ˩ʔ buən˧˨ tʰuj˨˦ zuət˨ˀ˩ ma˧˨ tɤ˨˦ tɯŋ˧˨ caj˧˩˨ kwa˧˧ cɔ˧˧ tɤj˨˦ xi˧˧ naw˧˨ xɔk͡p˦˥ dɯək˨ˀ˩ za˧˧ tʰi˧˨ tʰoj˧˧",
     "tokens": [
       {
         "text": "Nghe",
@@ -51268,7 +51268,7 @@
       {
         "text": "7749",
         "canonical": "7749",
-        "phoneme": "băj˧˩˨ ŋin˧˨ băj˧˩˨ căm˧˧ bon˨˦ mɯəj˧˧ cin˨˦",
+        "phoneme": "băj˧˩˨ ŋin˧˨ băj˧˩˨ tɕăm˧˧ bon˨˦ mɯəj˧˧ tɕin˨˦",
         "is_nc": false,
         "nc_type": null
       },
@@ -51407,7 +51407,7 @@
     "split": "dev",
     "text": "thứ duy nhứt toi thay đổi chính là đổi kiểu nằm thoi :>>",
     "canonical": "thứ duy nhất tôi thay đổi chính là đổi kiểu nằm thôi :>>",
-    "phonemes": "tʰɯ˨˦ zwi˧˧ ɲɤ̆t̚˦˥ toj˧˧ tʰăj˧˧ doj˧˩˨ ciŋ˨˦ la˧˨ doj˧˩˨ kiəw˧˩˨ năm˧˨ tʰoj˧˧ <:>>>",
+    "phonemes": "tʰɯ˨˦ zwi˧˧ ɲɤ̆t̚˦˥ toj˧˧ tʰăj˧˧ doj˧˩˨ tɕiŋ˨˦ la˧˨ doj˧˩˨ kiəw˧˩˨ năm˧˨ tʰoj˧˧ <:>>>",
     "tokens": [
       {
         "text": "thứ",
@@ -51454,7 +51454,7 @@
       {
         "text": "chính",
         "canonical": "chính",
-        "phoneme": "ciŋ˨˦",
+        "phoneme": "tɕiŋ˨˦",
         "is_nc": false,
         "nc_type": null
       },
@@ -52304,7 +52304,7 @@
     "split": "dev",
     "text": "Thèm quá ko chịu đc thì phải làm sao",
     "canonical": "Thèm quá không chịu được thì phải làm sao",
-    "phonemes": "tʰɛm˧˨ kwa˨˦ xoŋ͡m˧˧ ciw˨ˀ˩ʔ dɯək̚˨ˀ˩ tʰi˧˨ faj˧˩˨ lam˧˨ saw˧˧",
+    "phonemes": "tʰɛm˧˨ kwa˨˦ xoŋ͡m˧˧ tɕiw˨ˀ˩ʔ dɯək̚˨ˀ˩ tʰi˧˨ faj˧˩˨ lam˧˨ saw˧˧",
     "tokens": [
       {
         "text": "Thèm",
@@ -52330,7 +52330,7 @@
       {
         "text": "chịu",
         "canonical": "chịu",
-        "phoneme": "ciw˨ˀ˩ʔ",
+        "phoneme": "tɕiw˨ˀ˩ʔ",
         "is_nc": false,
         "nc_type": null
       },
@@ -52765,7 +52765,7 @@
     "split": "dev",
     "text": "Tao đi xe bít tao sợ mỗi ông Nọi tài xế bởi dì ổng mà bùn ổng hỏng chịu mở cửa xe là tao chạy như điêng tới trạm cũng hỏng đc lên và phải chờ next station",
     "canonical": "Tao đi xe buýt tao sợ mỗi ông Nội tài xế bởi vì ổng mà buồn ổng hông chịu mở cửa xe là tao chạy như điên tới trạm cũng hông được lên và phải chờ next station",
-    "phonemes": "taw˧˧ di˧˧ sɛ˧˧ bwit̚˦˥ taw˧˧ sɤ˨ˀ˩ʔ moj˧ˀ˥ oŋ͡m˧˧ noj˨ˀ˩ʔ taj˧˨ se˨˦ bɤj˧˩˨ vi˧˨ oŋ͡m˧˩˨ ma˧˨ buən˧˨ ʔoŋ͡m˧˩˨ hoŋ͡m˧˧ ciw˨ˀ˩ʔ mɤ˧˩˨ kɯə˧˩˨ sɛ˧˧ la˧˨ taw˧˧ căj˨ˀ˩ʔ ɲɯ˧˧ diən˧˧ tɤj˨˦ cam˨ˀ˩ʔ kuŋ͡m˧ˀ˥ hoŋ͡m˧˧ dɯək̚˨ˀ˩ len˧˧ va˧˨ faj˧˩˨ cɤ˧˨ nek˧˧ sej˧˧ ʃən˧˧",
+    "phonemes": "taw˧˧ di˧˧ sɛ˧˧ bwit̚˦˥ taw˧˧ sɤ˨ˀ˩ʔ moj˧ˀ˥ oŋ͡m˧˧ noj˨ˀ˩ʔ taj˧˨ se˨˦ bɤj˧˩˨ vi˧˨ oŋ͡m˧˩˨ ma˧˨ buən˧˨ ʔoŋ͡m˧˩˨ hoŋ͡m˧˧ tɕiw˨ˀ˩ʔ mɤ˧˩˨ kɯə˧˩˨ sɛ˧˧ la˧˨ taw˧˧ căj˨ˀ˩ʔ ɲɯ˧˧ diən˧˧ tɤj˨˦ cam˨ˀ˩ʔ kuŋ͡m˧ˀ˥ hoŋ͡m˧˧ dɯək̚˨ˀ˩ len˧˧ va˧˨ faj˧˩˨ cɤ˧˨ nek˧˧ sej˧˧ ʃən˧˧",
     "tokens": [
       {
         "text": "Tao",
@@ -52896,7 +52896,7 @@
       {
         "text": "chịu",
         "canonical": "chịu",
-        "phoneme": "ciw˨ˀ˩ʔ",
+        "phoneme": "tɕiw˨ˀ˩ʔ",
         "is_nc": false,
         "nc_type": null
       },
@@ -54698,7 +54698,7 @@
     "split": "dev",
     "text": "Ck tương lai của mình đang học lớp 3, mong e mau ăn chóng lớn sớm về chung 1 nhà nhé",
     "canonical": "Chồng tương lai của mình đang học lớp 3, mong em mau ăn chóng lớn sớm về chung 1 nhà nhé",
-    "phonemes": "tɕoŋ͡m˧˨ tɯəŋ˧˧ laj˧˧ kuə˧˩˨ miŋ˧˨ daŋ˧˧ hɔk͡p˨ˀ˩ lɤp˦˥ ɓa˧˧ mɔŋ͡m˧˧ ʔɛm˧˧ măw˧˧ ăn˧˧ cɔŋ͡m˨˦ lɤn˨˦ sɤm˨˦ ve˧˨ cuŋ͡m˧˧ mot˨ˀ˩ ɲa˧˨ ɲɛ˨˦",
+    "phonemes": "tɕoŋ͡m˧˨ tɯəŋ˧˧ laj˧˧ kuə˧˩˨ miŋ˧˨ daŋ˧˧ hɔk͡p˨ˀ˩ lɤp˦˥ ɓa˧˧ mɔŋ͡m˧˧ ʔɛm˧˧ măw˧˧ ăn˧˧ cɔŋ͡m˨˦ lɤn˨˦ sɤm˨˦ ve˧˨ tɕuŋ͡m˧˧ mot˨ˀ˩ ɲa˧˨ ɲɛ˨˦",
     "tokens": [
       {
         "text": "Ck",
@@ -54822,7 +54822,7 @@
       {
         "text": "chung",
         "canonical": "chung",
-        "phoneme": "cuŋ͡m˧˧",
+        "phoneme": "tɕuŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -56943,7 +56943,7 @@
     "split": "dev",
     "text": "t tưởng cảnh trong phim ko á",
     "canonical": "tôi tưởng cảnh trong phim không á",
-    "phonemes": "toj˧˧ tɯəŋ˧˩˨ kɛŋ˧˩˨ cɔŋ͡m˧˧ fim˧˧ xoŋ͡m˧˧ a˨˦",
+    "phonemes": "toj˧˧ tɯəŋ˧˩˨ kɛŋ˧˩˨ tɕɔŋ͡m˧˧ fim˧˧ xoŋ͡m˧˧ a˨˦",
     "tokens": [
       {
         "text": "t",
@@ -56969,7 +56969,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -57172,7 +57172,7 @@
     "split": "dev",
     "text": "Bnhiu cũng sống đc nhưng cứ thử ốm ra phát thì sẽ biết có tiền tiết kiệm tốt biết mấy mà tiền tiết kiệm thì cũng do thu nhập khá giả mới để dư đc",
     "canonical": "Bao nhiêu cũng sống được nhưng cứ thử ốm ra phát thì sẽ biết có tiền tiết kiệm tốt biết mấy mà tiền tiết kiệm thì cũng do thu nhập khá giả mới để dư được",
-    "phonemes": "baw˧˧ ɲiəw˧˧ kuŋ͡m˧ˀ˥ soŋ͡m˨˦ dɯək̚˨ˀ˩ ɲɯŋ˧˧ kɯ˨˦ tʰɯ˧˩˨ om˨˦ za˧˧ fat˦˥ tʰi˧˨ sɛ˧ˀ˥ biət˦˥ kɔ˨˦ tiən˧˨ tiət˦˥ kiəm˨ˀ˩ʔ tot˦˥ biət˦˥ mɤ̆j˨˦ ma˧˨ tiən˧˨ tiət˦˥ kiəm˨ˀ˩ʔ tʰi˧˨ kuŋ͡m˧ˀ˥ zɔ˧˧ tʰu˧˧ ɲəp˨ˀ˩ʔ xa˨˦ za˧˩˨ mɤj˨˦ de˧˩˨ zɯ˧˧ dɯək̚˨ˀ˩",
+    "phonemes": "baw˧˧ ɲiəw˧˧ kuŋ͡m˧ˀ˥ soŋ͡m˨˦ dɯək̚˨ˀ˩ ɲɯŋ˧˧ kɯ˨˦ tʰɯ˧˩˨ om˨˦ za˧˧ fat˦˥ tʰi˧˨ sɛ˧ˀ˥ biət˦˥ kɔ˨˦ tiən˧˨ tiət˦˥ kiəm˨ˀ˩ʔ tot˦˥ biət˦˥ mɤ̆j˨˦ ma˧˨ tiən˧˨ tiət˦˥ kiəm˨ˀ˩ʔ tʰi˧˨ kuŋ͡m˧ˀ˥ zɔ˧˧ tʰu˧˧ ɲɤ̆p̚˨ˀ˩ʔ xa˨˦ za˧˩˨ mɤj˨˦ de˧˩˨ zɯ˧˧ dɯək̚˨ˀ˩",
     "tokens": [
       {
         "text": "Bnhiu",
@@ -57373,7 +57373,7 @@
       {
         "text": "nhập",
         "canonical": "nhập",
-        "phoneme": "ɲəp˨ˀ˩ʔ",
+        "phoneme": "ɲɤ̆p̚˨ˀ˩ʔ",
         "is_nc": false,
         "nc_type": null
       },
@@ -58357,7 +58357,7 @@
     "split": "dev",
     "text": "kể cả là người thân thì đôi khi cx muốn được đói xử khéo léo tinh ý 1 chút như này, bạn bè đang kể chuyện vui vẻ tự \"thì sao?\" nghe khó chịu trong lòng lắm",
     "canonical": "kể cả là người thân thì đôi khi cũng muốn được đối xử khéo léo tinh ý 1 chút như này, bạn bè đang kể chuyện vui vẻ tự \"thì sao?\" nghe khó chịu trong lòng lắm",
-    "phonemes": "ke˧˩˨ ka˧˩˨ la˧˨ ŋɯəj˧˨ tʰɤ̆n˧˧ tʰi˧˨ doj˧˧ xi˧˧ kuŋ͡m˧ˀ˥ muən˨˦ dɯək˨ˀ˩ doj˨˦ sɯ˧˩˨ xeo˨˦ leo˨˦ tiŋ˧˧ i˨˦ mot˨ˀ˩ cut˦˥ ɲɯ˧˧ naːj˨˧ ban˨ˀ˩ʔ bɛ˧˨ daŋ˧˧ ke˧˩˨ cwiən˨ˀ˩ʔ vuj˧˧ vɛ˧˩˨ tɯ˨ˀ˩ʔ tʰi˧˨ saw˧˧ ŋɛ˧˧ xɔ˨˦ ciw˨ˀ˩ʔ cɔŋ͡m˧˧ lɔŋ͡m˧˨ lăm˨˦",
+    "phonemes": "ke˧˩˨ ka˧˩˨ la˧˨ ŋɯəj˧˨ tʰɤ̆n˧˧ tʰi˧˨ doj˧˧ xi˧˧ kuŋ͡m˧ˀ˥ muən˨˦ dɯək˨ˀ˩ doj˨˦ sɯ˧˩˨ xeo˨˦ leo˨˦ tiŋ˧˧ i˨˦ mot˨ˀ˩ cut˦˥ ɲɯ˧˧ naːj˨˧ ban˨ˀ˩ʔ bɛ˧˨ daŋ˧˧ ke˧˩˨ cwiən˨ˀ˩ʔ vuj˧˧ vɛ˧˩˨ tɯ˨ˀ˩ʔ tʰi˧˨ saw˧˧ ŋɛ˧˧ xɔ˨˦ tɕiw˨ˀ˩ʔ tɕɔŋ͡m˧˧ lɔŋ͡m˧˨ lăm˨˦",
     "tokens": [
       {
         "text": "kể",
@@ -58593,14 +58593,14 @@
       {
         "text": "chịu",
         "canonical": "chịu",
-        "phoneme": "ciw˨ˀ˩ʔ",
+        "phoneme": "tɕiw˨ˀ˩ʔ",
         "is_nc": false,
         "nc_type": null
       },
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -59060,7 +59060,7 @@
     "split": "dev",
     "text": "thử sức chú chạy 100m còn khỏe hem",
     "canonical": "thử sức chú chạy 100m còn khỏe không",
-    "phonemes": "tʰɯ˧˩˨ sɯk˦˥ cu˨˦ căj˨ˀ˩ʔ mot˨ˀ˩ căm˧˧ mɛt˦˥ kɔn˧˨ xwe˧˩˨ xoŋ͡m˧˧",
+    "phonemes": "tʰɯ˧˩˨ sɯk˦˥ tɕu˨˦ căj˨ˀ˩ʔ mot˨ˀ˩ căm˧˧ mɛt˦˥ kɔn˧˨ xwe˧˩˨ xoŋ͡m˧˧",
     "tokens": [
       {
         "text": "thử",
@@ -59079,7 +59079,7 @@
       {
         "text": "chú",
         "canonical": "chú",
-        "phoneme": "cu˨˦",
+        "phoneme": "tɕu˨˦",
         "is_nc": false,
         "nc_type": null
       },
@@ -59380,7 +59380,7 @@
     "split": "dev",
     "text": "Kính mong HĐXX xem xét giảm nhẹ hình phạt cho bị cáo để bị cáo sớm đc hoà nhập với cộng đồng XH\"",
     "canonical": "Kính mong HĐXX xem xét giảm nhẹ hình phạt cho bị cáo để bị cáo sớm được hoà nhập với cộng đồng xã hội\"",
-    "phonemes": "kiŋ˨˦ mɔŋ͡m˧˧ ha ɗɤŋ ʔik set˧˧ sɛm˧˧ sɛt˦˥ zam˧˩˨ ɲɛ˨ˀ˩ʔ hiŋ˧˨ fat˨ˀ˩ cɔ˧˧ bi˨ˀ˩ʔ kaw˨˦ de˧˩˨ bi˨ˀ˩ʔ kaw˨˦ sɤm˨˦ dɯək̚˨ˀ˩ hwa˧˨ ɲəp˨ˀ˩ʔ vɤj˨˦ koŋ͡m˨ˀ˩ʔ doŋ͡m˧˨ sa˧ˀ˥ hoj˨ˀ˩ʔ",
+    "phonemes": "kiŋ˨˦ mɔŋ͡m˧˧ ha ɗɤŋ ʔik set˧˧ sɛm˧˧ sɛt˦˥ zam˧˩˨ ɲɛ˨ˀ˩ʔ hiŋ˧˨ fat˨ˀ˩ cɔ˧˧ bi˨ˀ˩ʔ kaw˨˦ de˧˩˨ bi˨ˀ˩ʔ kaw˨˦ sɤm˨˦ dɯək̚˨ˀ˩ hwa˧˨ ɲɤ̆p̚˨ˀ˩ʔ vɤj˨˦ koŋ͡m˨ˀ˩ʔ doŋ͡m˧˨ sa˧ˀ˥ hoj˨ˀ˩ʔ",
     "tokens": [
       {
         "text": "Kính",
@@ -59511,7 +59511,7 @@
       {
         "text": "nhập",
         "canonical": "nhập",
-        "phoneme": "ɲəp˨ˀ˩ʔ",
+        "phoneme": "ɲɤ̆p̚˨ˀ˩ʔ",
         "is_nc": false,
         "nc_type": null
       },
@@ -59970,7 +59970,7 @@
     "split": "dev",
     "text": "Thôi bỏ đi cb ạ, mình chơi ngày đêm 2 tháng k qua, thử 7749 lần trợ giúp cũng k đc",
     "canonical": "Thôi bỏ đi các bạn ạ, mình chơi ngày đêm 2 tháng không qua, thử 7749 lần trợ giúp cũng không được",
-    "phonemes": "tʰoj˧˧ bɔ˧˩˨ di˧˧ kak̚˦˥ ban˨ˀ˩ʔ a˦˥ miŋ˧˨ cɤj˧˧ ŋăj˧˨ dem˧˧ haj˧˧ tʰaŋ˨˦ xoŋ͡m˧˧ kwa˧˧ tʰɯ˧˩˨ băj˧˩˨ ŋin˧˨ băj˧˩˨ căm˧˧ bon˨˦ mɯəj˧˧ cin˨˦ lən˨˧ cɤ˨ˀ˩ʔ zup˦˥ kuŋ͡m˧ˀ˥ xoŋ͡m˧˧ dɯək̚˨ˀ˩",
+    "phonemes": "tʰoj˧˧ bɔ˧˩˨ di˧˧ kak̚˦˥ ban˨ˀ˩ʔ a˦˥ miŋ˧˨ cɤj˧˧ ŋăj˧˨ dem˧˧ haj˧˧ tʰaŋ˨˦ xoŋ͡m˧˧ kwa˧˧ tʰɯ˧˩˨ băj˧˩˨ ŋin˧˨ băj˧˩˨ tɕăm˧˧ bon˨˦ mɯəj˧˧ tɕin˨˦ lən˨˧ cɤ˨ˀ˩ʔ zup˦˥ kuŋ͡m˧ˀ˥ xoŋ͡m˧˧ dɯək̚˨ˀ˩",
     "tokens": [
       {
         "text": "Thôi",
@@ -60073,7 +60073,7 @@
       {
         "text": "7749",
         "canonical": "7749",
-        "phoneme": "băj˧˩˨ ŋin˧˨ băj˧˩˨ căm˧˧ bon˨˦ mɯəj˧˧ cin˨˦",
+        "phoneme": "băj˧˩˨ ŋin˧˨ băj˧˩˨ tɕăm˧˧ bon˨˦ mɯəj˧˧ tɕin˨˦",
         "is_nc": false,
         "nc_type": null
       },
@@ -60121,7 +60121,7 @@
     "split": "dev",
     "text": "Xin lỗi CP e lỡ cười khi chị lên high note",
     "canonical": "Xin lỗi CP em lỡ cười khi chị lên high note",
-    "phonemes": "sin˧˧ loj˧ˀ˥ si pʰi˧˧ ʔɛm˧˧ lɤ˧ˀ˥ kɯəj˧˨ xi˧˧ ci˨ˀ˩ʔ len˧˧ haj˧˧ not˧˧",
+    "phonemes": "sin˧˧ loj˧ˀ˥ si pʰi˧˧ ʔɛm˧˧ lɤ˧ˀ˥ kɯəj˧˨ xi˧˧ ci˨ˀ˩ʔ len˧˧ haj˧˧ not̚˨˦",
     "tokens": [
       {
         "text": "Xin",
@@ -60196,7 +60196,7 @@
       {
         "text": "note",
         "canonical": "note",
-        "phoneme": "not˧˧",
+        "phoneme": "not̚˨˦",
         "is_nc": false,
         "nc_type": null
       }
@@ -62753,12 +62753,12 @@
     "split": "dev",
     "text": "trong 5p khum rút lại lời chửi bậy và xin lỗi thì tôi cúp máy hoặc tát pạn =))",
     "canonical": "trong 5p không rút lại lời chửi bậy và xin lỗi thì tôi cúp máy hoặc tát bạn =))",
-    "phonemes": "cɔŋ͡m˧˧ năm˧˧ fut˦˥ xoŋ͡m˧˧ zut˦˥ laj˨ˀ˩ʔ lɤj˧˨ cɯj˧˩˨ bɤ̆j˨ˀ˩ʔ va˧˨ sin˧˧ loj˧ˀ˥ tʰi˧˨ toj˧˧ kup˦˥ măj˨˦ hwăk˨ˀ˩ tat˦˥ ban˨ˀ˩ʔ <=))>",
+    "phonemes": "tɕɔŋ͡m˧˧ năm˧˧ fut˦˥ xoŋ͡m˧˧ zut˦˥ laj˨ˀ˩ʔ lɤj˧˨ cɯj˧˩˨ bɤ̆j˨ˀ˩ʔ va˧˨ sin˧˧ loj˧ˀ˥ tʰi˧˨ toj˧˧ kup˦˥ măj˨˦ hwăk˨ˀ˩ tat˦˥ ban˨ˀ˩ʔ <=))>",
     "tokens": [
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -64195,7 +64195,7 @@
     "split": "dev",
     "text": "Hmm well, tôi đang sống trong 1 cái thế giới mà về quê, chị cắt tóc ở ngã 4 hoặc bà bán rau ở chợ chiều còn sốt sắng lo việc tôi sẽ ế và chết già hơn cả tôi và gia đình, khi mà họ ms gặp tôi đc 5p :))))",
     "canonical": "Hmm well, tôi đang sống trong 1 cái thế giới mà về quê, chị cắt tóc ở ngã 4 hoặc bà bán rau ở chợ chiều còn sốt sắng lo việc tôi sẽ ế và chết già hơn cả tôi và gia đình, khi mà họ mới gặp tôi được 5p :))))",
-    "phonemes": "hɯm˧˧ ʔwɛl˧˧ toj˧˧ daŋ˧˧ soŋ͡m˨˦ cɔŋ͡m˧˧ mot˨ˀ˩ kaj˨˦ tʰe˨˦ zɤj˨˦ ma˧˨ ve˧˨ kwe˧˧ ci˨ˀ˩ʔ kăt˦˥ tɔk͡p˦˥ ɤ˧˩˨ ŋa˧ˀ˥ bon˨˦ hwăk˨ˀ˩ ba˧˨ ban˨˦ zăw˧˧ ɤ˧˩˨ cɤ˨ˀ˩ʔ ciəw˧˨ kɔn˧˨ sot˦˥ săŋ˨˦ lɔ˧˧ viək˨ˀ˩ toj˧˧ sɛ˧ˀ˥ e˨˦ va˧˨ cet˦˥ za˧˨ hɤn˧˧ ka˧˩˨ toj˧˧ va˧˨ za˧˧ ɗiɲ˨˧ xi˧˧ ma˧˨ hɔ˨ˀ˩ʔ mɤj˨˦ ɣăp˨ˀ˩ toj˧˧ dɯək̚˨ˀ˩ năm˧˧ fut˦˥ <:))))>",
+    "phonemes": "hɯm˧˧ ʔwɛl˧˧ toj˧˧ daŋ˧˧ soŋ͡m˨˦ tɕɔŋ͡m˧˧ mot˨ˀ˩ kaj˨˦ tʰe˨˦ zɤj˨˦ ma˧˨ ve˧˨ kwe˧˧ ci˨ˀ˩ʔ kăt˦˥ tɔk͡p˦˥ ɤ˧˩˨ ŋa˧ˀ˥ bon˨˦ hwăk˨ˀ˩ ba˧˨ ban˨˦ zăw˧˧ ɤ˧˩˨ cɤ˨ˀ˩ʔ ciəw˧˨ kɔn˧˨ sot˦˥ săŋ˨˦ lɔ˧˧ viək˨ˀ˩ toj˧˧ sɛ˧ˀ˥ e˨˦ va˧˨ cet˦˥ za˧˨ hɤn˧˧ ka˧˩˨ toj˧˧ va˧˨ za˧˧ ɗiɲ˨˧ xi˧˧ ma˧˨ hɔ˨ˀ˩ʔ mɤj˨˦ ɣăp˨ˀ˩ toj˧˧ dɯək̚˨ˀ˩ năm˧˧ fut˦˥ <:))))>",
     "tokens": [
       {
         "text": "Hmm",
@@ -64235,7 +64235,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -66364,7 +66364,7 @@
     "split": "dev",
     "text": "Ủa bà Ella ko gánh high note mà để CP hú vậy trời",
     "canonical": "Ủa bà Ella không gánh high note mà để CP hú vậy trời",
-    "phonemes": "uə˧˩˨ ba˧˨ e˧˧ la˧˧ xoŋ͡m˧˧ ɣɛŋ˨˦ haj˧˧ not˧˧ ma˧˨ de˧˩˨ si˧˧ pi˧˧ hu˨˦ vɤ̆j˨ˀ˩ʔ cɤj˧˨",
+    "phonemes": "uə˧˩˨ ba˧˨ e˧˧ la˧˧ xoŋ͡m˧˧ ɣɛŋ˨˦ haj˧˧ not̚˨˦ ma˧˨ de˧˩˨ si˧˧ pi˧˧ hu˨˦ vɤ̆j˨ˀ˩ʔ cɤj˧˨",
     "tokens": [
       {
         "text": "Ủa",
@@ -66411,7 +66411,7 @@
       {
         "text": "note",
         "canonical": "note",
-        "phoneme": "not˧˧",
+        "phoneme": "not̚˨˦",
         "is_nc": false,
         "nc_type": null
       },
@@ -67280,7 +67280,7 @@
     "split": "dev",
     "text": "Ngày tao đi thi thpt, sáng 5h thức mà bị mất ngủ do quá lo lắng, đúng 3h sáng mới ngủ đc tí sáng ra mắt lờ đờ vái bà cố cuối cùng thi oke vừa đủ điểm đậu đh",
     "canonical": "Ngày tao đi thi trung học phổ thông, sáng 5h thức mà bị mất ngủ do quá lo lắng, đúng 3h sáng mới ngủ được tí sáng ra mắt lờ đờ vái bà cố cuối cùng thi oke vừa đủ điểm đậu đại học",
-    "phonemes": "ŋăj˧˨ taw˧˧ di˧˧ tʰi˧˧ tɕuŋ͡m˧˧ hɔk͡p˨ˀ˩ fo˧˩˨ tʰoŋ͡m˧˧ saŋ˨˦ năm˧˧ zɤ˧˨ tʰɯk˦˥ ma˧˨ bi˨ˀ˩ʔ mɤ̆t˦˥ ŋu˧˩˨ zɔ˧˧ kwa˨˦ lɔ˧˧ laŋ˦˥ duŋ͡m˨˦ ba˧˧ zɤ˧˨ saŋ˨˦ mɤj˨˦ ŋu˧˩˨ dɯək̚˨ˀ˩ ti˨˦ saŋ˨˦ za˧˧ măt˦˥ lɤ˧˨ dɤ˧˨ vaj˨˦ ba˧˨ ko˨˦ kuəj˨˦ kuŋ͡m˧˨ tʰi˧˧ o˧˧ ke˧˧ vɯə˧˨ du˧˩˨ diəm˧˩˨ dɤ̆w˨ˀ˩ʔ daj˨ˀ˩ʔ hɔk͡p˨ˀ˩",
+    "phonemes": "ŋăj˧˨ taw˧˧ di˧˧ tʰi˧˧ tɕuŋ͡m˧˧ hɔk͡p˨ˀ˩ fo˧˩˨ tʰoŋ͡m˧˧ saŋ˨˦ năm˧˧ zɤ˧˨ tʰɯk˦˥ ma˧˨ bi˨ˀ˩ʔ mɤ̆t˦˥ ŋu˧˩˨ zɔ˧˧ kwa˨˦ lɔ˧˧ laŋ˦˥ duŋ͡m˨˦ ba˧˧ zɤ˧˨ saŋ˨˦ mɤj˨˦ ŋu˧˩˨ dɯək̚˨ˀ˩ ti˨˦ saŋ˨˦ za˧˧ măt˦˥ lɤ˧˨ dɤ˧˨ vaj˨˦ ba˧˨ ko˨˦ kuəj˨˦ kuŋ͡m˧˨ tʰi˧˧ ʔo˧˧ ke˧˧ vɯə˧˨ du˧˩˨ diəm˧˩˨ dɤ̆w˨ˀ˩ʔ daj˨ˀ˩ʔ hɔk͡p˨ˀ˩",
     "tokens": [
       {
         "text": "Ngày",
@@ -67523,7 +67523,7 @@
       {
         "text": "oke",
         "canonical": "oke",
-        "phoneme": "o˧˧ ke˧˧",
+        "phoneme": "ʔo˧˧ ke˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -69442,7 +69442,7 @@
     "split": "dev",
     "text": "Sau covid t dị ứng tôm, trong khi bé đến lớn ăn tôm chả sao",
     "canonical": "Sau covid tôi dị ứng tôm, trong khi bé đến lớn ăn tôm chả sao",
-    "phonemes": "săw˧˧ ko˧˧ vit̚˨˦ toj˧˧ zi˨ˀ˩ʔ ɯŋ˨˦ tom˧˧ cɔŋ͡m˧˧ xi˧˧ bɛ˨˦ den˨˦ lɤn˨˦ ăn˧˧ tom˧˧ ca˧˩˨ saw˧˧",
+    "phonemes": "săw˧˧ ko˧˧ vit̚˨˦ toj˧˧ zi˨ˀ˩ʔ ɯŋ˨˦ tom˧˧ tɕɔŋ͡m˧˧ xi˧˧ bɛ˨˦ den˨˦ lɤn˨˦ ăn˧˧ tom˧˧ ca˧˩˨ saw˧˧",
     "tokens": [
       {
         "text": "Sau",
@@ -69489,7 +69489,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -70321,7 +70321,7 @@
     "split": "dev",
     "text": "hình như rách quần xog phải che đi kìa =))))",
     "canonical": "hình như rách quần xong phải che đi kìa =))))",
-    "phonemes": "hiŋ˧˨ ɲɯ˧˧ zɛk˦˥ kwɤ̆n˧˨ sɔŋ͡m˧˧ faj˧˩˨ cɛ˧˧ di˧˧ kiə˧˨ <=))))>",
+    "phonemes": "hiŋ˧˨ ɲɯ˧˧ zɛk˦˥ kwɤ̆n˧˨ sɔŋ͡m˧˧ faj˧˩˨ tɕɛ˧˧ di˧˧ kiə˧˨ <=))))>",
     "tokens": [
       {
         "text": "hình",
@@ -70368,7 +70368,7 @@
       {
         "text": "che",
         "canonical": "che",
-        "phoneme": "cɛ˧˧",
+        "phoneme": "tɕɛ˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -70448,7 +70448,7 @@
     "split": "dev",
     "text": "Dễ thương zị gồi thứ nào chịu nổi",
     "canonical": "Dễ thương vậy rồi thứ nào chịu nổi",
-    "phonemes": "ze˧ˀ˥ tʰɯəŋ˧˧ vɤ̆j˨ˀ˩ʔ zoj˧˨ tʰɯ˨˦ naw˧˨ ciw˨ˀ˩ʔ noj˧˩˨",
+    "phonemes": "ze˧ˀ˥ tʰɯəŋ˧˧ vɤ̆j˨ˀ˩ʔ zoj˧˨ tʰɯ˨˦ naw˧˨ tɕiw˨ˀ˩ʔ noj˧˩˨",
     "tokens": [
       {
         "text": "Dễ",
@@ -70495,7 +70495,7 @@
       {
         "text": "chịu",
         "canonical": "chịu",
-        "phoneme": "ciw˨ˀ˩ʔ",
+        "phoneme": "tɕiw˨ˀ˩ʔ",
         "is_nc": false,
         "nc_type": null
       },
@@ -70962,7 +70962,7 @@
     "split": "dev",
     "text": "cho bé này đi chung nữa mn",
     "canonical": "cho bé này đi chung nữa mọi người",
-    "phonemes": "cɔ˧˧ bɛ˨˦ năj˧˨ di˧˧ cuŋ͡m˧˧ nɯə˧ˀ˥ mɔj˨ˀ˩ʔ ŋɯəj˧˨",
+    "phonemes": "cɔ˧˧ bɛ˨˦ năj˧˨ di˧˧ tɕuŋ͡m˧˧ nɯə˧ˀ˥ mɔj˨ˀ˩ʔ ŋɯəj˧˨",
     "tokens": [
       {
         "text": "cho",
@@ -70995,7 +70995,7 @@
       {
         "text": "chung",
         "canonical": "chung",
-        "phoneme": "cuŋ͡m˧˧",
+        "phoneme": "tɕuŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -71135,7 +71135,7 @@
     "split": "dev",
     "text": "trông con đ hẳn hoi, để nó chạy đâm vào ngta xong mồm chửi con nhưng mắt phải xéo sang ngta ms chịu",
     "canonical": "trông con đéo hẳn hoi, để nó chạy đâm vào người ta xong mồm chửi con nhưng mắt phải xéo sang người ta mới chịu",
-    "phonemes": "coŋ͡m˧˧ kɔn˧˧ dɛw˨˦ hăn˧˩˨ hɔj˧˧ de˧˩˨ nɔ˨˦ căj˨ˀ˩ʔ dɤ̆m˧˧ vaw˧˨ ŋɯəj˧˨ ta˧˧ sɔŋ͡m˧˧ mom˧˨ cɯj˧˩˨ kɔn˧˧ ɲɯŋ˧˧ măt˦˥ faj˧˩˨ seo˨˦ saŋ˧˧ ŋɯəj˧˨ ta˧˧ mɤj˨˦ ciw˨ˀ˩ʔ",
+    "phonemes": "coŋ͡m˧˧ kɔn˧˧ dɛw˨˦ hăn˧˩˨ hɔj˧˧ de˧˩˨ nɔ˨˦ căj˨ˀ˩ʔ dɤ̆m˧˧ vaw˧˨ ŋɯəj˧˨ ta˧˧ sɔŋ͡m˧˧ mom˧˨ cɯj˧˩˨ kɔn˧˧ ɲɯŋ˧˧ măt˦˥ faj˧˩˨ seo˨˦ saŋ˧˧ ŋɯəj˧˨ ta˧˧ mɤj˨˦ tɕiw˨ˀ˩ʔ",
     "tokens": [
       {
         "text": "trông",
@@ -71287,7 +71287,7 @@
       {
         "text": "chịu",
         "canonical": "chịu",
-        "phoneme": "ciw˨ˀ˩ʔ",
+        "phoneme": "tɕiw˨ˀ˩ʔ",
         "is_nc": false,
         "nc_type": null
       }
@@ -71508,7 +71508,7 @@
     "split": "dev",
     "text": "hnhu t phải tag m kiểu bài tnay mấy lần r =)))",
     "canonical": "hình như tao phải tag mày kiểu bài tnay mấy lần rồi =)))",
-    "phonemes": "hiŋ˧˨ ɲɯ˧˧ taw˧˧ faj˧˩˨ tɛk̚˧˧ maj˧˨ kiəw˧˩˨ baj˧˨ tə̆˧˧ naːj˧˧ mɤ̆j˨˦ lən˨˧ zoj˧˨ <=)))>",
+    "phonemes": "hiŋ˧˨ ɲɯ˧˧ taw˧˧ faj˧˩˨ tɛk̚˧˧ măj˧˨ kiəw˧˩˨ baj˧˨ tə̆˧˧ naːj˧˧ mɤ̆j˨˦ lən˨˧ zoj˧˨ <=)))>",
     "tokens": [
       {
         "text": "hnhu t",
@@ -71534,7 +71534,7 @@
       {
         "text": "m",
         "canonical": "mày",
-        "phoneme": "maj˧˨",
+        "phoneme": "măj˧˨",
         "is_nc": true,
         "nc_type": "A2"
       },
@@ -72268,7 +72268,7 @@
     "split": "dev",
     "text": "Vài người họ hàng giới thiệu mình có nch qua vài lần rồi cũng nhẹ nhàng từ chối vì thấy k hợp, rồi mn xung quanh bàn tán về việc mình là đứa khó chịu khó tính như thế nào :'v",
     "canonical": "Vài người họ hàng giới thiệu mình có nói chuyện qua vài lần rồi cũng nhẹ nhàng từ chối vì thấy không hợp, rồi mọi người xung quanh bàn tán về việc mình là đứa khó chịu khó tính như thế nào :'v",
-    "phonemes": "vaj˧˨ ŋɯəj˧˨ hɔ˨ˀ˩ʔ haŋ˧˨ zɤj˨˦ tʰiəw˨ˀ˩ʔ miŋ˧˨ kɔ˨˦ nɔj˨˦ tɕwiən˨ˀ˩ʔ kwa˧˧ vaj˧˨ lən˨˧ zoj˧˨ kuŋ͡m˧ˀ˥ ɲɛ˨ˀ˩ʔ ɲaːŋ˨˨ tɯ˧˨ coj˨˦ vi˧˨ tʰɤ̆j˨˦ xoŋ͡m˧˧ həp̚˨ˀ˩ʔ zoj˧˨ mɔj˨ˀ˩ʔ ŋɯəj˧˨ suŋ͡m˧˧ kwɛŋ˧˧ ban˧˨ tan˨˦ ve˧˨ viək˨ˀ˩ miŋ˧˨ la˧˨ dɯə˨˦ xɔ˨˦ ciw˨ˀ˩ʔ xɔ˨˦ tiŋ˨˦ ɲɯ˧˧ tʰe˨˦ naw˧˨ <:'v>",
+    "phonemes": "vaj˧˨ ŋɯəj˧˨ hɔ˨ˀ˩ʔ haŋ˧˨ zɤj˨˦ tʰiəw˨ˀ˩ʔ miŋ˧˨ kɔ˨˦ nɔj˨˦ tɕwiən˨ˀ˩ʔ kwa˧˧ vaj˧˨ lən˨˧ zoj˧˨ kuŋ͡m˧ˀ˥ ɲɛ˨ˀ˩ʔ ɲaːŋ˨˨ tɯ˧˨ coj˨˦ vi˧˨ tʰɤ̆j˨˦ xoŋ͡m˧˧ həp̚˨ˀ˩ʔ zoj˧˨ mɔj˨ˀ˩ʔ ŋɯəj˧˨ suŋ͡m˧˧ kwɛŋ˧˧ ban˧˨ tan˨˦ ve˧˨ viək˨ˀ˩ miŋ˧˨ la˧˨ dɯə˨˦ xɔ˨˦ tɕiw˨ˀ˩ʔ xɔ˨˦ tiŋ˨˦ ɲɯ˧˧ tʰe˨˦ naw˧˨ <:'v>",
     "tokens": [
       {
         "text": "Vài",
@@ -72511,7 +72511,7 @@
       {
         "text": "chịu",
         "canonical": "chịu",
-        "phoneme": "ciw˨ˀ˩ʔ",
+        "phoneme": "tɕiw˨ˀ˩ʔ",
         "is_nc": false,
         "nc_type": null
       },
@@ -74490,7 +74490,7 @@
     "split": "dev",
     "text": "Nghe nói Huế thơ mộng lắm, những người càng yêu đời càng đắm chìm trong tp Huế xinh đẹp",
     "canonical": "Nghe nói Huế thơ mộng lắm, những người càng yêu đời càng đắm chìm trong thành phố Huế xinh đẹp",
-    "phonemes": "ŋɛ˧˧ nɔj˨˦ hwe˨˦ tʰɤ˧˧ moŋ͡m˨ˀ˩ʔ lam˦˥ ɲɯŋ˧ˀ˥ ŋɯəj˧˨ kaŋ˧˨ iəw˧˧ dɤj˧˨ kaŋ˧˨ dăm˨˦ cim˧˨ cɔŋ͡m˧˧ tʰaŋ˧˨ fo˨˦ hwe˨˦ siŋ˧˧ dɛp˨ˀ˩",
+    "phonemes": "ŋɛ˧˧ nɔj˨˦ hwe˨˦ tʰɤ˧˧ moŋ͡m˨ˀ˩ʔ lam˦˥ ɲɯŋ˧ˀ˥ ŋɯəj˧˨ kaŋ˧˨ iəw˧˧ dɤj˧˨ kaŋ˧˨ dăm˨˦ cim˧˨ tɕɔŋ͡m˧˧ tʰaŋ˧˨ fo˨˦ hwe˨˦ siŋ˧˧ dɛp˨ˀ˩",
     "tokens": [
       {
         "text": "Nghe",
@@ -74593,7 +74593,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -77572,7 +77572,7 @@
     "split": "dev",
     "text": "tôi thích xem cờ đỏ nhưng chói mắt thì tôi khum chịu",
     "canonical": "tôi thích xem cờ đỏ nhưng chói mắt thì tôi không chịu",
-    "phonemes": "toj˧˧ tʰik˦˥ sɛm˧˧ kɤ˧˨ dɔ˧˩˨ ɲɯŋ˧˧ cɔj˨˦ măt˦˥ tʰi˧˨ toj˧˧ xoŋ͡m˧˧ ciw˨ˀ˩ʔ",
+    "phonemes": "toj˧˧ tʰik˦˥ sɛm˧˧ kɤ˧˨ dɔ˧˩˨ ɲɯŋ˧˧ cɔj˨˦ măt˦˥ tʰi˧˨ toj˧˧ xoŋ͡m˧˧ tɕiw˨ˀ˩ʔ",
     "tokens": [
       {
         "text": "tôi",
@@ -77654,7 +77654,7 @@
       {
         "text": "chịu",
         "canonical": "chịu",
-        "phoneme": "ciw˨ˀ˩ʔ",
+        "phoneme": "tɕiw˨ˀ˩ʔ",
         "is_nc": false,
         "nc_type": null
       }
@@ -79899,7 +79899,7 @@
     "split": "dev",
     "text": "Mà mình thắc mắc đó giờ trong 4 mùa stage nào đc nhiều phiếu nhất v , mình bt có Bazaar mùa 2 đc 915 phiếu thôi",
     "canonical": "Mà mình thắc mắc đó giờ trong 4 mùa stage nào được nhiều phiếu nhất vậy , mình biết có Bazaar mùa 2 được 915 phiếu thôi",
-    "phonemes": "ma˧˨ miŋ˧˨ tʰak˧˥ măk˦˥ dɔ˨˦ zɤ˧˨ cɔŋ͡m˧˧ bon˨˦ muə˧˨ si˧˧ təj˧˥ tɕə˧˧ naw˧˨ dɯək̚˨ˀ˩ ɲiəw˧˨ fiəw˨˦ ɲɤ̆t˦˥ vɤ̆j˨ˀ˩ʔ <,> miŋ˧˨ biət̚˦˥ kɔ˨˦ ba˨˦ zaː˧˧ muə˧˨ haj˧˧ dɯək̚˨ˀ˩ cin˨˦ căm˧˧ mɯəj˧˨ lăm˧˧ fiəw˨˦ tʰoj˧˧",
+    "phonemes": "ma˧˨ miŋ˧˨ tʰak˧˥ măk˦˥ dɔ˨˦ zɤ˧˨ tɕɔŋ͡m˧˧ bon˨˦ muə˧˨ si˧˧ təj˧˥ tɕə˧˧ naw˧˨ dɯək̚˨ˀ˩ ɲiəw˧˨ fiəw˨˦ ɲɤ̆t˦˥ vɤ̆j˨ˀ˩ʔ <,> miŋ˧˨ biət̚˦˥ kɔ˨˦ ba˨˦ zaː˧˧ muə˧˨ haj˧˧ dɯək̚˨ˀ˩ cin˨˦ căm˧˧ mɯəj˧˨ lăm˧˧ fiəw˨˦ tʰoj˧˧",
     "tokens": [
       {
         "text": "Mà",
@@ -79946,7 +79946,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -80194,7 +80194,7 @@
     "split": "dev",
     "text": "Thật may mắn vì giờ ng ta hạn chế dùng thủy ngân để làm nhiệt kế ui, với cả cách đây 1 thời gian tui đi mua pin ý, tui đã nghĩ xem làm thế nào để bảo quản nó sau khi hết pin r mang đến chỗ thu gom, khá là đau đầu, xong sau đó thì tui phát hiện ra, giờ pin k thủy ngân, k chì, k cadium bán đầy tốt ghê",
     "canonical": "Thật may mắn vì giờ người ta hạn chế dùng thủy ngân để làm nhiệt kế rồi, với cả cách đây 1 thời gian tui đi mua pin ý, tui đã nghĩ xem làm thế nào để bảo quản nó sau khi hết pin rồi mang đến chỗ thu gom, khá là đau đầu, xong sau đó thì tui phát hiện ra, giờ pin không thủy ngân, không chì, không cadmium bán đầy tốt ghê",
-    "phonemes": "tʰɤ̆t˨ˀ˩ măj˧˧ măn˨˦ vi˧˨ zɤ˧˨ ŋɯəj˧˨ ta˧˧ han˨ˀ˩ʔ tɕe˨˦ zuŋ͡m˧˨ tʰuj˧˩˨ ŋɤ̆n˧˧ de˧˩˨ lam˧˨ ɲiət˨ˀ˩ ke˨˦ zoj˧˨ vɤj˨˦ ka˧˩˨ kɛk˦˥ dɤ̆j˧˧ mot˨ˀ˩ tʰɤj˧˨ zan˧˧ tuj˧˧ di˧˧ muə˧˧ pin˧˧ ʔi˨˦ tuj˧˧ da˧ˀ˥ ŋi˧ˀ˥ sɛm˧˧ lam˧˨ tʰe˨˦ naw˧˨ de˧˩˨ baw˧˩˨ kwan˧˩˨ nɔ˨˦ săw˧˧ xi˧˧ het˦˥ pin˧˧ zoj˧˨ maŋ˧˧ den˨˦ co˧ˀ˥ tʰu˧˧ ɣom˧˧ xa˨˦ la˧˨ dăw˧˧ ɗəw˧˨ sɔŋ͡m˧˧ săw˧˧ dɔ˨˦ tʰi˧˨ tuj˧˧ fat˦˥ hiən˨ˀ˩ʔ za˧˧ zɤ˧˨ pin˧˧ xoŋ͡m˧˧ tʰuj˧˩˨ ŋən˧˧ xoŋ͡m˧˧ ci˧˨ xoŋ͡m˧˧ kat̚˧˧ mi ʔɤm˧˧ ban˨˦ dɤ̆j˧˨ tot˦˥ ɣe˧˧",
+    "phonemes": "tʰɤ̆t˨ˀ˩ măj˧˧ măn˨˦ vi˧˨ zɤ˧˨ ŋɯəj˧˨ ta˧˧ han˨ˀ˩ʔ tɕe˨˦ zuŋ͡m˧˨ tʰuj˧˩˨ ŋɤ̆n˧˧ de˧˩˨ lam˧˨ ɲiət̚˨ˀ˩ ke˨˦ zoj˧˨ vɤj˨˦ ka˧˩˨ kɛk˦˥ dɤ̆j˧˧ mot˨ˀ˩ tʰɤj˧˨ zan˧˧ tuj˧˧ di˧˧ muə˧˧ pin˧˧ ʔi˨˦ tuj˧˧ da˧ˀ˥ ŋi˧ˀ˥ sɛm˧˧ lam˧˨ tʰe˨˦ naw˧˨ de˧˩˨ baw˧˩˨ kwan˧˩˨ nɔ˨˦ săw˧˧ xi˧˧ het˦˥ pin˧˧ zoj˧˨ maŋ˧˧ den˨˦ co˧ˀ˥ tʰu˧˧ ɣom˧˧ xa˨˦ la˧˨ dăw˧˧ ɗəw˧˨ sɔŋ͡m˧˧ săw˧˧ dɔ˨˦ tʰi˧˨ tuj˧˧ fat˦˥ hiən˨ˀ˩ʔ za˧˧ zɤ˧˨ pin˧˧ xoŋ͡m˧˧ tʰuj˧˩˨ ŋən˧˧ xoŋ͡m˧˧ ci˧˨ xoŋ͡m˧˧ kat̚˧˧ mi ʔɤm˧˧ ban˨˦ dɤ̆j˧˨ tot˦˥ ɣe˧˧",
     "tokens": [
       {
         "text": "Thật",
@@ -80297,7 +80297,7 @@
       {
         "text": "nhiệt",
         "canonical": "nhiệt",
-        "phoneme": "ɲiət˨ˀ˩",
+        "phoneme": "ɲiət̚˨ˀ˩",
         "is_nc": false,
         "nc_type": null
       },
@@ -82543,7 +82543,7 @@
     "split": "dev",
     "text": "eiu ủng hộ ng ta đi nèo",
     "canonical": "eiu ủng hộ người ta đi nào",
-    "phonemes": "ʔiːw˧˧ uŋ͡m˧˩˨ ho˨ˀ˩ʔ ŋɯəj˧˨ ta˧˧ di˧˧ naw˧˨",
+    "phonemes": "ʔiːw˧˧ ʔuŋ͡m˧˩˨ ho˨ˀ˩ʔ ŋɯəj˧˨ ta˧˧ di˧˧ naw˧˨",
     "tokens": [
       {
         "text": "eiu",
@@ -82555,7 +82555,7 @@
       {
         "text": "ủng",
         "canonical": "ủng",
-        "phoneme": "uŋ͡m˧˩˨",
+        "phoneme": "ʔuŋ͡m˧˩˨",
         "is_nc": false,
         "nc_type": null
       },
@@ -84919,12 +84919,12 @@
     "split": "dev",
     "text": "Thằng điên, gặp t, t chạy liền ngay và lập tức",
     "canonical": "Thằng điên, gặp tôi, tôi chạy liền ngay và lập tức",
-    "phonemes": "tʰaŋ˨˨ ɗiən˧˧ ɣăp˨ˀ˩ toj˧˧ toj˧˧ tɕăj˨ˀ˩ʔ liən˧˨ ŋăj˧˧ va˧˨ lɤ̆p˨ˀ˩ tɯk˦˥",
+    "phonemes": "tʰăŋ˧˨ ɗiən˧˧ ɣăp˨ˀ˩ toj˧˧ toj˧˧ tɕăj˨ˀ˩ʔ liən˧˨ ŋăj˧˧ va˧˨ lɤ̆p˨ˀ˩ tɯk˦˥",
     "tokens": [
       {
         "text": "Thằng",
         "canonical": "Thằng",
-        "phoneme": "tʰaŋ˨˨",
+        "phoneme": "tʰăŋ˧˨",
         "is_nc": false,
         "nc_type": null
       },
@@ -86061,7 +86061,7 @@
     "split": "dev",
     "text": "Trường mh lạnh bật sưởi, nóng bật điều hoà, hè đi chọn áo né mấy cái đẹp đẹp mà cộc tay ra vì ko trụ nổi trên trường",
     "canonical": "Trường mình lạnh bật sưởi, nóng bật điều hoà, hè đi chọn áo né mấy cái đẹp đẹp mà cộc tay ra vì không trụ nổi trên trường",
-    "phonemes": "cɯəŋ˧˨ miŋ˧˨ lɛŋ˨ˀ˩ʔ bɤ̆t˨ˀ˩ sɯəj˧˩˨ nɔŋ͡m˨˦ bɤ̆t˨ˀ˩ diəw˧˨ hwaː˧˨ hɛ˧˨ di˧˧ tɕɔn˨ˀ˩ʔ aw˨˦ nɛ˨˦ mɤ̆j˨˦ kaj˨˦ dɛp˨ˀ˩ dɛp˨ˀ˩ ma˧˨ kok͡p˨ˀ˩ tăj˧˧ za˧˧ vi˧˨ xoŋ͡m˧˧ cu˨ˀ˩ʔ noj˧˩˨ cen˧˧ cɯəŋ˧˨",
+    "phonemes": "cɯəŋ˧˨ miŋ˧˨ laŋ˨ˀ˩ʔ bɤ̆t˨ˀ˩ sɯəj˧˩˨ nɔŋ͡m˨˦ bɤ̆t˨ˀ˩ diəw˧˨ hwaː˧˨ hɛ˧˨ di˧˧ tɕɔn˨ˀ˩ʔ aw˨˦ nɛ˨˦ mɤ̆j˨˦ kaj˨˦ dɛp˨ˀ˩ dɛp˨ˀ˩ ma˧˨ kok͡p˨ˀ˩ tăj˧˧ za˧˧ vi˧˨ xoŋ͡m˧˧ cu˨ˀ˩ʔ noj˧˩˨ cen˧˧ cɯəŋ˧˨",
     "tokens": [
       {
         "text": "Trường",
@@ -86080,7 +86080,7 @@
       {
         "text": "lạnh",
         "canonical": "lạnh",
-        "phoneme": "lɛŋ˨ˀ˩ʔ",
+        "phoneme": "laŋ˨ˀ˩ʔ",
         "is_nc": false,
         "nc_type": null
       },
@@ -87254,7 +87254,7 @@
     "split": "dev",
     "text": "do ồn quá chứ sao, bth mà ta",
     "canonical": "do ồn quá chứ sao, bình thường mà ta",
-    "phonemes": "zɔ˧˧ on˧˨ kwa˨˦ cɯ˨˦ ʂaw˧˧ biŋ˧˨ tʰɯəŋ˧˨ ma˧˨ ta˧˧",
+    "phonemes": "zɔ˧˧ on˧˨ kwa˨˦ cɯ˨˦ saw˧˧ biŋ˧˨ tʰɯəŋ˧˨ ma˧˨ ta˧˧",
     "tokens": [
       {
         "text": "do",
@@ -87287,7 +87287,7 @@
       {
         "text": "sao,",
         "canonical": "sao,",
-        "phoneme": "ʂaw˧˧",
+        "phoneme": "saw˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -87321,7 +87321,7 @@
     "split": "dev",
     "text": "Má a Quyết làm e đc gặp chú công an nữa",
     "canonical": "Má anh Quyết làm em được gặp chú công an nữa",
-    "phonemes": "ma˨˦ ʔaŋ˧˧ kwiɛt˦˥ lam˧˨ ʔɛm˧˧ dɯək̚˨ˀ˩ ɣăp˨ˀ˩ cu˨˦ koŋ͡m˧˧ an˧˧ nɯə˧ˀ˥",
+    "phonemes": "ma˨˦ ʔaŋ˧˧ kwiɛt˦˥ lam˧˨ ʔɛm˧˧ dɯək̚˨ˀ˩ ɣăp˨ˀ˩ tɕu˨˦ koŋ͡m˧˧ an˧˧ nɯə˧ˀ˥",
     "tokens": [
       {
         "text": "Má",
@@ -87375,7 +87375,7 @@
       {
         "text": "chú",
         "canonical": "chú",
-        "phoneme": "cu˨˦",
+        "phoneme": "tɕu˨˦",
         "is_nc": false,
         "nc_type": null
       },
@@ -87621,7 +87621,7 @@
     "split": "dev",
     "text": "\"Ủa sao con nằm trong này hk đi chơi bao h đi lấy ck z con\" :)))",
     "canonical": "\"Ủa sao con nằm trong này không đi chơi bao giờ đi lấy chồng vậy con\" :)))",
-    "phonemes": "ʔuə˧˩˨ saw˧˧ kɔn˧˧ năm˧˨ cɔŋ͡m˧˧ năj˧˨ xoŋ͡m˧˧ di˧˧ cɤj˧˧ baw˧˧ zɤ˧˨ di˧˧ lɤ̆j˨˦ tɕoŋ͡m˧˨ vɤ̆j˨ˀ˩ʔ kɔn˧˧ <:)))>",
+    "phonemes": "ʔuə˧˩˨ saw˧˧ kɔn˧˧ năm˧˨ tɕɔŋ͡m˧˧ năj˧˨ xoŋ͡m˧˧ di˧˧ cɤj˧˧ baw˧˧ zɤ˧˨ di˧˧ lɤ̆j˨˦ tɕoŋ͡m˧˨ vɤ̆j˨ˀ˩ʔ kɔn˧˧ <:)))>",
     "tokens": [
       {
         "text": "\"Ủa",
@@ -87654,7 +87654,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -88997,7 +88997,7 @@
     "split": "dev",
     "text": ", bữa chạy xe về khuya lúc 5h sáng, thấy mấy cô chú chạy tập thể dục, dui dẻ có chú kia chạy 1 mình , nhìn từ xa có gì bé bé xinh xinh lon ton chạy theo, vội kêu đứa em \" ê chú đó đi tập thể dục v bé chó kìa cưng ghê, thương quá \" , lại gần ổng chạy 1m thiệt, chân chạm đất hửn hoi , còn cái cục lon ton là cái bóng của ổng do đèn soi xuống thấy cũng bớt cưng liền",
     "canonical": ", bữa chạy xe về khuya lúc 5h sáng, thấy mấy cô chú chạy tập thể dục, vui vẻ có chú kia chạy 1 mình , nhìn từ xa có gì bé bé xinh xinh lon ton chạy theo, vội kêu đứa em \" ê chú đó đi tập thể dục với bé chó kìa cưng ghê, thương quá \" , lại gần ổng chạy 1m thiệt, chân chạm đất hẳn hoi , còn cái cục lon ton là cái bóng của ổng do đèn soi xuống thấy cũng bớt cưng liền",
-    "phonemes": "<,> bɯə˧ˀ˥ căj˨ˀ˩ʔ sɛ˧˧ ve˧˨ xwiə˧˧ luk͡p˦˥ năm˧˧ zɤ˧˨ saːŋ͡m˨˦ tʰɤ̆j˨˦ mɤ̆j˨˦ ko˧˧ cu˨˦ căj˨ˀ˩ʔ tɤ̆p˨ˀ˩ tʰe˧˩˨ zʊk˨ˀ˩ʔ vuj˧˧ vɛ˧˩˨ kɔ˨˦ cu˨˦ kiə˧˧ căj˨ˀ˩ʔ mot˨ˀ˩ miŋ˧˨ <,> ɲin˧˨ tɯ˧˨ sa˧˧ kɔ˨˦ ɣi˧˨ bɛ˨˦ bɛ˨˦ siŋ˧˧ siŋ˧˧ lɔn˧˧ tɔn˧˧ căj˨ˀ˩ʔ tʰew˧˧ voj˨ˀ˩ʔ kɛu˧˧ dɯə˨˦ ʔɛm˧˧ <\"> e˧˧ cu˨˦ dɔ˨˦ di˧˧ tɤ̆p˨ˀ˩ tʰe˧˩˨ zuk͡p˨ˀ˩ vɤj˨˦ bɛ˨˦ cɔ˨˦ kiə˧˨ kɯŋ˧˧ ɣe˧˧ tʰɯəŋ˧˧ kwa˨˦ <\"> <,> laj˨ˀ˩ʔ ɣɤ̆n˧˨ oŋ͡m˧˩˨ căj˨ˀ˩ʔ mot˨ˀ˩ mɛt˦˥ tʰiət˨ˀ˩ʔ cɤ̆n˧˧ cam˨ˀ˩ʔ dɤ̆t˦˥ hăn˧˩˨ hɔj˧˧ <,> kɔn˧˨ kaj˨˦ kuk͡p˨ˀ˩ lɔn˧˧ tɔn˧˧ la˧˨ kaj˨˦ bɔŋ͡m˨˦ kuə˧˩˨ oŋ͡m˧˩˨ zɔ˧˧ dɛn˧˨ sɔj˧˧ suəŋ˨˦ tʰɤ̆j˨˦ kuŋ͡m˧ˀ˥ bɤt˦˥ kɯŋ˧˧ liən˧˨",
+    "phonemes": "<,> bɯə˧ˀ˥ căj˨ˀ˩ʔ sɛ˧˧ ve˧˨ xwiə˧˧ luk͡p˦˥ năm˧˧ zɤ˧˨ saːŋ͡m˨˦ tʰɤ̆j˨˦ mɤ̆j˨˦ ko˧˧ tɕu˨˦ căj˨ˀ˩ʔ tɤ̆p˨ˀ˩ tʰe˧˩˨ zʊk˨ˀ˩ʔ vuj˧˧ vɛ˧˩˨ kɔ˨˦ tɕu˨˦ kiə˧˧ căj˨ˀ˩ʔ mot˨ˀ˩ miŋ˧˨ <,> ɲin˧˨ tɯ˧˨ sa˧˧ kɔ˨˦ ɣi˧˨ bɛ˨˦ bɛ˨˦ siŋ˧˧ siŋ˧˧ lɔn˧˧ tɔn˧˧ căj˨ˀ˩ʔ tʰew˧˧ voj˨ˀ˩ʔ kɛu˧˧ dɯə˨˦ ʔɛm˧˧ <\"> e˧˧ tɕu˨˦ dɔ˨˦ di˧˧ tɤ̆p˨ˀ˩ tʰe˧˩˨ zuk͡p˨ˀ˩ vɤj˨˦ bɛ˨˦ cɔ˨˦ kiə˧˨ kɯŋ˧˧ ɣe˧˧ tʰɯəŋ˧˧ kwa˨˦ <\"> <,> laj˨ˀ˩ʔ ɣɤ̆n˧˨ oŋ͡m˧˩˨ căj˨ˀ˩ʔ mot˨ˀ˩ mɛt˦˥ tʰiət˨ˀ˩ʔ cɤ̆n˧˧ cam˨ˀ˩ʔ dɤ̆t˦˥ hăn˧˩˨ hɔj˧˧ <,> kɔn˧˨ kaj˨˦ kuk͡p˨ˀ˩ lɔn˧˧ tɔn˧˧ la˧˨ kaj˨˦ bɔŋ͡m˨˦ kuə˧˩˨ oŋ͡m˧˩˨ zɔ˧˧ dɛn˧˨ sɔj˧˧ suəŋ˨˦ tʰɤ̆j˨˦ kuŋ͡m˧ˀ˥ bɤt˦˥ kɯŋ˧˧ liən˧˨",
     "tokens": [
       {
         "text": ",",
@@ -89086,7 +89086,7 @@
       {
         "text": "chú",
         "canonical": "chú",
-        "phoneme": "cu˨˦",
+        "phoneme": "tɕu˨˦",
         "is_nc": false,
         "nc_type": null
       },
@@ -89142,7 +89142,7 @@
       {
         "text": "chú",
         "canonical": "chú",
-        "phoneme": "cu˨˦",
+        "phoneme": "tɕu˨˦",
         "is_nc": false,
         "nc_type": null
       },
@@ -89317,7 +89317,7 @@
       {
         "text": "chú",
         "canonical": "chú",
-        "phoneme": "cu˨˦",
+        "phoneme": "tɕu˨˦",
         "is_nc": false,
         "nc_type": null
       },
@@ -90022,7 +90022,7 @@
     "split": "dev",
     "text": "Bà Thiến nay bả chịu cừ rùi",
     "canonical": "Bà Thiến nay bả chịu cười rồi",
-    "phonemes": "ba˧˨ tʰiən˨˦ năj˧˧ ba˧˩˨ ciw˨ˀ˩ʔ kɯəj˧˨ zoj˧˨",
+    "phonemes": "ba˧˨ tʰiən˨˦ năj˧˧ ba˧˩˨ tɕiw˨ˀ˩ʔ kɯəj˧˨ zoj˧˨",
     "tokens": [
       {
         "text": "Bà",
@@ -90055,7 +90055,7 @@
       {
         "text": "chịu",
         "canonical": "chịu",
-        "phoneme": "ciw˨ˀ˩ʔ",
+        "phoneme": "tɕiw˨ˀ˩ʔ",
         "is_nc": false,
         "nc_type": null
       },
@@ -91107,7 +91107,7 @@
     "split": "dev",
     "text": "bác tài xế đg lấy dây an toàn của chú mà bn lại lấy của chú",
     "canonical": "bác tài xế đang lấy dây an toàn của chú mà bạn lại lấy của chú",
-    "phonemes": "bak˦˥ taj˧˨ se˨˦ daŋ˧˧ lɤ̆j˨˦ zɤ̆j˧˧ an˧˧ twan˧˨ kuə˧˩˨ cu˨˦ ma˧˨ ban˨ˀ˩ʔ laj˨ˀ˩ʔ lɤ̆j˨˦ kuə˧˩˨ cu˨˦",
+    "phonemes": "bak˦˥ taj˧˨ se˨˦ daŋ˧˧ lɤ̆j˨˦ zɤ̆j˧˧ an˧˧ twan˧˨ kuə˧˩˨ tɕu˨˦ ma˧˨ ban˨ˀ˩ʔ laj˨ˀ˩ʔ lɤ̆j˨˦ kuə˧˩˨ tɕu˨˦",
     "tokens": [
       {
         "text": "bác",
@@ -91175,7 +91175,7 @@
       {
         "text": "chú",
         "canonical": "chú",
-        "phoneme": "cu˨˦",
+        "phoneme": "tɕu˨˦",
         "is_nc": false,
         "nc_type": null
       },
@@ -91217,7 +91217,7 @@
       {
         "text": "chú",
         "canonical": "chú",
-        "phoneme": "cu˨˦",
+        "phoneme": "tɕu˨˦",
         "is_nc": false,
         "nc_type": null
       }
@@ -91230,7 +91230,7 @@
     "split": "dev",
     "text": "có một a ck chớt hồi 21 tuổi với 6 đứa con kèm 7749 ann ngiu =))))",
     "canonical": "có một anh chồng chết hồi 21 tuổi với 6 đứa con kèm 7749 anh người yêu =))))",
-    "phonemes": "kɔ˨˦ mot˨ˀ˩ ʔaŋ˧˧ tɕoŋ͡m˧˨ tɕet̚˦˥ hoj˧˨ haj˧˧ mɯəj˧˧ mot˦˥ tuəj˧˩˨ vɤj˨˦ săw˨˦ dɯə˨˦ kɔn˧˧ kɛm˧˨ băj˧˩˨ ŋin˧˨ băj˧˩˨ căm˧˧ bon˨˦ mɯəj˧˧ cin˨˦ ʔaŋ˧˧ ŋɯəj˧˨ ʔiəw˧˧ <=))))>",
+    "phonemes": "kɔ˨˦ mot˨ˀ˩ ʔaŋ˧˧ tɕoŋ͡m˧˨ tɕet̚˦˥ hoj˧˨ haj˧˧ mɯəj˧˧ mot˦˥ tuəj˧˩˨ vɤj˨˦ săw˨˦ dɯə˨˦ kɔn˧˧ kɛm˧˨ băj˧˩˨ ŋin˧˨ băj˧˩˨ tɕăm˧˧ bon˨˦ mɯəj˧˧ tɕin˨˦ ʔaŋ˧˧ ŋɯəj˧˨ ʔiəw˧˧ <=))))>",
     "tokens": [
       {
         "text": "có",
@@ -91312,7 +91312,7 @@
       {
         "text": "7749",
         "canonical": "7749",
-        "phoneme": "băj˧˩˨ ŋin˧˨ băj˧˩˨ căm˧˧ bon˨˦ mɯəj˧˧ cin˨˦",
+        "phoneme": "băj˧˩˨ ŋin˧˨ băj˧˩˨ tɕăm˧˧ bon˨˦ mɯəj˧˧ tɕin˨˦",
         "is_nc": false,
         "nc_type": null
       },
@@ -92705,7 +92705,7 @@
     "split": "dev",
     "text": "gấp z mới được ngủ chung dí t nha",
     "canonical": "gấp vậy mới được ngủ chung với tôi nha",
-    "phonemes": "ɣɤ̆p˦˥ vɤ̆j˨ˀ˩ʔ mɤj˨˦ dɯək˨ˀ˩ ŋu˧˩˨ cuŋ͡m˧˧ vɤj˨˦ toj˧˧ ɲa˧˧",
+    "phonemes": "ɣɤ̆p˦˥ vɤ̆j˨ˀ˩ʔ mɤj˨˦ dɯək˨ˀ˩ ŋu˧˩˨ tɕuŋ͡m˧˧ vɤj˨˦ toj˧˧ ɲa˧˧",
     "tokens": [
       {
         "text": "gấp",
@@ -92745,7 +92745,7 @@
       {
         "text": "chung",
         "canonical": "chung",
-        "phoneme": "cuŋ͡m˧˧",
+        "phoneme": "tɕuŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -95028,12 +95028,12 @@
     "split": "dev",
     "text": "trong vid bạn nữ kia ủi thằng bé r té cũng chả nhẹ đâu mà ông kia còn gọi người ra đánh nữa thì sai rõ r",
     "canonical": "trong vid bạn nữ kia ủi thằng bé rồi té cũng chả nhẹ đâu mà ông kia còn gọi người ra đánh nữa thì sai rõ r",
-    "phonemes": "cɔŋ͡m˧˧ vit˧˨ ban˨ˀ˩ʔ nɯ˧ˀ˥ kiə˧˧ uj˧˩˨ tʰaŋ˨˧ bɛ˨˦ zoj˧˨ tɛ˨˦ kuŋ͡m˧ˀ˥ ca˧˩˨ ɲɛ˨ˀ˩ʔ dɤ̆w˧˧ ma˧˨ oŋ͡m˧˧ kiə˧˧ kɔn˧˨ ɣɔj˨ˀ˩ʔ ŋɯəj˧˨ za˧˧ dɛŋ˨˦ nɯə˧ˀ˥ tʰi˧˨ saj˧˧ zɔ˧ˀ˥ ɛr˧˧",
+    "phonemes": "tɕɔŋ͡m˧˧ vit˧˨ ban˨ˀ˩ʔ nɯ˧ˀ˥ kiə˧˧ uj˧˩˨ tʰaŋ˨˧ bɛ˨˦ zoj˧˨ tɛ˨˦ kuŋ͡m˧ˀ˥ ca˧˩˨ ɲɛ˨ˀ˩ʔ dɤ̆w˧˧ ma˧˨ oŋ͡m˧˧ kiə˧˧ kɔn˧˨ ɣɔj˨ˀ˩ʔ ŋɯəj˧˨ za˧˧ dɛŋ˨˦ nɯə˧ˀ˥ tʰi˧˨ saj˧˧ zɔ˧ˀ˥ ɛr˧˧",
     "tokens": [
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -97381,7 +97381,7 @@
     "split": "dev",
     "text": "Sống thọ không bệnh không tai nạn nhma chết bởi 1 con vật nuôi trong nhà",
     "canonical": "Sống thọ không bệnh không tai nạn nhưng mà chết bởi 1 con vật nuôi trong nhà",
-    "phonemes": "soŋ͡m˨˦ tʰɔ˨ˀ˩ʔ xoŋ͡m˧˧ beŋ˨ˀ˩ʔ xoŋ͡m˧˧ taj˧˧ nan˨ˀ˩ʔ ɲɯŋ˧˧ ma˧˨ cet˦˥ bɤj˧˩˨ mot˨ˀ˩ kɔn˧˧ vɤ̆t˨ˀ˩ nuəj˧˧ cɔŋ͡m˧˧ ɲa˧˨",
+    "phonemes": "soŋ͡m˨˦ tʰɔ˨ˀ˩ʔ xoŋ͡m˧˧ beŋ˨ˀ˩ʔ xoŋ͡m˧˧ taj˧˧ nan˨ˀ˩ʔ ɲɯŋ˧˧ ma˧˨ cet˦˥ bɤj˧˩˨ mot˨ˀ˩ kɔn˧˧ vɤ̆t̚˨ˀ˩ nuəj˧˧ tɕɔŋ͡m˧˧ ɲa˧˨",
     "tokens": [
       {
         "text": "Sống",
@@ -97470,7 +97470,7 @@
       {
         "text": "vật",
         "canonical": "vật",
-        "phoneme": "vɤ̆t˨ˀ˩",
+        "phoneme": "vɤ̆t̚˨ˀ˩",
         "is_nc": false,
         "nc_type": null
       },
@@ -97484,7 +97484,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -97891,7 +97891,7 @@
     "split": "dev",
     "text": "hồi nhỏ nhát tới mức ai hỏi gì cũng không dám trả lời hoặc trả lời lí nhí để mẹ biết ý trả lời thay, xong h lớn tồng ngồng rùi mà đi khám bệnh hay đi làm thẻ ngân hàng mẹ vẫn theo thói quen kè kè sát bên trả lời giùm dù bgio mình đã dạn hơn nhiều lắm rùi nhưng có mẹ zẫn zui hơn kakaka iu mẹ",
     "canonical": "hồi nhỏ nhát tới mức ai hỏi gì cũng không dám trả lời hoặc trả lời lí nhí để mẹ biết ý trả lời thay, xong giờ lớn tồng ngồng rồi mà đi khám bệnh hay đi làm thẻ ngân hàng mẹ vẫn theo thói quen kè kè sát bên trả lời giùm dù bây giờ mình đã dạn hơn nhiều lắm rồi nhưng có mẹ vẫn vui hơn kakaka yêu mẹ",
-    "phonemes": "hoj˧˨ ɲɔ˧˩˨ ɲat˦˥ tɤj˨˦ mɯk˦˥ aj˧˧ hɔj˧˩˨ ɣi˧˨ kuŋ͡m˧ˀ˥ xoŋ͡m˧˧ zam˨˦ ca˧˩˨ lɤj˧˨ hwăk˨ˀ˩ ca˧˩˨ lɤj˧˨ li˨˦ ɲi˨˦ de˧˩˨ mɛ˨ˀ˩ʔ biət˦˥ i˨˦ ca˧˩˨ lɤj˧˨ tʰaj˧˧ sɔŋ͡m˧˧ zɤ˧˨ lɤn˨˦ toŋ͡m˧˨ ŋoŋ͡m˧˨ zoj˧˨ ma˧˨ di˧˧ xam˨˦ beŋ˨ˀ˩ʔ hăj˧˧ di˧˧ lam˧˨ tʰɛ˧˩˨ ŋɤ̆n˧˧ haŋ˧˨ mɛ˨ˀ˩ʔ vɤ̆n˧ˀ˥ tʰeo˧˧ tʰɔj˨˦ kwɛn˧˧ kɛ˧˨ kɛ˧˨ sat˦˥ ben˧˧ ca˧˩˨ lɤj˧˨ zum˧˨ zu˧˨ bɤ̆j˧˧ zɤ˧˨ miŋ˧˨ da˧ˀ˥ zan˨ˀ˩ʔ hɤn˧˧ ɲiəw˧˨ lăm˨˦ zoj˧˨ ɲɯŋ˧˧ kɔ˨˦ mɛ˨ˀ˩ʔ vɤ̆n˧ˀ˥ vuj˧˧ hɤn˧˧ ka˧˧ ka˧˧ ka˧˧ ʔiəw˧˧ mɛ˨ˀ˩ʔ",
+    "phonemes": "hoj˧˨ ɲɔ˧˩˨ ɲat˦˥ tɤj˨˦ mɯk˦˥ aj˧˧ hɔj˧˩˨ ɣi˧˨ kuŋ͡m˧ˀ˥ xoŋ͡m˧˧ zam˨˦ ca˧˩˨ lɤj˧˨ hwăk˨ˀ˩ ca˧˩˨ lɤj˧˨ li˨˦ ɲi˨˦ de˧˩˨ mɛ˨ˀ˩ʔ biət˦˥ i˨˦ ca˧˩˨ lɤj˧˨ tʰaj˧˧ sɔŋ͡m˧˧ zɤ˧˨ lɤn˨˦ toŋ͡m˧˨ ŋoŋ͡m˧˨ zoj˧˨ ma˧˨ di˧˧ xam˨˦ beŋ˨ˀ˩ʔ hăj˧˧ di˧˧ lam˧˨ tʰɛ˧˩˨ ŋɤ̆n˧˧ haŋ˧˨ mɛ˨ˀ˩ʔ vɤ̆n˧ˀ˥ tʰeo˧˧ tʰɔj˨˦ kwɛn˧˧ kɛ˧˨ kɛ˧˨ sat˦˥ ben˧˧ ca˧˩˨ lɤj˧˨ zum˧˨ zu˧˨ baw˧˧ zɤ˧˨ miŋ˧˨ da˧ˀ˥ zan˨ˀ˩ʔ hɤn˧˧ ɲiəw˧˨ lăm˨˦ zoj˧˨ ɲɯŋ˧˧ kɔ˨˦ mɛ˨ˀ˩ʔ vɤ̆n˧ˀ˥ vuj˧˧ hɤn˧˧ ka˧˧ ka˧˧ ka˧˧ ʔiəw˧˧ mɛ˨ˀ˩ʔ",
     "tokens": [
       {
         "text": "hồi",
@@ -98274,7 +98274,7 @@
       {
         "text": "bgio",
         "canonical": "bây giờ",
-        "phoneme": "bɤ̆j˧˧ zɤ˧˨",
+        "phoneme": "baw˧˧ zɤ˧˨",
         "is_nc": true,
         "nc_type": "A3"
       },
@@ -99289,7 +99289,7 @@
     "split": "dev",
     "text": "Quả bạn nhiệt tình gửi đ gì cũng cợt nhạ",
     "canonical": "Quả bạn nhiệt tình gửi đéo gì cũng cợt nhả",
-    "phonemes": "kwa˧˩˨ ban˨ˀ˩ʔ ɲiət˨ˀ˩ tiŋ˧˨ ɣɯj˧˩˨ dɛw˨˦ ɣi˧˨ kuŋ͡m˧ˀ˥ kɤt˨ˀ˩ ɲa˧˩˨",
+    "phonemes": "kwa˧˩˨ ban˨ˀ˩ʔ ɲiət̚˨ˀ˩ tiŋ˧˨ ɣɯj˧˩˨ dɛw˨˦ ɣi˧˨ kuŋ͡m˧ˀ˥ kɤt˨ˀ˩ ɲa˧˩˨",
     "tokens": [
       {
         "text": "Quả",
@@ -99308,7 +99308,7 @@
       {
         "text": "nhiệt",
         "canonical": "nhiệt",
-        "phoneme": "ɲiət˨ˀ˩",
+        "phoneme": "ɲiət̚˨ˀ˩",
         "is_nc": false,
         "nc_type": null
       },
@@ -99370,7 +99370,7 @@
     "split": "dev",
     "text": "Có link sóp pi k ạ",
     "canonical": "Có link sóp pi không ạ",
-    "phonemes": "kɔ˨˦ liŋk˧˧ sɔp˨˦ pi˧˧ xoŋ͡m˧˧ a˨ˀ˩ʔ",
+    "phonemes": "kɔ˨˦ liŋ˧˧ sɔp˨˦ pi˧˧ xoŋ͡m˧˧ a˨ˀ˩ʔ",
     "tokens": [
       {
         "text": "Có",
@@ -99382,7 +99382,7 @@
       {
         "text": "link",
         "canonical": "link",
-        "phoneme": "liŋk˧˧",
+        "phoneme": "liŋ˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -100247,7 +100247,7 @@
     "split": "dev",
     "text": "Chị yên tâm mà ở nhà nghỉ ngơi, trong tuần này thôi 1 đàn chó sẽ đến khúm lúm quỳ lạy xin lỗi chị",
     "canonical": "Chị yên tâm mà ở nhà nghỉ ngơi, trong tuần này thôi 1 đàn chó sẽ đến khúm núm quỳ lạy xin lỗi chị",
-    "phonemes": "ci˨ˀ˩ʔ iɛn˧˧ tɤ̆m˧˧ ma˧˨ ɤ˧˩˨ ɲa˧˨ ŋi˧˩˨ ŋɤj˧˧ cɔŋ͡m˧˧ twɤ̆n˧˨ năj˧˨ tʰoj˧˧ mot˨ˀ˩ dan˧˨ cɔ˨˦ sɛ˧ˀ˥ den˨˦ xum˨˦ num˨˦ kwi˧˨ lăj˨ˀ˩ʔ sin˧˧ loj˧ˀ˥ ci˨ˀ˩ʔ",
+    "phonemes": "ci˨ˀ˩ʔ iɛn˧˧ tɤ̆m˧˧ ma˧˨ ɤ˧˩˨ ɲa˧˨ ŋi˧˩˨ ŋɤj˧˧ tɕɔŋ͡m˧˧ twɤ̆n˧˨ năj˧˨ tʰoj˧˧ mot˨ˀ˩ dan˧˨ cɔ˨˦ sɛ˧ˀ˥ den˨˦ xum˨˦ num˨˦ kwi˧˨ lăj˨ˀ˩ʔ sin˧˧ loj˧ˀ˥ ci˨ˀ˩ʔ",
     "tokens": [
       {
         "text": "Chị",
@@ -100308,7 +100308,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -100500,7 +100500,7 @@
     "split": "dev",
     "text": "ngta có ô, mình cóa ô kê hê hê",
     "canonical": "người ta có ô, mình có ô kê hê hê",
-    "phonemes": "ŋɯəj˧˨ ta˧˧ kɔ˨˦ ʔo˧˧ miŋ˧˨ kɔ˨˦ o˧˧ ke˧˧ he˧˧ he˧˧",
+    "phonemes": "ŋɯəj˧˨ ta˧˧ kɔ˨˦ ʔo˧˧ miŋ˧˨ kɔ˨˦ ʔo˧˧ ke˧˧ he˧˧ he˧˧",
     "tokens": [
       {
         "text": "ngta",
@@ -100540,7 +100540,7 @@
       {
         "text": "ô",
         "canonical": "ô",
-        "phoneme": "o˧˧",
+        "phoneme": "ʔo˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -102267,7 +102267,7 @@
     "split": "dev",
     "text": "T từng vô spa làm thời vụ hồi thất nghiệp",
     "canonical": "Tôi từng vô spa làm thời vụ hồi thất nghiệp",
-    "phonemes": "toj˧˧ tɯŋ˧˨ vo˧˧ sɤpaː˧˧ lam˧˨ tʰɤj˧˨ vu˨ˀ˩ʔ hoj˧˨ tʰɤ̆t˦˥ ŋiəp˨ˀ˩",
+    "phonemes": "toj˧˧ tɯŋ˧˨ vo˧˧ sɤpaː˧˧ lam˧˨ tʰɤj˧˨ vu˨ˀ˩ʔ hoj˧˨ tʰɤ̆t˦˥ ŋiəp̚˨ˀ˩",
     "tokens": [
       {
         "text": "T",
@@ -102335,7 +102335,7 @@
       {
         "text": "nghiệp",
         "canonical": "nghiệp",
-        "phoneme": "ŋiəp˨ˀ˩",
+        "phoneme": "ŋiəp̚˨ˀ˩",
         "is_nc": false,
         "nc_type": null
       }
@@ -105730,7 +105730,7 @@
     "split": "dev",
     "text": "E thấy ck trong bức ảnh này",
     "canonical": "Em thấy chồng trong bức ảnh này",
-    "phonemes": "ʔɛm˧˧ tʰɤ̆j˨˦ tɕoŋ͡m˧˨ cɔŋ͡m˧˧ bɯk˦˥ ɛŋ˧˩˨ năj˧˨",
+    "phonemes": "ʔɛm˧˧ tʰɤ̆j˨˦ tɕoŋ͡m˧˨ tɕɔŋ͡m˧˧ bɯk˦˥ ɛŋ˧˩˨ năj˧˨",
     "tokens": [
       {
         "text": "E",
@@ -105756,7 +105756,7 @@
       {
         "text": "trong",
         "canonical": "trong",
-        "phoneme": "cɔŋ͡m˧˧",
+        "phoneme": "tɕɔŋ͡m˧˧",
         "is_nc": false,
         "nc_type": null
       },
@@ -106305,9 +106305,9 @@
     ]
   },
   {
-    "id": "augment_v7_8490",
+    "id": "augmented_8490",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Tối nay rảnh thì nghe nghe bài này đi, chill lắm",
     "canonical": "Tối nay rảnh thì nghe nghe bài này đi, chill lắm",
@@ -106386,9 +106386,9 @@
     ]
   },
   {
-    "id": "augment_v7_8491",
+    "id": "augmented_8491",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Mọi người coi coi giúp mình cái caption này ổn chưa",
     "canonical": "Mọi người coi coi giúp mình cái caption này ổn chưa",
@@ -106467,9 +106467,9 @@
     ]
   },
   {
-    "id": "augment_v7_8492",
+    "id": "augmented_8492",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Ra tới cổng rồi nha, chờ chờ mình 5 phút",
     "canonical": "Ra tới cổng rồi nha, chờ chờ mình 5 phút",
@@ -106541,9 +106541,9 @@
     ]
   },
   {
-    "id": "augment_v7_8493",
+    "id": "augmented_8493",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Mai kiểm tra rồi, tối nay học học chút đi",
     "canonical": "Mai kiểm tra rồi, tối nay học học chút đi",
@@ -106615,9 +106615,9 @@
     ]
   },
   {
-    "id": "augment_v7_8494",
+    "id": "augmented_8494",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Đèn đẹp quá, đứng đây chụp chụp vài tấm nha",
     "canonical": "Đèn đẹp quá, đứng đây chụp chụp vài tấm nha",
@@ -106689,9 +106689,9 @@
     ]
   },
   {
-    "id": "augment_v7_8495",
+    "id": "augmented_8495",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Sale mạnh vậy thì mua mua ít đồ thôi nè",
     "canonical": "Sale mạnh vậy thì mua mua ít đồ thôi nè",
@@ -106763,9 +106763,9 @@
     ]
   },
   {
-    "id": "augment_v7_8496",
+    "id": "augmented_8496",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Ai rảnh xem xem hộ mình lịch chiếu với",
     "canonical": "Ai rảnh xem xem hộ mình lịch chiếu với",
@@ -106830,9 +106830,9 @@
     ]
   },
   {
-    "id": "augment_v7_8497",
+    "id": "augmented_8497",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Làm cả tuần rồi, cuối tuần nghỉ nghỉ cho khỏe",
     "canonical": "Làm cả tuần rồi, cuối tuần nghỉ nghỉ cho khỏe",
@@ -106904,9 +106904,9 @@
     ]
   },
   {
-    "id": "augment_v7_8498",
+    "id": "augmented_8498",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Có gì thì nói nói luôn đi, đừng ngại",
     "canonical": "Có gì thì nói nói luôn đi, đừng ngại",
@@ -106971,9 +106971,9 @@
     ]
   },
   {
-    "id": "augment_v7_8499",
+    "id": "augmented_8499",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Nhìn cái meme này là cười cười hoài luôn",
     "canonical": "Nhìn cái meme này là cười cười hoài luôn",
@@ -107038,9 +107038,9 @@
     ]
   },
   {
-    "id": "augment_v7_8500",
+    "id": "augmented_8500",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Ê nghe nghe mình kể chuyện này mắc cười lắm",
     "canonical": "Ê nghe nghe mình kể chuyện này mắc cười lắm",
@@ -107112,9 +107112,9 @@
     ]
   },
   {
-    "id": "augment_v7_8501",
+    "id": "augmented_8501",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Mưa sắp tới rồi, chạy chạy vào nhà đi",
     "canonical": "Mưa sắp tới rồi, chạy chạy vào nhà đi",
@@ -107179,9 +107179,9 @@
     ]
   },
   {
-    "id": "augment_v7_8502",
+    "id": "augmented_8502",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Đợi đợi tui xíu, tui xuống liền",
     "canonical": "đợi đợi tui xíu, tui xuống liền",
@@ -107232,9 +107232,9 @@
     ]
   },
   {
-    "id": "augment_v7_8503",
+    "id": "augmented_8503",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Coi coi giùm mình đôi giày này hợp không",
     "canonical": "coi coi giùm mình đôi giày này hợp không",
@@ -107299,9 +107299,9 @@
     ]
   },
   {
-    "id": "augment_v7_8504",
+    "id": "augmented_8504",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Trưa nay ăn ăn bún bò không mọi người",
     "canonical": "Trưa nay ăn ăn bún bò không mọi người",
@@ -107366,9 +107366,9 @@
     ]
   },
   {
-    "id": "augment_v7_8505",
+    "id": "augmented_8505",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Nắng quá, ra làm ly trà đào uống uống cho đã",
     "canonical": "Nắng quá, ra làm ly trà đào uống uống cho đã",
@@ -107447,9 +107447,9 @@
     ]
   },
   {
-    "id": "augment_v7_8506",
+    "id": "augmented_8506",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Đừng spam spam inbox mình nữa nha trời",
     "canonical": "Đừng spam spam inbox mình nữa nha trời",
@@ -107507,9 +107507,9 @@
     ]
   },
   {
-    "id": "augment_v7_8507",
+    "id": "augmented_8507",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Bạn nào rảnh check check giúp mình mail với",
     "canonical": "Bạn nào rảnh check check giúp mình mail với",
@@ -107574,9 +107574,9 @@
     ]
   },
   {
-    "id": "augment_v7_8508",
+    "id": "augmented_8508",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Nay lười quá mà vẫn phải học học tiếp thôi",
     "canonical": "Nay lười quá mà vẫn phải học học tiếp thôi",
@@ -107648,9 +107648,9 @@
     ]
   },
   {
-    "id": "augment_v7_8509",
+    "id": "augmented_8509",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Qua quán mới thấy góc này xinh, chụp chụp liền",
     "canonical": "Qua quán mới thấy góc này xinh, chụp chụp liền",
@@ -107722,9 +107722,9 @@
     ]
   },
   {
-    "id": "augment_v7_8510",
+    "id": "augmented_8510",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Bánh này nhìn ngon ngon ghê á",
     "canonical": "Bánh này nhìn ngon ngon ghê á",
@@ -107775,9 +107775,9 @@
     ]
   },
   {
-    "id": "augment_v7_8511",
+    "id": "augmented_8511",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Tối nay ở nhà chill chill thôi nha",
     "canonical": "Tối nay ở nhà chill chill thôi nha",
@@ -107835,9 +107835,9 @@
     ]
   },
   {
-    "id": "augment_v7_8512",
+    "id": "augmented_8512",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Tui ngồi đây hóng hóng drama mới",
     "canonical": "Tui ngồi đây hóng hóng drama mới",
@@ -107888,9 +107888,9 @@
     ]
   },
   {
-    "id": "augment_v7_8513",
+    "id": "augmented_8513",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Bộ váy này mặc lên xinh xinh nè",
     "canonical": "Bộ váy này mặc lên xinh xinh nè",
@@ -107948,9 +107948,9 @@
     ]
   },
   {
-    "id": "augment_v7_8514",
+    "id": "augmented_8514",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Nhìn ly trà sữa mlem mlem quá trời",
     "canonical": "Nhìn ly trà sữa mlem mlem quá trời",
@@ -108008,9 +108008,9 @@
     ]
   },
   {
-    "id": "augment_v7_8515",
+    "id": "augmented_8515",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Vào game lẹ lẹ đi mọi người",
     "canonical": "Vào game lẹ lẹ đi mọi người",
@@ -108061,9 +108061,9 @@
     ]
   },
   {
-    "id": "augment_v7_8516",
+    "id": "augmented_8516",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Cuối tuần làm một kèo cà phê zô zô không",
     "canonical": "Cuối tuần làm một kèo cà phê zô zô không",
@@ -108135,9 +108135,9 @@
     ]
   },
   {
-    "id": "augment_v7_8517",
+    "id": "augmented_8517",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Pha xử lý này đỉnh đỉnh luôn á",
     "canonical": "Pha xử lý này đỉnh đỉnh luôn á",
@@ -108195,9 +108195,9 @@
     ]
   },
   {
-    "id": "augment_v7_8518",
+    "id": "augmented_8518",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Con mèo nhà ai mà iu iu vậy trời",
     "canonical": "Con mèo nhà ai mà iu iu vậy trời",
@@ -108262,9 +108262,9 @@
     ]
   },
   {
-    "id": "augment_v7_8519",
+    "id": "augmented_8519",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Hôm nay tự nhiên thấy mệt mệt ghê",
     "canonical": "Hôm nay tự nhiên thấy mệt mệt ghê",
@@ -108322,9 +108322,9 @@
     ]
   },
   {
-    "id": "augment_v7_8520",
+    "id": "augmented_8520",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Chiều mưa nghe nhạc thấy buồn buồn ngang",
     "canonical": "Chiều mưa nghe nhạc thấy buồn buồn ngang",
@@ -108382,9 +108382,9 @@
     ]
   },
   {
-    "id": "augment_v7_8521",
+    "id": "augmented_8521",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Ai rảnh rảnh tối call tán gẫu không",
     "canonical": "Ai rảnh rảnh tối call tán gẫu không",
@@ -108442,9 +108442,9 @@
     ]
   },
   {
-    "id": "augment_v7_8522",
+    "id": "augmented_8522",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Nay makeup nhẹ nhìn mặt tươi tươi hơn hẳn",
     "canonical": "Nay makeup nhẹ nhìn mặt tươi tươi hơn hẳn",
@@ -108509,9 +108509,9 @@
     ]
   },
   {
-    "id": "augment_v7_8523",
+    "id": "augmented_8523",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Xe ngoài đường đang kẹt kẹt nên tới trễ xíu",
     "canonical": "Xe ngoài đường đang kẹt kẹt nên tới trễ xíu",
@@ -108583,9 +108583,9 @@
     ]
   },
   {
-    "id": "augment_v7_8524",
+    "id": "augmented_8524",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Xem trailer xong thấy sợ sợ rồi đó",
     "canonical": "Xem trailer xong thấy sợ sợ rồi đó",
@@ -108643,9 +108643,9 @@
     ]
   },
   {
-    "id": "augment_v7_8525",
+    "id": "augmented_8525",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Làm từ sáng tới giờ đói đói quá",
     "canonical": "Làm từ sáng tới giờ đói đói quá",
@@ -108703,9 +108703,9 @@
     ]
   },
   {
-    "id": "augment_v7_8526",
+    "id": "augmented_8526",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Gửi file nhanh nhanh giúp mình với",
     "canonical": "Gửi file nhanh nhanh giúp mình với",
@@ -108756,9 +108756,9 @@
     ]
   },
   {
-    "id": "augment_v7_8527",
+    "id": "augmented_8527",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Bài này nghe đêm khuya êm êm phết",
     "canonical": "Bài này nghe đêm khuya êm êm phết",
@@ -108816,13 +108816,13 @@
     ]
   },
   {
-    "id": "augment_v7_8528",
+    "id": "augmented_8528",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Trời se lạnh uống ly cacao ấm ấm là hết sẩy",
     "canonical": "Trời se lạnh uống ly cacao ấm ấm là hết sẩy",
-    "phonemes": "cɤj˧˨ sɛ˧˧ lɛŋ˨ˀ˩ʔ uəŋ˨˦ li˧˧ ka˧˧ kaw˧˧ ɤ̆m˨˦ ɤ̆m˨˦ la˧˨ het˦˥ sɤ̆j˧˩˨",
+    "phonemes": "cɤj˧˨ sɛ˧˧ laŋ˨ˀ˩ʔ uəŋ˨˦ li˧˧ ka˧˧ kaw˧˧ ɤ̆m˨˦ ɤ̆m˨˦ la˧˨ het˦˥ sɤ̆j˧˩˨",
     "tokens": [
       {
         "text": "Trời",
@@ -108841,7 +108841,7 @@
       {
         "text": "lạnh",
         "canonical": "lạnh",
-        "phoneme": "lɛŋ˨ˀ˩ʔ",
+        "phoneme": "laŋ˨ˀ˩ʔ",
         "is_nc": false,
         "nc_type": null
       },
@@ -108897,9 +108897,9 @@
     ]
   },
   {
-    "id": "augment_v7_8529",
+    "id": "augmented_8529",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Quán mới này decor lạ lạ mà cuốn ghê",
     "canonical": "Quán mới này decor lạ lạ mà cuốn ghê",
@@ -108964,9 +108964,9 @@
     ]
   },
   {
-    "id": "augment_v7_8637",
+    "id": "augmented_8637",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Trễ giờ thật, XL mọi người nha.",
     "canonical": "Trễ giờ thật, xin lỗi mọi người nha.",
@@ -109024,9 +109024,9 @@
     ]
   },
   {
-    "id": "augment_v7_8638",
+    "id": "augmented_8638",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Hôm qua rep cộc quá, XL bạn nhé.",
     "canonical": "Hôm qua rep cộc quá, xin lỗi bạn nhé.",
@@ -109091,9 +109091,9 @@
     ]
   },
   {
-    "id": "augment_v7_8639",
+    "id": "augmented_8639",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Mình làm hỏng file mất rồi, XL sếp ạ.",
     "canonical": "Mình làm hỏng file mất rồi, xin lỗi sếp ạ.",
@@ -109165,9 +109165,9 @@
     ]
   },
   {
-    "id": "augment_v7_8640",
+    "id": "augmented_8640",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Quán này có món ĐB ngon phết đó.",
     "canonical": "Quán này có món đặc biệt ngon phết đó.",
@@ -109232,9 +109232,9 @@
     ]
   },
   {
-    "id": "augment_v7_8641",
+    "id": "augmented_8641",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Hôm nay thấy bạn ăn diện ĐB luôn nha.",
     "canonical": "Hôm nay thấy bạn ăn diện đặc biệt luôn nha.",
@@ -109306,9 +109306,9 @@
     ]
   },
   {
-    "id": "augment_v7_8642",
+    "id": "augmented_8642",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Có gì NT mình trước khi qua nhé.",
     "canonical": "Có gì nhắn tin mình trước khi qua nhé.",
@@ -109373,9 +109373,9 @@
     ]
   },
   {
-    "id": "augment_v7_8643",
+    "id": "augmented_8643",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Đêm rồi mà vẫn NT với crush hả trời.",
     "canonical": "Đêm rồi mà vẫn nhắn tin với crush hả trời.",
@@ -109447,9 +109447,9 @@
     ]
   },
   {
-    "id": "augment_v7_8644",
+    "id": "augmented_8644",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Rảnh thì NT cho tao, đừng im nữa.",
     "canonical": "Rảnh thì nhắn tin cho tao, đừng im nữa.",
@@ -109514,9 +109514,9 @@
     ]
   },
   {
-    "id": "augment_v7_8645",
+    "id": "augmented_8645",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Cuối tuần tổng VS phòng cái đi.",
     "canonical": "Cuối tuần tổng vệ sinh phòng cái đi.",
@@ -109574,9 +109574,9 @@
     ]
   },
   {
-    "id": "augment_v7_8646",
+    "id": "augmented_8646",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Lớp mình nay đến lượt VS hành lang nhé.",
     "canonical": "Lớp mình nay đến lượt vệ sinh hành lang nhé.",
@@ -109648,9 +109648,9 @@
     ]
   },
   {
-    "id": "augment_v7_8647",
+    "id": "augmented_8647",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Chờ KQ thi mà tim đập nhanh quá.",
     "canonical": "Chờ kết quả thi mà tim đập nhanh quá.",
@@ -109715,9 +109715,9 @@
     ]
   },
   {
-    "id": "augment_v7_8648",
+    "id": "augmented_8648",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Bao giờ có KQ xét học bổng vậy mọi người?",
     "canonical": "Bao giờ có kết quả xét học bổng vậy mọi người?",
@@ -109796,9 +109796,9 @@
     ]
   },
   {
-    "id": "augment_v7_8649",
+    "id": "augmented_8649",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Ai chưa ĐK môn thì tranh thủ đi nha.",
     "canonical": "Ai chưa đăng ký môn thì tranh thủ đi nha.",
@@ -109870,9 +109870,9 @@
     ]
   },
   {
-    "id": "augment_v7_8650",
+    "id": "augmented_8650",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Tối nay mở form ĐK workshop đó.",
     "canonical": "Tối nay mở form đăng ký workshop đó.",
@@ -109930,9 +109930,9 @@
     ]
   },
   {
-    "id": "augment_v7_8651",
+    "id": "augmented_8651",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "ATM giờ tao mới hiểu ý mày luôn.",
     "canonical": "à thế mà giờ tao mới hiểu ý mày luôn.",
@@ -109997,9 +109997,9 @@
     ]
   },
   {
-    "id": "augment_v7_8652",
+    "id": "augmented_8652",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "ATM bà đó là chị họ của mày hả?",
     "canonical": "à thế mà bà đó là chị họ của mày hả?",
@@ -110071,13 +110071,13 @@
     ]
   },
   {
-    "id": "augment_v7_8653",
+    "id": "augmented_8653",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "ĐM quên mang sạc, chán thật sự.",
     "canonical": "định mệnh quên mang sạc, chán thật sự.",
-    "phonemes": "ɗe˧˧ mɔ˨˨ kwen˧˧ maŋ˧˧ sak˦˥ can˨˦ tʰɤ̆t˨ˀ˩ zɨ˨ˀ˩ʔ",
+    "phonemes": "ɗe˧˧ mɔ˨˨ kwen˧˧ maŋ˧˧ sak˦˥ can˨˦ tʰɤ̆t˨ˀ˩ sɯ˨ˀ˩ʔ",
     "tokens": [
       {
         "text": "ĐM",
@@ -110124,16 +110124,16 @@
       {
         "text": "sự.",
         "canonical": "sự.",
-        "phoneme": "zɨ˨ˀ˩ʔ",
+        "phoneme": "sɯ˨ˀ˩ʔ",
         "is_nc": false,
         "nc_type": null
       }
     ]
   },
   {
-    "id": "augment_v7_8654",
+    "id": "augmented_8654",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "ĐM đang yên đang lành thì mất điện.",
     "canonical": "định mệnh đang yên đang lành thì mất điện.",
@@ -110198,9 +110198,9 @@
     ]
   },
   {
-    "id": "augment_v7_8655",
+    "id": "augmented_8655",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Phim này plot twist cuối VL luôn á.",
     "canonical": "Phim này plot twist cuối vãi lồn luôn á.",
@@ -110265,9 +110265,9 @@
     ]
   },
   {
-    "id": "augment_v7_8656",
+    "id": "augmented_8656",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Nói nghe hay lắm chứ kết quả vẫn CC thôi.",
     "canonical": "Nói nghe hay lắm chứ kết quả vẫn con cặc thôi.",
@@ -110346,9 +110346,9 @@
     ]
   },
   {
-    "id": "augment_v7_8657",
+    "id": "augmented_8657",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "DM cái app nay lỗi lên lỗi xuống.",
     "canonical": "địt mẹ cái app nay lỗi lên lỗi xuống.",
@@ -110413,9 +110413,9 @@
     ]
   },
   {
-    "id": "augment_v7_8658",
+    "id": "augmented_8658",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Đang ngủ ngon bị gọi dậy, DM thật chứ.",
     "canonical": "Đang ngủ ngon bị gọi dậy, địt mẹ thật chứ.",
@@ -110487,9 +110487,9 @@
     ]
   },
   {
-    "id": "augment_v7_8659",
+    "id": "augmented_8659",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Chạy deadline kiểu này là mai sml mất.",
     "canonical": "Chạy deadline kiểu này là mai sấp mặt lồn mất.",
@@ -110554,9 +110554,9 @@
     ]
   },
   {
-    "id": "augment_v7_8660",
+    "id": "augmented_8660",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Ăn cay quá, giờ bụng đau SML luôn.",
     "canonical": "Ăn cay quá, giờ bụng đau sấp mặt lồn luôn.",
@@ -110621,9 +110621,9 @@
     ]
   },
   {
-    "id": "augment_v7_8661",
+    "id": "augmented_8661",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Mới thắng có 1 trận mà ATSM dữ vậy trời.",
     "canonical": "Mới thắng có 1 trận mà ảo tưởng sức mạnh dữ vậy trời.",
@@ -110702,9 +110702,9 @@
     ]
   },
   {
-    "id": "augment_v7_8662",
+    "id": "augmented_8662",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Ông đó nói chuyện kiểu ATSM thấy rõ.",
     "canonical": "Ông đó nói chuyện kiểu ảo tưởng sức mạnh thấy rõ.",
@@ -110769,9 +110769,9 @@
     ]
   },
   {
-    "id": "augment_v7_8663",
+    "id": "augmented_8663",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "ĐM wifi gì chập chờn đúng lúc họp online.",
     "canonical": "địt mẹ wifi gì chập chờn đúng lúc họp online.",
@@ -110843,9 +110843,9 @@
     ]
   },
   {
-    "id": "augment_v7_8664",
+    "id": "augmented_8664",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Giá ly trà sữa này tăng VCL luôn rồi.",
     "canonical": "Giá ly trà sữa này tăng vãi cả lồn luôn rồi.",
@@ -110917,9 +110917,9 @@
     ]
   },
   {
-    "id": "augment_v7_8665",
+    "id": "augmented_8665",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "DKM đang yên đang lành tự nhiên cúp điện.",
     "canonical": "địt cụ mày đang yên đang lành tự nhiên cúp điện.",
@@ -110991,9 +110991,9 @@
     ]
   },
   {
-    "id": "augment_v7_8666",
+    "id": "augmented_8666",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Rớt môn nữa hả, BSNL luôn đó bạn tôi.",
     "canonical": "Rớt môn nữa hả, buồn sâu sắc nhỉ lol luôn đó bạn tôi.",
@@ -111065,9 +111065,9 @@
     ]
   },
   {
-    "id": "augment_v7_8693",
+    "id": "augmented_8693",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Mai thứ hai lại dậy sớm đi CC, oải ghê.",
     "canonical": "Mai thứ hai lại dậy sớm đi chào cờ, oải ghê.",
@@ -111146,9 +111146,9 @@
     ]
   },
   {
-    "id": "augment_v7_8694",
+    "id": "augmented_8694",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Sáng nay mưa to mà vẫn phải đứng CC.",
     "canonical": "Sáng nay mưa to mà vẫn phải đứng chào cờ.",
@@ -111220,9 +111220,9 @@
     ]
   },
   {
-    "id": "augment_v7_8695",
+    "id": "augmented_8695",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Nay kẹt xe gì mà đông VL, đi mãi chưa tới.",
     "canonical": "Nay kẹt xe gì mà đông vãi lồn, đi mãi chưa tới.",
@@ -111308,9 +111308,9 @@
     ]
   },
   {
-    "id": "augment_v7_8696",
+    "id": "augmented_8696",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Hứa cho đã xong làm được CC.",
     "canonical": "Hứa cho đã xong làm được con cặc.",
@@ -111368,9 +111368,9 @@
     ]
   },
   {
-    "id": "augment_v7_8697",
+    "id": "augmented_8697",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Máy lag BKAV, mở cái file thôi cũng đơ.",
     "canonical": "Máy lag bố khỉ ăn vã, mở cái file thôi cũng đơ.",
@@ -111442,9 +111442,9 @@
     ]
   },
   {
-    "id": "augment_v7_8698",
+    "id": "augmented_8698",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Cứ trái ý là bị kêu DLV, chán ghê.",
     "canonical": "Cứ trái ý là bị kêu dư luận viên, chán ghê.",
@@ -111516,9 +111516,9 @@
     ]
   },
   {
-    "id": "augment_v7_8699",
+    "id": "augmented_8699",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Edit cái ảnh đẹp VCL, xin preset với.",
     "canonical": "Edit cái ảnh đẹp vãi cả lồn, xin preset với.",
@@ -111583,9 +111583,9 @@
     ]
   },
   {
-    "id": "augment_v7_8700",
+    "id": "augmented_8700",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Trời hôm nay nóng VC, bước ra đường là muốn xỉu.",
     "canonical": "Trời hôm nay nóng vãi cả, bước ra đường là muốn xỉu.",
@@ -111671,9 +111671,9 @@
     ]
   },
   {
-    "id": "augment_v7_8701",
+    "id": "augmented_8701",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Con mèo nhà tao quậy VC, đêm nào cũng phá.",
     "canonical": "Con mèo nhà tao quậy vãi cả, đêm nào cũng phá.",
@@ -111752,9 +111752,9 @@
     ]
   },
   {
-    "id": "augment_v7_8702",
+    "id": "augmented_8702",
     "lang": "vi",
-    "source": "augment_v7",
+    "source": "augmented",
     "split": "dev",
     "text": "Lên mạng gáy to lắm, đúng kiểu AHBP.",
     "canonical": "Lên mạng gáy to lắm, đúng kiểu anh hùng bàn phím.",

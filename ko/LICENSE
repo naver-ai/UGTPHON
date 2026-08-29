@@ -1,4 +1,5 @@
-The Korean subset of UGTPHON is derived from KoMultiText (via MultiLexNorm++).
+The Korean subset of UGTPHON is derived from KoMultiText (partly via
+MultiLexNorm++, partly directly from the KoMultiText DC Inside comments).
 
 Licensed under the Apache License, Version 2.0.
 

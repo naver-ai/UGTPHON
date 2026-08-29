@@ -1,4 +1,4 @@
-# UGTPHON — Moderation Sidecars
+# UGTPHON Moderation Sidecars
 
 Per-sentence safety scores from OpenAI's content moderation API, kept as a
 standalone annotation layer so the dataset files (`{lang}/{split}.json`) stay
@@ -31,24 +31,24 @@ dataset file row-for-row.
 
 ```jsonc
 {
-  "id": "lexnorm2015_1212",           // == {source}_{index} of the matching dataset row
+  "id": "lexnorm2015_471851969032634369",  // == id of the matching dataset row
   "moderation": {
-    "raw":  { "flagged": false, "top_category": "harassment", "top_score": 0.0123 },
-    "norm": { "flagged": false, "top_category": "harassment", "top_score": 0.0145 }
+    "raw":  { "flagged": false, "top_category": "harassment", "top_score": 0.0556 },
+    "norm": { "flagged": false, "top_category": "harassment", "top_score": 0.0088 }
   }
 }
 ```
 
-- `raw` — moderation result for `sent_raw` (original user-generated text).
-- `norm` — moderation result for `sent_norm` (canonicalized text).
-- `flagged` — boolean from the API (any category over its threshold).
-- `top_category` — argmax over the 13 canonical moderation categories
+- `raw`: moderation result for `text` (original user-generated text).
+- `norm`: moderation result for `canonical` (normalized text).
+- `flagged`: boolean from the API (any category over its threshold).
+- `top_category`: argmax over the 13 canonical moderation categories
   (`harassment`, `harassment/threatening`, `hate`, `hate/threatening`,
   `illicit`, `illicit/violent`, `self-harm`, `self-harm/intent`,
   `self-harm/instructions`, `sexual`, `sexual/minors`, `violence`,
   `violence/graphic`). Snake_case aliases returned by the SDK are skipped
   so the same category is not double-counted.
-- `top_score` — score for `top_category`, rounded to 4 decimals.
+- `top_score`: score for `top_category`, rounded to 4 decimals.
 
 ## How these were produced
 

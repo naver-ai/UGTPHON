@@ -1,0 +1,6 @@
+# local working files (never publish)
+*.zip
+*.xlsx
+*.pdf
+README.v*.md
+.omc/

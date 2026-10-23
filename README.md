@@ -2,6 +2,7 @@
 
 **Phonemes for the messy language of the internet: a multilingual G2P benchmark for user-generated text.**
 
+[![arXiv](https://img.shields.io/badge/arXiv-2609.27205-b31b1b)](https://arxiv.org/abs/2609.27205)
 ![Languages](https://img.shields.io/badge/langs-en%20%7C%20vi%20%7C%20ko-blue)
 ![Task](https://img.shields.io/badge/task-G2P%20%2B%20text--normalization-8A2BE2)
 ![Samples](https://img.shields.io/badge/samples-18%2C373-informational)
@@ -9,7 +10,7 @@
 ![License](https://img.shields.io/badge/license-en%20research--only%20%7C%20vi%20CC--BY--NC--SA%204.0%20%7C%20ko%20Apache--2.0-lightgrey)
 
 <p align="center">
-  <b>📝 <a href="#citation">Paper (BibTeX)</a></b> &nbsp;|&nbsp; <b>⚡ <a href="#loading">Loading</a></b> &nbsp;|&nbsp; <b>💻 <a href="#data-format">Data &amp; Format</a></b> &nbsp;|&nbsp; <b>🔤 <a href="#phoneme-annotation">Phoneme Annotation</a></b>
+  <b>📝 <a href="https://arxiv.org/abs/2609.27205">Paper</a></b> &nbsp;|&nbsp; <b>📚 <a href="#citation">BibTeX</a></b> &nbsp;|&nbsp; <b>⚡ <a href="#loading">Loading</a></b> &nbsp;|&nbsp; <b>💻 <a href="#data-format">Data &amp; Format</a></b> &nbsp;|&nbsp; <b>🔤 <a href="#phoneme-annotation">Phoneme Annotation</a></b>
 </p>
 
 <p align="center">
@@ -187,7 +188,7 @@ Each `{lang}/{split}.json` is a JSON **array** of sample objects, one per senten
 
 ### Taxonomy
 
-Every non-canonical token (`is_nc=true`) gets one of nine categories in three groups. The group says how the token relates to its canonical or phonemic form. Category names and definitions are identical to the taxonomy tables in the paper.
+Every non-canonical token (`is_nc=true`) gets one of nine categories in three groups. The group says how the token relates to its canonical or phonemic form. Category names and definitions are identical to the taxonomy tables in the [paper](https://arxiv.org/abs/2609.27205).
 
 | Group | ID | Category | Description | Examples |
 |-------|----|----------|-------------|----------|
@@ -203,7 +204,7 @@ Every non-canonical token (`is_nc=true`) gets one of nine categories in three gr
 
 ### UGT type distribution
 
-Token-level counts per category, summed over splits. `n/a` marks a category that does not occur for that language. Full per-split breakdowns are in the paper.
+Token-level counts per category, summed over splits. `n/a` marks a category that does not occur for that language. Full per-split breakdowns are in the [paper](https://arxiv.org/abs/2609.27205).
 
 | Type | en | vi | ko |
 |------|------:|-------:|------:|
@@ -265,7 +266,8 @@ The en and vi subsets are non-commercial; only the ko subset permits commercial 
   title     = {Phonemizing User-Generated Text: A Benchmark, Taxonomy, and Compositional Approach},
   author    = {Jeon, MinJu and Park, Younghan and Park, Han Sung and Kim, Jong-Hwan and Kim, Dong-Jin and Lee, Hoyeon},
   booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2026},
-  year      = {2026}
+  year      = {2026},
+  url       = {https://arxiv.org/abs/2609.27205}
 }
 ```
 
